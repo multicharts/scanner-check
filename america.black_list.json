@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:EMHZ",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "AMEX:EOX",
         "f": [
           "no data",
@@ -11,6 +17,18 @@
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ACGLP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BRCM",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -26,9 +44,60 @@
         ]
       },
       {
+        "s": "NYSE:ASIX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DFIN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "NYSE:HTS",
         "f": [
           "no data"
+        ]
+      },
+      {
+        "s": "NYSE:HUSI/PF",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ISH/PA",
+        "f": [
+          "invalid symbol",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ISH/PB",
+        "f": [
+          "invalid symbol",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:LKSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NBG",
+        "f": [
+          "invalid symbol",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:OPWR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -39,6 +108,12 @@
       },
       {
         "s": "NYSE:RNDY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:VSM",
         "f": [
           "invalid symbol"
         ]

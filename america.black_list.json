@@ -1,27 +1,46 @@
 {
     "black_list": [
       {
+        "s": "AMEX:EOX",
+        "f": [
+          "no data",
+          "test symbol"
+        ]
+      },
+      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "AMEX:QLTC",
+        "s": "NASDAQ:FCEF",
         "f": [
-          "test symbol"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NYSE:NKA",
+        "s": "NASDAQ:MCEF",
         "f": [
-          "test symbol"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NYSE:OMG",
+        "s": "NYSE:HTS",
         "f": [
-          "test symbol"
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:RKUS",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:RNDY",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

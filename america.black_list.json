@@ -1,21 +1,15 @@
 {
     "black_list": [
       {
-        "s": "AMEX:PTEST",
+        "s": "AMEX:EOX",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:SKUL",
+        "s": "AMEX:PTEST",
         "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:PNY",
-        "f": [
-          "no data"
+          "test symbol"
         ]
       }
     ]

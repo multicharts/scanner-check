@@ -1,9 +1,39 @@
 {
     "black_list": [
       {
+        "s": "AMEX:GLDX",
+        "f": [
+          "no data"
+        ]
+      },
+      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:HTCH",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:DEG",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:PKY",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:STR",
+        "f": [
+          "no data"
         ]
       }
     ]

@@ -26,12 +26,6 @@
         ]
       },
       {
-        "s": "AMEX:CPP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "AMEX:FLCO",
         "f": [
           "invalid symbol"
@@ -69,9 +63,15 @@
         ]
       },
       {
-        "s": "AMEX:ZBZX",
+        "s": "AMEX:RORE",
         "f": [
-          "test symbol"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "AMEX:WSKY",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -269,6 +269,12 @@
         ]
       },
       {
+        "s": "NYSE:LDI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "NYSE:LF",
         "f": [
           "invalid symbol"
@@ -295,6 +301,12 @@
       },
       {
         "s": "NYSE:NTEST.C",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:OPWR",
         "f": [
           "invalid symbol"
         ]
@@ -338,7 +350,6 @@
       {
         "s": "NYSE:YUMC/I",
         "f": [
-          "invalid symbol",
           "test symbol"
         ]
       }

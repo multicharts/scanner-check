@@ -1,7 +1,7 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EOX",
+        "s": "AMEX:BRG/PD",
         "f": [
           "invalid symbol"
         ]
@@ -25,21 +25,27 @@
         ]
       },
       {
-        "s": "AMEX:PVCT",
+        "s": "AMEX:PTEST.Z",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "AMEX:RSCO",
+        "s": "AMEX:RORE",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NASDAQ:SRAQU",
+        "s": "AMEX:WSKY",
         "f": [
-          "no data"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:HMTA",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -49,40 +55,28 @@
         ]
       },
       {
-        "s": "NYSE:CVC",
+        "s": "NYSE:ADNT/I",
         "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:ETC/I",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:HOT",
-        "f": [
-          "no data",
+          "invalid symbol",
           "test symbol"
         ]
       },
       {
-        "s": "NYSE:HTS",
+        "s": "NYSE:CIM/PA",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NYSE:ITC",
+        "s": "NYSE:JCI/I",
         "f": [
-          "no data"
+          "test symbol"
         ]
       },
       {
-        "s": "NYSE:NKA",
+        "s": "NYSE:LDI",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
@@ -92,9 +86,16 @@
         ]
       },
       {
-        "s": "NYSE:RKUS",
+        "s": "NYSE:WHZ",
         "f": [
-          "no data"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:YUMC/I",
+        "f": [
+          "invalid symbol",
+          "test symbol"
         ]
       }
     ]

@@ -1,15 +1,16 @@
 {
     "black_list": [
       {
-        "s": "AMEX:GLDX",
+        "s": "AMEX:ATEST.Z",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "AMEX:MGT",
+        "s": "AMEX:EOX",
         "f": [
-          "no data"
+          "invalid symbol",
+          "test symbol"
         ]
       },
       {
@@ -19,21 +20,40 @@
         ]
       },
       {
-        "s": "NASDAQ:UDF",
+        "s": "AMEX:PTEST.Y",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NASDAQ:ULTR",
+        "s": "NASDAQ:FRTA",
         "f": [
-          "no data"
+          "invalid symbol"
         ]
       },
       {
-        "s": "NASDAQ:XCOM",
+        "s": "NASDAQ:IVENC",
         "f": [
-          "no data"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVFGC",
+        "f": [
+          "invalid symbol",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVFVC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NTEST.Z",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

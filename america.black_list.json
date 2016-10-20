@@ -1,9 +1,39 @@
 {
     "black_list": [
       {
+        "s": "AMEX:GLDX",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "AMEX:MGT",
+        "f": [
+          "no data"
+        ]
+      },
+      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:UDF",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NASDAQ:ULTR",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "NASDAQ:XCOM",
+        "f": [
+          "no data"
         ]
       }
     ]

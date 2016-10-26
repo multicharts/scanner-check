@@ -1,43 +1,26 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EOX",
-        "f": [
-          "no data",
-          "test symbol"
-        ]
-      },
-      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "NYSE:DEG",
+        "s": "NYSE:IRC/PA",
         "f": [
-          "no data",
           "test symbol"
         ]
       },
       {
-        "s": "NYSE:PBY",
+        "s": "NYSE:ISH/PA",
         "f": [
-          "no data",
           "test symbol"
         ]
       },
       {
-        "s": "NYSE:PCP",
+        "s": "NYSE:ISH/PB",
         "f": [
-          "no data",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "NYSE:PGND",
-        "f": [
-          "no data",
           "test symbol"
         ]
       }

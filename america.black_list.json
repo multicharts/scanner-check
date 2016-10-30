@@ -1,22 +1,9 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EOX",
-        "f": [
-          "no data",
-          "test symbol"
-        ]
-      },
-      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:SRAQ",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -34,13 +21,6 @@
       {
         "s": "NYSE:PGND",
         "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "NYSE:POM",
-        "f": [
-          "no data",
           "test symbol"
         ]
       }

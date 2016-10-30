@@ -1,19 +1,43 @@
 {
     "black_list": [
       {
+        "s": "AMEX:EOX",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:BRCM",
+        "s": "NYSE:HTZ/I",
         "f": [
-          "no data"
+          "test symbol"
         ]
       },
       {
-        "s": "NYSE:HTZ/I",
+        "s": "NYSE:PBY",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:PGND",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:PSA/PR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:RBS/PR",
         "f": [
           "test symbol"
         ]

@@ -1,19 +1,31 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EOX",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
         ]
       },
       {
+        "s": "NASDAQ:GDS",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "NYSE:HTZ/I",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NBG",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NGLS",
         "f": [
           "test symbol"
         ]

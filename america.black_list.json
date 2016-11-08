@@ -1,13 +1,37 @@
 {
     "black_list": [
       {
+        "s": "AMEX:IGZ",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "AMEX:PTEST",
         "f": [
           "test symbol"
         ]
       },
       {
+        "s": "AMEX:ZBZX",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVFGC",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:SCAC",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CGG",
         "f": [
           "test symbol"
         ]

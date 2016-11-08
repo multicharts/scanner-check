@@ -1,3 +1,28 @@
 {
-    "black_list": null
+    "black_list": [
+      {
+        "s": "AMEX:EOX",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "AMEX:PTEST",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SCAC",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:MER/PM",
+        "f": [
+          "test symbol"
+        ]
+      }
+    ]
   }

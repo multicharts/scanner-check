@@ -21,25 +21,32 @@
       {
         "s": "AMEX:ATEST",
         "f": [
-          "no longer trading"
+          "no data",
+          "test symbol"
         ]
       },
       {
         "s": "AMEX:ATEST.A",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
         "s": "AMEX:ATEST.B",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
         "s": "AMEX:ATEST.C",
         "f": [
-          "no longer trading"
+          "no data"
+        ]
+      },
+      {
+        "s": "AMEX:ATEST.Z",
+        "f": [
+          "no data"
         ]
       },
       {
@@ -225,7 +232,20 @@
       {
         "s": "AMEX:PTEST",
         "f": [
+          "no data",
           "test symbol"
+        ]
+      },
+      {
+        "s": "AMEX:PTEST.Y",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "AMEX:PTEST.Z",
+        "f": [
+          "no data"
         ]
       },
       {
@@ -411,7 +431,7 @@
       {
         "s": "NASDAQ:SRAQ",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
@@ -465,7 +485,7 @@
       {
         "s": "NYSE:AXLL",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
@@ -483,7 +503,7 @@
       {
         "s": "NYSE:CVC",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
@@ -495,7 +515,13 @@
       {
         "s": "NYSE:ETC/I",
         "f": [
-          "no longer trading"
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:LDI",
+        "f": [
+          "no data"
         ]
       },
       {
@@ -513,25 +539,32 @@
       {
         "s": "NYSE:NTEST",
         "f": [
-          "no longer trading"
+          "no data",
+          "test symbol"
         ]
       },
       {
         "s": "NYSE:NTEST.A",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
         "s": "NYSE:NTEST.B",
         "f": [
-          "no longer trading"
+          "no data"
         ]
       },
       {
         "s": "NYSE:NTEST.C",
         "f": [
-          "no longer trading"
+          "no data"
+        ]
+      },
+      {
+        "s": "NYSE:NTEST.Z",
+        "f": [
+          "no data"
         ]
       },
       {
@@ -543,6 +576,7 @@
       {
         "s": "NYSE:POM",
         "f": [
+          "no data",
           "test symbol"
         ]
       },
@@ -550,18 +584,6 @@
         "s": "NYSE:POWR",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:PSA/PR",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "NYSE:RBS/PR",
-        "f": [
-          "test symbol"
         ]
       },
       {

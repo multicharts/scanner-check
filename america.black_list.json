@@ -19,37 +19,6 @@
         ]
       },
       {
-        "s": "AMEX:ATEST",
-        "f": [
-          "no data",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:ATEST.A",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "AMEX:ATEST.B",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "AMEX:ATEST.C",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "AMEX:ATEST.Z",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "AMEX:BOM",
         "f": [
           "no longer trading"
@@ -107,12 +76,6 @@
         "s": "AMEX:EMSA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:EOX",
-        "f": [
-          "test symbol"
         ]
       },
       {
@@ -227,25 +190,6 @@
         "s": "AMEX:PAEU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PTEST",
-        "f": [
-          "no data",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:PTEST.Y",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "AMEX:PTEST.Z",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -417,21 +361,9 @@
         ]
       },
       {
-        "s": "NASDAQ:SCAC",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:SGYPU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:SRAQ",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -483,12 +415,6 @@
         ]
       },
       {
-        "s": "NYSE:AXLL",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NYSE:BIO.B",
         "f": [
           "no longer trading"
@@ -501,9 +427,15 @@
         ]
       },
       {
-        "s": "NYSE:CVC",
+        "s": "NYSE:COTY/I",
         "f": [
-          "no data"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:DLR/PE",
+        "f": [
+          "test symbol"
         ]
       },
       {
@@ -513,15 +445,27 @@
         ]
       },
       {
-        "s": "NYSE:ETC/I",
+        "s": "NYSE:GM/WA",
         "f": [
-          "no data"
+          "test symbol"
         ]
       },
       {
-        "s": "NYSE:LDI",
+        "s": "NYSE:HNT",
         "f": [
-          "no data"
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:HPT/PD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:HTZ/I",
+        "f": [
+          "test symbol"
         ]
       },
       {
@@ -531,40 +475,21 @@
         ]
       },
       {
+        "s": "NYSE:MER/PM",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "NYSE:MHR",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NYSE:NTEST",
+        "s": "NYSE:MW",
         "f": [
-          "no data",
           "test symbol"
-        ]
-      },
-      {
-        "s": "NYSE:NTEST.A",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:NTEST.B",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:NTEST.C",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:NTEST.Z",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -574,14 +499,13 @@
         ]
       },
       {
-        "s": "NYSE:POM",
+        "s": "NYSE:POWR",
         "f": [
-          "no data",
-          "test symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "NYSE:POWR",
+        "s": "NYSE:RKUS",
         "f": [
           "no longer trading"
         ]
@@ -614,6 +538,18 @@
         "s": "NYSE:TE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:WPP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:WY/PA",
+        "f": [
+          "test symbol"
         ]
       }
     ]

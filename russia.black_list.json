@@ -1,6 +1,26 @@
 {
     "black_list": [
       {
+        "s": "MOEX:IGST03",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "MOEX:KMTZ",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "MOEX:MMBM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:PRIN",
         "f": [
           "no longer trading"

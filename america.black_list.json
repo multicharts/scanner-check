@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:AMUB",
         "f": [
           "no longer trading"
@@ -10,6 +16,12 @@
         "s": "AMEX:BDCZ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:BNDC",
+        "f": [
+          "test symbol"
         ]
       },
       {
@@ -73,12 +85,6 @@
         ]
       },
       {
-        "s": "AMEX:ETAK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:FCFI",
         "f": [
           "no longer trading"
@@ -92,6 +98,12 @@
       },
       {
         "s": "AMEX:HDEZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:HFXE",
         "f": [
           "no longer trading"
         ]
@@ -116,6 +128,12 @@
       },
       {
         "s": "AMEX:IVOP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JPHY",
         "f": [
           "no longer trading"
         ]
@@ -205,6 +223,12 @@
         ]
       },
       {
+        "s": "AMEX:ROLA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:RTLA",
         "f": [
           "no longer trading"
@@ -253,6 +277,18 @@
         ]
       },
       {
+        "s": "NASDAQ:ARWAU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:AXARU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:BIOD",
         "f": [
           "no longer trading"
@@ -266,6 +302,12 @@
       },
       {
         "s": "NASDAQ:CPHD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:DFVL",
         "f": [
           "no longer trading"
         ]
@@ -391,13 +433,13 @@
         ]
       },
       {
-        "s": "NASDAQ:RILYL",
+        "s": "NASDAQ:RPTP",
         "f": [
-          "test symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "NASDAQ:RPTP",
+        "s": "NASDAQ:RSTI",
         "f": [
           "no longer trading"
         ]
@@ -439,6 +481,12 @@
         ]
       },
       {
+        "s": "NASDAQ:TRTLU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:VTAE",
         "f": [
           "no longer trading"
@@ -470,6 +518,12 @@
       },
       {
         "s": "NYSE:ARG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:AVG",
         "f": [
           "no longer trading"
         ]
@@ -526,6 +580,12 @@
         "s": "NYSE:HTS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:ISH/PA",
+        "f": [
+          "test symbol"
         ]
       },
       {

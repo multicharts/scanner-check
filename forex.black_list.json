@@ -1,69 +1,735 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:KRUEUR",
+        "s": "OANDA:AU200AUD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:LTNEUR",
+        "s": "OANDA:AUDCAD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:M5PEUR",
+        "s": "OANDA:AUDCHF",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:MRKEUR",
+        "s": "OANDA:AUDHKD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:NAPEUR",
+        "s": "OANDA:AUDJPY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:NPLEUR",
+        "s": "OANDA:AUDNZD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:NSOEUR",
+        "s": "OANDA:AUDSGD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:OSOEUR",
+        "s": "OANDA:AUDUSD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:SOHEUR",
+        "s": "OANDA:BCOUSD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:SWIEUR",
+        "s": "OANDA:CADCHF",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "FX_IDC:TNZEUR",
+        "s": "OANDA:CADHKD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CADJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CADSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CH20CHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CHFHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CHFJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CHFZAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CORNUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:DE10YBEUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:DE30EUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EU50EUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURAUD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURCZK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURDKK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURGBP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURHUF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURNOK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURNZD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURPLN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURSEK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURTRY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:EURZAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:FR40EUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPAUD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPNZD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPPLN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:GBPZAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:HK33HKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:HKDJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:JP225USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NAS100USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NATGASUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NL25EUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NZDUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SG30SGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SGDCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SGDHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SGDJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SOYBNUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SPX500USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SUGARUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:TRYJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:UK100GBP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:UK10YBGBP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:US2000USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:US30USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USB02YUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USB05YUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USB10YUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USB30YUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDCNH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDCZK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDDKK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDHUF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDINR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDMXN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDNOK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDPLN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDSAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDSEK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDTHB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDTRY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USDZAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:WHEATUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:WTICOUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGAUD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGEUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGGBP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGNZD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAGUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUAUD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUCAD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUCHF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUEUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUGBP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUHKD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUJPY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUNZD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUSGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XAUXAG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XCUUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XPDUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XPTUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:ZARJPY",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

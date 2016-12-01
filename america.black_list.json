@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ADZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:BDCZ",
         "f": [
           "no longer trading"
@@ -26,12 +32,6 @@
       },
       {
         "s": "AMEX:DBSE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DBSP",
         "f": [
           "no longer trading"
         ]
@@ -91,9 +91,9 @@
         ]
       },
       {
-        "s": "AMEX:EOX",
+        "s": "AMEX:ESGW",
         "f": [
-          "test symbol"
+          "no longer trading"
         ]
       },
       {
@@ -109,7 +109,19 @@
         ]
       },
       {
+        "s": "AMEX:FXCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:GGOV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:GIVE",
         "f": [
           "no longer trading"
         ]
@@ -151,19 +163,7 @@
         ]
       },
       {
-        "s": "AMEX:IGVT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:IGZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:ITMS",
         "f": [
           "no longer trading"
         ]
@@ -301,6 +301,12 @@
         ]
       },
       {
+        "s": "NASDAQ:ANDAU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:APIC",
         "f": [
           "no longer trading"
@@ -385,6 +391,18 @@
         ]
       },
       {
+        "s": "NASDAQ:ELECU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:ESGG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:FULL",
         "f": [
           "no longer trading"
@@ -398,6 +416,12 @@
       },
       {
         "s": "NASDAQ:GRSHU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:HDRAU",
         "f": [
           "no longer trading"
         ]
@@ -440,6 +464,12 @@
       },
       {
         "s": "NASDAQ:NATL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:OACQ",
         "f": [
           "no longer trading"
         ]
@@ -553,6 +583,12 @@
         ]
       },
       {
+        "s": "NYSE:ACW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:ADT",
         "f": [
           "no longer trading"
@@ -562,6 +598,12 @@
         "s": "NYSE:ARG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:ARP/PD",
+        "f": [
+          "test symbol"
         ]
       },
       {

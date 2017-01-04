@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "AMEX:BZC",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "AMEX:CHEP",
         "f": [
           "no longer trading"
@@ -82,12 +76,6 @@
         "s": "AMEX:GHE",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:GRH",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -181,12 +169,6 @@
         ]
       },
       {
-        "s": "AMEX:MLPL",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "AMEX:MLPN",
         "f": [
           "no longer trading"
@@ -218,6 +200,18 @@
       },
       {
         "s": "AMEX:QGTA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:QLTC",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "AMEX:QMEX",
         "f": [
           "no longer trading"
         ]
@@ -271,6 +265,12 @@
         ]
       },
       {
+        "s": "AMEX:XLFS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:ZBZX",
         "f": [
           "no longer trading"
@@ -319,27 +319,9 @@
         ]
       },
       {
-        "s": "NASDAQ:BRCM",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NASDAQ:CTCT",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NASDAQ:LEXEB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:MDAS",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -370,24 +352,6 @@
         "s": "NASDAQ:OSHC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:OVTI",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NASDAQ:PARN",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NASDAQ:RENT",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -451,12 +415,6 @@
         ]
       },
       {
-        "s": "NASDAQ:VLTC",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NASDAQ:ZVZZC",
         "f": [
           "no longer trading"
@@ -481,12 +439,6 @@
         ]
       },
       {
-        "s": "NYSE:AXLL",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NYSE:BBX",
         "f": [
           "no longer trading"
@@ -499,21 +451,9 @@
         ]
       },
       {
-        "s": "NYSE:BMR",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NYSE:BOI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:BTU",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -583,21 +523,27 @@
         ]
       },
       {
+        "s": "NYSE:HPT/PD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "NYSE:HTR",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NYSE:IM",
+        "s": "NYSE:HTZ/I",
         "f": [
-          "no longer trading"
+          "test symbol"
         ]
       },
       {
-        "s": "NYSE:IRC/PA",
+        "s": "NYSE:IM",
         "f": [
-          "no data"
+          "no longer trading"
         ]
       },
       {
@@ -625,27 +571,15 @@
         ]
       },
       {
-        "s": "NYSE:MER/PF",
+        "s": "NYSE:MER/PM",
         "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:MW",
-        "f": [
-          "no data"
+          "test symbol"
         ]
       },
       {
         "s": "NYSE:MWW",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:NGLS",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -664,24 +598,6 @@
         "s": "NYSE:OSG/I",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:PBY",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:PCP",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:POM",
-        "f": [
-          "no data"
         ]
       },
       {
@@ -721,12 +637,6 @@
         ]
       },
       {
-        "s": "NYSE:RLD",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NYSE:RRD/I",
         "f": [
           "no longer trading"
@@ -745,18 +655,6 @@
         ]
       },
       {
-        "s": "NYSE:SUNE",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:SYA",
-        "f": [
-          "no data"
-        ]
-      },
-      {
         "s": "NYSE:TC",
         "f": [
           "no longer trading"
@@ -772,18 +670,6 @@
         "s": "NYSE:TLN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:UPL",
-        "f": [
-          "no data"
-        ]
-      },
-      {
-        "s": "NYSE:WPP",
-        "f": [
-          "no data"
         ]
       }
     ]

@@ -1,2137 +1,975 @@
 {
     "black_list": [
       {
+        "s": "ASX:3DP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:4CE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:4WD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:8IH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:A3D",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:AAJ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "ASX:AAK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AAL",
+        "s": "ASX:ABT",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:AAU",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:ACO",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ACP",
+        "s": "ASX:ADA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ADD",
+        "s": "ASX:ADO",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ADQ",
+        "s": "ASX:AEE",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AFT",
+        "s": "ASX:AFR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AGF",
+        "s": "ASX:AGE",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AGSDC",
+        "s": "ASX:AGY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AHR",
+        "s": "ASX:AHK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AJO",
+        "s": "ASX:AIK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AJY",
+        "s": "ASX:AIV",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AKF",
+        "s": "ASX:AJX",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AMB",
+        "s": "ASX:ALT",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:AMO",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:AMT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ANB",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:ANZCD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:APNRA",
+        "s": "ASX:AOK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AQJ",
+        "s": "ASX:AOW",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:AQS",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:AQU",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ARH",
+        "s": "ASX:ARXDC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ARI",
+        "s": "ASX:ASX",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ARW",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:ASH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ASZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ATA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ATT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:AUG",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:AVX",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:AWYDA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYA",
+        "s": "ASX:BAF",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYB",
+        "s": "ASX:BBUS",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYG",
+        "s": "ASX:BEL",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYH",
+        "s": "ASX:BGG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYJ",
+        "s": "ASX:BGS",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYK",
+        "s": "ASX:BKN",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AYM",
+        "s": "ASX:BKW",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:AZZ",
+        "s": "ASX:BKY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BBR",
+        "s": "ASX:BLD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BCD",
+        "s": "ASX:BMZ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BCIR",
+        "s": "ASX:BRL",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BGD",
+        "s": "ASX:BRU",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BGL",
+        "s": "ASX:BUG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BGR",
+        "s": "ASX:BWRNA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:BLDN",
+        "s": "ASX:CAE",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BLDR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BMGRA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BMH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BND",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BNV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BOK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BOP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BOQCD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BRO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BSN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BSP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BTN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BUA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BYR",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:CAQ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CBS",
+        "s": "ASX:CAT",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CCC",
+        "s": "ASX:CBL",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CDB",
+        "s": "ASX:CCP",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CDG",
+        "s": "ASX:CDC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CDH",
+        "s": "ASX:CHC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CER",
+        "s": "ASX:CIWXF",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CFU",
+        "s": "ASX:CLTE",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CHF",
+        "s": "ASX:CMCNB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CHPDC",
+        "s": "ASX:CT1",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CHR",
+        "s": "ASX:CTP",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CINPA",
+        "s": "ASX:CVOAI",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CIZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CMI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CNL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CNLCA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CNX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CQC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CRM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CTR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CVG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CVR",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:CVS",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:CWC",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:CWE",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CWH",
+        "s": "ASX:CXZ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:CYO",
+        "s": "ASX:D13",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:DAU",
+        "s": "ASX:DAV",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:DDDR",
+        "s": "ASX:DGO",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DEGDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DGX",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:DLE",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:DMA",
+        "s": "ASX:DNK",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DMI",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:DRK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:DSH",
+        "s": "ASX:DSB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:E88",
+        "s": "ASX:DXB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:EER",
+        "s": "ASX:EAX",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ENA",
+        "s": "ASX:EGG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ENL",
+        "s": "ASX:EMG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ENX",
+        "s": "ASX:ENZ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:EOL",
+        "s": "ASX:EPD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ERJ",
+        "s": "ASX:ERL",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ERX",
+        "s": "ASX:ESI",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:ESK",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:ESM",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:ETHI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:EVENB",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:EVM",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:EXM",
+        "s": "ASX:EVS",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:EXR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:EZA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:FAN",
+        "s": "ASX:FDIV",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:FAS",
+        "s": "ASX:FE8",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:FCG",
+        "s": "ASX:FFG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:FCN",
+        "s": "ASX:FGX",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:FOY",
+        "s": "ASX:FRM",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:FRC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:FRE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:FSE",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:FXR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GBI",
+        "s": "ASX:FZR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GCN",
+        "s": "ASX:GAP",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GDA",
+        "s": "ASX:GBA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GED",
+        "s": "ASX:GBG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GES",
+        "s": "ASX:GBR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GGH",
+        "s": "ASX:GDY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GGHDA",
+        "s": "ASX:GFY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:GGX",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GLE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GMC",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:GML",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GNV",
+        "s": "ASX:GMR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GOE",
+        "s": "ASX:GPHN",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GPS",
+        "s": "ASX:GZL",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GSE",
+        "s": "ASX:HAV",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:GTR",
+        "s": "ASX:HCT",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HAO",
+        "s": "ASX:HGO",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HDG",
+        "s": "ASX:HPR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HDX",
+        "s": "ASX:IAG",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HGL",
+        "s": "ASX:ICQ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HHM",
+        "s": "ASX:IDA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HJB",
+        "s": "ASX:IDR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HLS",
+        "s": "ASX:IGL",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:HVNCD",
+        "s": "ASX:IMD",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:IAUDC",
+        "s": "ASX:IRU",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:IB8",
+        "s": "ASX:ITD",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ICZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IDC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IEQ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IGS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IJPDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IKE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IMI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IND",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IPC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IPLCD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IRL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ISGDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ITL",
-        "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:ITQ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:ITWDA",
+        "s": "ASX:IZZ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:IVT",
+        "s": "ASX:JHC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:JCI",
+        "s": "ASX:JHX",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:JVG",
+        "s": "ASX:JKA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KAB",
+        "s": "ASX:KSN",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KBL",
+        "s": "ASX:KZR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KFG",
+        "s": "ASX:LCK",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KIK",
+        "s": "ASX:LHB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KLR",
+        "s": "ASX:LIO",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KNH",
+        "s": "ASX:LLO",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:KRM",
+        "s": "ASX:LMLNB",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KRS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KTL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LCE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LCG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LGM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LGR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LINDC",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:LSA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:LSRNB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:LSX",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:LTX",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:MAS",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MAUCA",
+        "s": "ASX:MAY",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MAX",
+        "s": "ASX:MBC",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MBN",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:MBT",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MCH",
+        "s": "ASX:MDR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MCS",
+        "s": "ASX:MHI",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MDD",
+        "s": "ASX:MLB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MDV",
+        "s": "ASX:MNCDA",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MDX",
+        "s": "ASX:MNE",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MHM",
+        "s": "ASX:MNRS",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MIH",
+        "s": "ASX:MOAT",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MIZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MLI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MMG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MOL",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:MOTDC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MPX",
+        "s": "ASX:MPP",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MQGCD",
+        "s": "ASX:MRM",
         "f": [
-          "no longer trading"
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "ASX:MSG",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:MSI",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MTA",
+        "s": "ASX:MSV",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:MVOL",
+        "s": "ASX:MUS",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NABCD",
+        "s": "ASX:MVF",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NCO",
+        "s": "ASX:NCM",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NDOR",
+        "s": "ASX:NEN",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:NET",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NHO",
+        "s": "ASX:NOR",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NIO",
+        "s": "ASX:NST",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NKP",
+        "s": "ASX:NUH",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NME",
+        "s": "ASX:NWZ",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:NOE",
+        "s": "ASX:OS8",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:NVI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:NXR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:NYO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OAR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ODN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OEG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OEQ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OFW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OGH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OGX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OGY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OKJ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OLH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OMT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ORH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OTI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OXXCB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PAY",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:PCP",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:PDF",
+        "s": "ASX:PEZ",
         "f": [
-          "no longer trading",
-          "price null"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:PDY",
+        "s": "ASX:PWNCB",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:PEG",
+        "s": "ASX:QAG",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PEH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PFM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PHA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PKODA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PLV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PNO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PPK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PRP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PSP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PTRDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PZC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:QFX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:QNL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:QRX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:QST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:QTG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:R3D",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RAF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RAW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:REYDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:REZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RIS",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
         "s": "ASX:RMRDC",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:RMT",
+        "s": "ASX:RSH",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "ASX:RNS",
+        "s": "ASX:RUB",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ROG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RPG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RRP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SAI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SAM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SAN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SBI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SBU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SCU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SGO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SGU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SGZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SKP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SLE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SMG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SNV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SOC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SOCDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SOP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SRR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SSLPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SVS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SWE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SXA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SXI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SXS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SYDCD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SZG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TAG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TCLCD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TEGDC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TEK",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:THO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:THRDC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TIL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TKG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TML",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TO2",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:TPO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TPR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TRM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TSM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TWH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:UBP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:UGL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:UPG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:USP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:UUL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VARRA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VELPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VET",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VIA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VICDD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VIE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VIG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VXL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WAK",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:WBCCD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WCC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WDS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WGO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WHFPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WHN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WIN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WKTDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WMNDA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WNS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WRG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WTR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:XTV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YHL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMCTX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMCWN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMDOW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMDXS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF01",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF02",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF03",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF04",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF05",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMF07",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMGPT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMMG1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMNAB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMSG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMSGP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMWES",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ZAM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ZCNH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ZGM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ZMICA",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "ASX:ZYL",
-        "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       }
     ]

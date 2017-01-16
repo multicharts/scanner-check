@@ -479,12 +479,6 @@
         ]
       },
       {
-        "s": "ASX:CQC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:CRM",
         "f": [
           "no longer trading"
@@ -505,7 +499,8 @@
       {
         "s": "ASX:CVG",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -655,6 +650,12 @@
       },
       {
         "s": "ASX:EVM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:EWE",
         "f": [
           "no longer trading"
         ]
@@ -1544,12 +1545,6 @@
       },
       {
         "s": "ASX:REZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RIS",
         "f": [
           "no longer trading"
         ]

@@ -1,13 +1,32 @@
 {
     "black_list": [
       {
+        "s": "NZX:AXG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NZX:CSM",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "NZX:DOW",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "NZX:LAT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NZX:MYK",
         "f": [
           "no longer trading"
         ]

@@ -1,3 +1,22 @@
 {
-    "black_list": null
+    "black_list": [
+      {
+        "s": "OANDA:CN50USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:IN50USD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OANDA:TWIXUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      }
+    ]
   }

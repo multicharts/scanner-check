@@ -1,25 +1,25 @@
 {
     "black_list": [
       {
+        "s": "BIST:AKSA",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "BIST:BOSSA",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "BIST:FENIS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BIST:GEDIZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BIST:IDAS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BIST:ISATR",
         "f": [
           "no longer trading"
         ]
@@ -37,9 +37,21 @@
         ]
       },
       {
-        "s": "BIST:SAFGY",
+        "s": "BIST:PIMAS",
         "f": [
-          "no longer trading"
+          "test symbol"
+        ]
+      },
+      {
+        "s": "BIST:YATAS",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "BIST:YUNSA",
+        "f": [
+          "test symbol"
         ]
       }
     ]

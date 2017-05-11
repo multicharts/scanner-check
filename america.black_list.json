@@ -49,12 +49,6 @@
         ]
       },
       {
-        "s": "AMEX:DBSE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:DCNG",
         "f": [
           "no longer trading"
@@ -68,12 +62,6 @@
       },
       {
         "s": "AMEX:DEE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DEFA",
         "f": [
           "no longer trading"
         ]
@@ -218,9 +206,9 @@
         ]
       },
       {
-        "s": "AMEX:PSMC",
+        "s": "AMEX:PIP",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -272,24 +260,6 @@
         ]
       },
       {
-        "s": "AMEX:UTLF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:WFIG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:XS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:XXV",
         "f": [
           "no longer trading"
@@ -298,14 +268,7 @@
       {
         "s": "AMEX:ZBZX",
         "f": [
-          "no longer trading",
           "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:ZTST",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -444,7 +407,8 @@
       {
         "s": "NASDAQ:NDRA",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -487,6 +451,13 @@
         "s": "NASDAQ:VA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:WINT",
+        "f": [
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -567,6 +538,13 @@
         ]
       },
       {
+        "s": "NYSE:CJ",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
         "s": "NYSE:CLNY",
         "f": [
           "no longer trading"
@@ -575,7 +553,8 @@
       {
         "s": "NYSE:CVC",
         "f": [
-          "no longer trading"
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -617,7 +596,8 @@
       {
         "s": "NYSE:ETC/I",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -641,7 +621,8 @@
       {
         "s": "NYSE:HTS",
         "f": [
-          "no longer trading"
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -728,7 +709,7 @@
       {
         "s": "NYSE:OPWR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -764,7 +745,8 @@
       {
         "s": "NYSE:RKUS",
         "f": [
-          "no longer trading"
+          "empty symbol",
+          "no data"
         ]
       },
       {
@@ -777,6 +759,13 @@
         "s": "NYSE:STJ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:SWC",
+        "f": [
+          "empty symbol",
+          "no data"
         ]
       },
       {

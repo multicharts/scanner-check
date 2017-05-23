@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BCBA:ABT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BCBA:AIG",
         "f": [
           "no longer trading"
@@ -21,6 +27,12 @@
       },
       {
         "s": "BCBA:APBRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:AUY",
         "f": [
           "no longer trading"
         ]
@@ -51,6 +63,24 @@
       },
       {
         "s": "BCBA:BBVC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:BHP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:BMA.5",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:BMA.C",
         "f": [
           "no longer trading"
         ]
@@ -98,13 +128,13 @@
         ]
       },
       {
-        "s": "BCBA:CAT",
+        "s": "BCBA:CDE",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BCBA:CDE",
+        "s": "BCBA:CMLA4",
         "f": [
           "no longer trading"
         ]
@@ -117,36 +147,6 @@
       },
       {
         "s": "BCBA:COUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:CSCO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:CVX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:DD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:DEO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:DISN",
         "f": [
           "no longer trading"
         ]
@@ -171,12 +171,6 @@
       },
       {
         "s": "BCBA:ERIC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:FCX",
         "f": [
           "no longer trading"
         ]
@@ -231,12 +225,6 @@
       },
       {
         "s": "BCBA:ITUB4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:JPM",
         "f": [
           "no longer trading"
         ]
@@ -368,19 +356,13 @@
         ]
       },
       {
-        "s": "BCBA:MMM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCBA:MOLI5",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BCBA:MRK",
+        "s": "BCBA:MON",
         "f": [
           "no longer trading"
         ]
@@ -423,19 +405,7 @@
         ]
       },
       {
-        "s": "BCBA:ORCL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:PFE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:PG",
+        "s": "BCBA:PAMPC",
         "f": [
           "no longer trading"
         ]
@@ -444,18 +414,6 @@
         "s": "BCBA:RDS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:RIO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:SAMID",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -497,6 +455,7 @@
       {
         "s": "BCBA:TECOC",
         "f": [
+          "no longer trading",
           "price null"
         ]
       },
@@ -513,19 +472,13 @@
         ]
       },
       {
-        "s": "BCBA:TRVV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCBA:TXN",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BCBA:UTX",
+        "s": "BCBA:TXR",
         "f": [
           "no longer trading"
         ]
@@ -537,25 +490,7 @@
         ]
       },
       {
-        "s": "BCBA:VZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCBA:WFC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:WMT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:YHOO",
         "f": [
           "no longer trading"
         ]
@@ -563,8 +498,7 @@
       {
         "s": "BCBA:YPFDD",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       }
     ]

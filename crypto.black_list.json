@@ -1,0 +1,964 @@
+{
+    "black_list": [
+      {
+        "s": "BITFINEX:ETCUSD",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "BITFLYER:FXBTCJPY",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "BITSTAMP:BTCUSD",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "BTCYOU:LTCBRL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "GOCIO:LTCBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "KRAKEN:DASHEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:DASHUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:DASHXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETCETH",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETCEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETCUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETCXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHCAD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHGBP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHJPY",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:GNOETH",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:GNOEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:GNOUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:GNOXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ICNETH",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ICNXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:LTCEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:LTCUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:LTCXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:MLNETH",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:MLNXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:REPETH",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:REPEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:REPUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:REPXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:USDTUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTCAD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTGBP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTJPY",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XDGXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XLMEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XLMUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XLMXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XMREUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XMRUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XMRXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XRPCAD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XRPEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XRPJPY",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XRPUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XRPXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ZECEUR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ZECUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ZECXBT",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "OKCOIN:LTCUSDIDX",
+        "f": [
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:AMPBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ARDRBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BCNBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BCNXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BCYBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BELABTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BLKBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BLKXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BTCDBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BTCDXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BTCUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BTMBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BTSBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:BURSTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:CLAMBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DASHBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DASHUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DASHXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DCRBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DGBBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:DOGEBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:EMC2BTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETCETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETCUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETHBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETHUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:EXPBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:FCTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:FLDCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:FLOBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GAMEBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GNOBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GNOETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GNTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GNTETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:GRCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:HUCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LBCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LSKBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LSKETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LTCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LTCUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:LTCXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:MAIDBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:MAIDXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NAUTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NAVBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NEOSBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NMCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NOTEBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NXCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NXTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NXTUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:NXTXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:OMNIBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:PASCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:PINKBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:POTBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:PPCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:RADSBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:REPBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:REPETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:REPUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:RICBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:SBDBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:SCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:SJCXBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:STEEMBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:STEEMETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:STRATBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:STRBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:STRUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:SYSBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:VIABTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:VRCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:VTCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XBCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XCPBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XEMBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XMRBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XMRUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XPMBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XRPBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XRPUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:XVCBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ZECBTC",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ZECETH",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ZECUSDT",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      },
+      {
+        "s": "POLONIEX:ZECXMR",
+        "f": [
+          "empty symbol",
+          "no data"
+        ]
+      }
+    ]
+  }

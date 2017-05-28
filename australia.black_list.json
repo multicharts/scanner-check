@@ -798,7 +798,8 @@
       {
         "s": "ASX:ENL",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1853,7 +1854,7 @@
       {
         "s": "ASX:PM1",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
@@ -2531,6 +2532,12 @@
       },
       {
         "s": "ASX:WLDN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:WMN",
         "f": [
           "empty symbol"
         ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "TSX:ABK.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:ACC",
         "f": [
           "no longer trading"
@@ -110,6 +116,12 @@
       },
       {
         "s": "TSX:BSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:BSC.PR.C",
         "f": [
           "no longer trading"
         ]
@@ -464,12 +476,6 @@
         ]
       },
       {
-        "s": "TSX:KML",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSX:KMP",
         "f": [
           "empty symbol"
@@ -717,6 +723,12 @@
       },
       {
         "s": "TSX:PNC.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:PNC.B",
         "f": [
           "no longer trading"
         ]
@@ -2710,12 +2722,6 @@
         ]
       },
       {
-        "s": "TSXV:GAR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:GBB",
         "f": [
           "empty symbol"
@@ -4488,12 +4494,6 @@
       },
       {
         "s": "TSXV:PGO.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:PGS",
         "f": [
           "no longer trading"
         ]

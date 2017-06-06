@@ -1,0 +1,878 @@
+{
+    "black_list": [
+      {
+        "s": "XET:02P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:0BL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:1AF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:1CO1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:1P2N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:2P61",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:37C",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:5G5",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:63DA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:6LLN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:7KT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:8ID",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:8S9",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:90A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:A8B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ABA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ACR1",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "XET:ADLN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:ADSE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:AFN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:AIXB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:AIXE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:ALVB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:APE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ARRB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ARRC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ATF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:AXAA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:B5SK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:B8FN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BAYM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BBVA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BCY2",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BEIA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BIL1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BIOS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BIOV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BIR2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BMSA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BMSB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BNPH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BNRN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:BOSA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BRB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BRH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BSND",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BTBA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BW6",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:BX7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CB7N",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:CEVJ",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "XET:CEW3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CJ5A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CLS1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CM3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CMS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CNNA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:CY1K",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:DB11",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:DPWA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:DPWH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:DRIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:DRIV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:DUL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:DWNN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:E2Z",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ENLA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ERMN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:ES5I",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:FAO2",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FMEN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FREA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FREN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FT0",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FTE1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:FV02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:G2A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:GMMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:H2FA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:H2R",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:HDDF",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "XET:HEIU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:HMU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:HNRB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:HRPN",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "XET:HWSA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:IO0",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ITBA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:KABN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:KB7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:KBU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:KCC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:LEGN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:LIO3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:LSPN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:MANC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:MDO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:MHH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:MSGL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:MTXC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:N7GJ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:N8Z1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:NHY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:NMK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:NNGE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:NWX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:NXI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:P01",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:P4I",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PC6A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PEH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PHBA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PNEE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:PV3A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:RIOA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:RNL1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:RY8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:RYS2",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SD1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SFTU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SGLN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SP4A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SR9A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:STE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SWJA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:SZZ1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:T7Y1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:TGH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:TIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:TOTA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:TQI1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:TQIA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:U1D",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:UHRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:UP7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:V33",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:VG1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:VROS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:VSJ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:WELA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:WOP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:XMYN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XET:ZCT1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XET:ZFI1",
+        "f": [
+          "no longer trading"
+        ]
+      }
+    ]
+  }

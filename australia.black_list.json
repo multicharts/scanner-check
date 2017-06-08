@@ -882,7 +882,8 @@
       {
         "s": "ASX:ERJ",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2310,6 +2311,12 @@
         ]
       },
       {
+        "s": "ASX:SOPDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:SRF",
         "f": [
           "no longer trading"
@@ -2600,7 +2607,7 @@
       {
         "s": "ASX:VPR",
         "f": [
-          "empty symbol"
+          "price null"
         ]
       },
       {
@@ -2675,12 +2682,6 @@
         "s": "ASX:WHFPA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WHN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2852,6 +2853,12 @@
         ]
       },
       {
+        "s": "ASX:ZIPNA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:ZMICA",
         "f": [
           "no longer trading",
@@ -2860,12 +2867,6 @@
       },
       {
         "s": "ASX:ZTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ZYL",
         "f": [
           "no longer trading"
         ]

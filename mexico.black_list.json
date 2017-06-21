@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BMV:AABA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:ADBE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMV:ADM",
         "f": [
           "no longer trading"
@@ -367,6 +355,12 @@
         ]
       },
       {
+        "s": "BMV:CLR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:CMC/N",
         "f": [
           "no longer trading"
@@ -380,6 +374,12 @@
       },
       {
         "s": "BMV:CNCO/N",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BMV:CNCOY/N",
         "f": [
           "no longer trading"
         ]
@@ -555,12 +555,6 @@
       },
       {
         "s": "BMV:FFH/N",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:FGEN",
         "f": [
           "no longer trading"
         ]
@@ -905,6 +899,12 @@
         ]
       },
       {
+        "s": "BMV:LYB/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:MANU/N",
         "f": [
           "no longer trading"
@@ -923,15 +923,15 @@
         ]
       },
       {
-        "s": "BMV:MCK",
+        "s": "BMV:MBT/N",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BMV:MCO",
+        "s": "BMV:MCK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1043,6 +1043,12 @@
         ]
       },
       {
+        "s": "BMV:NZYM/N",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMV:ODP",
         "f": [
           "no longer trading"
@@ -1104,12 +1110,6 @@
       },
       {
         "s": "BMV:PLD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:PNGAY/N",
         "f": [
           "no longer trading"
         ]
@@ -1231,7 +1231,6 @@
       {
         "s": "BMV:RH",
         "f": [
-          "no longer trading",
           "test symbol"
         ]
       },
@@ -1290,6 +1289,12 @@
         ]
       },
       {
+        "s": "BMV:SHG/N",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMV:SKY/N",
         "f": [
           "no longer trading"
@@ -1333,12 +1338,6 @@
       },
       {
         "s": "BMV:SREN/N",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:SSL/N",
         "f": [
           "no longer trading"
         ]
@@ -1464,21 +1463,9 @@
         ]
       },
       {
-        "s": "BMV:TMF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BMV:TMO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:TMV",
-        "f": [
-          "empty symbol"
         ]
       },
       {

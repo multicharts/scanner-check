@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "MOEX:BGDE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:DIOD",
         "f": [
           "test symbol"
@@ -54,6 +60,12 @@
         "f": [
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "MOEX:URFD",
+        "f": [
+          "no longer trading"
         ]
       }
     ]

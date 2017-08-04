@@ -1,6 +1,42 @@
 {
     "black_list": [
       {
+        "s": "BITFLYER:BTCJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITMEX:B_BLOCKSZ17",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITMEX:B_SEGWITZ17",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITVC:LTCUSD1W",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITVC:LTCUSD2W",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITVC:LTCUSD3M",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GOCIO:BTCRUR",
         "f": [
           "no longer trading"
@@ -19,9 +55,21 @@
         ]
       },
       {
-        "s": "KORBIT:BTCKRW",
+        "s": "KRAKEN:BCHEUR",
         "f": [
-          "empty symbol"
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:BCHUSD",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:BCHXBT",
+        "f": [
+          "test symbol"
         ]
       },
       {

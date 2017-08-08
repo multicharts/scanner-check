@@ -109,9 +109,15 @@
         ]
       },
       {
-        "s": "ASX:AJO",
+        "s": "ASX:AJJ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:AJO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -237,6 +243,12 @@
       },
       {
         "s": "ASX:ATM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:ATR",
         "f": [
           "no longer trading"
         ]
@@ -388,6 +400,12 @@
         ]
       },
       {
+        "s": "ASX:BIR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:BITNA",
         "f": [
           "empty symbol"
@@ -395,6 +413,12 @@
       },
       {
         "s": "ASX:BITRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:BKM",
         "f": [
           "no longer trading"
         ]
@@ -472,6 +496,12 @@
         ]
       },
       {
+        "s": "ASX:CCJ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:CDB",
         "f": [
           "no longer trading"
@@ -538,6 +568,12 @@
         ]
       },
       {
+        "s": "ASX:CMAAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:CMAN",
         "f": [
           "empty symbol"
@@ -546,7 +582,7 @@
       {
         "s": "ASX:CMT",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -718,6 +754,12 @@
         ]
       },
       {
+        "s": "ASX:EBG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:EER",
         "f": [
           "no longer trading"
@@ -779,6 +821,12 @@
       },
       {
         "s": "ASX:EVM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:EVO",
         "f": [
           "no longer trading"
         ]
@@ -923,12 +971,6 @@
         ]
       },
       {
-        "s": "ASX:HHM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:HJB",
         "f": [
           "no longer trading"
@@ -1014,12 +1056,6 @@
       },
       {
         "s": "ASX:IND",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IPB",
         "f": [
           "no longer trading"
         ]
@@ -1142,6 +1178,12 @@
         "s": "ASX:LCG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:LERNA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1666,7 +1708,7 @@
       {
         "s": "ASX:PRP",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1738,12 +1780,6 @@
       },
       {
         "s": "ASX:RCO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:REZ",
         "f": [
           "no longer trading"
         ]
@@ -1827,6 +1863,12 @@
         ]
       },
       {
+        "s": "ASX:RXHN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:SAN",
         "f": [
           "no longer trading"
@@ -1876,18 +1918,6 @@
       },
       {
         "s": "ASX:SHK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SHU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SKN",
         "f": [
           "no longer trading"
         ]
@@ -2019,6 +2049,12 @@
         ]
       },
       {
+        "s": "ASX:TAUXE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:TC8",
         "f": [
           "empty symbol"
@@ -2033,7 +2069,7 @@
       {
         "s": "ASX:TCLCD",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -2112,6 +2148,12 @@
         "s": "ASX:TOMNB",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:TPD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2244,7 +2286,14 @@
       {
         "s": "ASX:VXL",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "ASX:VXRNE",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2346,12 +2395,6 @@
         ]
       },
       {
-        "s": "ASX:YTMAST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:YTMBH",
         "f": [
           "empty symbol"
@@ -2391,6 +2434,12 @@
         "s": "ASX:YTMDX",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:YTMDXS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2462,7 +2511,7 @@
       {
         "s": "ASX:YTMSG",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {

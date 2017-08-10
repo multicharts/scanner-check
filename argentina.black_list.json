@@ -1,15 +1,16 @@
 {
     "black_list": [
       {
-        "s": "BCBA:AABA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCBA:ABT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:AMAT",
+        "f": [
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -82,12 +83,6 @@
         "s": "BCBA:CAH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:CAPXC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -255,6 +250,12 @@
       },
       {
         "s": "BCBA:LLY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:LYG",
         "f": [
           "no longer trading"
         ]
@@ -441,12 +442,6 @@
         ]
       },
       {
-        "s": "BCBA:NEM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCBA:NKE",
         "f": [
           "no longer trading"
@@ -507,12 +502,6 @@
         ]
       },
       {
-        "s": "BCBA:SCCO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCBA:SIEGY",
         "f": [
           "no longer trading"
@@ -556,6 +545,12 @@
       },
       {
         "s": "BCBA:TGLTX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCBA:TI",
         "f": [
           "no longer trading"
         ]

@@ -137,12 +137,6 @@
         ]
       },
       {
-        "s": "AMEX:PFV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PSMM",
         "f": [
           "no longer trading"
@@ -275,12 +269,6 @@
         ]
       },
       {
-        "s": "NASDAQ:GSOL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:LRGE",
         "f": [
           "no longer trading"
@@ -314,12 +302,6 @@
         "s": "NASDAQ:SQZZ",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:WFM",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -604,12 +586,6 @@
         ]
       },
       {
-        "s": "OTC:BFDI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:BKRRF",
         "f": [
           "no longer trading"
@@ -808,12 +784,6 @@
         ]
       },
       {
-        "s": "OTC:FPAYD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:FREGP",
         "f": [
           "no longer trading"
@@ -850,9 +820,16 @@
         ]
       },
       {
+        "s": "OTC:GTHP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "OTC:GTHPD",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -881,6 +858,12 @@
       },
       {
         "s": "OTC:HPGN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HPTO",
         "f": [
           "no longer trading"
         ]
@@ -930,7 +913,8 @@
       {
         "s": "OTC:JAEN",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "test symbol"
         ]
       },
       {

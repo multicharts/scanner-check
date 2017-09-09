@@ -662,12 +662,6 @@
         ]
       },
       {
-        "s": "OTC:FPAYD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:FREGP",
         "f": [
           "no longer trading"
@@ -716,9 +710,16 @@
         ]
       },
       {
+        "s": "OTC:GTHP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "OTC:GTHPD",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -826,7 +827,8 @@
       {
         "s": "OTC:JAEN",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "test symbol"
         ]
       },
       {
@@ -1077,6 +1079,12 @@
       },
       {
         "s": "OTC:SVSA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TANEF",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "TASE:ABIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TASE:ABTR-M",
         "f": [
           "no longer trading"
@@ -13,15 +19,9 @@
         ]
       },
       {
-        "s": "TASE:ADO",
+        "s": "TASE:AMAN",
         "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:AMOT",
-        "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -37,46 +37,21 @@
         ]
       },
       {
-        "s": "TASE:ARAN",
+        "s": "TASE:AVER",
         "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
-        "s": "TASE:ARYT",
+        "s": "TASE:BBYL",
         "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ASRR",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:AURA",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:AVIV",
-        "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
         "s": "TASE:BGI",
         "f": [
-          "no longer trading",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:BIG",
-        "f": [
-          "test symbol"
+          "no longer trading"
         ]
       },
       {
@@ -86,9 +61,15 @@
         ]
       },
       {
-        "s": "TASE:CHAM",
+        "s": "TASE:CANF",
         "f": [
-          "test symbol"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:CPTP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -98,39 +79,9 @@
         ]
       },
       {
-        "s": "TASE:DIMRI",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ELCO",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ELDAV",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:FOX",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
         "s": "TASE:GAMT-L",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TASE:GAON",
-        "f": [
-          "test symbol"
         ]
       },
       {
@@ -142,19 +93,7 @@
       {
         "s": "TASE:GMUL-M",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TASE:GODM",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:GOLD",
-        "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -176,9 +115,9 @@
         ]
       },
       {
-        "s": "TASE:HAMAT",
+        "s": "TASE:HARL",
         "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -188,33 +127,9 @@
         ]
       },
       {
-        "s": "TASE:HOD",
+        "s": "TASE:INFR",
         "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ICL",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:IES",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:IMCO",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:JOEL",
-        "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -224,9 +139,9 @@
         ]
       },
       {
-        "s": "TASE:KLIL",
+        "s": "TASE:KLNT-M",
         "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -238,7 +153,13 @@
       {
         "s": "TASE:LAHAV",
         "f": [
-          "test symbol"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:LUDN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -254,9 +175,15 @@
         ]
       },
       {
-        "s": "TASE:MRP",
+        "s": "TASE:MDVI-M",
         "f": [
-          "test symbol"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:MTRN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -266,9 +193,15 @@
         ]
       },
       {
-        "s": "TASE:NAWI",
+        "s": "TASE:NCT",
         "f": [
-          "test symbol"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:NETZ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -278,21 +211,15 @@
         ]
       },
       {
-        "s": "TASE:NICE",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
         "s": "TASE:NSEL-L",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TASE:ORAD",
+        "s": "TASE:ORA",
         "f": [
-          "test symbol"
+          "empty symbol"
         ]
       },
       {
@@ -314,6 +241,24 @@
         ]
       },
       {
+        "s": "TASE:PSTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:RLCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:SCC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TASE:SPCH",
         "f": [
           "no longer trading"
@@ -323,18 +268,6 @@
         "s": "TASE:SPCH-L",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "TASE:STG",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:TEVA",
-        "f": [
-          "test symbol"
         ]
       },
       {
@@ -352,7 +285,13 @@
       {
         "s": "TASE:ULTR-M",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TASE:WLFD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -364,19 +303,7 @@
       {
         "s": "TASE:YBOX",
         "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ZMH",
-        "f": [
-          "test symbol"
-        ]
-      },
-      {
-        "s": "TASE:ZUR",
-        "f": [
-          "test symbol"
+          "empty symbol"
         ]
       }
     ]

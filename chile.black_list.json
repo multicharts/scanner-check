@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BCS:AGG_CL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCS:AKOA_CL",
         "f": [
           "empty symbol"
@@ -19,19 +25,7 @@
         ]
       },
       {
-        "s": "BCS:ARNC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCS:CANALISTAS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CGTCL",
         "f": [
           "empty symbol"
         ]
@@ -70,18 +64,6 @@
         "s": "BCS:CU_CL",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CVA_OSA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:DD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -139,12 +121,6 @@
         ]
       },
       {
-        "s": "BCS:GNCHILE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCS:GRZCL",
         "f": [
           "empty symbol"
@@ -160,6 +136,13 @@
         "s": "BCS:IOCL",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:IUSG",
+        "f": [
+          "empty symbol",
+          "test symbol"
         ]
       },
       {
@@ -188,6 +171,12 @@
       },
       {
         "s": "BCS:MNYCL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:MTTCL",
         "f": [
           "empty symbol"
         ]
@@ -247,19 +236,7 @@
         ]
       },
       {
-        "s": "BCS:TELSUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BCS:TXN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:UWECL",
         "f": [
           "empty symbol"
         ]

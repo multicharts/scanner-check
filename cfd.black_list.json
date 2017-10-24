@@ -1,15 +1,57 @@
 {
     "black_list": [
       {
+        "s": "OANDA:USB05YUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:AEX",
         "f": [
           "test symbol"
         ]
       },
       {
+        "s": "TVC:AXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DE10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NO10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SG02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:TR10Y",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TVC:US30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:VIX",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

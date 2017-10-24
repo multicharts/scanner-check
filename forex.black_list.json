@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:AEDJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDMUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:AEDOMR",
         "f": [
           "empty symbol"
@@ -13,13 +25,19 @@
         ]
       },
       {
-        "s": "FX_IDC:AUDNZD",
+        "s": "FX_IDC:AUDBHD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:AUDXCD",
+        "s": "FX_IDC:AUDRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDPKR",
         "f": [
           "empty symbol"
         ]
@@ -31,13 +49,55 @@
         ]
       },
       {
-        "s": "FX_IDC:BRLARS",
+        "s": "FX_IDC:BRLNGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADETB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADMNT",
         "f": [
           "empty symbol"
         ]
       },
       {
         "s": "FX_IDC:CADNPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTTD",
         "f": [
           "empty symbol"
         ]
@@ -55,73 +115,169 @@
         ]
       },
       {
-        "s": "FX_IDC:CHFCZK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "FX_IDC:CHFDZD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:CHFJPY",
+        "s": "FX_IDC:CHFFKP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:CZKCHF",
+        "s": "FX_IDC:CHFMKD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:EURINR",
+        "s": "FX_IDC:CHFMWK",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:EURPAB",
+        "s": "FX_IDC:CHFUZS",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:EURPYG",
+        "s": "FX_IDC:CNYNZD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:EURTTD",
+        "s": "FX_IDC:CNYTWD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:GBPEGP",
+        "s": "FX_IDC:CNYZAR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:GBPMKD",
+        "s": "FX_IDC:COPJPY",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:GBPSGD",
+        "s": "FX_IDC:DKKEUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:JPYCNY",
+        "s": "FX_IDC:DKKINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:DKKRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:DKKTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURALL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURDOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURLAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURNAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURNGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:EURTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:GBPGYD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:GBPNPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:HRKEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:INRMYR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYBMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYDZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYKES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYPAB",
         "f": [
           "empty symbol"
         ]
@@ -151,7 +307,55 @@
         ]
       },
       {
+        "s": "FX_IDC:JPYSZL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYUGX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYUZS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYXPF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:KRWEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KRWGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KWDGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:LKRCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:LKREUR",
         "f": [
           "empty symbol"
         ]
@@ -163,13 +367,43 @@
         ]
       },
       {
-        "s": "FX_IDC:MUREUR",
+        "s": "FX_IDC:MXNZAR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:OMRPKR",
+        "s": "FX_IDC:MYRCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MYREUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MYRSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:NOKPLN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:NZDSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:OMREUR",
         "f": [
           "empty symbol"
         ]
@@ -187,7 +421,19 @@
         ]
       },
       {
-        "s": "FX_IDC:USDHNL",
+        "s": "FX_IDC:PLNGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PLNHUF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDMUR",
         "f": [
           "empty symbol"
         ]

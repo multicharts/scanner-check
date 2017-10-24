@@ -1,0 +1,544 @@
+{
+    "black_list": [
+      {
+        "s": "SIX:1COV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:A1G",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ABF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:ADJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ASM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:BAFK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:BEZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:BPOST",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:BVN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:CASN.USD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:CGG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:CLS1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:DD.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DGC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:DOW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:DOW.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:EBAY",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:EDF",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:EDR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:ELD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:ENEL",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:ENI",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:ENPH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:EVN",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:FCEL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:FEYE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:FMS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:FNV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:FVI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:G24",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GAMEE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GFK",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:GLUU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:GMT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:GOE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:GPR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:GRPN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:GSV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:HLE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:HOG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:HYG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:IBM",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:KMY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:KORS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:LOCAL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:MAN",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:MEO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:MLP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:MOO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MTT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MYL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:N7G",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:NOKIA",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:NXU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:OMV",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:ORMP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:PAXN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:PGM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:PTK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:RESOL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:RHI",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:RIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SAP",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:SGMO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SGSNE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SHAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SKB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SLW1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SOW0",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SOW1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SPLS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SSO1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SVM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SWVK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:TC1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:THO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:TWX.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:VALE",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:VBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:VCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:VIFN0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:VT9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:VW",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:WFM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:WUW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:YELP",
+        "f": [
+          "test symbol"
+        ]
+      }
+    ]
+  }

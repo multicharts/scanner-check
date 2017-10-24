@@ -61,6 +61,12 @@
         ]
       },
       {
+        "s": "BCBA:BHIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCBA:BK",
         "f": [
           "no longer trading"
@@ -189,7 +195,8 @@
       {
         "s": "BCBA:EURO",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -494,12 +501,6 @@
       },
       {
         "s": "BCBA:PTR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BCBA:QCOM",
         "f": [
           "no longer trading"
         ]

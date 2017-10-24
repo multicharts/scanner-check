@@ -1,9 +1,27 @@
 {
     "black_list": [
       {
+        "s": "MOEX:CHGZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:DIOD",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "MOEX:EELT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:GTPR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -19,16 +37,16 @@
         ]
       },
       {
-        "s": "MOEX:ISKJ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "MOEX:KMTZ",
         "f": [
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "MOEX:KRSBP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -62,10 +80,22 @@
         ]
       },
       {
+        "s": "MOEX:RVI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:TANLP",
         "f": [
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "MOEX:TGKD",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

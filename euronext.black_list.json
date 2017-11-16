@@ -454,7 +454,8 @@
       {
         "s": "EURONEXT:BTGP",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -531,6 +532,12 @@
       },
       {
         "s": "EURONEXT:COFP1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:COFP2",
         "f": [
           "no longer trading"
         ]
@@ -1124,6 +1131,12 @@
         ]
       },
       {
+        "s": "EURONEXT:LIT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:LOUX7",
         "f": [
           "empty symbol"
@@ -1267,7 +1280,8 @@
       {
         "s": "EURONEXT:MLCFI",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1279,7 +1293,8 @@
       {
         "s": "EURONEXT:MLCJS",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1583,12 +1598,6 @@
         ]
       },
       {
-        "s": "EURONEXT:MLMAT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:MLMCE",
         "f": [
           "no longer trading",
@@ -1604,7 +1613,8 @@
       {
         "s": "EURONEXT:MLMEX",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1797,12 +1807,6 @@
       },
       {
         "s": "EURONEXT:MLTED",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:MLTEK",
         "f": [
           "no longer trading"
         ]
@@ -2174,6 +2178,12 @@
         ]
       },
       {
+        "s": "EURONEXT:SCB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:SCRX7",
         "f": [
           "empty symbol"
@@ -2270,12 +2280,6 @@
         "s": "EURONEXT:SOX7",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:SPEL",
-        "f": [
-          "no longer trading"
         ]
       },
       {

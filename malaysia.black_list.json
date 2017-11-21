@@ -1,6 +1,13 @@
 {
     "black_list": [
       {
+        "s": "INDUSTRY_MY:BASIC.MATERIALS.ADHESIVE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
         "f": [
           "no longer trading",
@@ -323,6 +330,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:CAPITAL.GOODS.AIR.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:CAPITAL.GOODS.APPLIANCES.TOOLS.HOUSEWARES",
         "f": [
           "no longer trading",
@@ -449,6 +463,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:CAPITAL.GOODS.FOREST.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:CAPITAL.GOODS.FURNITURE",
         "f": [
           "no longer trading",
@@ -534,6 +555,13 @@
       },
       {
         "s": "INDUSTRY_MY:CAPITAL.GOODS.INDUSTRIAL.PARTS.COMPONENTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:CAPITAL.GOODS.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -911,6 +939,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.BOTTLED.WATER.ICE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.BREWERS",
         "f": [
           "no longer trading",
@@ -981,6 +1016,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.FLOUR.MILLING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.FOOD.INGREDIENTS",
         "f": [
           "no longer trading",
@@ -1044,6 +1086,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.PET.PET.SUPPLIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.POULTRY.FARMING",
         "f": [
           "no longer trading",
@@ -1066,6 +1115,13 @@
       },
       {
         "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.STARCH.VEGETABLE.FAT.OIL.MANUFACTURING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:CONSUMER.NON.CYCLICAL.TIMBER.TRACT.OPERATIONS",
         "f": [
           "no longer trading",
           "price null"
@@ -1268,6 +1324,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:FINANCIAL.VENTURE.CAPITAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
         "f": [
           "no longer trading",
@@ -1401,6 +1464,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:SERVICES.COLORING.AGENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:SERVICES.COMMERCIAL.PRINTING.SERVICES",
         "f": [
           "no longer trading",
@@ -1451,6 +1521,13 @@
       },
       {
         "s": "INDUSTRY_MY:SERVICES.COURIER.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:SERVICES.DEPARTMENT.STORES",
         "f": [
           "no longer trading",
           "price null"
@@ -1856,6 +1933,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_MY:TECHNOLOGY.ENTERPRISE.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_MY:TECHNOLOGY.HEAVY.ELECTRICAL.EQUIPMENT",
         "f": [
           "no longer trading",
@@ -1864,6 +1948,20 @@
       },
       {
         "s": "INDUSTRY_MY:TECHNOLOGY.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:TECHNOLOGY.INDUSTRIAL.GAS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:TECHNOLOGY.INDUSTRIAL.MACHINERY",
         "f": [
           "no longer trading",
           "price null"
@@ -1997,6 +2095,20 @@
       },
       {
         "s": "INDUSTRY_MY:TRANSPORTATION.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:TRANSPORTATION.AIRPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_MY:TRANSPORTATION.CONSTRUCTION.ENGINEERING",
         "f": [
           "no longer trading",
           "price null"
@@ -2163,25 +2275,7 @@
         ]
       },
       {
-        "s": "MYX:0165",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "MYX:1589",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:2127",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:3557",
         "f": [
           "empty symbol"
         ]
@@ -2205,49 +2299,7 @@
         ]
       },
       {
-        "s": "MYX:5165",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "MYX:5254",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:6432",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:7080",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:7094",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:7095",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:7232",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MYX:7617",
         "f": [
           "empty symbol"
         ]

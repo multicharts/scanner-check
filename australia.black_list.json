@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "ASX:1AL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:1PG",
         "f": [
           "no longer trading"
@@ -14,6 +20,12 @@
       },
       {
         "s": "ASX:AAL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:AAU",
         "f": [
           "no longer trading"
         ]
@@ -37,15 +49,15 @@
         ]
       },
       {
-        "s": "ASX:ADD",
+        "s": "ASX:ADQ",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:ADQ",
+        "s": "ASX:AEGN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -55,9 +67,9 @@
         ]
       },
       {
-        "s": "ASX:AFP",
+        "s": "ASX:AEVNA",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -79,39 +91,21 @@
         ]
       },
       {
-        "s": "ASX:AJQN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:AJY",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:ALTNC",
+        "s": "ASX:AKF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "ASX:AM8",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:AMB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:AMO",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -152,9 +146,9 @@
         ]
       },
       {
-        "s": "ASX:AR1DC",
+        "s": "ASX:AR1",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -182,12 +176,6 @@
         ]
       },
       {
-        "s": "ASX:ARVNC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:ASY",
         "f": [
           "no longer trading"
@@ -195,6 +183,18 @@
       },
       {
         "s": "ASX:ATA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:ATM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:AVW",
         "f": [
           "no longer trading"
         ]
@@ -242,6 +242,12 @@
         ]
       },
       {
+        "s": "ASX:BDE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:BGP",
         "f": [
           "no longer trading"
@@ -260,12 +266,6 @@
         ]
       },
       {
-        "s": "ASX:BIQ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:BIR",
         "f": [
           "empty symbol"
@@ -278,15 +278,9 @@
         ]
       },
       {
-        "s": "ASX:BMH",
+        "s": "ASX:BLK",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BPTAM",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -296,9 +290,9 @@
         ]
       },
       {
-        "s": "ASX:BSMAU",
+        "s": "ASX:BSN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -309,6 +303,24 @@
       },
       {
         "s": "ASX:BYL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:CA8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:CAD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:CAQ",
         "f": [
           "no longer trading"
         ]
@@ -332,19 +344,13 @@
         ]
       },
       {
-        "s": "ASX:CDU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:CFU",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:CHR",
+        "s": "ASX:CHZ",
         "f": [
           "no longer trading"
         ]
@@ -398,6 +404,12 @@
         ]
       },
       {
+        "s": "ASX:CSSRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:CTR",
         "f": [
           "no longer trading"
@@ -411,12 +423,6 @@
       },
       {
         "s": "ASX:CVR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DAU",
         "f": [
           "no longer trading"
         ]
@@ -437,18 +443,6 @@
         "s": "ASX:DME",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DRK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DTMNA",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -488,13 +482,19 @@
         ]
       },
       {
-        "s": "ASX:EPA",
+        "s": "ASX:EGY",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:ERX",
+        "s": "ASX:EHLAI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:EPA",
         "f": [
           "no longer trading"
         ]
@@ -518,25 +518,7 @@
         ]
       },
       {
-        "s": "ASX:EZA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:FCG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:FCR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:FE8",
         "f": [
           "no longer trading"
         ]
@@ -548,7 +530,7 @@
         ]
       },
       {
-        "s": "ASX:FZR",
+        "s": "ASX:FRC",
         "f": [
           "no longer trading"
         ]
@@ -560,25 +542,7 @@
         ]
       },
       {
-        "s": "ASX:GCM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:GCN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GCR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GGH",
         "f": [
           "no longer trading"
         ]
@@ -614,7 +578,7 @@
         ]
       },
       {
-        "s": "ASX:GPS",
+        "s": "ASX:HAO",
         "f": [
           "no longer trading"
         ]
@@ -632,15 +596,15 @@
         ]
       },
       {
-        "s": "ASX:HHM",
+        "s": "ASX:HJB",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:HJB",
+        "s": "ASX:HJBDC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -650,13 +614,13 @@
         ]
       },
       {
-        "s": "ASX:HMXNA",
+        "s": "ASX:HOG",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "ASX:HOG",
+        "s": "ASX:HRN",
         "f": [
           "no longer trading"
         ]
@@ -723,13 +687,13 @@
         ]
       },
       {
-        "s": "ASX:IOGR",
+        "s": "ASX:IOGNA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "ASX:IQ3",
+        "s": "ASX:IPC",
         "f": [
           "no longer trading"
         ]
@@ -741,45 +705,15 @@
         ]
       },
       {
-        "s": "ASX:IS3",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ITL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IVQ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:JH8",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "ASX:JPR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:KBL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KGLNB",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -795,12 +729,6 @@
         ]
       },
       {
-        "s": "ASX:KLO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:KLR",
         "f": [
           "no longer trading"
@@ -808,12 +736,6 @@
       },
       {
         "s": "ASX:KNH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KRL",
         "f": [
           "no longer trading"
         ]
@@ -837,24 +759,6 @@
         ]
       },
       {
-        "s": "ASX:LFC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:LFCDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:LGM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:LGO",
         "f": [
           "no longer trading"
@@ -867,7 +771,7 @@
         ]
       },
       {
-        "s": "ASX:LOMND",
+        "s": "ASX:LPIN",
         "f": [
           "empty symbol"
         ]
@@ -891,12 +795,6 @@
         ]
       },
       {
-        "s": "ASX:MAIAI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:MAS",
         "f": [
           "no longer trading"
@@ -906,6 +804,12 @@
         "s": "ASX:MAX",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:MBKNA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -922,6 +826,12 @@
       },
       {
         "s": "ASX:MDD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:MDX",
         "f": [
           "no longer trading"
         ]
@@ -981,6 +891,12 @@
         ]
       },
       {
+        "s": "ASX:MONY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:MPO",
         "f": [
           "no longer trading"
@@ -999,21 +915,21 @@
         ]
       },
       {
-        "s": "ASX:MSI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:MTL",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:MTON",
+        "s": "ASX:MVOL",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:N1H",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1047,9 +963,9 @@
         ]
       },
       {
-        "s": "ASX:NKP",
+        "s": "ASX:NIUNF",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1071,13 +987,19 @@
         ]
       },
       {
-        "s": "ASX:NMS",
+        "s": "ASX:NOE",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:NOE",
+        "s": "ASX:NUFR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:NWF",
         "f": [
           "no longer trading"
         ]
@@ -1089,9 +1011,9 @@
         ]
       },
       {
-        "s": "ASX:OBLNA",
+        "s": "ASX:OAR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1113,12 +1035,6 @@
         ]
       },
       {
-        "s": "ASX:OHE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:OI8",
         "f": [
           "empty symbol"
@@ -1128,12 +1044,6 @@
         "s": "ASX:OKJ",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OKRAC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1161,6 +1071,12 @@
         ]
       },
       {
+        "s": "ASX:OTI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:OTR",
         "f": [
           "no longer trading"
@@ -1180,13 +1096,13 @@
         ]
       },
       {
-        "s": "ASX:PDN",
+        "s": "ASX:PDINB",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "ASX:PEC",
+        "s": "ASX:PDN",
         "f": [
           "no longer trading"
         ]
@@ -1198,13 +1114,13 @@
         ]
       },
       {
-        "s": "ASX:PEKNC",
+        "s": "ASX:PEZ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "ASX:PEZ",
+        "s": "ASX:PFM",
         "f": [
           "no longer trading"
         ]
@@ -1217,12 +1133,6 @@
       },
       {
         "s": "ASX:PTR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:PUN",
         "f": [
           "no longer trading"
         ]
@@ -1247,13 +1157,13 @@
         ]
       },
       {
-        "s": "ASX:QMIX",
+        "s": "ASX:QRX",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:QRX",
+        "s": "ASX:QSS",
         "f": [
           "no longer trading"
         ]
@@ -1265,13 +1175,7 @@
         ]
       },
       {
-        "s": "ASX:QTG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:R3D",
+        "s": "ASX:QUE",
         "f": [
           "no longer trading"
         ]
@@ -1283,21 +1187,33 @@
         ]
       },
       {
+        "s": "ASX:RAW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:RBD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "ASX:RCP",
+        "s": "ASX:RBONA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:REZ",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:RD1",
+        "s": "ASX:RGP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1313,7 +1229,13 @@
         ]
       },
       {
-        "s": "ASX:RND",
+        "s": "ASX:RMP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:RNY",
         "f": [
           "no longer trading"
         ]
@@ -1349,18 +1271,6 @@
         ]
       },
       {
-        "s": "ASX:SBI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SBU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:SC8",
         "f": [
           "empty symbol"
@@ -1391,19 +1301,19 @@
         ]
       },
       {
-        "s": "ASX:SKS",
+        "s": "ASX:SMC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:SMG",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "ASX:SNV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:SPX",
         "f": [
           "no longer trading"
         ]
@@ -1433,15 +1343,15 @@
         ]
       },
       {
-        "s": "ASX:SST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:ST8",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:STL",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1529,19 +1439,13 @@
         ]
       },
       {
-        "s": "ASX:TMK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:TML",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:TOM",
+        "s": "ASX:TPO",
         "f": [
           "no longer trading"
         ]
@@ -1559,6 +1463,12 @@
         ]
       },
       {
+        "s": "ASX:TTA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:TW8",
         "f": [
           "empty symbol"
@@ -1568,12 +1478,6 @@
         "s": "ASX:VC8",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:VELCP",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1589,6 +1493,12 @@
         ]
       },
       {
+        "s": "ASX:VGLDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:VIA",
         "f": [
           "no longer trading"
@@ -1601,13 +1511,7 @@
         ]
       },
       {
-        "s": "ASX:VIG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:VIP",
+        "s": "ASX:VII",
         "f": [
           "no longer trading"
         ]
@@ -1638,12 +1542,6 @@
         ]
       },
       {
-        "s": "ASX:WBAPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:WF8",
         "f": [
           "empty symbol"
@@ -1653,6 +1551,12 @@
         "s": "ASX:WHFPA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:WLEN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1668,6 +1572,18 @@
         ]
       },
       {
+        "s": "ASX:WOF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:XPD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:XTV",
         "f": [
           "no longer trading"
@@ -1680,7 +1596,7 @@
         ]
       },
       {
-        "s": "ASX:YTMBOQ",
+        "s": "ASX:YTMDX1",
         "f": [
           "no longer trading"
         ]
@@ -1698,19 +1614,19 @@
         ]
       },
       {
-        "s": "ASX:YTMGPT",
+        "s": "ASX:YTMF07",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:YTMIPL",
+        "s": "ASX:YTMMG1",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:YTMMQG",
+        "s": "ASX:YTMMGR",
         "f": [
           "no longer trading"
         ]
@@ -1756,6 +1672,916 @@
         "s": "ASX:ZTA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.ALUMINUM",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.COMMODITY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.CONSTRUCTION.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.DIVERSIFIED.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.FOREST.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.GOLD",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.INTEGRATED.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.MINING.SUPPORT.SERVICES.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.NON.PAPER.CONTAINERS.PACKAGING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.PAPER.PACKAGING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.PAPER.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.PRECIOUS.METALS.MINERALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.SPECIALTY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.SPECIALTY.MINING.METALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:BASIC.MATERIALS.STEEL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.ADVERTISING.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.APPLIANCES.TOOLS.HOUSEWARES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.AUTO.TRUCK.MANUFACTURERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.AUTO.TRUCK.MOTORCYCLE.PARTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.AUTO.VEHICLES.PARTS.SERVICE.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.BROADCASTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.CASINOS.GAMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.COMPUTER.ELECTRONICS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.CONSUMER.PUBLISHING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.DEPARTMENT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.DISCOUNT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.ENTERTAINMENT.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.HOME.FURNISHINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.HOME.FURNISHINGS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.HOME.IMPROVEMENT.PRODUCTS.SERVICES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.HOMEBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.HOTELS.MOTELS.CRUISE.LINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.LEISURE.RECREATION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.OTHER.SPECIALTY.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.RECREATIONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.RESTAURANTS.BARS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.TEXTILES.LEATHER.GOODS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.TIRES.RUBBER.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.BREWERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.DISTILLERS.WINERIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.DRUG.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.FISHING.FARMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.FOOD.RETAIL.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:CONSUMER.NON.CYCLICALS.PERSONAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.COAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.INTEGRATED.OIL.GAS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.OIL.GAS.DRILLING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.OIL.RELATED.SERVICES.AND.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.RENEWABLE.ENERGY.EQUIPMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.RENEWABLE.FUELS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:ENERGY.URANIUM",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.CLOSED.END.FUNDS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.COMMERCIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.CONSUMER.LENDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.CORPORATE.FINANCIAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.DIVERSIFIED.INVESTMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.DIVERSIFIED.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.FINANCIAL.COMMODITY.MARKET.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.HOLDING.COMPANIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.INVESTMENT.BANKING.BROKERAGE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.INVESTMENT.TRUSTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.LIFE.HEALTH.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.MULTILINE.INSURANCE.BROKERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.PROPERTY.CASUALTY.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.REAL.ESTATE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.REINSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.RESIDENTIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:FINANCIALS.SPECIALIZED.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:HEALTHCARE.ADVANCED.MEDICAL.EQUIPMENT.TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:HEALTHCARE.MEDICAL.EQUIPMENT.SUPPLIES.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:HEALTHCARE.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.AEROSPACE.DEFENSE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.AIRPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.BUSINESS.SUPPORT.SUPPLIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.COMMERCIAL.PRINTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.ELECTRICAL.COMPONENTS.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.EMPLOYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.ENVIRONMENTAL.SERVICES.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.GROUND.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.HEAVY.ELECTRICAL.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.HEAVY.MACHINERY.VEHICLES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.HIGHWAYS.RAIL.TRACKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.PROFESSIONAL.INFORMATION.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:INDUSTRIALS.SHIPBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.COMMUNICATIONS.NETWORKING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.COMPUTER.HARDWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.ELECTRONIC.EQUIPMENTS.PARTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.HOUSEHOLD.ELECTRONICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.INTERNET.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.IT.SERVICES.CONSULTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.SEMICONDUCTORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TECHNOLOGY.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TELECOMMUNICATIONS.SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:UTILITIES.ELECTRIC.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:UTILITIES.INDEPENDENT.POWER.PRODUCERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:UTILITIES.MULTILINE.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:UTILITIES.NATURAL.GAS.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AU:UTILITIES.WATER.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:BASIC.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:CONSUMER.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:CONSUMER.NON.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:ENERGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:FINANCIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:HEALTHCARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:INDUSTRIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_AU:UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
         ]
       }
     ]

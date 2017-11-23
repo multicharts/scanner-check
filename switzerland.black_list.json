@@ -1,7 +1,37 @@
 {
     "black_list": [
       {
+        "s": "SIX:AAPL.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:ADJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ALLN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ALPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ALSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ALTN.USD",
         "f": [
           "empty symbol"
         ]
@@ -10,6 +40,72 @@
         "s": "SIX:AMS",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:BA.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BABA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BAER",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BALN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BBDB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BCGE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BEI.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BIDU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BLKB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BMW.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:BMW3",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -25,6 +121,66 @@
         ]
       },
       {
+        "s": "SIX:BRKN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:C.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:CADN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:COMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:CONT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:CONT.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:CPEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DESN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DTE.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DWNI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:EBAY",
         "f": [
           "test symbol"
@@ -37,6 +193,12 @@
         ]
       },
       {
+        "s": "SIX:ELMN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:ENEL",
         "f": [
           "test symbol"
@@ -45,6 +207,7 @@
       {
         "s": "SIX:ENI",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -55,7 +218,85 @@
         ]
       },
       {
+        "s": "SIX:FEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:FNTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GBF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GEBNE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GLKBN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GOB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GOLI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:GSK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:HAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:HEN3.EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:HLE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:HOT",
         "f": [
           "empty symbol"
         ]
@@ -67,7 +308,109 @@
         ]
       },
       {
+        "s": "SIX:ING",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:INTC.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:IPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:IREN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ISP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ISRG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:JKS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:JNJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:KCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:KG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:KMY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:KNIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:KO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:LHA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:LHN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:LIFE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:LLOY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:LVS",
         "f": [
           "empty symbol"
         ]
@@ -79,9 +422,39 @@
         ]
       },
       {
+        "s": "SIX:MBTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MCD.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:MLP",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:MMB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -91,13 +464,50 @@
         ]
       },
       {
+        "s": "SIX:MRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:MSFT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:NOKIA",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
       {
+        "s": "SIX:NOMU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:NOVOB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:NXU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:O2C",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:O2D",
         "f": [
           "empty symbol"
         ]
@@ -109,9 +519,51 @@
         ]
       },
       {
+        "s": "SIX:OR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:OSR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:P1Z",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:PEDU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:PG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:PUM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:SAP",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:SCHN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -121,7 +573,55 @@
         ]
       },
       {
+        "s": "SIX:SHLTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:SKB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SMHN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SOFB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SPCE.USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SPSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:TEMN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:TWTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:TWTR.USD",
         "f": [
           "empty symbol"
         ]
@@ -133,9 +633,21 @@
         ]
       },
       {
+        "s": "SIX:V",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:VALE",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:VILN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -145,9 +657,63 @@
         ]
       },
       {
+        "s": "SIX:WAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:WDI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:WKBN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:WMN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:XOM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SIX:YELP",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:ZC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ZG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ZUGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ZURN",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

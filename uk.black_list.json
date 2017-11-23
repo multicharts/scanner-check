@@ -36,6 +36,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.FOREST.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_UK:BASIC.MATERIALS.GOLD",
         "f": [
           "no longer trading",
@@ -44,13 +51,6 @@
       },
       {
         "s": "INDUSTRY_UK:BASIC.MATERIALS.GOLD.MINING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:BASIC.MATERIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
         "f": [
           "no longer trading",
           "price null"
@@ -113,13 +113,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:BASIC.MATERIALS.WOOD.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:CAPITAL.GOODS.CEMENT.CONCRETE.MANUFACTURING",
         "f": [
           "no longer trading",
@@ -127,35 +120,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.ENGINEERING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CAPITAL.GOODS.HEATING.VENTILATION.AIR.CONDITIONING.SYSTEMS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CAPITAL.GOODS.HOME.FURNISHINGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:CAPITAL.GOODS.HOMEBUILDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CAPITAL.GOODS.OIL.RELATED.SERVICES.AND.EQUIPMENT",
         "f": [
           "no longer trading",
           "price null"
@@ -176,28 +141,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.AUTO.TRUCK.MOTORCYCLE.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOME.FURNISHINGS.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOUSEHOLD.ELECTRONICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.TOYS.JUVENILE.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
@@ -393,14 +337,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.ANIMAL.SLAUGHTERING.PROCESSING",
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.CARBONATED.SOFT.DRINKS",
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.ANIMAL.SLAUGHTERING.PROCESSING",
         "f": [
           "no longer trading",
           "price null"
@@ -414,21 +358,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.COMMERCIAL.PRINTING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.DAIRY.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.DISTILLERS.WINERIES",
         "f": [
           "no longer trading",
           "price null"
@@ -596,21 +526,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:ENERGY.UNCONVENTIONAL.OIL.GAS.DRILLING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:FINANCIAL.BANKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.CLOSED.END.FUNDS",
         "f": [
           "no longer trading",
           "price null"
@@ -624,77 +540,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:FINANCIAL.CONSUMER.LENDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.FINANCIAL.COMMODITY.MARKET.OPERATORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.HEALTHCARE.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.MANAGEMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.TRUSTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:FINANCIAL.LIFE.HEALTH.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.LIFE.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.MULTILINE.INSURANCE.BROKERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.PERSONAL.CAR.LOANS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:FINANCIAL.VENTURE.CAPITAL",
         "f": [
           "no longer trading",
           "price null"
@@ -890,20 +736,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:HEALTHCARE.SPECIALTY.ADVANCED.PHARMACEUTICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:HEALTHCARE.VETERINARY.DRUGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:INDUSTRIALS.AEROSPACE.DEFENSE",
         "f": [
           "no longer trading",
@@ -1051,49 +883,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:SERVICES.ADVERTISING.MARKETING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.BROADCASTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.CASINOS.GAMING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:SERVICES.FOOD.RETAIL.DISTRIBUTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.FUNERAL.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.HORSE.DOG.RACE.TRACKS",
         "f": [
           "no longer trading",
           "price null"
@@ -1121,42 +911,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:SERVICES.LEISURE.RECREATION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.MAINTENANCE.REPAIR.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.MANAGEMENT.CONSULTING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.MEN.S.APPAREL.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:SERVICES.OIL.GAS.REFINING.AND.MARKETING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.OTHER.SPECIALTY.RETAILERS",
         "f": [
           "no longer trading",
           "price null"
@@ -1170,13 +925,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:SERVICES.PUBS.BARS.NIGHT.CLUBS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:SERVICES.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
         "f": [
           "no longer trading",
@@ -1184,42 +932,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:SERVICES.REAL.ESTATE.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.RESIDENTIAL.REAL.ESTATE.DEVELOPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.RETAIL.REAL.ESTATE.DEVELOPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:SERVICES.SUPERMARKETS.CONVENIENCE.STORES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.TOBACCO",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:SERVICES.TOYS.GAMES.RETAILERS",
         "f": [
           "no longer trading",
           "price null"
@@ -1248,13 +961,6 @@
       },
       {
         "s": "INDUSTRY_UK:TECHNOLOGY.ELECTRONIC.EQUIPMENTS.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:TECHNOLOGY.ELECTRONIC.REPAIR.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -1345,20 +1051,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_UK:TRANSPORTATION.COMMERCIAL.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:TRANSPORTATION.COMMUTING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_UK:TRANSPORTATION.DEEP.SEA.FREIGHT",
         "f": [
           "no longer trading",
@@ -1374,13 +1066,6 @@
       },
       {
         "s": "INDUSTRY_UK:TRANSPORTATION.MARINE.PORT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_UK:TRANSPORTATION.PORT.OPERATORS",
         "f": [
           "no longer trading",
           "price null"

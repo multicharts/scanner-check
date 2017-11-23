@@ -1,7 +1,3578 @@
 {
     "black_list": [
       {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.ALUMINUM",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.COMMODITY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.CONSTRUCTION.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.COPPER.ORE.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.DIAMOND.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.DIVERSIFIED.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.DIVERSIFIED.TRADING.DISTRIBUTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.ELEVATOR.CONVEYING.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.GOLD",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.GOLD.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.INDUSTRIAL.MOULDS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.INTEGRATED.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.IRON.ORE.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.IRON.STEEL.MILLS.FOUNDRIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.METAL.SERVICE.CENTERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.PAPER.PACKAGING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.PAPER.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.PLASTIC.CONTAINER.PACKAGING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.PLATINUM.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.PLUMBING.FIXTURES.FITTINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.SPECIALTY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.SPECIALTY.MINING.METALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.STEEL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:BASIC.MATERIALS.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.AEROSPACE.DEFENSE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.AIRCRAFT.PARTS.MANUFACTURING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CEMENT.CONCRETE.MANUFACTURING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.COMMERCIAL.AIRCRAFT.MANUFACTURING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.MATERIAL.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.MATERIAL.WHOLESALE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.SUPPLIES.FIXTURES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.CONSTRUCTION.SUPPLIES.FIXTURES.WHOLESALE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.FLOORING.INTERIOR.TILE.MANUFACTURERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.FLUID.POWER.CYLINDER.ACTUATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.HEALTHCARE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.HEATING.VENTILATION.AIR.CONDITIONING.SYSTEMS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.HIGHWAY.BRIDGE.CONSTRUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.HOME.FURNISHINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.HOMEBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.INDUSTRIAL.MACHINERY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.INDUSTRIAL.MACHINERY.EQUIPMENT.WHOLESALE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.INDUSTRIAL.PROCESS.FURNACE.OVENS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.OIL.RELATED.SERVICES.AND.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.PURIFICATION.TREATMENT.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.RESIDENTIAL.BUILDERS.SINGLE.HOMES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.RESIDENTIAL.REAL.ESTATE.DEVELOPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.STEEL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CAPITAL.GOODS.TESTING.MEASURING.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.APPAREL.ACCESSORIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.AUTO.TRUCK.MANUFACTURERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.AUTO.TRUCK.MOTORCYCLE.PARTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.AUTOMATIC.VENDING.MACHINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.FURNITURE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOME.FURNISHINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOME.FURNISHINGS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOUSEHOLD.APPLIANCES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.HOUSEHOLD.ELECTRONICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.PASSENGER.CAR.RENTAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.PHOTOGRAPHIC.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.TEXTILES.LEATHER.GOODS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICAL.TOYS.JUVENILE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.BROADCASTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.ENTERTAINMENT.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.FOOTWEAR",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.HOMEBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.LEISURE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.CYCLICALS.SPECIALTY.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.ANIMAL.SLAUGHTERING.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.CARBONATED.SOFT.DRINKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.COFFEE.TEA",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.COMMERCIAL.PRINTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.DAIRY.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.DISTILLERS.WINERIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.FISHING.FARMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.FOOD.INGREDIENTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.FOREST.NURSERIES.GATHERING.OF.FOREST.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.FRUIT.VEGETABLE.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.HOUSEHOLD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.NON.ALCOHOLIC.BEVERAGES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.PERSONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.POULTRY.FARMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.READY.MADE.MEALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.STARCH.VEGETABLE.FAT.OIL.MANUFACTURING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.TOBACCO",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICAL.WINERIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICALS.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICALS.HOUSEHOLD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICALS.PERSONAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:CONSUMER.NON.CYCLICALS.TOBACCO",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.COAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.GEOPHYSICAL.SURVEYING.MAPPING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.INTEGRATED.OIL.GAS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.EXPLORATION.PRODUCTION.ONSHORE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.GAS.DRILLING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.RELATED.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.OIL.RELATED.SERVICES.AND.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.PUMP.PUMPING.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.RENEWABLE.FUELS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:ENERGY.UNCONVENTIONAL.OIL.GAS.DRILLING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.CLOSED.END.FUNDS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.COMMERCIAL.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.COMMERCIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.CONSUMER.LEASING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.CONSUMER.LENDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.CORPORATE.FINANCIAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.DIVERSIFIED.INVESTMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.FINANCIAL.COMMODITY.MARKET.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.HEALTHCARE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.HEDGE.FUNDS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.HOLDING.COMPANIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INSURANCE.AUTOMOBILE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INSURANCE.BROKERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INTEGRATED.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.BANKING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.BANKING.BROKERAGE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.MANAGEMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.INVESTMENT.TRUSTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.LIFE.HEALTH.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.LIFE.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.MULTILINE.INSURANCE.BROKERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.PERSONAL.CAR.LOANS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.PRIVATE.EQUITY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.PROPERTY.CASUALTY.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.RETAIL.MORTGAGE.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.SECURITIES.COMMODITY.EXCHANGES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.TRANSACTION.PAYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIAL.VENTURE.CAPITAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIALS.REAL.ESTATE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:FINANCIALS.REINSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.BIO.THERAPEUTIC.DRUGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.GENERIC.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.HOSPITALS.CLINICS.PRIMARY.CARE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.INDUSTRIAL.PARTS.COMPONENTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.MEDICAL.DEVICES.IMPLANTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.MEDICAL.EQUIPMENT.SUPPLIES.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.MEDICAL.IMAGING.SYSTEMS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.RETIREMENT.HOME.BUILDERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.SPECIALTY.ADVANCED.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.SPECIALTY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:HEALTHCARE.VETERINARY.DRUGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.AIRPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.COMMERCIAL.PRINTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.EMPLOYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.HEAVY.ELECTRICAL.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:INDUSTRIALS.MARINE.PORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.ADVERTISING.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.AIR.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.APPAREL.ACCESSORIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.APPAREL.ACCESSORIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.AUTO.VEHICLES.PARTS.SERVICE.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.BOOK.MAGAZINE.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.BROADCASTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.BUILDER.MERCHANTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.CASINOS.GAMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.EQUIPMENT.RENTAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.FOOD.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.LEASING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.PRINTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMMERCIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.COMPUTER.ELECTRONICS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.CONSUMER.PUBLISHING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.CRUISE.LINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.DEPARTMENT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.DIRECT.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.DISCOUNT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.E.COMMERCE.AUCTION.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.EMPLOYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.ENTERTAINMENT.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.ENVIRONMENTAL.CONSULTANCY.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.EXECUTIVE.SEARCH.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.EXHIBITION.CONFERENCE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FINANCIAL.INFORMATION.PROVIDERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FLOOR.COVERING.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FOOD.RETAIL.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FOOTWEAR.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.FUNERAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.GIFT.NOVELTY.SOUVENIR.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.GROUND.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.GYMS.FITNESS.AND.SPA.CENTERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HEALTHCARE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HOLDING.COMPANIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HOME.IMPROVEMENT.PRODUCTS.SERVICES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HORSE.DOG.RACE.TRACKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HOSPITALITY.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HOTELS.MOTELS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.HOTELS.MOTELS.CRUISE.LINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INDUSTRIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INTERNET.MAIL.ORDER.DEPARTMENT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INTERNET.MAIL.ORDER.DISCOUNT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.INTERNET.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.LEISURE.RECREATION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.MAGAZINE.PUBLISHING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.MAINTENANCE.REPAIR.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.MANAGEMENT.CONSULTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.MEN.S.APPAREL.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.MULTILINE.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.NEW.CAR.DEALERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.NEWSPAPER.PUBLISHING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.OFFICE.REAL.ESTATE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.OFFICE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.OTHER.SPECIALTY.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.OUTDOOR.ADVERTISING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.PERSONAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.PET.PET.SUPPLIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.PROFESSIONAL.INFORMATION.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.PROPERTY.CASUALTY.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.PUBS.BARS.NIGHT.CLUBS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.QUICK.SERVICE.RESTAURANTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.REAL.ESTATE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.RESIDENTIAL.REAL.ESTATE.DEVELOPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.RESIDENTIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.RESTAURANTS.BARS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.RETAIL.REAL.ESTATE.DEVELOPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.RETAIL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SALES.PROMOTIONS.EVENTS.MANAGEMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SATELLITE.SERVICE.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SELF.STORAGE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SPORTING.GOODS.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SPORTS.OUTDOORS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.SUPERMARKETS.CONVENIENCE.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.TOBACCO",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.TOYS.GAMES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.USED.CAR.DEALERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.WASTE.MANAGEMENT.DISPOSAL.RECYCLING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.WIRELESS.TELECOM",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.CASINOS.GAMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.COMMUNICATIONS.NETWORKING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.COMPUTER.ELECTRONICS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.COMPUTER.HARDWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.DIGITAL.MEDIA.AGENCIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.EDUCATIONAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.ELECTRIC.EQUIPMENT.WHOLESALE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.ELECTRICAL.COMPONENTS.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.ELECTRONIC.REPAIR.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.ENTERPRISE.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.HEAVY.ELECTRICAL.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.HEAVY.MACHINERY.VEHICLES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.INTERNET.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.IT.SERVICES.CONSULTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.LAPTOP.DESKTOP.COMPUTERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.LIGHTING.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.OFFICE.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.OFFICE.TECHNOLOGY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.PHONES.HANDHELD.DEVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.PHONES.SMART.PHONES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.PHOTOVOLTAIC.SOLAR.SYSTEMS.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.PROCESSORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.SEMICONDUCTORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.TECHNOLOGY.CONSULTING.OUTSOURCING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.TOYS.JUVENILE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TECHNOLOGY.TRANSACTION.PAYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TELECOMMUNICATIONS.SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.AIR.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.AIRPORT.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.AIRPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.COMMERCIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.COMMUTER.FERRY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.COMMUTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.DEEP.SEA.FREIGHT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.GROUND.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.MARINE.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.MARINE.PORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.PORT.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.RAIL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.RENEWABLE.ENERGY.EQUIPMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.SELF.STORAGE.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:TRANSPORTATION.WASTE.MANAGEMENT.DISPOSAL.RECYCLING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:UTILITIES.ELECTRIC.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:UTILITIES.FOSSIL.FUEL.ELECTRIC.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:UTILITIES.MULTILINE.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_UK:UTILITIES.WATER.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "LSE:05IS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0BD2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0BD3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0C2F",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0CT7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0CT8",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DN0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DTY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DVL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DVY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0DYV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0E2L",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0E2O",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0E5J",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EFB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EFP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EI7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EJ1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EL6",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EMW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0ENB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0ET0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EY1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EYI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0EYX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0F77",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0FC3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0FGF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0FJQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0FUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0FXO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0G18",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0G37",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0GDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0GJV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0GYX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HDY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HF5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HJY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HL3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HLI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HT9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0HY6",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0I52",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0IQ8",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0ITY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0IWB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0J3J",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0J5V",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0J9R",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JF1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JFX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JM9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JML",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0JO1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0K35",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0KAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0KBW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0KVG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0KYW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LOQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LQE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LUU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LVS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LVU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0LYI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0M8Q",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MCU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MDF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MI7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MIG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MK9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MUI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MWA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MWG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MWY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MYJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0MZ1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0N2P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0N64",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0N7Q",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0N9Q",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NA1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NBW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NCM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NCN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NCQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NGL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NJS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NO3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NTJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NX6",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NZ2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0NZV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O23",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O2G",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O3K",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O4L",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O4T",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O6O",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O6T",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0O8N",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OA1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OAB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OB2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OBD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OBG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OBK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OCA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OEP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OFD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OFQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OFX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OKV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OKX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0ONC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OPL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0OPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0P0U",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0P26",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0P4A",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0P5M",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0P5Q",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q22",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q25",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q4V",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q5S",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q61",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q62",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0Q78",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QB2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QEO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QH7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QJI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QL3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QP9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QQS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QS1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QSQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0QVO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0R22",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0R5P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0R8J",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RA0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RA3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RAW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RAZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RBM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RC0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RCT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RFN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RJ9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RMJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RMX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RN7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RN9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RNE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RO9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RPE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RPF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RPQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RQ3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RQL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RQU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RQX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RQZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RR1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RR2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RRX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RS0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RS1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RS4",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RS5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RS7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RSZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT4",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT8",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RT9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RTM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RTQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RU1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:0RUX",
         "f": [
           "empty symbol"
         ]
@@ -44,6 +3615,12 @@
       },
       {
         "s": "LSE:32QX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:33KE",
         "f": [
           "no longer trading"
         ]
@@ -134,6 +3711,12 @@
       },
       {
         "s": "LSE:42CL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:42KU",
         "f": [
           "empty symbol"
         ]
@@ -279,8 +3862,7 @@
       {
         "s": "LSE:61HE",
         "f": [
-          "no longer trading",
-          "price null"
+          "no longer trading"
         ]
       },
       {
@@ -440,6 +4022,12 @@
         ]
       },
       {
+        "s": "LSE:82HP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:85GU",
         "f": [
           "no longer trading"
@@ -524,6 +4112,12 @@
         ]
       },
       {
+        "s": "LSE:94PF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:96LE",
         "f": [
           "empty symbol"
@@ -572,7 +4166,13 @@
         ]
       },
       {
-        "s": "LSE:ADAM",
+        "s": "LSE:ADA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ADN",
         "f": [
           "no longer trading"
         ]
@@ -590,6 +4190,48 @@
         ]
       },
       {
+        "s": "LSE:AGIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AGIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AGIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AGID",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AGIE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AGRE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:AGRG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:AGRY",
         "f": [
           "no longer trading"
@@ -602,7 +4244,31 @@
         ]
       },
       {
+        "s": "LSE:ALUE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ALUG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:ALUU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:AMGR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:AOFC",
         "f": [
           "no longer trading"
         ]
@@ -674,12 +4340,6 @@
         ]
       },
       {
-        "s": "LSE:BCRE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:BD15",
         "f": [
           "no longer trading"
@@ -710,9 +4370,21 @@
         ]
       },
       {
+        "s": "LSE:BG04",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:BG79",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:BHME",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -728,13 +4400,25 @@
         ]
       },
       {
+        "s": "LSE:BKIR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:BKMA",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:BLEY",
+        "s": "LSE:BMTO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:BMV",
         "f": [
           "no longer trading"
         ]
@@ -753,13 +4437,37 @@
         ]
       },
       {
+        "s": "LSE:BQ30",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:BSD",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "LSE:BZP211481049_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:CEIA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CEPS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CFR",
         "f": [
           "no longer trading"
         ]
@@ -771,19 +4479,73 @@
         ]
       },
       {
-        "s": "LSE:CGP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:CGVA",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "LSE:CH1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:CHF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CHOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CLCC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CLCN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:CMCE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CMCG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CMDE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CMDG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CMDJ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CMEU",
         "f": [
           "no longer trading"
         ]
@@ -795,7 +4557,49 @@
         ]
       },
       {
+        "s": "LSE:COCE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:COCG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:COCU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:CRND",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CRNE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CRNG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CRNU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CRRY",
         "f": [
           "no longer trading"
         ]
@@ -807,7 +4611,13 @@
         ]
       },
       {
-        "s": "LSE:DAT",
+        "s": "LSE:CURY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:DCD",
         "f": [
           "no longer trading"
         ]
@@ -826,12 +4636,6 @@
       },
       {
         "s": "LSE:DP2D",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:DP2F",
         "f": [
           "no longer trading"
         ]
@@ -861,19 +4665,7 @@
         ]
       },
       {
-        "s": "LSE:DP3H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:DP3J",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:DRIP",
         "f": [
           "no longer trading"
         ]
@@ -891,6 +4683,30 @@
         ]
       },
       {
+        "s": "LSE:DWCG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ECHO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:EDGH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:EDV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:EGI",
         "f": [
           "no longer trading"
@@ -903,13 +4719,37 @@
         ]
       },
       {
-        "s": "LSE:EIH",
+        "s": "LSE:EGS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:EML",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "LSE:ENDV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ENER",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ENRE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ENRG",
         "f": [
           "no longer trading"
         ]
@@ -927,7 +4767,31 @@
         ]
       },
       {
+        "s": "LSE:ERET",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ESSE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ESSG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:ESSU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FCIC",
         "f": [
           "no longer trading"
         ]
@@ -945,9 +4809,111 @@
         ]
       },
       {
-        "s": "LSE:FHP",
+        "s": "LSE:FLEE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FLEG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FLEU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FOOD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FOOE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FOOG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FR0010318998_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010318998_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010358887_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010358887_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010413294_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010413294_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010413310_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010413310_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010444794_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0010444794_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0012647428_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:FR0012647428_USD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -964,6 +4930,12 @@
       },
       {
         "s": "LSE:FTSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:FTSV",
         "f": [
           "no longer trading"
         ]
@@ -999,6 +4971,12 @@
         ]
       },
       {
+        "s": "LSE:GB0031809436_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:GB00B013M672_GBX",
         "f": [
           "empty symbol"
@@ -1006,6 +4984,12 @@
       },
       {
         "s": "LSE:GB00B06QGC57_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B0GN3470_GBX",
         "f": [
           "empty symbol"
         ]
@@ -1029,6 +5013,12 @@
         ]
       },
       {
+        "s": "LSE:GB00B1G3RY22_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:GB00B1TYBN97_GBX",
         "f": [
           "empty symbol"
@@ -1042,6 +5032,96 @@
       },
       {
         "s": "LSE:GB00B1XHM086_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B28YJT91_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B28YJW21_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B3Q98K71_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B4TR3444_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B4WLXD25_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B6R2SJ50_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B70H4W96_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B70H4X04_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B7CY0Y21_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B7ZMSH21_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00B8N4X271_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00BLNN3L44_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00BQY7BX88_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GB00BYXD4566_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GCLA",
         "f": [
           "empty symbol"
         ]
@@ -1071,6 +5151,78 @@
         ]
       },
       {
+        "s": "LSE:GG00BDC40227_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BDCSC847_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BDH6YY34_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BF00L128_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BF00L672_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BF2N2B64_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BF5L9164_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BF7LFN84_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BY7QK538_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BYP25X61_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GG00BYVZ1647_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:GINV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:GIPO",
         "f": [
           "no longer trading"
@@ -1083,13 +5235,37 @@
         ]
       },
       {
-        "s": "LSE:HAYT",
+        "s": "LSE:GLDE",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:HER",
+        "s": "LSE:GLDG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:GLOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:GMRB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:HAL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:HAYT",
         "f": [
           "no longer trading"
         ]
@@ -1119,13 +5295,13 @@
         ]
       },
       {
-        "s": "LSE:HPAC",
+        "s": "LSE:HR1A",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:HR1A",
+        "s": "LSE:HR1O",
         "f": [
           "no longer trading"
         ]
@@ -1138,6 +5314,18 @@
       },
       {
         "s": "LSE:HR2O",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:HUW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:HVTB",
         "f": [
           "no longer trading"
         ]
@@ -1179,6 +5367,12 @@
         ]
       },
       {
+        "s": "LSE:IE00BZ0YPY56_EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:IE1G",
         "f": [
           "empty symbol"
@@ -1209,6 +5403,24 @@
         ]
       },
       {
+        "s": "LSE:IKK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:IMG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:INDE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:INDG",
         "f": [
           "no longer trading"
@@ -1221,6 +5433,12 @@
         ]
       },
       {
+        "s": "LSE:INFT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:ITQA",
         "f": [
           "empty symbol"
@@ -1228,12 +5446,6 @@
       },
       {
         "s": "LSE:ITQB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:IVOA",
         "f": [
           "empty symbol"
         ]
@@ -1269,6 +5481,24 @@
         ]
       },
       {
+        "s": "LSE:JE00BJT32513_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:JHDA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:JPM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:JPRL",
         "f": [
           "no longer trading"
@@ -1281,9 +5511,15 @@
         ]
       },
       {
-        "s": "LSE:KIN",
+        "s": "LSE:JPSZ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:KKB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1293,7 +5529,19 @@
         ]
       },
       {
+        "s": "LSE:KUBC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:KYG2294M1050_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:KYG5897M2086_GBX",
         "f": [
           "empty symbol"
         ]
@@ -1312,6 +5560,18 @@
       },
       {
         "s": "LSE:LCOU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:LIVD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:LIVE",
         "f": [
           "no longer trading"
         ]
@@ -1377,12 +5637,6 @@
         ]
       },
       {
-        "s": "LSE:LSC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:LTHP",
         "f": [
           "no longer trading"
@@ -1395,6 +5649,12 @@
         ]
       },
       {
+        "s": "LSE:LU0666581391_GBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:LVSG",
         "f": [
           "no longer trading"
@@ -1402,18 +5662,6 @@
       },
       {
         "s": "LSE:MARL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:MASA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:MAW",
         "f": [
           "no longer trading"
         ]
@@ -1461,9 +5709,9 @@
         ]
       },
       {
-        "s": "LSE:MLVN",
+        "s": "LSE:MKTA",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1479,13 +5727,31 @@
         ]
       },
       {
+        "s": "LSE:MSUE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:MSUG",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:MXCR",
+        "s": "LSE:MSUU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NATE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NATG",
         "f": [
           "no longer trading"
         ]
@@ -1498,6 +5764,24 @@
       },
       {
         "s": "LSE:NBB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NCA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NEP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NHY",
         "f": [
           "no longer trading"
         ]
@@ -1521,7 +5805,13 @@
         ]
       },
       {
-        "s": "LSE:NTLG",
+        "s": "LSE:NSI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:NWIG",
         "f": [
           "no longer trading"
         ]
@@ -1545,12 +5835,6 @@
         ]
       },
       {
-        "s": "LSE:O006",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:O007",
         "f": [
           "no longer trading"
@@ -1564,12 +5848,6 @@
       },
       {
         "s": "LSE:O010",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:O011",
         "f": [
           "no longer trading"
         ]
@@ -1629,12 +5907,6 @@
         ]
       },
       {
-        "s": "LSE:O026",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:O027",
         "f": [
           "empty symbol"
@@ -1662,12 +5934,6 @@
         "s": "LSE:O031",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:O032",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1773,12 +6039,6 @@
         ]
       },
       {
-        "s": "LSE:O056",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:O057",
         "f": [
           "no longer trading"
@@ -1858,12 +6118,6 @@
       },
       {
         "s": "LSE:O072",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:O073",
         "f": [
           "no longer trading"
         ]
@@ -2087,12 +6341,6 @@
       },
       {
         "s": "LSE:OBSX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:OBXX",
         "f": [
           "empty symbol"
         ]
@@ -2500,6 +6748,12 @@
         ]
       },
       {
+        "s": "LSE:OILL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:OINS",
         "f": [
           "empty symbol"
@@ -2578,12 +6832,6 @@
         ]
       },
       {
-        "s": "LSE:OLY0",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OLY1",
         "f": [
           "empty symbol"
@@ -2609,6 +6857,12 @@
       },
       {
         "s": "LSE:OLY6",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:OLY7",
         "f": [
           "empty symbol"
         ]
@@ -2674,6 +6928,12 @@
         ]
       },
       {
+        "s": "LSE:OLYK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:OLYL",
         "f": [
           "empty symbol"
@@ -2681,6 +6941,12 @@
       },
       {
         "s": "LSE:OLYM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:OLYN",
         "f": [
           "empty symbol"
         ]
@@ -2734,21 +7000,9 @@
         ]
       },
       {
-        "s": "LSE:OMSE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OMSF",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:ONL",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2788,13 +7042,19 @@
         ]
       },
       {
-        "s": "LSE:ORE",
+        "s": "LSE:OPPP",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:OSDD",
+        "s": "LSE:ORDS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:ORUS",
         "f": [
           "empty symbol"
         ]
@@ -2884,6 +7144,12 @@
         ]
       },
       {
+        "s": "LSE:OTM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:OTNO",
         "f": [
           "empty symbol"
@@ -2962,19 +7228,7 @@
         ]
       },
       {
-        "s": "LSE:OX3P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OX4P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:OX6P",
         "f": [
           "empty symbol"
         ]
@@ -3058,12 +7312,6 @@
         ]
       },
       {
-        "s": "LSE:OXDP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OXDX",
         "f": [
           "empty symbol"
@@ -3088,12 +7336,6 @@
         ]
       },
       {
-        "s": "LSE:OXH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:OXIP",
         "f": [
           "empty symbol"
@@ -3112,19 +7354,7 @@
         ]
       },
       {
-        "s": "LSE:OXNP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OXOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:OXPP",
         "f": [
           "empty symbol"
         ]
@@ -3148,12 +7378,6 @@
         ]
       },
       {
-        "s": "LSE:OXTP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:OXY4",
         "f": [
           "empty symbol"
@@ -3173,6 +7397,24 @@
       },
       {
         "s": "LSE:PAA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PACL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PCFS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PEBI",
         "f": [
           "no longer trading"
         ]
@@ -3202,6 +7444,12 @@
         ]
       },
       {
+        "s": "LSE:PINR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:PJF",
         "f": [
           "no longer trading"
@@ -3214,9 +7462,21 @@
         ]
       },
       {
-        "s": "LSE:PLZA",
+        "s": "LSE:PLTE",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PLTG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PLTI",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3250,6 +7510,24 @@
         ]
       },
       {
+        "s": "LSE:PREC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PREE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:PREG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:PU11",
         "f": [
           "no longer trading"
@@ -3262,7 +7540,25 @@
         ]
       },
       {
+        "s": "LSE:PUM8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:PUMX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:QIL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:QP.",
         "f": [
           "no longer trading"
         ]
@@ -3274,7 +7570,7 @@
         ]
       },
       {
-        "s": "LSE:REDX",
+        "s": "LSE:RECP",
         "f": [
           "no longer trading"
         ]
@@ -3292,13 +7588,43 @@
         ]
       },
       {
+        "s": "LSE:RMCC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ROC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:RPG",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "LSE:RRE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:RRL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:RTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:RUC2",
         "f": [
           "no longer trading"
         ]
@@ -3334,13 +7660,19 @@
         ]
       },
       {
-        "s": "LSE:SECG",
+        "s": "LSE:SHAA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:SHWE",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:SHWE",
+        "s": "LSE:SILE",
         "f": [
           "no longer trading"
         ]
@@ -3352,9 +7684,27 @@
         ]
       },
       {
+        "s": "LSE:SILU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:SKFA",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:SLE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:SLED",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3376,13 +7726,19 @@
         ]
       },
       {
-        "s": "LSE:SNT",
+        "s": "LSE:SPHR",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:SPHR",
+        "s": "LSE:SPSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:SRON",
         "f": [
           "no longer trading"
         ]
@@ -3418,6 +7774,12 @@
         ]
       },
       {
+        "s": "LSE:SUGE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:SUGG",
         "f": [
           "no longer trading"
@@ -3442,6 +7804,18 @@
         ]
       },
       {
+        "s": "LSE:TAU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:TCF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:TCSA",
         "f": [
           "no longer trading"
@@ -3454,21 +7828,21 @@
         ]
       },
       {
-        "s": "LSE:TGBA",
+        "s": "LSE:TENG",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:THL",
+        "s": "LSE:TETH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:TLA",
+        "s": "LSE:TGBA",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -3520,19 +7894,7 @@
         ]
       },
       {
-        "s": "LSE:TRC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:TRIC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:TRP",
         "f": [
           "no longer trading"
         ]
@@ -3556,9 +7918,69 @@
         ]
       },
       {
+        "s": "LSE:UC24",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC59",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC60",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC61",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC62",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC73",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UC74",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UCDH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:UKT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:US6315121003_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:US817477AC64_USD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -3569,6 +7991,18 @@
       },
       {
         "s": "LSE:USY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:UVEN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VALE",
         "f": [
           "no longer trading"
         ]
@@ -3586,7 +8020,55 @@
         ]
       },
       {
+        "s": "LSE:VNI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VSXG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VSXX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VSXY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VSYG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:WGP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:WHTE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:WHTG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:WHTU",
         "f": [
           "no longer trading"
         ]
@@ -3604,7 +8086,7 @@
         ]
       },
       {
-        "s": "LSE:WTE",
+        "s": "LSE:WSP",
         "f": [
           "no longer trading"
         ]
@@ -3616,13 +8098,37 @@
         ]
       },
       {
+        "s": "LSE:WTMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:WTS",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "LSE:XAHG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:XEM8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:XMEH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:XMET",
         "f": [
           "no longer trading"
         ]
@@ -3634,13 +8140,157 @@
         ]
       },
       {
+        "s": "LSE:XS0628156712_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0660617449_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0684999682_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0833306862_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0846980919_EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0853610748_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0856054886_NOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0856951263_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0856993349_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS0995039806_EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1111691520_GBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1138680589_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1139077892_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1139090648_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1139090994_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1139396219_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1139481672_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1279271206_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1279271388_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1321439272_USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1323022860_ZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1323444775_EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:XS1410518655_EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSE:YMT1",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:ZHEH",
+        "s": "LSE:ZCC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:ZZZ",
         "f": [
           "no longer trading"
         ]
@@ -3659,6 +8309,12 @@
       },
       {
         "s": "LSIN:0AH6",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0AHI",
         "f": [
           "no longer trading"
         ]
@@ -3683,12 +8339,6 @@
       },
       {
         "s": "LSIN:0AVH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0AZP",
         "f": [
           "empty symbol"
         ]
@@ -3766,6 +8416,18 @@
         ]
       },
       {
+        "s": "LSIN:0BQD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0BQE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0C6Y",
         "f": [
           "no longer trading"
@@ -3802,6 +8464,18 @@
         ]
       },
       {
+        "s": "LSIN:0CSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0CX9",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0D20",
         "f": [
           "empty symbol"
@@ -3811,12 +8485,6 @@
         "s": "LSIN:0D21",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0D53",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -3839,12 +8507,6 @@
       },
       {
         "s": "LSIN:0DGZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0DH6",
         "f": [
           "no longer trading"
         ]
@@ -3881,6 +8543,12 @@
       },
       {
         "s": "LSIN:0DIP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0DJN",
         "f": [
           "no longer trading"
         ]
@@ -3937,12 +8605,6 @@
         "s": "LSIN:0DLU",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0DLW",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4007,12 +8669,6 @@
       },
       {
         "s": "LSIN:0DOG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0DOL",
         "f": [
           "no longer trading"
         ]
@@ -4096,12 +8752,6 @@
         ]
       },
       {
-        "s": "LSIN:0DSJ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0DSK",
         "f": [
           "empty symbol"
@@ -4114,15 +8764,15 @@
         ]
       },
       {
-        "s": "LSIN:0DT8",
+        "s": "LSIN:0DT1",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0DTI",
+        "s": "LSIN:0DT8",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -4157,12 +8807,6 @@
       },
       {
         "s": "LSIN:0DUP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0DVL",
         "f": [
           "no longer trading"
         ]
@@ -4228,6 +8872,12 @@
         ]
       },
       {
+        "s": "LSIN:0DZL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0DZO",
         "f": [
           "empty symbol"
@@ -4246,9 +8896,9 @@
         ]
       },
       {
-        "s": "LSIN:0E0Z",
+        "s": "LSIN:0E0C",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4306,15 +8956,15 @@
         ]
       },
       {
-        "s": "LSIN:0E3Q",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0E4C",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0E4J",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4354,12 +9004,6 @@
         ]
       },
       {
-        "s": "LSIN:0E6L",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0E6R",
         "f": [
           "no longer trading"
@@ -4385,6 +9029,12 @@
       },
       {
         "s": "LSIN:0E8A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0E8U",
         "f": [
           "no longer trading"
         ]
@@ -4522,12 +9172,6 @@
         ]
       },
       {
-        "s": "LSIN:0EDZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0EEA",
         "f": [
           "empty symbol"
@@ -4547,6 +9191,12 @@
       },
       {
         "s": "LSIN:0EEZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0EF9",
         "f": [
           "no longer trading"
         ]
@@ -4709,6 +9359,12 @@
         ]
       },
       {
+        "s": "LSIN:0EKA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0EKF",
         "f": [
           "no longer trading"
@@ -4734,12 +9390,6 @@
       },
       {
         "s": "LSIN:0EL9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0ELC",
         "f": [
           "no longer trading"
         ]
@@ -4841,6 +9491,12 @@
         ]
       },
       {
+        "s": "LSIN:0EOF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0EOG",
         "f": [
           "no longer trading"
@@ -4860,6 +9516,12 @@
       },
       {
         "s": "LSIN:0EPR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0EPY",
         "f": [
           "no longer trading"
         ]
@@ -4931,12 +9593,6 @@
         ]
       },
       {
-        "s": "LSIN:0ET5",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0ETH",
         "f": [
           "empty symbol"
@@ -4986,12 +9642,6 @@
       },
       {
         "s": "LSIN:0EWO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0EWR",
         "f": [
           "no longer trading"
         ]
@@ -5090,6 +9740,12 @@
         "s": "LSIN:0EZK",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0F0J",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -5309,6 +9965,12 @@
         ]
       },
       {
+        "s": "LSIN:0F8A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0F8O",
         "f": [
           "no longer trading"
@@ -5507,6 +10169,12 @@
         ]
       },
       {
+        "s": "LSIN:0FGL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0FGM",
         "f": [
           "empty symbol"
@@ -5555,15 +10223,15 @@
         ]
       },
       {
-        "s": "LSIN:0FHQ",
+        "s": "LSIN:0FHO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0FHS",
+        "s": "LSIN:0FHQ",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -5675,13 +10343,13 @@
         ]
       },
       {
-        "s": "LSIN:0FRE",
+        "s": "LSIN:0FQS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0FRI",
+        "s": "LSIN:0FRE",
         "f": [
           "no longer trading"
         ]
@@ -5693,7 +10361,7 @@
         ]
       },
       {
-        "s": "LSIN:0FSJ",
+        "s": "LSIN:0FRW",
         "f": [
           "no longer trading"
         ]
@@ -5702,12 +10370,6 @@
         "s": "LSIN:0FT1",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0FT3",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5747,6 +10409,12 @@
         ]
       },
       {
+        "s": "LSIN:0FUW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0FWF",
         "f": [
           "no longer trading"
@@ -5759,13 +10427,13 @@
         ]
       },
       {
-        "s": "LSIN:0FX5",
+        "s": "LSIN:0FWX",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0FX9",
+        "s": "LSIN:0FX5",
         "f": [
           "no longer trading"
         ]
@@ -5843,6 +10511,12 @@
         ]
       },
       {
+        "s": "LSIN:0G0X",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0G11",
         "f": [
           "empty symbol"
@@ -5885,12 +10559,6 @@
         ]
       },
       {
-        "s": "LSIN:0G33",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0G3R",
         "f": [
           "empty symbol"
@@ -5900,6 +10568,18 @@
         "s": "LSIN:0G3V",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0G3Z",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0G40",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6035,12 +10715,6 @@
         ]
       },
       {
-        "s": "LSIN:0G9T",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0GAI",
         "f": [
           "no longer trading"
@@ -6137,6 +10811,12 @@
         ]
       },
       {
+        "s": "LSIN:0GD5",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0GDC",
         "f": [
           "empty symbol"
@@ -6197,6 +10877,12 @@
         ]
       },
       {
+        "s": "LSIN:0GGK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0GGR",
         "f": [
           "empty symbol"
@@ -6210,12 +10896,6 @@
       },
       {
         "s": "LSIN:0GI5",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0GID",
         "f": [
           "empty symbol"
         ]
@@ -6257,12 +10937,6 @@
         ]
       },
       {
-        "s": "LSIN:0GK2",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0GK6",
         "f": [
           "empty symbol"
@@ -6294,12 +10968,6 @@
       },
       {
         "s": "LSIN:0GLY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0GM9",
         "f": [
           "no longer trading"
         ]
@@ -6383,6 +11051,18 @@
         ]
       },
       {
+        "s": "LSIN:0GP7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0GPE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0GPT",
         "f": [
           "no longer trading"
@@ -6419,12 +11099,6 @@
         ]
       },
       {
-        "s": "LSIN:0GRO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0GS0",
         "f": [
           "empty symbol"
@@ -6432,6 +11106,12 @@
       },
       {
         "s": "LSIN:0GSB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0GSE",
         "f": [
           "no longer trading"
         ]
@@ -6449,18 +11129,6 @@
         ]
       },
       {
-        "s": "LSIN:0GT3",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0GT7",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0GT8",
         "f": [
           "no longer trading"
@@ -6470,12 +11138,6 @@
         "s": "LSIN:0GTA",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0GTI",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -6503,6 +11165,12 @@
         ]
       },
       {
+        "s": "LSIN:0GUO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0GUT",
         "f": [
           "no longer trading"
@@ -6512,12 +11180,6 @@
         "s": "LSIN:0GV0",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0GVE",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -6599,12 +11261,6 @@
         ]
       },
       {
-        "s": "LSIN:0GXK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0GXS",
         "f": [
           "no longer trading"
@@ -6647,6 +11303,12 @@
         ]
       },
       {
+        "s": "LSIN:0GYZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0GZ4",
         "f": [
           "empty symbol"
@@ -6683,19 +11345,7 @@
         ]
       },
       {
-        "s": "LSIN:0H0N",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0H0U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0H14",
         "f": [
           "no longer trading"
         ]
@@ -6722,6 +11372,12 @@
         "s": "LSIN:0H1Q",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0H22",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6780,6 +11436,12 @@
       },
       {
         "s": "LSIN:0HDH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0HDK",
         "f": [
           "no longer trading"
         ]
@@ -6895,7 +11557,7 @@
       {
         "s": "LSIN:0HM0",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -6908,12 +11570,6 @@
         "s": "LSIN:0HMD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0HMM",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -6989,6 +11645,12 @@
         ]
       },
       {
+        "s": "LSIN:0HTF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0HTH",
         "f": [
           "empty symbol"
@@ -7007,21 +11669,9 @@
         ]
       },
       {
-        "s": "LSIN:0HV1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0HVC",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0HW6",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -7235,12 +11885,6 @@
         ]
       },
       {
-        "s": "LSIN:0I7Q",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0I7R",
         "f": [
           "empty symbol"
@@ -7409,6 +12053,12 @@
         ]
       },
       {
+        "s": "LSIN:0IB7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0ICE",
         "f": [
           "empty symbol"
@@ -7451,19 +12101,7 @@
         ]
       },
       {
-        "s": "LSIN:0IDH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0IE6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0IEF",
         "f": [
           "no longer trading"
         ]
@@ -7506,12 +12144,6 @@
       },
       {
         "s": "LSIN:0IGX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0IHQ",
         "f": [
           "no longer trading"
         ]
@@ -7613,12 +12245,6 @@
         ]
       },
       {
-        "s": "LSIN:0ILL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0IM3",
         "f": [
           "no longer trading"
@@ -7634,12 +12260,6 @@
         "s": "LSIN:0IMR",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0IMT",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -7700,12 +12320,6 @@
         "s": "LSIN:0IPL",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0IPY",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -7907,6 +12521,12 @@
         ]
       },
       {
+        "s": "LSIN:0IUV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0IV6",
         "f": [
           "empty symbol"
@@ -7938,12 +12558,6 @@
       },
       {
         "s": "LSIN:0IVC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0IVF",
         "f": [
           "empty symbol"
         ]
@@ -8027,6 +12641,12 @@
         ]
       },
       {
+        "s": "LSIN:0IWU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0IWW",
         "f": [
           "empty symbol"
@@ -8048,6 +12668,12 @@
         "s": "LSIN:0IXE",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0IXL",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -8090,6 +12716,12 @@
         "s": "LSIN:0IYE",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0IYN",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -8160,12 +12792,6 @@
       },
       {
         "s": "LSIN:0IZX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0J00",
         "f": [
           "no longer trading"
         ]
@@ -8285,6 +12911,12 @@
         ]
       },
       {
+        "s": "LSIN:0J2S",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0J2V",
         "f": [
           "empty symbol"
@@ -8387,6 +13019,12 @@
         ]
       },
       {
+        "s": "LSIN:0J5B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0J5V",
         "f": [
           "no longer trading"
@@ -8402,12 +13040,6 @@
         "s": "LSIN:0J6U",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0J6W",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8555,6 +13187,12 @@
         ]
       },
       {
+        "s": "LSIN:0JBJ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0JBK",
         "f": [
           "empty symbol"
@@ -8588,6 +13226,12 @@
         "s": "LSIN:0JCG",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0JCO",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -8627,12 +13271,6 @@
         ]
       },
       {
-        "s": "LSIN:0JDU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0JE5",
         "f": [
           "no longer trading"
@@ -8660,12 +13298,6 @@
         "s": "LSIN:0JEZ",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0JFP",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8748,6 +13380,12 @@
       },
       {
         "s": "LSIN:0JI3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0JII",
         "f": [
           "no longer trading"
         ]
@@ -8933,12 +13571,6 @@
         ]
       },
       {
-        "s": "LSIN:0JR9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0JS9",
         "f": [
           "empty symbol"
@@ -8952,6 +13584,12 @@
       },
       {
         "s": "LSIN:0JSR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0JSU",
         "f": [
           "no longer trading"
         ]
@@ -9089,12 +13727,6 @@
         ]
       },
       {
-        "s": "LSIN:0K02",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0K0S",
         "f": [
           "empty symbol"
@@ -9146,12 +13778,6 @@
         "s": "LSIN:0K2C",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0K2D",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -9275,6 +13901,12 @@
         ]
       },
       {
+        "s": "LSIN:0K6S",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0K73",
         "f": [
           "empty symbol"
@@ -9312,6 +13944,12 @@
       },
       {
         "s": "LSIN:0K9T",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0KA1",
         "f": [
           "no longer trading"
         ]
@@ -9377,12 +14015,6 @@
         ]
       },
       {
-        "s": "LSIN:0KDD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0KDJ",
         "f": [
           "empty symbol"
@@ -9431,15 +14063,15 @@
         ]
       },
       {
-        "s": "LSIN:0KG2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0KGC",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0KGQ",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -9488,12 +14120,6 @@
         "s": "LSIN:0KIE",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0KIF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -9707,6 +14333,12 @@
         ]
       },
       {
+        "s": "LSIN:0L91",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0L9Z",
         "f": [
           "empty symbol"
@@ -9725,13 +14357,13 @@
         ]
       },
       {
-        "s": "LSIN:0LBY",
+        "s": "LSIN:0LCQ",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0LCQ",
+        "s": "LSIN:0LGI",
         "f": [
           "no longer trading"
         ]
@@ -9929,12 +14561,6 @@
         ]
       },
       {
-        "s": "LSIN:0LSE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0LSH",
         "f": [
           "empty symbol"
@@ -9974,6 +14600,12 @@
         "s": "LSIN:0LSS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0LST",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -10199,6 +14831,12 @@
         ]
       },
       {
+        "s": "LSIN:0LV3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0LV4",
         "f": [
           "no longer trading"
@@ -10403,12 +15041,6 @@
         ]
       },
       {
-        "s": "LSIN:0LWU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0LWV",
         "f": [
           "empty symbol"
@@ -10430,6 +15062,12 @@
         "s": "LSIN:0LX0",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0LX3",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -10631,6 +15269,12 @@
         ]
       },
       {
+        "s": "LSIN:0LYR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0LYT",
         "f": [
           "empty symbol"
@@ -10664,6 +15308,12 @@
         "s": "LSIN:0LZ3",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0LZ7",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -10718,6 +15368,12 @@
         "s": "LSIN:0LZK",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0LZL",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -10829,6 +15485,12 @@
         ]
       },
       {
+        "s": "LSIN:0M2T",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0M2X",
         "f": [
           "empty symbol"
@@ -10868,6 +15530,12 @@
         "s": "LSIN:0M4G",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0M4M",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -10943,12 +15611,6 @@
         ]
       },
       {
-        "s": "LSIN:0M6J",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0M6U",
         "f": [
           "empty symbol"
@@ -10987,7 +15649,7 @@
       {
         "s": "LSIN:0M7V",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -11093,6 +15755,12 @@
         ]
       },
       {
+        "s": "LSIN:0MA6",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0MAU",
         "f": [
           "no longer trading"
@@ -11129,21 +15797,9 @@
         ]
       },
       {
-        "s": "LSIN:0MC1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0MC6",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0MCB",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -11156,6 +15812,12 @@
         "s": "LSIN:0MCF",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0MCJ",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -11321,6 +15983,12 @@
         ]
       },
       {
+        "s": "LSIN:0MEL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0MEM",
         "f": [
           "no longer trading"
@@ -11330,6 +15998,12 @@
         "s": "LSIN:0MEO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0MFA",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -11363,9 +16037,21 @@
         ]
       },
       {
+        "s": "LSIN:0MIQ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0MJ4",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0MJ5",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -11489,6 +16175,12 @@
         ]
       },
       {
+        "s": "LSIN:0MMZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0MN1",
         "f": [
           "empty symbol"
@@ -11525,13 +16217,13 @@
         ]
       },
       {
-        "s": "LSIN:0MNP",
+        "s": "LSIN:0MNS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0MNS",
+        "s": "LSIN:0MNT",
         "f": [
           "no longer trading"
         ]
@@ -11612,6 +16304,12 @@
         "s": "LSIN:0MQS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0MQT",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -11747,6 +16445,12 @@
         ]
       },
       {
+        "s": "LSIN:0MTP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0MTZ",
         "f": [
           "no longer trading"
@@ -11756,6 +16460,12 @@
         "s": "LSIN:0MU0",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0MU8",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -11807,12 +16517,6 @@
         ]
       },
       {
-        "s": "LSIN:0MV4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0MV7",
         "f": [
           "empty symbol"
@@ -11838,6 +16542,12 @@
       },
       {
         "s": "LSIN:0MVK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0MVM",
         "f": [
           "no longer trading"
         ]
@@ -12167,12 +16877,6 @@
         ]
       },
       {
-        "s": "LSIN:0N1P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0N1Q",
         "f": [
           "empty symbol"
@@ -12218,6 +16922,12 @@
         "s": "LSIN:0N2K",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0N2Q",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -12276,6 +16986,12 @@
       },
       {
         "s": "LSIN:0N5A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0N5I",
         "f": [
           "no longer trading"
         ]
@@ -12407,6 +17123,12 @@
         ]
       },
       {
+        "s": "LSIN:0N9W",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NA0",
         "f": [
           "no longer trading"
@@ -12467,12 +17189,6 @@
         ]
       },
       {
-        "s": "LSIN:0NB2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0NBA",
         "f": [
           "no longer trading"
@@ -12518,12 +17234,6 @@
         "s": "LSIN:0NBW",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0NC0",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -12683,6 +17393,12 @@
         ]
       },
       {
+        "s": "LSIN:0NF3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NF7",
         "f": [
           "no longer trading"
@@ -12797,6 +17513,12 @@
         ]
       },
       {
+        "s": "LSIN:0NHY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NIB",
         "f": [
           "no longer trading"
@@ -12809,12 +17531,6 @@
         ]
       },
       {
-        "s": "LSIN:0NIK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0NIY",
         "f": [
           "empty symbol"
@@ -12822,6 +17538,12 @@
       },
       {
         "s": "LSIN:0NJ7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0NJB",
         "f": [
           "no longer trading"
         ]
@@ -12848,6 +17570,12 @@
         "s": "LSIN:0NJJ",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0NJK",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -12881,12 +17609,6 @@
         ]
       },
       {
-        "s": "LSIN:0NKH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0NKO",
         "f": [
           "no longer trading"
@@ -12905,6 +17627,12 @@
         ]
       },
       {
+        "s": "LSIN:0NL8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NLO",
         "f": [
           "no longer trading"
@@ -12918,6 +17646,12 @@
       },
       {
         "s": "LSIN:0NLT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0NLV",
         "f": [
           "no longer trading"
         ]
@@ -12960,12 +17694,6 @@
       },
       {
         "s": "LSIN:0NMT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0NMW",
         "f": [
           "no longer trading"
         ]
@@ -13034,6 +17762,12 @@
         "s": "LSIN:0NNV",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0NNY",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -13140,6 +17874,12 @@
       },
       {
         "s": "LSIN:0NQA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0NQJ",
         "f": [
           "no longer trading"
         ]
@@ -13313,6 +18053,18 @@
         ]
       },
       {
+        "s": "LSIN:0NUG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0NUI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NUQ",
         "f": [
           "empty symbol"
@@ -13388,12 +18140,6 @@
         "s": "LSIN:0NWB",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0NWC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -13483,7 +18229,7 @@
       {
         "s": "LSIN:0NY4",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -13523,6 +18269,12 @@
         ]
       },
       {
+        "s": "LSIN:0NZ1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0NZ2",
         "f": [
           "no longer trading"
@@ -13554,12 +18306,6 @@
       },
       {
         "s": "LSIN:0NZV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0NZW",
         "f": [
           "no longer trading"
         ]
@@ -13640,12 +18386,6 @@
         "s": "LSIN:0O1K",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0O1O",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -13973,7 +18713,7 @@
         ]
       },
       {
-        "s": "LSIN:0O6G",
+        "s": "LSIN:0O6M",
         "f": [
           "no longer trading"
         ]
@@ -13988,12 +18728,6 @@
         "s": "LSIN:0O6T",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0O6X",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -14093,12 +18827,6 @@
         ]
       },
       {
-        "s": "LSIN:0O8G",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0O8L",
         "f": [
           "empty symbol"
@@ -14153,13 +18881,13 @@
         ]
       },
       {
-        "s": "LSIN:0O99",
+        "s": "LSIN:0O98",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0O9C",
+        "s": "LSIN:0O99",
         "f": [
           "no longer trading"
         ]
@@ -14396,6 +19124,12 @@
         "s": "LSIN:0OCC",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0OCD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -14723,6 +19457,12 @@
         ]
       },
       {
+        "s": "LSIN:0OFC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0OFD",
         "f": [
           "empty symbol"
@@ -14825,12 +19565,6 @@
         ]
       },
       {
-        "s": "LSIN:0OG5",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0OG6",
         "f": [
           "no longer trading"
@@ -14876,6 +19610,12 @@
         "s": "LSIN:0OGO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0OGQ",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -14939,6 +19679,12 @@
         ]
       },
       {
+        "s": "LSIN:0OHC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0OHE",
         "f": [
           "empty symbol"
@@ -14987,18 +19733,6 @@
         ]
       },
       {
-        "s": "LSIN:0OHY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0OI0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0OI1",
         "f": [
           "empty symbol"
@@ -15036,12 +19770,6 @@
       },
       {
         "s": "LSIN:0OI9",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0OIC",
         "f": [
           "empty symbol"
         ]
@@ -15707,6 +20435,12 @@
         ]
       },
       {
+        "s": "LSIN:0OPA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0OPD",
         "f": [
           "empty symbol"
@@ -15797,12 +20531,6 @@
         ]
       },
       {
-        "s": "LSIN:0OQQ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0OQR",
         "f": [
           "no longer trading"
@@ -15817,13 +20545,25 @@
       {
         "s": "LSIN:0OR0",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "LSIN:0OR7",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0ORH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0ORK",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -15917,12 +20657,6 @@
         ]
       },
       {
-        "s": "LSIN:0P14",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0P17",
         "f": [
           "empty symbol"
@@ -15944,12 +20678,6 @@
         "s": "LSIN:0P1B",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0P1G",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -16010,12 +20738,6 @@
         "s": "LSIN:0P2I",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0P2J",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -16091,25 +20813,13 @@
         ]
       },
       {
-        "s": "LSIN:0P3F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0P3K",
+        "s": "LSIN:0P3C",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "LSIN:0P48",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0P49",
         "f": [
           "no longer trading"
         ]
@@ -16403,6 +21113,12 @@
         ]
       },
       {
+        "s": "LSIN:0Q3Y",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0Q3Z",
         "f": [
           "empty symbol"
@@ -16460,12 +21176,6 @@
         "s": "LSIN:0Q4B",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0Q4C",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -16560,12 +21270,6 @@
       },
       {
         "s": "LSIN:0Q5S",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0Q5W",
         "f": [
           "empty symbol"
         ]
@@ -16829,6 +21533,12 @@
         ]
       },
       {
+        "s": "LSIN:0Q8Q",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0Q8R",
         "f": [
           "no longer trading"
@@ -16838,12 +21548,6 @@
         "s": "LSIN:0Q8S",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0Q8V",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -16925,7 +21629,7 @@
         ]
       },
       {
-        "s": "LSIN:0Q9X",
+        "s": "LSIN:0Q9Y",
         "f": [
           "no longer trading"
         ]
@@ -16979,12 +21683,6 @@
         ]
       },
       {
-        "s": "LSIN:0QAI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QAR",
         "f": [
           "no longer trading"
@@ -17004,12 +21702,6 @@
       },
       {
         "s": "LSIN:0QB3",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QB4",
         "f": [
           "empty symbol"
         ]
@@ -17244,12 +21936,6 @@
         ]
       },
       {
-        "s": "LSIN:0QEZ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0QF1",
         "f": [
           "no longer trading"
@@ -17400,12 +22086,6 @@
         ]
       },
       {
-        "s": "LSIN:0QH2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QH3",
         "f": [
           "empty symbol"
@@ -17460,6 +22140,12 @@
         ]
       },
       {
+        "s": "LSIN:0QHQ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0QHW",
         "f": [
           "empty symbol"
@@ -17478,12 +22164,6 @@
         ]
       },
       {
-        "s": "LSIN:0QI0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QI2",
         "f": [
           "no longer trading"
@@ -17491,6 +22171,12 @@
       },
       {
         "s": "LSIN:0QI6",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0QI9",
         "f": [
           "no longer trading"
         ]
@@ -17532,12 +22218,6 @@
         ]
       },
       {
-        "s": "LSIN:0QIP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QIS",
         "f": [
           "empty symbol"
@@ -17557,12 +22237,6 @@
       },
       {
         "s": "LSIN:0QJ4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QJ8",
         "f": [
           "no longer trading"
         ]
@@ -17589,24 +22263,6 @@
         "s": "LSIN:0QJU",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QJY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QK0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QK1",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -17664,12 +22320,6 @@
         ]
       },
       {
-        "s": "LSIN:0QKZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QL0",
         "f": [
           "no longer trading"
@@ -17691,12 +22341,6 @@
         "s": "LSIN:0QL4",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QL5",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -17724,6 +22368,12 @@
         ]
       },
       {
+        "s": "LSIN:0QLI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0QLJ",
         "f": [
           "empty symbol"
@@ -17742,57 +22392,9 @@
         ]
       },
       {
-        "s": "LSIN:0QLM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QLS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QLT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QLV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QLX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QLY",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QM0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QM1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QM2",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -17802,31 +22404,13 @@
         ]
       },
       {
-        "s": "LSIN:0QMB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QMC",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0QME",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QML",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QMM",
+        "s": "LSIN:0QMN",
         "f": [
           "no longer trading"
         ]
@@ -17838,51 +22422,9 @@
         ]
       },
       {
-        "s": "LSIN:0QN4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QN6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QN9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QNK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QNL",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QNS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QNU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QNV",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -17893,18 +22435,6 @@
       },
       {
         "s": "LSIN:0QNY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QNZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QO0",
         "f": [
           "no longer trading"
         ]
@@ -17928,19 +22458,7 @@
         ]
       },
       {
-        "s": "LSIN:0QOE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QOH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QOJ",
         "f": [
           "no longer trading"
         ]
@@ -17958,43 +22476,7 @@
         ]
       },
       {
-        "s": "LSIN:0QOX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QOY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QP3",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QP6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QP9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QPF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QPG",
         "f": [
           "no longer trading"
         ]
@@ -18006,37 +22488,13 @@
         ]
       },
       {
-        "s": "LSIN:0QPN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QPR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QPV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QPW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QQ1",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSIN:0QQA",
+        "s": "LSIN:0QQ8",
         "f": [
           "no longer trading"
         ]
@@ -18048,39 +22506,9 @@
         ]
       },
       {
-        "s": "LSIN:0QQF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QQG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QQH",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QQJ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QQK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QQM",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -18108,19 +22536,7 @@
         ]
       },
       {
-        "s": "LSIN:0QQV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QQW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QR0",
         "f": [
           "no longer trading"
         ]
@@ -18168,6 +22584,12 @@
         ]
       },
       {
+        "s": "LSIN:0QRN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0QRO",
         "f": [
           "empty symbol"
@@ -18187,12 +22609,6 @@
       },
       {
         "s": "LSIN:0QRX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0QS4",
         "f": [
           "no longer trading"
         ]
@@ -18258,6 +22674,12 @@
         ]
       },
       {
+        "s": "LSIN:0QSQ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0QSR",
         "f": [
           "empty symbol"
@@ -18276,15 +22698,15 @@
         ]
       },
       {
-        "s": "LSIN:0QSY",
+        "s": "LSIN:0QSX",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0QT0",
+        "s": "LSIN:0QSY",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -18336,12 +22758,6 @@
         ]
       },
       {
-        "s": "LSIN:0QTE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QTF",
         "f": [
           "no longer trading"
@@ -18357,6 +22773,12 @@
         "s": "LSIN:0QTJ",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0QTN",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -18399,12 +22821,6 @@
         "s": "LSIN:0QU3",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QU4",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -18453,12 +22869,6 @@
         "s": "LSIN:0QV2",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0QV3",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -18535,6 +22945,18 @@
       },
       {
         "s": "LSIN:0QW7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0QWB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0QWD",
         "f": [
           "no longer trading"
         ]
@@ -18648,12 +23070,6 @@
         ]
       },
       {
-        "s": "LSIN:0QY2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0QY3",
         "f": [
           "no longer trading"
@@ -18720,13 +23136,19 @@
         ]
       },
       {
-        "s": "LSIN:0R47",
+        "s": "LSIN:0R43",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0R49",
+        "s": "LSIN:0R44",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0R47",
         "f": [
           "no longer trading"
         ]
@@ -18865,12 +23287,6 @@
         ]
       },
       {
-        "s": "LSIN:0R6H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0R6I",
         "f": [
           "empty symbol"
@@ -18973,13 +23389,19 @@
         ]
       },
       {
+        "s": "LSIN:0R8A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0R8C",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0R8H",
+        "s": "LSIN:0R8F",
         "f": [
           "no longer trading"
         ]
@@ -18997,25 +23419,7 @@
         ]
       },
       {
-        "s": "LSIN:0R8X",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0R8Y",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0R91",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0R92",
         "f": [
           "no longer trading"
         ]
@@ -19034,12 +23438,6 @@
       },
       {
         "s": "LSIN:0R9B",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0R9G",
         "f": [
           "no longer trading"
         ]
@@ -19069,6 +23467,12 @@
         ]
       },
       {
+        "s": "LSIN:0R9V",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0R9W",
         "f": [
           "empty symbol"
@@ -19087,12 +23491,6 @@
         ]
       },
       {
-        "s": "LSIN:0RA5",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0RA6",
         "f": [
           "no longer trading"
@@ -19102,6 +23500,12 @@
         "s": "LSIN:0RA7",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RA9",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -19117,12 +23521,6 @@
         ]
       },
       {
-        "s": "LSIN:0RAC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RAD",
         "f": [
           "no longer trading"
@@ -19130,6 +23528,12 @@
       },
       {
         "s": "LSIN:0RAE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RAF",
         "f": [
           "no longer trading"
         ]
@@ -19351,15 +23755,15 @@
         ]
       },
       {
-        "s": "LSIN:0RDA",
+        "s": "LSIN:0RD9",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "LSIN:0RDB",
+        "s": "LSIN:0RDA",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -19429,12 +23833,6 @@
         ]
       },
       {
-        "s": "LSIN:0RE6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0REC",
         "f": [
           "empty symbol"
@@ -19501,12 +23899,6 @@
         ]
       },
       {
-        "s": "LSIN:0REW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0REX",
         "f": [
           "empty symbol"
@@ -19525,12 +23917,6 @@
         ]
       },
       {
-        "s": "LSIN:0RF1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RF6",
         "f": [
           "no longer trading"
@@ -19544,12 +23930,6 @@
       },
       {
         "s": "LSIN:0RF9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0RFI",
         "f": [
           "no longer trading"
         ]
@@ -19669,12 +24049,6 @@
         ]
       },
       {
-        "s": "LSIN:0RGW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RGZ",
         "f": [
           "no longer trading"
@@ -19700,18 +24074,6 @@
       },
       {
         "s": "LSIN:0RHM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0RHR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0RHV",
         "f": [
           "no longer trading"
         ]
@@ -19789,7 +24151,7 @@
         ]
       },
       {
-        "s": "LSIN:0RIX",
+        "s": "LSIN:0RIV",
         "f": [
           "no longer trading"
         ]
@@ -19820,12 +24182,6 @@
       },
       {
         "s": "LSIN:0RJ9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:0RJD",
         "f": [
           "no longer trading"
         ]
@@ -19864,12 +24220,6 @@
         "s": "LSIN:0RJS",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0RJX",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -19915,12 +24265,6 @@
         ]
       },
       {
-        "s": "LSIN:0RK6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RK7",
         "f": [
           "empty symbol"
@@ -19960,12 +24304,6 @@
         "s": "LSIN:0RKD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0RKE",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -20041,7 +24379,7 @@
         ]
       },
       {
-        "s": "LSIN:0RKW",
+        "s": "LSIN:0RKV",
         "f": [
           "no longer trading"
         ]
@@ -20089,6 +24427,12 @@
         ]
       },
       {
+        "s": "LSIN:0RL5",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0RL6",
         "f": [
           "empty symbol"
@@ -20104,6 +24448,12 @@
         "s": "LSIN:0RL8",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RL9",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -20137,12 +24487,6 @@
         ]
       },
       {
-        "s": "LSIN:0RMP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RMS",
         "f": [
           "empty symbol"
@@ -20152,6 +24496,12 @@
         "s": "LSIN:0RMW",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RMY",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -20191,15 +24541,21 @@
         ]
       },
       {
-        "s": "LSIN:0RNL",
+        "s": "LSIN:0RNM",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSIN:0RNM",
+        "s": "LSIN:0RNP",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RNS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -20323,12 +24679,6 @@
         ]
       },
       {
-        "s": "LSIN:0ROV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0ROW",
         "f": [
           "empty symbol"
@@ -20338,12 +24688,6 @@
         "s": "LSIN:0RP0",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0RP1",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -20383,12 +24727,6 @@
         ]
       },
       {
-        "s": "LSIN:0RPD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RPE",
         "f": [
           "no longer trading"
@@ -20410,12 +24748,6 @@
         "s": "LSIN:0RPN",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:0RPP",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -20444,6 +24776,12 @@
       },
       {
         "s": "LSIN:0RQA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RQC",
         "f": [
           "no longer trading"
         ]
@@ -20647,12 +24985,6 @@
         ]
       },
       {
-        "s": "LSIN:0RTD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSIN:0RTF",
         "f": [
           "empty symbol"
@@ -20665,19 +24997,13 @@
         ]
       },
       {
-        "s": "LSIN:0RTH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0RTJ",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSIN:0RTL",
+        "s": "LSIN:0RTK",
         "f": [
           "no longer trading"
         ]
@@ -20725,7 +25051,7 @@
         ]
       },
       {
-        "s": "LSIN:0RU1",
+        "s": "LSIN:0RTY",
         "f": [
           "no longer trading"
         ]
@@ -20779,6 +25105,12 @@
         ]
       },
       {
+        "s": "LSIN:0RUB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSIN:0RUD",
         "f": [
           "empty symbol"
@@ -20791,21 +25123,45 @@
         ]
       },
       {
-        "s": "LSIN:0RUF",
+        "s": "LSIN:0RUI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RUJ",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RUM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RUN",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "LSIN:0RUP",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RUQ",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "LSIN:0RUR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -20821,7 +25177,67 @@
         ]
       },
       {
-        "s": "LSIN:0RUX",
+        "s": "LSIN:0RUW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RUZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RV2",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RV5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RV6",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RV7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RV9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RVA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0RVF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RVG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSIN:0RVK",
         "f": [
           "empty symbol"
         ]
@@ -20851,12 +25267,6 @@
         ]
       },
       {
-        "s": "LSIN:BIND",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:BMED",
         "f": [
           "no longer trading"
@@ -20869,15 +25279,33 @@
         ]
       },
       {
+        "s": "LSIN:GCLA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSIN:GET",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "LSIN:GMRB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSIN:HLPD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:KKB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -20902,6 +25330,12 @@
         "s": "LSIN:OCP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:ORDS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -20947,7 +25381,19 @@
         ]
       },
       {
+        "s": "LSIN:RTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "LSIN:SKMD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:SLED",
         "f": [
           "no longer trading"
         ]
@@ -20960,12 +25406,6 @@
       },
       {
         "s": "LSIN:TAT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:TECD",
         "f": [
           "no longer trading"
         ]
@@ -20998,6 +25438,118 @@
         "s": "LSIN:YMTD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:BASIC.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:CAPITAL.GOODS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:CONSUMER.CYCLICAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:CONSUMER.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:CONSUMER.NON.CYCLICAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:CONSUMER.NON.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:ENERGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:FINANCIAL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:FINANCIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:HEALTHCARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:INDUSTRIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:TRANSPORTATION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_UK:UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
         ]
       }
     ]

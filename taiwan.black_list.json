@@ -1,35 +1,7 @@
 {
     "black_list": [
       {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.ADHESIVE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.CELLULAR.FIBER",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.CEMENT.CONCRETE.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.COLORING.AGENT",
         "f": [
           "no longer trading",
           "price null"
@@ -43,35 +15,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.EPOXY",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.FERTILIZER",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.IRON.STEEL.MILLS.FOUNDRIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.METAL.CONTAINERS.PACKAGING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.METALLIC.ROLLING.DRAWING.PRODUCTS",
+        "s": "INDUSTRY_TW:BASIC.MATERIALS.CONSTRUCTION.MATERIALS",
         "f": [
           "no longer trading",
           "price null"
@@ -79,27 +23,6 @@
       },
       {
         "s": "INDUSTRY_TW:BASIC.MATERIALS.NON.PAPER.CONTAINERS.PACKAGING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.NONFERROUS.METAL.PROCESSING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.PAINT.COATING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.PAPER.MILLS.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
@@ -120,27 +43,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.PESTICIDE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.PLASTIC.CONTAINER.PACKAGING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:BASIC.MATERIALS.PLASTICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:BASIC.MATERIALS.PRECIOUS.METALS.MINERALS",
         "f": [
           "no longer trading",
@@ -149,6 +51,13 @@
       },
       {
         "s": "INDUSTRY_TW:BASIC.MATERIALS.SPECIALTY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_TW:BASIC.MATERIALS.SPECIALTY.MINING.METALS",
         "f": [
           "no longer trading",
           "price null"
@@ -169,21 +78,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.APPAREL.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.APPLIANCE.HOUSEWARE.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.APPLIANCES.TOOLS.HOUSEWARES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.AUTO.TRUCK.MANUFACTURERS",
         "f": [
           "no longer trading",
           "price null"
@@ -204,77 +106,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.AUTOMOBILES.MULTI.UTILITY.VEHICLES",
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.BROADCASTING",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.AUTOMOTIVE.ACCESSORIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.AUTOMOTIVE.BODY.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.AUTOMOTIVE.SYSTEMS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.BATHROOM.FIXTURES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.BICYCLE.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.BOOK.PUBLISHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CABLE.SERVICE.PROVIDERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CARPETS.CURTAINS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CHILDREN.INFANTS.CLOTHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.COMMERCIAL.FOOD.SERVICES",
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CASINOS.GAMING",
         "f": [
           "no longer trading",
           "price null"
@@ -288,13 +127,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.COMPUTER.HARDWARE.SOFTWARE.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES",
         "f": [
           "no longer trading",
@@ -302,14 +134,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CONSUMER.ELECTRONICS.RETAILERS",
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.CONSUMER.PUBLISHING",
         "f": [
           "no longer trading",
           "price null"
@@ -323,49 +148,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.ENGINE.POWERTRAIN.SYSTEMS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.FABRIC.DYEING.FINISHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.FLOORING.INTERIOR.TILE.MANUFACTURERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.FOOTWEAR",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.GAMBLING.GAMING.MACHINE.MANUFACTURERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.GAMES.TOYS.CHILDREN.VEHICLES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.HANDBAGS.LUGGAGE",
         "f": [
           "no longer trading",
           "price null"
@@ -379,21 +162,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.HOME.FURNISHINGS.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.HOMEBUILDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.HOTELS.MOTELS",
         "f": [
           "no longer trading",
           "price null"
@@ -407,77 +176,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.HOUSEHOLD.APPLIANCES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.INDUSTRIAL.RUBBER.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.INTERNET.MAIL.ORDER.DEPARTMENT.STORES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.JEWELRY",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.LEISURE.RECREATION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.LIGHTING.FIXTURES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.MEN.S.CLOTHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.MOBILE.PHONE.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.MOTORCYCLES.SCOOTERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.NATURAL.FABRICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.ORGANIC.ECOLOGICALLY.PRODUCED.FABRIC",
         "f": [
           "no longer trading",
           "price null"
@@ -491,28 +190,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.PLUMBING.FIXTURES.FITTINGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.RECREATIONAL.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.RESIDENTIAL.BUILDERS.MULTIFAMILY.HOMES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.RESORT.OPERATORS",
         "f": [
           "no longer trading",
           "price null"
@@ -526,41 +204,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.RETAIL.DEPARTMENT.STORES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.SPORTING.OUTDOOR.GOODS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.SPORTS.OUTDOOR.FOOTWEAR",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.SYNTHETIC.FABRICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TELEVISION.BROADCASTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TEXTILES.LEATHER.GOODS",
         "f": [
           "no longer trading",
@@ -568,63 +211,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TIRE.TUBE.MANUFACTURERS",
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TIRES.RUBBER.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TRAVEL.AGENTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.WOMEN.S.CLOTHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.YARN.GOODS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.ANIMAL.FEED",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.CARBONATED.SOFT.DRINKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.COFFEE.TEA",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.COSMETICS.PERFUMES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.DAIRY.PRODUCTS",
+        "s": "INDUSTRY_TW:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
@@ -638,7 +232,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.FLOUR.MILLING",
+        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.FISHING.FARMING",
         "f": [
           "no longer trading",
           "price null"
@@ -659,35 +253,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.FRUIT.DRINKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.FRUIT.VEGETABLE.PROCESSING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.GRAIN.CROP.PRODUCTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.HOUSEHOLD.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.LAUNDRY.SUPPLIES",
         "f": [
           "no longer trading",
           "price null"
@@ -708,41 +274,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.READY.MADE.MEALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.SANITARY.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.SPECIAL.FOODS.WELBEING.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:CONSUMER.NON.CYCLICALS.STARCH.VEGETABLE.FAT.OIL.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:ENERGY.GASOLINE.STATIONS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
         "f": [
           "no longer trading",
@@ -750,14 +281,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:ENERGY.OIL.GAS.STORAGE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:ENERGY.PHOTOVOLTAIC.SOLAR.SYSTEMS.EQUIPMENT",
+        "s": "INDUSTRY_TW:ENERGY.OIL.GAS.TRANSPORTATION.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -772,20 +296,6 @@
       },
       {
         "s": "INDUSTRY_TW:FINANCIALS.BANKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:FINANCIALS.BROKERAGE.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:FINANCIALS.COMMERCIAL.BANKS",
         "f": [
           "no longer trading",
           "price null"
@@ -813,20 +323,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:FINANCIALS.INDUSTRIAL.REAL.ESTATE.DEVELOPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:FINANCIALS.INSURANCE.AUTOMOBILE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:FINANCIALS.INVESTMENT.BANKING.BROKERAGE.SERVICES",
         "f": [
           "no longer trading",
@@ -835,13 +331,6 @@
       },
       {
         "s": "INDUSTRY_TW:FINANCIALS.LIFE.HEALTH.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:FINANCIALS.LIFE.INSURANCE",
         "f": [
           "no longer trading",
           "price null"
@@ -876,13 +365,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:FINANCIALS.RESIDENTIAL.REAL.ESTATE.DEVELOPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:HEALTHCARE.ADVANCED.MEDICAL.EQUIPMENT.TECHNOLOGY",
         "f": [
           "no longer trading",
@@ -890,42 +372,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:HEALTHCARE.BIO.THERAPEUTIC.DRUGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.BIOPHARMACEUTICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.DIAGNOSTIC.TESTING.SUBSTANCES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.GENERIC.PHARMACEUTICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.MEDICAL.DEVICES.IMPLANTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.MEDICAL.EQUIPMENT",
+        "s": "INDUSTRY_TW:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
         "f": [
           "no longer trading",
           "price null"
@@ -939,28 +386,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:HEALTHCARE.MEDICAL.EQUIPMENT.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.MEDICAL.SUPPLIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:HEALTHCARE.PHARMACEUTICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:HEALTHCARE.SPECIALTY.ADVANCED.PHARMACEUTICALS",
         "f": [
           "no longer trading",
           "price null"
@@ -974,13 +400,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.AIR.GAS.COMPRESSORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:INDUSTRIALS.AIRLINES",
         "f": [
           "no longer trading",
@@ -988,21 +407,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.AIRPORT.OPERATORS",
+        "s": "INDUSTRY_TW:INDUSTRIALS.AIRPORT.SERVICES",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.BATTERIES.UNINTERRUPTABLE.POWER.SUPPLIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.BUILDING.CONTRACTORS",
+        "s": "INDUSTRY_TW:INDUSTRIALS.BUSINESS.SUPPORT.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -1010,20 +422,6 @@
       },
       {
         "s": "INDUSTRY_TW:INDUSTRIALS.BUSINESS.SUPPORT.SUPPLIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.CIVIL.ENGINEERS.ARCHITECTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.COMMERCIAL.BUILDINGS",
         "f": [
           "no longer trading",
           "price null"
@@ -1044,21 +442,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.DEEP.SEA.FREIGHT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:INDUSTRIALS.DIVERSIFIED.TRADING.DISTRIBUTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ELECTRIC.CONSTRUCTION",
         "f": [
           "no longer trading",
           "price null"
@@ -1072,42 +456,21 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ELECTRICAL.MEASURING.TESTING.INSTRUMENTS",
+        "s": "INDUSTRY_TW:INDUSTRIALS.EMPLOYMENT.SERVICES",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ELECTRON.TUBES.INSULATORS",
+        "s": "INDUSTRY_TW:INDUSTRIALS.ENVIRONMENTAL.SERVICES.EQUIPMENT",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ELECTRONIC.COMPONENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ELEVATOR.CONVEYING.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.FREIGHT.TRUCKING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.HEATING.VENTILATION.AIR.CONDITIONING.SYSTEMS",
+        "s": "INDUSTRY_TW:INDUSTRIALS.GROUND.FREIGHT.LOGISTICS",
         "f": [
           "no longer trading",
           "price null"
@@ -1121,70 +484,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.HIGHWAY.BRIDGE.CONSTRUCTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.MACHINERY",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.MOULDS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.PARTS.COMPONENTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.INDUSTRIAL.PLANT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.LIGHTING.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.MACHINE.TOOLS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.MARINE.CARGO.HANDLING.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -1205,42 +505,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:INDUSTRIALS.OFFICE.SUPPLIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.OFFICE.SUPPLIES.WHOLESALE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.ONLINE.JOB.PORTALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.PORTABLE.MOTORS.GENERATORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.RAIL.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.SECURITY.SERVICES",
+        "s": "INDUSTRY_TW:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
         "f": [
           "no longer trading",
           "price null"
@@ -1248,48 +513,6 @@
       },
       {
         "s": "INDUSTRY_TW:INDUSTRIALS.SHIPBUILDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.SMART.GRID.ELECTRICAL.TRANSMISSION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.SWITCHGEAR",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.WASTE.MANAGEMENT.DISPOSAL.RECYCLING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:INDUSTRIALS.WIRES.CABLES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.APPLICATION.SOFTWARE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.BROADCASTING.EQUIPMENT",
         "f": [
           "no longer trading",
           "price null"
@@ -1310,63 +533,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.COMPUTER.PERIPHERALS",
+        "s": "INDUSTRY_TW:TECHNOLOGY.ELECTRONIC.EQUIPMENTS.PARTS",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.DISPLAY.SCREENS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.ELECTRONIC.EQUIPMENT.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.ELECTRONIC.REPAIR.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.FIBER.OPTIC.CABLE.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.HOME.AUDIO",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.INPUT.DEVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.INTEGRATED.CIRCUITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.INTERNET.GAMING",
+        "s": "INDUSTRY_TW:TECHNOLOGY.HOUSEHOLD.ELECTRONICS",
         "f": [
           "no longer trading",
           "price null"
@@ -1380,28 +554,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.LAPTOP.DESKTOP.COMPUTERS",
+        "s": "INDUSTRY_TW:TECHNOLOGY.IT.SERVICES.CONSULTING",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.MEMORY.CHIPS.RAM",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.NETWORK.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.OFFICE.EQUIPMENT.WHOLESALE",
+        "s": "INDUSTRY_TW:TECHNOLOGY.OFFICE.EQUIPMENT",
         "f": [
           "no longer trading",
           "price null"
@@ -1415,70 +575,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.PHONES.SMART.PHONES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.PHOTOGRAPHIC.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.POINT.OF.SALE.SYSTEMS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.PROCESSORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SATELLITE.SYSTEMS.ACCESSORIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SECURITY.SURVEILLANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:TECHNOLOGY.SEMICONDUCTOR.EQUIPMENT.TESTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SEMICONDUCTOR.MACHINERY.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SEMICONDUCTOR.TESTING.EQUIPMENT.SERVICE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SEMICONDUCTOR.WHOLESALE",
         "f": [
           "no longer trading",
           "price null"
@@ -1492,35 +589,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:TECHNOLOGY.SERVERS.SYSTEMS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.STORAGE.DEVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.TABLET.NETBOOK.COMPUTERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.TECHNOLOGY.CONSULTING.OUTSOURCING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TECHNOLOGY.TV.VIDEO",
+        "s": "INDUSTRY_TW:TECHNOLOGY.SOFTWARE",
         "f": [
           "no longer trading",
           "price null"
@@ -1534,20 +603,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:TELECOMMUNICATIONS.SERVICES.TELECOMMUNICATIONS.RESELLERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_TW:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOM",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_TW:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
         "f": [
           "no longer trading",
@@ -1555,14 +610,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_TW:UTILITIES.NATURAL.GAS.DISTRIBUTION",
+        "s": "INDUSTRY_TW:UTILITIES.NATURAL.GAS.UTILITIES",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_TW:UTILITIES.SEWAGE.TREATMENT.FACILITIES",
+        "s": "INDUSTRY_TW:UTILITIES.WATER.UTILITIES",
         "f": [
           "no longer trading",
           "price null"

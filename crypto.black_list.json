@@ -453,7 +453,8 @@
       {
         "s": "BITFINEX:ZECBTCSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -544,6 +545,12 @@
         "s": "HUOBI:LTCCNY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KRAKEN:USDTUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

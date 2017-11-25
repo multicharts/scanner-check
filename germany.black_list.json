@@ -1,49 +1,14 @@
 {
     "black_list": [
       {
-        "s": "FWB:5AB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:BTT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:FCT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:FKE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:JJO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:KCC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:OMAX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "INDUSTRY_DE:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:BASIC.MATERIALS.ALUMINUM",
         "f": [
           "no longer trading",
           "price null"
@@ -79,6 +44,13 @@
       },
       {
         "s": "INDUSTRY_DE:BASIC.MATERIALS.GOLD",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:BASIC.MATERIALS.INTEGRATED.MINING",
         "f": [
           "no longer trading",
           "price null"
@@ -218,6 +190,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:CONSUMER.CYCLICALS.DISCOUNT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:CONSUMER.CYCLICALS.ENTERTAINMENT.PRODUCTION",
         "f": [
           "no longer trading",
@@ -288,6 +267,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:CONSUMER.CYCLICALS.RESTAURANTS.BARS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:CONSUMER.CYCLICALS.TEXTILES.LEATHER.GOODS",
         "f": [
           "no longer trading",
@@ -296,6 +282,13 @@
       },
       {
         "s": "INDUSTRY_DE:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:CONSUMER.NON.CYCLICALS.BREWERS",
         "f": [
           "no longer trading",
           "price null"
@@ -337,6 +330,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:CONSUMER.NON.CYCLICALS.HOUSEHOLD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
         "f": [
           "no longer trading",
@@ -351,6 +351,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:CONSUMER.NON.CYCLICALS.TOBACCO",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:ENERGY.COAL",
         "f": [
           "no longer trading",
@@ -358,7 +365,35 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:ENERGY.INTEGRATED.OIL.GAS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:ENERGY.OIL.GAS.DRILLING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:ENERGY.OIL.GAS.TRANSPORTATION.SERVICES",
         "f": [
           "no longer trading",
           "price null"
@@ -386,7 +421,21 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:ENERGY.URANIUM",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:FINANCIALS.CLOSED.END.FUNDS",
         "f": [
           "no longer trading",
           "price null"
@@ -463,6 +512,13 @@
         ]
       },
       {
+        "s": "INDUSTRY_DE:FINANCIALS.PROPERTY.CASUALTY.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "INDUSTRY_DE:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
         "f": [
           "no longer trading",
@@ -499,6 +555,13 @@
       },
       {
         "s": "INDUSTRY_DE:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:HEALTHCARE.MANAGED.HEALTH.CARE",
         "f": [
           "no longer trading",
           "price null"
@@ -646,6 +709,13 @@
       },
       {
         "s": "INDUSTRY_DE:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_DE:INDUSTRIALS.PROFESSIONAL.INFORMATION.SERVICES",
         "f": [
           "no longer trading",
           "price null"

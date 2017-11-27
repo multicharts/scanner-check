@@ -295,13 +295,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_AT:CONSUMER.NON.CYCLICALS.PERSONAL.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_AT:ENERGY.INTEGRATED.OIL.GAS",
         "f": [
           "no longer trading",
@@ -338,6 +331,13 @@
       },
       {
         "s": "INDUSTRY_AT:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AT:FINANCIALS.CLOSED.END.FUNDS",
         "f": [
           "no longer trading",
           "price null"
@@ -702,6 +702,13 @@
       },
       {
         "s": "INDUSTRY_AT:UTILITIES.NATURAL.GAS.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_AT:UTILITIES.WATER.UTILITIES",
         "f": [
           "no longer trading",
           "price null"

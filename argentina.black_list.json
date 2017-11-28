@@ -135,7 +135,7 @@
       {
         "s": "BCBA:HPQ",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -201,13 +201,13 @@
       {
         "s": "BCBA:NORT6",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "BCBA:PEP",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -262,13 +262,6 @@
         "s": "BCBA:WMT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:BASIC.MATERIALS.ALUMINUM",
-        "f": [
-          "no longer trading",
-          "price null"
         ]
       },
       {
@@ -356,13 +349,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.AUTO.TRUCK.MANUFACTURERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.BROADCASTING",
         "f": [
           "no longer trading",
@@ -391,13 +377,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.HOME.IMPROVEMENT.PRODUCTS.SERVICES.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.HOUSEHOLD.APPLIANCES",
         "f": [
           "no longer trading",
@@ -406,20 +385,6 @@
       },
       {
         "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.PLUMBING.FIXTURES.FITTINGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.QUICK.SERVICE.RESTAURANTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:CONSUMER.CYCLICALS.SPORTS.OUTDOOR.FOOTWEAR",
         "f": [
           "no longer trading",
           "price null"
@@ -483,13 +448,6 @@
       },
       {
         "s": "INDUSTRY_AR:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
         "f": [
           "no longer trading",
           "price null"
@@ -573,27 +531,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_AR:FINANCIALS.CONSUMER.CREDIT.CARDS.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:FINANCIALS.MULTILINE.INSURANCE.BROKERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:FINANCIALS.PROPERTY.CASUALTY.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_AR:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
         "f": [
           "no longer trading",
@@ -650,21 +587,7 @@
         ]
       },
       {
-        "s": "INDUSTRY_AR:INDUSTRIALS.COMMERCIAL.AIRCRAFT.MANUFACTURING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "INDUSTRY_AR:INDUSTRIALS.CONSTRUCTION.ENGINEERING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:INDUSTRIALS.CONSTRUCTION.MACHINERY",
         "f": [
           "no longer trading",
           "price null"
@@ -734,14 +657,14 @@
         ]
       },
       {
-        "s": "INDUSTRY_AR:TECHNOLOGY.SEARCH.ENGINES",
+        "s": "INDUSTRY_AR:TECHNOLOGY.PHONES.SMART.PHONES",
         "f": [
           "no longer trading",
           "price null"
         ]
       },
       {
-        "s": "INDUSTRY_AR:TECHNOLOGY.SEMICONDUCTORS",
+        "s": "INDUSTRY_AR:TECHNOLOGY.SEARCH.ENGINES",
         "f": [
           "no longer trading",
           "price null"
@@ -759,12 +682,6 @@
         "f": [
           "no longer trading",
           "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_AR:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
-        "f": [
-          "empty symbol"
         ]
       },
       {

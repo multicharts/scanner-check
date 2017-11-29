@@ -31,6 +31,12 @@
         ]
       },
       {
+        "s": "AMEX:EEMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:EFFE",
         "f": [
           "no longer trading"
@@ -38,6 +44,18 @@
       },
       {
         "s": "AMEX:FLMB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:GGO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:GGO/PA",
         "f": [
           "no longer trading"
         ]
@@ -68,6 +86,24 @@
       },
       {
         "s": "AMEX:ISZE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JMIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JQUA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:MMIT",
         "f": [
           "no longer trading"
         ]
@@ -115,1052 +151,6 @@
         ]
       },
       {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.ALUMINUM",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.BUILDING.MATERIALS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.COMMODITY.CHEMICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.CONSTRUCTION.MATERIALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.DIVERSIFIED.CHEMICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.FOREST.WOOD.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.GOLD",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.INTEGRATED.MINING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.MINING.SUPPORT.SERVICES.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.NON.PAPER.CONTAINERS.PACKAGING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.PAPER.PACKAGING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.PAPER.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.PRECIOUS.METALS.MINERALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.SPECIALTY.CHEMICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.SPECIALTY.MINING.METALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:BASIC.MATERIALS.STEEL",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.ADVERTISING.MARKETING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.APPLIANCES.TOOLS.HOUSEWARES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.AUTO.TRUCK.MANUFACTURERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.AUTO.TRUCK.MOTORCYCLE.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.AUTO.VEHICLES.PARTS.SERVICE.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.BROADCASTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.CASINOS.GAMING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.COMPUTER.ELECTRONICS.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.CONSUMER.PUBLISHING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.DEPARTMENT.SPECIALTY.RETAIL.STORES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.DEPARTMENT.STORES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.DISCOUNT.STORES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.ENTERTAINMENT.PRODUCTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.FOOTWEAR",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.HOME.FURNISHINGS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.HOME.FURNISHINGS.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.HOME.IMPROVEMENT.PRODUCTS.SERVICES.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.HOMEBUILDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.HOTELS.MOTELS.CRUISE.LINES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.LEISURE.RECREATION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.MISCELLANEOUS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.OTHER.SPECIALTY.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.REAL.ESTATE.INVESTMENT.TRUSTS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.RECREATIONAL.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.RESTAURANTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.RESTAURANTS.BARS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.TEXTILES.LEATHER.GOODS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.TIRES.RUBBER.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.BREWERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.DISTILLERS.WINERIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.DRUG.RETAILERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.FISHING.FARMING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.FOOD.PROCESSING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.FOOD.RETAIL.DISTRIBUTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.HOUSEHOLD.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.PERSONAL.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.TEXTILES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:CONSUMER.NON.CYCLICALS.TOBACCO",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.COAL",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.CONSUMER.ELECTRONICS.APPLIANCES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.INTEGRATED.OIL.GAS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.NATURAL.GAS.DISTRIBUTION",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.OIL.GAS.DRILLING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.OIL.GAS.TRANSPORTATION.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.OIL.RELATED.SERVICES.AND.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.RENEWABLE.ENERGY.EQUIPMENT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.RENEWABLE.FUELS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:ENERGY.URANIUM",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.BANKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.BUSINESS.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.CLOSED.END.FUNDS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.COMMERCIAL.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.CONSUMER.LENDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.CORPORATE.FINANCIAL.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.DIVERSIFIED.INVESTMENT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.DIVERSIFIED.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.EXCHANGE.TRADED.FUND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.FINANCE.CONSUMER.SERVICES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.FINANCIAL.COMMODITY.MARKET.OPERATORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.HOLDING.COMPANIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.INVESTMENT.BANKERS.BROKERS.SERVICE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.INVESTMENT.BANKING.BROKERAGE.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.INVESTMENT.MANAGERS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.INVESTMENT.TRUSTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.LIFE.HEALTH.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.LIFE.INSURANCE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.MAJOR.BANKS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.MULTILINE.INSURANCE.BROKERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.PROPERTY.CASUALTY.INSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.PROPERTY.CASUALTY.INSURERS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.REAL.ESTATE.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.REINSURANCE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.RESIDENTIAL.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:FINANCIALS.SPECIALIZED.REITS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.ADVANCED.MEDICAL.EQUIPMENT.TECHNOLOGY",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.MAJOR.PHARMACEUTICALS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.MANAGED.HEALTH.CARE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.MEDICAL.EQUIPMENT.SUPPLIES.DISTRIBUTION",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:HEALTHCARE.PHARMACEUTICALS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.AEROSPACE.DEFENSE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.AIR.FREIGHT.COURIER.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.AIRLINES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.AIRPORT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.BUSINESS.SUPPORT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.BUSINESS.SUPPORT.SUPPLIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.COMMERCIAL.PRINTING.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.CONSTRUCTION.ENGINEERING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.DIVERSIFIED.TRADING.DISTRIBUTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.ELECTRICAL.COMPONENTS.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.EMPLOYMENT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.ENVIRONMENTAL.SERVICES.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.GROUND.FREIGHT.LOGISTICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.HEAVY.ELECTRICAL.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.HEAVY.MACHINERY.VEHICLES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.HIGHWAYS.RAIL.TRACKS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.INDUSTRIAL.CONGLOMERATES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.MARINE.FREIGHT.LOGISTICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.MARINE.PORT.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.OIL.REFINING.MARKETING",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.PROFESSIONAL.INFORMATION.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:INDUSTRIALS.SHIPBUILDING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.COMMUNICATIONS.NETWORKING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.COMPUTER.HARDWARE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.ELECTRONIC.EQUIPMENTS.PARTS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.HOUSEHOLD.ELECTRONICS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.INTERNET.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.IT.SERVICES.CONSULTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.OFFICE.EQUIPMENT",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.PHONES.HANDHELD.DEVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.SEMICONDUCTOR.EQUIPMENT.TESTING",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.SEMICONDUCTORS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TECHNOLOGY.SOFTWARE",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TELECOMMUNICATIONS.SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.ELECTRIC.UTILITIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.ELECTRIC.UTILITIES.CENTRAL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.INDEPENDENT.POWER.PRODUCERS",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.MULTILINE.UTILITIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.NATURAL.GAS.UTILITIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.TELECOMMUNICATIONS.EQUIPMENT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "INDUSTRY_US:UTILITIES.WATER.UTILITIES",
-        "f": [
-          "no longer trading",
-          "price null"
-        ]
-      },
-      {
         "s": "NASDAQ:AHPAU",
         "f": [
           "no longer trading"
@@ -1194,6 +184,12 @@
         "s": "NASDAQ:EAGLU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:EHR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1281,9 +277,21 @@
         ]
       },
       {
+        "s": "NASDAQ:PXUS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:PY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:RETO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1317,6 +325,12 @@
         ]
       },
       {
+        "s": "NYMEX:JMJ1!",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:CCZ",
         "f": [
           "no longer trading"
@@ -1332,6 +346,18 @@
         "s": "NYSE:HL/PB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:IHTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:MOLC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1354,6 +380,18 @@
       },
       {
         "s": "NYSE:SB/PB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:SFR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:SUI/PA",
         "f": [
           "no longer trading"
         ]
@@ -1437,6 +475,12 @@
         ]
       },
       {
+        "s": "OTC:ALAD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ALTPF",
         "f": [
           "empty symbol"
@@ -1461,9 +505,28 @@
         ]
       },
       {
+        "s": "OTC:ARVSF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ASCMB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ASFT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:ASPUD",
+        "f": [
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1551,7 +614,25 @@
         ]
       },
       {
+        "s": "OTC:COSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:COSOD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:CQPTY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:CWNHF",
         "f": [
           "no longer trading"
         ]
@@ -1635,6 +716,24 @@
         ]
       },
       {
+        "s": "OTC:EWST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:EXOL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:EXOLD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:EXPL",
         "f": [
           "no longer trading"
@@ -1671,7 +770,25 @@
         ]
       },
       {
+        "s": "OTC:FIIT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FLLZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:FNAM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FPTA",
         "f": [
           "no longer trading"
         ]
@@ -1707,6 +824,25 @@
         ]
       },
       {
+        "s": "OTC:GTHPD",
+        "f": [
+          "no longer trading",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "OTC:GTVI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HCCC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:HHHEF",
         "f": [
           "no longer trading"
@@ -1720,6 +856,18 @@
       },
       {
         "s": "OTC:HMTF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HPCQ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HWGG",
         "f": [
           "no longer trading"
         ]
@@ -1773,6 +921,13 @@
         ]
       },
       {
+        "s": "OTC:JAEN",
+        "f": [
+          "empty symbol",
+          "test symbol"
+        ]
+      },
+      {
         "s": "OTC:KBPH",
         "f": [
           "no longer trading"
@@ -1785,7 +940,25 @@
         ]
       },
       {
+        "s": "OTC:LACDF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:LBAO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:LBCMF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MAYGD",
         "f": [
           "no longer trading"
         ]
@@ -1798,6 +971,12 @@
       },
       {
         "s": "OTC:MGGI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MHDG",
         "f": [
           "no longer trading"
         ]
@@ -1818,6 +997,12 @@
         "s": "OTC:MOST",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MSNI",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1893,6 +1078,12 @@
         ]
       },
       {
+        "s": "OTC:PRGBD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:PTIX",
         "f": [
           "no longer trading"
@@ -1900,6 +1091,12 @@
       },
       {
         "s": "OTC:PVNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:PVNNF",
         "f": [
           "no longer trading"
         ]
@@ -1929,6 +1126,12 @@
         ]
       },
       {
+        "s": "OTC:RZZN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:SALL",
         "f": [
           "empty symbol"
@@ -1936,6 +1139,12 @@
       },
       {
         "s": "OTC:SEGN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SFHD",
         "f": [
           "no longer trading"
         ]
@@ -1965,7 +1174,19 @@
         ]
       },
       {
+        "s": "OTC:SLPA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:SMOFF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SOCGM",
         "f": [
           "no longer trading"
         ]
@@ -2043,13 +1264,37 @@
         ]
       },
       {
+        "s": "OTC:TRFX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TRRB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:TRXD",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "OTC:TTNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:USDR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:UWEFD",
         "f": [
           "no longer trading"
         ]
@@ -2094,6 +1339,12 @@
         "s": "OTC:WSCO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WWIN",
+        "f": [
+          "empty symbol"
         ]
       },
       {

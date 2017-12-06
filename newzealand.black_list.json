@@ -1,6 +1,426 @@
 {
     "black_list": [
       {
+        "s": "INDUSTRY_NZ:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:BASIC.MATERIALS.FOREST.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:BASIC.MATERIALS.INTEGRATED.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:BASIC.MATERIALS.STEEL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.AUTO.VEHICLES.PARTS.SERVICE.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.BROADCASTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.CASINOS.GAMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.DEPARTMENT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.HOME.FURNISHINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.HOTELS.MOTELS.CRUISE.LINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.OTHER.SPECIALTY.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.CYCLICALS.RESTAURANTS.BARS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.BREWERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.DISTILLERS.WINERIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.DRUG.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.FISHING.FARMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.COMMERCIAL.REITS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.CONSUMER.LENDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.FINANCIAL.COMMODITY.MARKET.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.HOLDING.COMPANIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.INVESTMENT.BANKING.BROKERAGE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.INVESTMENT.TRUSTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.MULTILINE.INSURANCE.BROKERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:FINANCIALS.REINSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:HEALTHCARE.ADVANCED.MEDICAL.EQUIPMENT.TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:HEALTHCARE.MEDICAL.EQUIPMENT.SUPPLIES.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:HEALTHCARE.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.AIR.FREIGHT.COURIER.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.AIRPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.ELECTRICAL.COMPONENTS.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.EMPLOYMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.ENVIRONMENTAL.SERVICES.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.MARINE.PORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.PROFESSIONAL.INFORMATION.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:INDUSTRIALS.SHIPBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TECHNOLOGY.INTERNET.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TECHNOLOGY.IT.SERVICES.CONSULTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TECHNOLOGY.PHONES.HANDHELD.DEVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TECHNOLOGY.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TELECOMMUNICATIONS.SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:UTILITIES.ELECTRIC.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_NZ:UTILITIES.MULTILINE.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
         "s": "NZX:AFC",
         "f": [
           "no longer trading"
@@ -70,6 +490,76 @@
         "s": "NZX:WTL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:BASIC.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:CONSUMER.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:CONSUMER.NON.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:ENERGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:FINANCIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:HEALTHCARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:INDUSTRIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_NZ:UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
         ]
       }
     ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BMFBOVESPA:AHEB3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:AHEB5",
         "f": [
           "no longer trading"
@@ -27,7 +33,6 @@
       {
         "s": "BMFBOVESPA:APTI3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -58,8 +63,7 @@
       {
         "s": "BMFBOVESPA:AVIP5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -89,7 +93,12 @@
       {
         "s": "BMFBOVESPA:BBIM11",
         "f": [
-          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:BCFF11",
+        "f": [
           "price null"
         ]
       },
@@ -102,21 +111,13 @@
       {
         "s": "BMFBOVESPA:BDRX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:BFRE11",
         "f": [
-          "no longer trading",
           "price null"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:BGIP3",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -134,7 +135,6 @@
       {
         "s": "BMFBOVESPA:BOBR3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -153,21 +153,18 @@
       {
         "s": "BMFBOVESPA:BPAR3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:BPAT33",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:BRCP11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -222,7 +219,6 @@
       {
         "s": "BMFBOVESPA:CALI3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -281,16 +277,20 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:CEGR3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:CELP6",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:CEPE3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -327,7 +327,6 @@
       {
         "s": "BMFBOVESPA:COCE6",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -394,8 +393,7 @@
       {
         "s": "BMFBOVESPA:CTVL5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -413,8 +411,7 @@
       {
         "s": "BMFBOVESPA:DTCY4",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -438,8 +435,7 @@
       {
         "s": "BMFBOVESPA:EBES5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -517,22 +513,25 @@
       {
         "s": "BMFBOVESPA:EVST5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
         "s": "BMFBOVESPA:EXPR7L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
         "s": "BMFBOVESPA:FBMC3",
         "f": [
-          "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:FBSG5L",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -550,8 +549,7 @@
       {
         "s": "BMFBOVESPA:FCMP5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -575,7 +573,6 @@
       {
         "s": "BMFBOVESPA:FINF11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -588,8 +585,7 @@
       {
         "s": "BMFBOVESPA:FMSA6L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -613,8 +609,7 @@
       {
         "s": "BMFBOVESPA:FRMF5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -626,8 +621,7 @@
       {
         "s": "BMFBOVESPA:FVIT5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -664,12 +658,6 @@
         "s": "BMFBOVESPA:HBTS3",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:HBTS5",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -717,7 +705,6 @@
       {
         "s": "BMFBOVESPA:IBRA11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -731,77 +718,67 @@
       {
         "s": "BMFBOVESPA:IBXX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:ICO211",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:ICON11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IDIV11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IEEX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IFIX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IFNC11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IGCT11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IGCX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IGNM11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IGSA5L",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -813,41 +790,36 @@
       {
         "s": "BMFBOVESPA:IMAT11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IMOB11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:INDX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:IPNN3",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:ISEE11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:ITAG11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -860,7 +832,6 @@
       {
         "s": "BMFBOVESPA:IVBX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -879,7 +850,6 @@
       {
         "s": "BMFBOVESPA:JTPR11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -892,21 +862,18 @@
       {
         "s": "BMFBOVESPA:KINP11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:LHER3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:LHER4",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -943,8 +910,7 @@
       {
         "s": "BMFBOVESPA:MATS5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -980,14 +946,12 @@
       {
         "s": "BMFBOVESPA:MGEL3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:MLCX11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1012,8 +976,7 @@
       {
         "s": "BMFBOVESPA:MPLS6L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1031,7 +994,6 @@
       {
         "s": "BMFBOVESPA:MSRO3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1068,7 +1030,6 @@
       {
         "s": "BMFBOVESPA:NCHB11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1081,7 +1042,6 @@
       {
         "s": "BMFBOVESPA:NEMO5",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1106,7 +1066,6 @@
       {
         "s": "BMFBOVESPA:NVHO11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1131,8 +1090,7 @@
       {
         "s": "BMFBOVESPA:OURO6L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1182,8 +1140,7 @@
       {
         "s": "BMFBOVESPA:PPHT5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1237,8 +1194,7 @@
       {
         "s": "BMFBOVESPA:RCST6L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1268,14 +1224,12 @@
       {
         "s": "BMFBOVESPA:SCNR5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
         "s": "BMFBOVESPA:SFND11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1300,7 +1254,6 @@
       {
         "s": "BMFBOVESPA:SMLL11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1385,8 +1338,7 @@
       {
         "s": "BMFBOVESPA:SUIA4L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1402,9 +1354,14 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:TENE7L",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:TKNO3",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1417,15 +1374,13 @@
       {
         "s": "BMFBOVESPA:TSNC11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
       {
         "s": "BMFBOVESPA:TTEX5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1443,7 +1398,6 @@
       {
         "s": "BMFBOVESPA:UTIL11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1456,8 +1410,7 @@
       {
         "s": "BMFBOVESPA:VLDM5L",
         "f": [
-          "no longer trading",
-          "price null"
+          "empty symbol"
         ]
       },
       {
@@ -1469,7 +1422,6 @@
       {
         "s": "BMFBOVESPA:VPSI11",
         "f": [
-          "no longer trading",
           "price null"
         ]
       },
@@ -1489,6 +1441,720 @@
         "s": "BMFBOVESPA:WLMM3",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.AGRICULTURAL.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.COMMODITY.CHEMICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.CONSTRUCTION.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.FOREST.WOOD.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.INTEGRATED.MINING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.PAPER.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.SPECIALTY.MINING.METALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:BASIC.MATERIALS.STEEL",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.APPAREL.ACCESSORIES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.APPLIANCES.TOOLS.HOUSEWARES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.AUTO.TRUCK.MANUFACTURERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.AUTO.TRUCK.MOTORCYCLE.PARTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.BROADCASTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.COMPUTER.ELECTRONICS.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.CONSTRUCTION.SUPPLIES.FIXTURES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.CONSUMER.PUBLISHING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.DEPARTMENT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.DISCOUNT.STORES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.ENTERTAINMENT.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.FOOTWEAR",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.HOME.FURNISHINGS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.HOME.IMPROVEMENT.PRODUCTS.SERVICES.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.HOMEBUILDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.LEISURE.RECREATION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.OTHER.SPECIALTY.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.RECREATIONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.RESTAURANTS.BARS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.TEXTILES.LEATHER.GOODS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.CYCLICALS.TOYS.JUVENILE.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.BREWERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.DRUG.RETAILERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.FISHING.FARMING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.FOOD.PROCESSING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.FOOD.RETAIL.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.NON.ALCOHOLIC.BEVERAGES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.PERSONAL.PRODUCTS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:CONSUMER.NON.CYCLICALS.PERSONAL.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.INTEGRATED.OIL.GAS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.OIL.GAS.EXPLORATION.AND.PRODUCTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.OIL.GAS.REFINING.AND.MARKETING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.OIL.GAS.TRANSPORTATION.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.OIL.RELATED.SERVICES.AND.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:ENERGY.RENEWABLE.ENERGY.EQUIPMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.BANKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.CONSUMER.LENDING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.DIVERSIFIED.INVESTMENT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.FINANCIAL.COMMODITY.MARKET.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.HOLDING.COMPANIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.INVESTMENT.BANKING.BROKERAGE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.INVESTMENT.MANAGEMENT.FUND.OPERATORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.LIFE.HEALTH.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.MULTILINE.INSURANCE.BROKERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.PROPERTY.CASUALTY.INSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.REAL.ESTATE.DEVELOPMENT.OPERATIONS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.REAL.ESTATE.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:FINANCIALS.REINSURANCE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.ADVANCED.MEDICAL.EQUIPMENT.TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.BIOTECHNOLOGY.MEDICAL.RESEARCH",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.HEALTHCARE.FACILITIES.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.MANAGED.HEALTH.CARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.MEDICAL.EQUIPMENT.SUPPLIES.DISTRIBUTION",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:HEALTHCARE.PHARMACEUTICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.AEROSPACE.DEFENSE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.AIR.FREIGHT.COURIER.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.AIRLINES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.BUSINESS.SUPPORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.COMMERCIAL.PRINTING.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.CONSTRUCTION.ENGINEERING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.ELECTRICAL.COMPONENTS.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.GROUND.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.HEAVY.MACHINERY.VEHICLES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.HIGHWAYS.RAIL.TRACKS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.INDUSTRIAL.CONGLOMERATES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.INDUSTRIAL.MACHINERY.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.MARINE.FREIGHT.LOGISTICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.MARINE.PORT.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:INDUSTRIALS.PASSENGER.TRANSPORTATION.GROUND.SEA",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.COMMUNICATIONS.NETWORKING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.COMPUTER.HARDWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.HOUSEHOLD.ELECTRONICS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.INTERNET.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.IT.SERVICES.CONSULTING",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.OFFICE.EQUIPMENT",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.SEMICONDUCTORS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TECHNOLOGY.SOFTWARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TELECOMMUNICATIONS.SERVICES.INTEGRATED.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:TELECOMMUNICATIONS.SERVICES.WIRELESS.TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:UTILITIES.ELECTRIC.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:UTILITIES.INDEPENDENT.POWER.PRODUCERS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:UTILITIES.NATURAL.GAS.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "INDUSTRY_BR:UTILITIES.WATER.UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:BASIC.MATERIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:CONSUMER.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:CONSUMER.NON.CYCLICALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:ENERGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:FINANCIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:HEALTHCARE",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:INDUSTRIALS",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:TECHNOLOGY",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:TELECOMMUNICATIONS.SERVICES",
+        "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "SECTOR_BR:UTILITIES",
+        "f": [
+          "no longer trading",
+          "price null"
         ]
       }
     ]

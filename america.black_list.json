@@ -1,6 +1,24 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:ATW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:COH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:DBUK",
         "f": [
           "no longer trading"
@@ -91,6 +109,12 @@
         ]
       },
       {
+        "s": "AMEX:RICE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:SPMV",
         "f": [
           "no longer trading"
@@ -152,6 +176,12 @@
       },
       {
         "s": "NASDAQ:EHR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ESTR",
         "f": [
           "empty symbol"
         ]
@@ -247,6 +277,12 @@
         ]
       },
       {
+        "s": "NASDAQ:STNL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:TRMD",
         "f": [
           "empty symbol"
@@ -274,6 +310,12 @@
         "s": "NYSE:AFSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:AVI",
+        "f": [
+          "empty symbol"
         ]
       },
       {

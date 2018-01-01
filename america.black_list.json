@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BSCH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:BSJH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:CLTL",
         "f": [
           "no longer trading"
@@ -68,6 +56,12 @@
       },
       {
         "s": "AMEX:HAHA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:PMC",
         "f": [
           "no longer trading"
         ]
@@ -289,6 +283,12 @@
         ]
       },
       {
+        "s": "NYSE:BCR",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "NYSE:CGG",
         "f": [
           "test symbol"
@@ -314,12 +314,6 @@
       },
       {
         "s": "NYSE:WSPT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:XNY",
         "f": [
           "empty symbol"
         ]

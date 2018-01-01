@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BSCH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:BSJH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:CLTL",
         "f": [
           "no longer trading"
@@ -302,6 +314,12 @@
       },
       {
         "s": "NYSE:WSPT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:XNY",
         "f": [
           "empty symbol"
         ]

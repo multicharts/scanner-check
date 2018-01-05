@@ -3,7 +3,7 @@
       {
         "s": "AMEX:ARCX",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -259,6 +259,12 @@
         ]
       },
       {
+        "s": "NYSE:AGU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:AVI",
         "f": [
           "empty symbol"
@@ -267,6 +273,7 @@
       {
         "s": "NYSE:BCR",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -274,6 +281,18 @@
         "s": "NYSE:CGG",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CNNX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:HLS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -289,9 +308,21 @@
         ]
       },
       {
+        "s": "NYSE:POT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:RH",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:SPLP/PT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -302,6 +333,12 @@
       },
       {
         "s": "NYSE:WSPT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:XEL",
         "f": [
           "empty symbol"
         ]
@@ -530,12 +567,6 @@
       },
       {
         "s": "OTC:ELRE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:EPGNY",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:GXSETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:IOTABNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:BCHBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -177,7 +189,8 @@
       {
         "s": "BITFINEX:EOSUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -369,7 +382,8 @@
       {
         "s": "BITFINEX:NEOUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -724,6 +738,12 @@
         "s": "OKCOIN:LTCCNY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:BURSTBTC",
+        "f": [
+          "empty symbol"
         ]
       },
       {

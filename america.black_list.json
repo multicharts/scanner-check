@@ -1,25 +1,20 @@
 {
     "black_list": [
       {
-        "s": "AMEX:AF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:ATW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:BAA",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "AMEX:COH",
+        "s": "AMEX:CSC",
+        "f": [
+          "no longer trading",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "AMEX:DOW",
         "f": [
           "no longer trading"
         ]
@@ -73,15 +68,21 @@
         ]
       },
       {
-        "s": "AMEX:PMC",
+        "s": "AMEX:PTHN",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "AMEX:RT",
+        "s": "AMEX:RICE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:SHYL",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -475,7 +475,6 @@
         "s": "BELEX:CIKR",
         "f": [
           "equal bars",
-          "no longer trading",
           "price null"
         ]
       },
@@ -1035,6 +1034,12 @@
       },
       {
         "s": "BELEX:GRBT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:GRDB",
         "f": [
           "no longer trading"
         ]
@@ -2372,6 +2377,12 @@
         ]
       },
       {
+        "s": "BELEX:PRGS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:PRIV",
         "f": [
           "equal bars",
@@ -3418,6 +3429,12 @@
         "f": [
           "equal bars",
           "price null"
+        ]
+      },
+      {
+        "s": "BELEX:VBSE",
+        "f": [
+          "no longer trading"
         ]
       },
       {

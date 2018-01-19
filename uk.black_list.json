@@ -637,12 +637,6 @@
         ]
       },
       {
-        "s": "LSE:APQ",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSE:ARGP",
         "f": [
           "no longer trading"
@@ -1368,6 +1362,12 @@
         "s": "LSE:MIK",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:MIX",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -2811,6 +2811,12 @@
       },
       {
         "s": "LSIN:O016",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:O019",
         "f": [
           "no longer trading"
         ]

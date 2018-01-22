@@ -15,7 +15,7 @@
       {
         "s": "AMEX:CSC",
         "f": [
-          "no longer trading",
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -70,7 +70,7 @@
       {
         "s": "AMEX:PTHN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -82,13 +82,19 @@
       {
         "s": "AMEX:RICE",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "AMEX:USAG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:VNTV",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -118,7 +124,7 @@
       {
         "s": "NASDAQ:CLAC",
         "f": [
-          "no longer trading",
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -966,6 +972,12 @@
         "s": "OTC:WELPM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WINTD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "SWB:DAL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SWB:DAL3",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SWB:G7B",
         "f": [
           "no longer trading"
@@ -16,12 +28,6 @@
         "s": "SWB:SFO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SWB:SPB",
-        "f": [
-          "equal bars"
         ]
       },
       {

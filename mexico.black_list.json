@@ -103,12 +103,6 @@
         ]
       },
       {
-        "s": "BMV:AMAT",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BMV:AMBC",
         "f": [
           "empty symbol"
@@ -158,6 +152,12 @@
       },
       {
         "s": "BMV:ASX/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:AXA/N",
         "f": [
           "no longer trading"
         ]
@@ -218,12 +218,6 @@
       },
       {
         "s": "BMV:BG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:BHGE",
         "f": [
           "no longer trading"
         ]
@@ -338,6 +332,18 @@
       },
       {
         "s": "BMV:CALL/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:CAR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:CBD/N",
         "f": [
           "no longer trading"
         ]
@@ -650,6 +656,18 @@
         ]
       },
       {
+        "s": "BMV:FEMSA/UB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:FER/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:FFH/N",
         "f": [
           "no longer trading"
@@ -699,12 +717,6 @@
       },
       {
         "s": "BMV:FRT/N",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:FTV",
         "f": [
           "no longer trading"
         ]
@@ -1187,9 +1199,21 @@
         ]
       },
       {
+        "s": "BMV:MCM/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:MEGA/A",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMV:MGGT/N",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1301,12 +1325,6 @@
         ]
       },
       {
-        "s": "BMV:NTDOY/N",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BMV:NTT1/N",
         "f": [
           "empty symbol"
@@ -1367,6 +1385,12 @@
         ]
       },
       {
+        "s": "BMV:PFC/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:PIA/N",
         "f": [
           "no longer trading"
@@ -1417,6 +1441,7 @@
       {
         "s": "BMV:QUMMA/B",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1728,6 +1753,12 @@
       },
       {
         "s": "BMV:TITR/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:TJX",
         "f": [
           "no longer trading"
         ]

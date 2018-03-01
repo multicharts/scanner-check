@@ -1,24 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:FUELETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:LUNETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:RLCBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:AIDBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -297,20 +279,13 @@
       {
         "s": "BITFINEX:EDOBTCLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
         "s": "BITFINEX:EDOBTCSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:EDOETH",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -755,12 +730,6 @@
         "s": "BITFINEX:OMGETHSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:OMGUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1416,18 +1385,6 @@
         ]
       },
       {
-        "s": "BITTREX:BYCBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:OMNIBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COINFLOOR:BTCPLN",
         "f": [
           "no longer trading"
@@ -1449,24 +1406,6 @@
         "s": "GOCIO:LTCRUR",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "KORBIT:ETCKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KRAKEN:REPUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KRAKEN:XMREUR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1575,12 +1514,6 @@
         "s": "OKCOIN:LTCUSD3M",
         "f": [
           "skip forward"
-        ]
-      },
-      {
-        "s": "POLONIEX:AMPBTC",
-        "f": [
-          "empty symbol"
         ]
       }
     ]

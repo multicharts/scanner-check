@@ -5966,7 +5966,6 @@
       {
         "s": "BSE:PBGLOBAL",
         "f": [
-          "equal bars",
           "no longer trading"
         ]
       },
@@ -6646,6 +6645,12 @@
       },
       {
         "s": "BSE:RCBFIVDDD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:RCBFIVDDG",
         "f": [
           "equal bars"
         ]
@@ -8094,6 +8099,12 @@
         ]
       },
       {
+        "s": "BSE:SUPRAP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:SURAJHLD",
         "f": [
           "no longer trading"
@@ -9115,12 +9126,6 @@
         "s": "BSE:YASTF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:YSL",
-        "f": [
-          "empty symbol"
         ]
       },
       {

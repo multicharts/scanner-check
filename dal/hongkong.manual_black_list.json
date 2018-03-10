@@ -1,14 +1,14 @@
 {
   "black_list": [
     {
-      "s": "HKEX:377",
+      "s": "HKEX:2923",
       "f": [
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "HKEX:2923",
+      "s": "HKEX:377",
       "f": [
         "change|1W >= 300%",
         "change|1M >= 300%"

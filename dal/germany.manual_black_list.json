@@ -1,0 +1,16 @@
+{
+  "black_list": [
+    {
+      "s": "FWB:VNA",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "SWB:NOEJ",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    }
+  ]
+}

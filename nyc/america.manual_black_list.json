@@ -1,19 +1,19 @@
 {
   "black_list": [
     {
-      "s": "OTC:TTMZF",
+      "s": "NASDAQ:IFON",
       "f": [
         "change >= 300%",
-        "change|15 >= 300%",
-        "change|60 >= 300%",
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "NASDAQ:IFON",
+      "s": "OTC:TTMZF",
       "f": [
         "change >= 300%",
+        "change|15 >= 300%",
+        "change|60 >= 300%",
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
@@ -26,13 +26,14 @@
       ]
     },
     {
-      "s": "OTC:FNMFO",
+      "s": "AMEX:CEI",
       "f": [
+        "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "AMEX:CEI",
+      "s": "OTC:FNMFO",
       "f": [
         "change|1M >= 300%"
       ]

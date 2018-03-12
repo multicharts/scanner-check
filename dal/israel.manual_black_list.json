@@ -1,19 +1,13 @@
 {
   "black_list": [
     {
-      "s": "TASE:MDVI",
+      "s": "TASE:MDPR",
       "f": [
         "change|1M >= 300%"
       ]
     },
     {
       "s": "TASE:TOPS",
-      "f": [
-        "change|1M >= 300%"
-      ]
-    },
-    {
-      "s": "TASE:MDPR",
       "f": [
         "change|1M >= 300%"
       ]
@@ -32,6 +26,12 @@
     },
     {
       "s": "TASE:ISOP.L",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:MDVI",
       "f": [
         "change|1M >= 300%"
       ]

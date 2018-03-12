@@ -1,8 +1,23 @@
 {
   "black_list": [
     {
+      "s": "BCS:SPORTING",
+      "f": [
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "BCS:HIPODROMOB",
+      "f": [
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
       "s": "BCS:MARBELLACC",
       "f": [
+        "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
@@ -19,19 +34,7 @@
       ]
     },
     {
-      "s": "BCS:ESTACIONAM",
-      "f": [
-        "change|1M >= 300%"
-      ]
-    },
-    {
       "s": "BCS:SPORTFRAN",
-      "f": [
-        "change|1M >= 300%"
-      ]
-    },
-    {
-      "s": "BCS:SPORTING",
       "f": [
         "change|1M >= 300%"
       ]
@@ -43,7 +46,7 @@
       ]
     },
     {
-      "s": "BCS:HIPODROMOB",
+      "s": "BCS:ESTACIONAM",
       "f": [
         "change|1M >= 300%"
       ]

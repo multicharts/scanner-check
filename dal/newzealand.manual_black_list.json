@@ -1,10 +1,11 @@
 {
   "black_list": [
     {
-      "s": "NZX:KPG",
+      "s": "NZX:SPG",
       "f": [
         "change >= 300%",
         "change|15 >= 300%",
+        "change|60 >= 300%",
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
@@ -18,11 +19,10 @@
       ]
     },
     {
-      "s": "NZX:SPG",
+      "s": "NZX:KPG",
       "f": [
         "change >= 300%",
         "change|15 >= 300%",
-        "change|60 >= 300%",
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]

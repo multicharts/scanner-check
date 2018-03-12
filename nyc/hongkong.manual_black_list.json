@@ -1,19 +1,21 @@
 {
   "black_list": [
     {
-      "s": "IDX:KOPI",
+      "s": "HKEX:377",
+      "f": [
+        "change >= 300%",
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "HKEX:1933",
       "f": [
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "IDX:MYOH",
-      "f": [
-        "change|1M >= 300%"
-      ]
-    },
-    {
-      "s": "IDX:PSAB",
+      "s": "HKEX:2923",
       "f": [
         "change|1M >= 300%"
       ]

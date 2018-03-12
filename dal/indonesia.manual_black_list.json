@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "IDX:PSAB",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
       "s": "IDX:KOPI",
       "f": [
         "change|1M >= 300%"
@@ -8,12 +14,6 @@
     },
     {
       "s": "IDX:MYOH",
-      "f": [
-        "change|1M >= 300%"
-      ]
-    },
-    {
-      "s": "IDX:PSAB",
       "f": [
         "change|1M >= 300%"
       ]

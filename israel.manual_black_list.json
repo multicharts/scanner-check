@@ -1,0 +1,40 @@
+{
+  "black_list": [
+    {
+      "s": "TASE:ISOP.L",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:MDPR",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:MDVI",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:NFTA",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:NXGN-M",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TASE:TOPS",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    }
+  ]
+}

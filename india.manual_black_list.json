@@ -1,0 +1,11 @@
+{
+  "black_list": [
+    {
+      "s": "BSE:ZKOVALIN",
+      "f": [
+        "change|15 >= 300%",
+        "change|60 >= 300%"
+      ]
+    }
+  ]
+}

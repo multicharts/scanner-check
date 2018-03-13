@@ -1,0 +1,56 @@
+{
+  "black_list": [
+    {
+      "s": "AMEX:CEI",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "NASDAQ:IFON",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:ADHG",
+      "f": [
+        "change >= 300%",
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:FNMFO",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:RWRDP",
+      "f": [
+        "change >= 300%",
+        "change|15 >= 300%",
+        "change|60 >= 300%",
+        "change|1W >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:TTMZF",
+      "f": [
+        "change >= 300%",
+        "change|15 >= 300%",
+        "change|60 >= 300%",
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:UUCRF",
+      "f": [
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    }
+  ]
+}

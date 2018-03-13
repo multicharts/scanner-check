@@ -1,0 +1,17 @@
+{
+  "black_list": [
+    {
+      "s": "TSXV:PROS",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TSXV:RMI",
+      "f": [
+        "change|15 >= 300%",
+        "change|60 >= 300%"
+      ]
+    }
+  ]
+}

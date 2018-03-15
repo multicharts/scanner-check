@@ -233,6 +233,12 @@
         ]
       },
       {
+        "s": "EURONEXT:ALTRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:ALTXC",
         "f": [
           "no longer trading"
@@ -259,7 +265,8 @@
       {
         "s": "EURONEXT:ALWOO",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -675,6 +682,12 @@
         ]
       },
       {
+        "s": "EURONEXT:EDEH8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:EDENV",
         "f": [
           "no longer trading"
@@ -732,6 +745,12 @@
         "s": "EURONEXT:ELSH8",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:EMD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -906,7 +925,8 @@
       {
         "s": "EURONEXT:GAMNV",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1130,19 +1150,7 @@
         ]
       },
       {
-        "s": "EURONEXT:LIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:LOUH8",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:LRH8",
         "f": [
           "empty symbol"
         ]
@@ -1218,7 +1226,8 @@
       {
         "s": "EURONEXT:MLABO",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1273,7 +1282,8 @@
       {
         "s": "EURONEXT:MLCFI",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1376,7 +1386,8 @@
       {
         "s": "EURONEXT:MLEAV",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1388,7 +1399,8 @@
       {
         "s": "EURONEXT:MLEDU",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1411,12 +1423,6 @@
       },
       {
         "s": "EURONEXT:MLGAI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:MLGEQ",
         "f": [
           "no longer trading"
         ]
@@ -1521,6 +1527,13 @@
       {
         "s": "EURONEXT:MLKIN",
         "f": [
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "EURONEXT:MLKRI",
+        "f": [
           "no longer trading"
         ]
       },
@@ -1551,24 +1564,19 @@
       {
         "s": "EURONEXT:MLMCE",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "EURONEXT:MLMEX",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "EURONEXT:MLMHO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:MLMNR",
         "f": [
           "no longer trading"
         ]
@@ -1645,7 +1653,8 @@
       {
         "s": "EURONEXT:MLPVG",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1657,7 +1666,8 @@
       {
         "s": "EURONEXT:MLRIV",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1759,6 +1769,12 @@
         ]
       },
       {
+        "s": "EURONEXT:MLTED",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:MLTHA",
         "f": [
           "no longer trading",
@@ -1767,6 +1783,12 @@
       },
       {
         "s": "EURONEXT:MLTRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:MLTRO",
         "f": [
           "no longer trading"
         ]
@@ -1842,12 +1864,6 @@
         "f": [
           "no longer trading",
           "price null"
-        ]
-      },
-      {
-        "s": "EURONEXT:MSF",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2010,6 +2026,12 @@
         ]
       },
       {
+        "s": "EURONEXT:PHAR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:PHIH8",
         "f": [
           "empty symbol"
@@ -2112,6 +2134,12 @@
         ]
       },
       {
+        "s": "EURONEXT:REINA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:RENH8",
         "f": [
           "empty symbol"
@@ -2121,6 +2149,12 @@
         "s": "EURONEXT:RFH8",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:RIH8",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2559,7 +2593,9 @@
       {
         "s": "EURONEXT:VIVNV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {

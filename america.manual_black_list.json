@@ -1,14 +1,13 @@
 {
   "black_list": [
     {
-      "s": "NASDAQ:RKDA",
+      "s": "AMEX:DXR",
       "f": [
-        "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "OTC:ADHG",
+      "s": "NASDAQ:NEBU",
       "f": [
         "change >= 300%",
         "change|1W >= 300%",
@@ -16,21 +15,27 @@
       ]
     },
     {
-      "s": "OTC:RWRDP",
-      "f": [
-        "change|1W >= 300%"
-      ]
-    },
-    {
-      "s": "OTC:SWMM",
+      "s": "NYSE:NYRT",
       "f": [
         "change >= 300%",
+        "change|15 >= 300%",
+        "change|60 >= 300%",
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "OTC:TTMZF",
+      "s": "OTC:AHNR",
+      "f": [
+        "change >= 300%",
+        "change|15 >= 300%",
+        "change|60 >= 300%",
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:DLTZ",
       "f": [
         "change|1M >= 300%"
       ]

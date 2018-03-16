@@ -1,0 +1,17 @@
+{
+  "black_list": [
+    {
+      "s": "TSXV:HLS",
+      "f": [
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "TSXV:NXT",
+      "f": [
+        "change >= 300%"
+      ]
+    }
+  ]
+}

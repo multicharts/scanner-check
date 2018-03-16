@@ -1,0 +1,12 @@
+{
+  "black_list": [
+    {
+      "s": "XETR:SHL",
+      "f": [
+        "change >= 300%",
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    }
+  ]
+}

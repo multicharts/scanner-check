@@ -1,14 +1,27 @@
 {
   "black_list": [
     {
-      "s": "NASDAQ:RKDA",
+      "s": "HKEX:1705",
       "f": [
         "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "OTC:ADHG",
+      "s": "HKEX:1815",
+      "f": [
+        "change|1W >= 300%",
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "HKEX:1933",
+      "f": [
+        "change|1M >= 300%"
+      ]
+    },
+    {
+      "s": "HKEX:2377",
       "f": [
         "change >= 300%",
         "change|1W >= 300%",
@@ -16,22 +29,16 @@
       ]
     },
     {
-      "s": "OTC:RWRDP",
+      "s": "HKEX:2923",
       "f": [
-        "change|1W >= 300%"
-      ]
-    },
-    {
-      "s": "OTC:SWMM",
-      "f": [
-        "change >= 300%",
-        "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     },
     {
-      "s": "OTC:TTMZF",
+      "s": "HKEX:6036",
       "f": [
+        "change >= 300%",
+        "change|1W >= 300%",
         "change|1M >= 300%"
       ]
     }

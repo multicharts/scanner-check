@@ -1,0 +1,11 @@
+{
+  "black_list": [
+    {
+      "s": "LSE:PROX",
+      "f": [
+        "change >= 300%",
+        "change|60 >= 300%"
+      ]
+    }
+  ]
+}

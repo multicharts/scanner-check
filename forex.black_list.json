@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:ANGUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:AWGUSD",
         "f": [
           "equal bars"
@@ -14,12 +20,6 @@
       },
       {
         "s": "FX_IDC:BMDUSD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYUSD",
         "f": [
           "equal bars"
         ]
@@ -80,12 +80,6 @@
       },
       {
         "s": "FX_IDC:USDPAB",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDSLL",
         "f": [
           "equal bars"
         ]

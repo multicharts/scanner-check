@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "AMEX:BOIL",
+      "f": [
+        "change >= 300%"
+      ]
+    },
+    {
       "s": "NASDAQ:NEBU",
       "f": [
         "change >= 300%",
@@ -23,12 +29,6 @@
     },
     {
       "s": "OTC:SWMM",
-      "f": [
-        "change|1M >= 1000%"
-      ]
-    },
-    {
-      "s": "OTC:TTMZF",
       "f": [
         "change|1M >= 1000%"
       ]

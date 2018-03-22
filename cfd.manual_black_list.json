@@ -1,16 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "TVC:DE05Y",
-      "f": [
-        "change <= -DAILY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "TVC:PT02Y",
-      "f": [
-        "change|1M <= -MONTHLY_CHANGE_LIMIT"
-      ]
-    }
-  ]
+  "black_list": []
 }

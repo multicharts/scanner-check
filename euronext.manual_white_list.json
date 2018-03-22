@@ -1,0 +1,10 @@
+{
+  "black_list": [
+    {
+      "s": "EURONEXT:MLTMT",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT"
+      ]
+    }
+  ]
+}

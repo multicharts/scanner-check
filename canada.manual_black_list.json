@@ -1,14 +1,7 @@
 {
   "black_list": [
     {
-      "s": "TSXV:HLS",
-      "f": [
-        "change|1W >= WEEKLY_CHANGE_LIMIT",
-        "change|1M >= MONTHLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "TSXV:NXT",
+      "s": "TSXV:ALD",
       "f": [
         "change >= DAILY_CHANGE_LIMIT"
       ]

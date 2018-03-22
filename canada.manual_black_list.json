@@ -3,14 +3,14 @@
     {
       "s": "TSXV:HLS",
       "f": [
-        "change|1W >= 300%",
-        "change|1M >= 300%"
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     },
     {
       "s": "TSXV:NXT",
       "f": [
-        "change >= 300%"
+        "change >= DAILY_CHANGE_LIMIT"
       ]
     }
   ]

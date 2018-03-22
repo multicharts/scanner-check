@@ -3,8 +3,8 @@
     {
       "s": "LSE:PROX",
       "f": [
-        "change >= 300%",
-        "change|60 >= 300%"
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }
   ]

@@ -3,13 +3,13 @@
     {
       "s": "TASE:MDVI",
       "f": [
-        "change|1M >= 300%"
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     },
     {
       "s": "TASE:OPCT",
       "f": [
-        "change|1M >= 300%"
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     }
   ]

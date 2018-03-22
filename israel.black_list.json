@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "TASE:ADKA",
+        "f": [
+          "test symbol"
+        ]
+      },
+      {
         "s": "TASE:AOC-M",
         "f": [
           "no longer trading"
@@ -20,6 +26,12 @@
       },
       {
         "s": "TASE:BNTM-M",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TASE:BOTI-L",
         "f": [
           "no longer trading"
         ]
@@ -56,6 +68,12 @@
         ]
       },
       {
+        "s": "TASE:HROD-L",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TASE:JTI-M",
         "f": [
           "no longer trading"
@@ -68,25 +86,19 @@
         ]
       },
       {
-        "s": "TASE:LEVI-M",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TASE:MAYN-M",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TASE:NERZ-L",
+        "s": "TASE:MBMX-L",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TASE:PFLT",
+        "s": "TASE:NERZ-L",
         "f": [
           "no longer trading"
         ]
@@ -116,13 +128,13 @@
         ]
       },
       {
-        "s": "TASE:TZMI-M",
+        "s": "TASE:VISN",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TASE:VISN",
+        "s": "TASE:VTLC-M",
         "f": [
           "no longer trading"
         ]

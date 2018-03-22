@@ -1,10 +1,34 @@
 {
-    "black_list": [
-      {
-        "s": "NASDAQ:NEBU",
-        "f": [
-          "change >= 300%"
-        ]
-      }
-    ]
-  }
+  "black_list": [
+    {
+      "s": "AMEX:BOIL",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "NASDAQ:NEBU",
+      "f": [
+        "change >= 300%"
+      ]
+    },
+    {
+      "s": "OTC:ADHG",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:RWRDP",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:SWMM",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    }
+  ]
+}

@@ -9,7 +9,7 @@
     {
       "s": "NASDAQ:NEBU",
       "f": [
-        "change >= 300%"
+        "change >= DAILY_CHANGE_LIMIT"
       ]
     },
     {

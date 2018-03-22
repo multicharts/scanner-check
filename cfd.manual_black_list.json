@@ -5,6 +5,12 @@
       "f": [
         "change <= -DAILY_CHANGE_LIMIT"
       ]
+    },
+    {
+      "s": "TVC:PT03Y",
+      "f": [
+        "change|15 >= INTRADAY_CHANGE_LIMIT"
+      ]
     }
   ]
 }

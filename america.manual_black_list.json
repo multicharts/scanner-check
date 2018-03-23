@@ -7,15 +7,25 @@
       ]
     },
     {
-      "s": "AMEX:OILD",
+      "s": "NASDAQ:ABIL",
       "f": [
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     },
     {
       "s": "NASDAQ:NEBU",
       "f": [
         "change >= DAILY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "NASDAQ:RTTR",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     },
     {

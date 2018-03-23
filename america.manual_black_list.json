@@ -43,12 +43,6 @@
       ]
     },
     {
-      "s": "NYSE:STG",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "OTC:ADHG",
       "f": [
         "change|1W >= WEEKLY_CHANGE_LIMIT"

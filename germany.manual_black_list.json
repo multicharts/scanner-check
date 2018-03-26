@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "SWB:BKS3",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "XETR:SHL",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"

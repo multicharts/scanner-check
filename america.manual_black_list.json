@@ -17,10 +17,35 @@
       ]
     },
     {
+      "s": "OTC:ADHG",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:ALAD",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:COTQF",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:RWRDP",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:SWMM",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     }
   ]

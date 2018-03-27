@@ -1,9 +1,11 @@
 {
   "black_list": [
     {
-      "s": "SWB:BKS3",
+      "s": "XETR:PAT",
       "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1M >= MONTHLY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
     },
     {

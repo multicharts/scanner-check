@@ -303,6 +303,7 @@
       {
         "s": "LSE:61HE",
         "f": [
+          "no longer trading",
           "price null"
         ]
       },
@@ -477,6 +478,7 @@
       {
         "s": "LSE:86IP",
         "f": [
+          "no longer trading",
           "price null"
         ]
       },
@@ -675,6 +677,7 @@
       {
         "s": "LSE:AXBA",
         "f": [
+          "no longer trading",
           "price null"
         ]
       },
@@ -813,6 +816,7 @@
       {
         "s": "LSE:BPFU",
         "f": [
+          "no longer trading",
           "price null"
         ]
       },
@@ -886,7 +890,8 @@
       {
         "s": "LSE:CNIC",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -909,6 +914,12 @@
       },
       {
         "s": "LSE:CU01",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:CVR",
         "f": [
           "no longer trading"
         ]
@@ -1190,12 +1201,6 @@
         ]
       },
       {
-        "s": "LSE:GLOO",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSE:GRPH",
         "f": [
           "no longer trading"
@@ -1304,12 +1309,6 @@
         ]
       },
       {
-        "s": "LSE:IEAH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:IECF",
         "f": [
           "no longer trading"
@@ -1341,12 +1340,6 @@
       },
       {
         "s": "LSE:IGLH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:IHHG",
         "f": [
           "empty symbol"
         ]

@@ -1445,7 +1445,8 @@
       {
         "s": "EURONEXT:MLEAV",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1753,7 +1754,8 @@
       {
         "s": "EURONEXT:MLPVG",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1772,7 +1774,7 @@
       {
         "s": "EURONEXT:MLSDR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2669,7 +2671,6 @@
       {
         "s": "EURONEXT:VIVNV",
         "f": [
-          "equal bars",
           "no longer trading",
           "price null"
         ]

@@ -1,61 +1,11 @@
 {
   "black_list": [
     {
-      "s": "AMEX:EDZ",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "AMEX:ERY",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "AMEX:LABD",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "AMEX:MXDE",
-      "f": [
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "AMEX:TECS",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "AMEX:YANG",
-      "f": [
-        "pre_change >= DAILY_CHANGE_LIMIT",
-        "pre_change|15 >= INTRADAY_CHANGE_LIMIT",
-        "pre_change|1W >= WEEKLY_CHANGE_LIMIT",
-        "pre_change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "NASDAQ:NEBU",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|1M >= MONTHLY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "NASDAQ:TOPS",
-      "f": [
-        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     },
     {

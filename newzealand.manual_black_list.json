@@ -1,42 +1,39 @@
 {
   "black_list": [
     {
-      "s": "NASDAQ:NEBU",
+      "s": "NZX:CDI",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
-        "change|1M >= MONTHLY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
     },
     {
-      "s": "OTC:ADHG",
+      "s": "NZX:MOA",
       "f": [
-        "change|1M >= MONTHLY_CHANGE_LIMIT",
+        "change >= DAILY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
     },
     {
-      "s": "OTC:HHER",
+      "s": "NZX:QEX",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "NZX:SCT",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     },
     {
-      "s": "OTC:IGSC",
+      "s": "NZX:THL",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "OTC:ZHUD",
-      "f": [
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }

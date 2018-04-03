@@ -1,0 +1,11 @@
+{
+  "black_list": [
+    {
+      "s": "SWB:STE",
+      "f": [
+        "change|15 >= INTRADAY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    }
+  ]
+}

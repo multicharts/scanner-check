@@ -16,6 +16,12 @@
       ]
     },
     {
+      "s": "OTC:CPPXF",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:HHER",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -25,11 +31,25 @@
       ]
     },
     {
+      "s": "OTC:HHHEF",
+      "f": [
+        "pre_change|15 >= INTRADAY_CHANGE_LIMIT",
+        "pre_change|240 >= INTRADAY_CHANGE_LIMIT",
+        "pre_change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:IGSC",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "OTC:SMBZF",
+      "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     },

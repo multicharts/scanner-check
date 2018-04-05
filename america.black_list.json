@@ -1,13 +1,49 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:AJAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:AMT/PB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:ARNC/P",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "AMEX:ATW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:BAA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:CMDY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:COH",
         "f": [
           "no longer trading"
         ]
@@ -67,6 +103,12 @@
         ]
       },
       {
+        "s": "AMEX:IFRA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:MMIT",
         "f": [
           "no longer trading"
@@ -79,7 +121,37 @@
         ]
       },
       {
+        "s": "AMEX:PMC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:PTHN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:PW/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:QARP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:RICE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:RT",
         "f": [
           "no longer trading"
         ]
@@ -98,6 +170,12 @@
       },
       {
         "s": "AMEX:VGFO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:VNTV",
         "f": [
           "no longer trading"
         ]
@@ -361,9 +439,27 @@
         ]
       },
       {
+        "s": "NYSE:BIOX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CAA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:CGG",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CUDA",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -374,6 +470,12 @@
       },
       {
         "s": "NYSE:IPSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:LHC",
         "f": [
           "empty symbol"
         ]
@@ -394,6 +496,12 @@
         "s": "NYSE:RH",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:SFR",
+        "f": [
+          "no longer trading"
         ]
       },
       {

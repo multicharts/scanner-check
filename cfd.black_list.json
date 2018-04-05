@@ -1,6 +1,24 @@
 {
     "black_list": [
       {
+        "s": "BMFBOVESPA:IBOV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FOREXCOM:COTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FOREXCOM:HGOUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NSE:NIFTY",
         "f": [
           "empty symbol"
@@ -13,7 +31,25 @@
         ]
       },
       {
+        "s": "OANDA:NL25EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:USB10YUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OANDA:USB30YUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XCUUSD",
         "f": [
           "empty symbol"
         ]
@@ -55,7 +91,49 @@
         ]
       },
       {
+        "s": "TVC:AXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:BXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CAC40",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:CN02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CN02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CN05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CN30",
         "f": [
           "empty symbol"
         ]
@@ -67,7 +145,25 @@
         ]
       },
       {
+        "s": "TVC:DE02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:DE03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DE05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DE10",
         "f": [
           "empty symbol"
         ]
@@ -79,13 +175,43 @@
         ]
       },
       {
+        "s": "TVC:DEU30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:DXY",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "TVC:ES30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:ES30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR03",
         "f": [
           "empty symbol"
         ]
@@ -121,7 +247,43 @@
         ]
       },
       {
+        "s": "TVC:GOLDSILVER",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:HSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IE02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IE03Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IE05Y",
         "f": [
           "empty symbol"
         ]
@@ -145,7 +307,43 @@
         ]
       },
       {
+        "s": "TVC:IT02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IT02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IXIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:JP02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP05Y",
         "f": [
           "empty symbol"
         ]
@@ -163,7 +361,43 @@
         ]
       },
       {
+        "s": "TVC:JP30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:KOSPI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:KR02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:KR10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:KR10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY05Y",
         "f": [
           "empty symbol"
         ]
@@ -175,7 +409,37 @@
         ]
       },
       {
+        "s": "TVC:NL02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NL05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NL30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NO02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:NO02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NO05",
         "f": [
           "empty symbol"
         ]
@@ -187,13 +451,43 @@
         ]
       },
       {
+        "s": "TVC:NZ10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:NZ50G",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "TVC:PLATINUM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:PT02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:PT02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:PT03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:PT05",
         "f": [
           "empty symbol"
         ]
@@ -211,6 +505,24 @@
         ]
       },
       {
+        "s": "TVC:PT10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:RUA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:RUT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:SE02Y",
         "f": [
           "empty symbol"
@@ -218,6 +530,12 @@
       },
       {
         "s": "TVC:SE10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SG02",
         "f": [
           "empty symbol"
         ]
@@ -248,6 +566,42 @@
       },
       {
         "s": "TVC:TH10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TNX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TR05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TR05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US10Y",
         "f": [
           "empty symbol"
         ]

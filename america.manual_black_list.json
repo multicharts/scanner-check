@@ -53,6 +53,12 @@
       ]
     },
     {
+      "s": "OTC:KTNNF",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:PGCG",
       "f": [
         "change|240 >= INTRADAY_CHANGE_LIMIT"

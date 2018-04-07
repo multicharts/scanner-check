@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BITFINEX:AGIBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:AGIBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -17,12 +11,6 @@
         "s": "BITFINEX:AGIBTCSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:AGIETH",
-        "f": [
           "empty symbol"
         ]
       },
@@ -1628,12 +1616,6 @@
         "s": "BITFINEX:REQETHSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:REQUSD",
-        "f": [
           "empty symbol"
         ]
       },

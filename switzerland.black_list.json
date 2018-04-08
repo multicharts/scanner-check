@@ -1,25 +1,7 @@
 {
     "black_list": [
       {
-        "s": "SIX:1COV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:ADJ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:AGFB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ALV.EUR",
         "f": [
           "empty symbol"
         ]
@@ -73,6 +55,12 @@
         ]
       },
       {
+        "s": "SIX:BAP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:BP",
         "f": [
           "test symbol"
@@ -121,15 +109,15 @@
         ]
       },
       {
-        "s": "SIX:CHD",
+        "s": "SIX:CLS1",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:CLS1",
+        "s": "SIX:COP",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -253,12 +241,6 @@
         ]
       },
       {
-        "s": "SIX:GPRO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:GRPN",
         "f": [
           "empty symbol"
@@ -280,12 +262,6 @@
         "s": "SIX:HOG",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:HREN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -339,7 +315,7 @@
       {
         "s": "SIX:KNDI",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -350,6 +326,12 @@
       },
       {
         "s": "SIX:KWS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:LEO",
         "f": [
           "equal bars"
         ]
@@ -376,24 +358,6 @@
         "s": "SIX:MAN",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "SIX:MBTN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MDLZ.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MED",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -439,6 +403,12 @@
         ]
       },
       {
+        "s": "SIX:O2D",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:OMV",
         "f": [
           "test symbol"
@@ -447,7 +417,7 @@
       {
         "s": "SIX:ONVO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -487,12 +457,6 @@
         ]
       },
       {
-        "s": "SIX:SAF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:SAP",
         "f": [
           "test symbol"
@@ -513,19 +477,20 @@
       {
         "s": "SIX:SGSNE",
         "f": [
+          "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:SHLTN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
         "s": "SIX:SLT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:SPCEE.USD",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -549,25 +514,13 @@
       {
         "s": "SIX:SVM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "SIX:SWVK",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:SYK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:TC1",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -601,15 +554,15 @@
         ]
       },
       {
-        "s": "SIX:UHRN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:UNP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SIX:UTX.USD",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -628,12 +581,6 @@
         "s": "SIX:VJET",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:VOD",
-        "f": [
-          "empty symbol"
         ]
       },
       {

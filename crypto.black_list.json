@@ -1,6 +1,24 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:CTRBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:CTRETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:CTRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:AGIBTCLONGS",
         "f": [
           "crypto skip longs shorts",

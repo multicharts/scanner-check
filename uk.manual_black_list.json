@@ -9,15 +9,10 @@
       ]
     },
     {
-      "s": "LSE:IDEA",
+      "s": "LSE:LCAN",
       "f": [
         "change|15 >= INTRADAY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "LSE:SAPO",
-      "f": [
+        "change|240 >= INTRADAY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }

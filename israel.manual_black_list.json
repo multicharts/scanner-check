@@ -1,6 +1,14 @@
 {
   "black_list": [
     {
+      "s": "TASE:DPRM",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|240 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "TASE:KMNK-M",
       "f": [
         "change|15 >= INTRADAY_CHANGE_LIMIT",

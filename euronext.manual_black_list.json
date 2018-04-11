@@ -8,12 +8,6 @@
       ]
     },
     {
-      "s": "EURONEXT:MLIFE",
-      "f": [
-        "change|15 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "EURONEXT:MLSRP",
       "f": [
         "change >= DAILY_CHANGE_LIMIT"

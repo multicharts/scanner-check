@@ -30,12 +30,6 @@
       ]
     },
     {
-      "s": "OTC:CPPXF",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "OTC:ZHUD",
       "f": [
         "change|15 >= INTRADAY_CHANGE_LIMIT",

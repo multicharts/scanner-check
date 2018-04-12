@@ -1,12 +1,6 @@
 {
   "black_list": [
     {
-      "s": "AMEX:MXDE",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "AMEX:PULS",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -30,9 +24,8 @@
       ]
     },
     {
-      "s": "OTC:ZHUD",
+      "s": "OTC:NULF",
       "f": [
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }

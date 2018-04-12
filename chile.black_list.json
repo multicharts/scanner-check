@@ -1,9 +1,9 @@
 {
     "black_list": [
       {
-        "s": "BCS:ADP",
+        "s": "BCS:AGUAS_B",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -19,22 +19,15 @@
         ]
       },
       {
+        "s": "BCS:ANASAC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:ANDACOR",
         "f": [
-          "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "BCS:AXP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:BIIB",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -44,32 +37,27 @@
         ]
       },
       {
-        "s": "BCS:CAP",
+        "s": "BCS:CAROZZI",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "BCS:CASABLANCA",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "BCS:CCU",
+        "s": "BCS:CASGEN",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CENCOSUD",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "BCS:CGEDISTRO",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -80,15 +68,15 @@
         ]
       },
       {
-        "s": "BCS:CLUBUNION",
+        "s": "BCS:CLUBCAMPO",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "BCS:CMPC",
+        "s": "BCS:CLUBUNION",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -116,25 +104,37 @@
         ]
       },
       {
-        "s": "BCS:COLOSO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CONSOGRAL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:CORPESCA",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "BCS:COUNTRY_A",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:COUNTRY_B",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:COUNTRY_P",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:COVADONGA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:CRAIGHOUSE",
         "f": [
           "equal bars"
         ]
@@ -152,21 +152,15 @@
         ]
       },
       {
-        "s": "BCS:CVA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:DEHESA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:ENJOY",
+        "s": "BCS:ELECDA",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -212,9 +206,9 @@
         ]
       },
       {
-        "s": "BCS:ESVAL_C",
+        "s": "BCS:FEPASA",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -242,18 +236,6 @@
         ]
       },
       {
-        "s": "BCS:HITES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:INGEVEC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:INGEVE_OSA",
         "f": [
           "empty symbol"
@@ -266,6 +248,12 @@
         ]
       },
       {
+        "s": "BCS:INTASA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:INVERFOODS",
         "f": [
           "empty symbol"
@@ -273,24 +261,6 @@
       },
       {
         "s": "BCS:IOCL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:IPAL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:IQUIQUE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:ITAUCORP",
         "f": [
           "empty symbol"
         ]
@@ -311,6 +281,12 @@
         "s": "BCS:LINDEFUT",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:LITORAL",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -364,7 +340,13 @@
       {
         "s": "BCS:PCLN",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCS:POTASIOS_B",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -374,27 +356,57 @@
         ]
       },
       {
+        "s": "BCS:PREVISION",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:PUCOBRE_C",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:PUCOBRE_D",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:PUMACL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:PUNTILLA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:PUYEHUE",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:SM_CHILE_B",
+        "s": "BCS:QUILICURA",
         "f": [
-          "empty symbol"
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BCS:SANTA_RITA",
+        "f": [
+          "equal bars"
         ]
       },
       {
         "s": "BCS:SOFRUCO",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "BCS:SQM_B",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -422,19 +434,13 @@
         ]
       },
       {
+        "s": "BCS:TRICAHUE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:TXN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:UPS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:VAPORES",
         "f": [
           "empty symbol"
         ]

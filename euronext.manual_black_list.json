@@ -1,13 +1,7 @@
 {
   "black_list": [
     {
-      "s": "EURONEXT:MLGEL",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "EURONEXT:MLIOC",
+      "s": "EURONEXT:CATDS",
       "f": [
         "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|240 >= INTRADAY_CHANGE_LIMIT",
@@ -18,6 +12,12 @@
       "s": "EURONEXT:MLSRP",
       "f": [
         "change >= DAILY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "EURONEXT:PID",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     }
   ]

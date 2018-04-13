@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "MYX:2062",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "MYX:7251",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"

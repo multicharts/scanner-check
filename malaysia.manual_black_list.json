@@ -1,19 +1,13 @@
 {
   "black_list": [
     {
-      "s": "TASE:MDVI",
+      "s": "MYX:2062",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     },
     {
-      "s": "TASE:NFTA",
-      "f": [
-        "change|1M >= MONTHLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "TASE:TOPS",
+      "s": "MYX:7251",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]

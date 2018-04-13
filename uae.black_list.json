@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "DFM:ALLIANCE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "DFM:AMCUAE",
         "f": [
           "empty symbol"
@@ -10,18 +16,6 @@
         "s": "DFM:EFG_TELECOM",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "DFM:EMAAR.SUK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "DFM:HITSTELEC",
-        "f": [
-          "no longer trading"
         ]
       },
       {

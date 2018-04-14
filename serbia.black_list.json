@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BELEX:AERO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:AGBC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:AGEX",
         "f": [
           "no longer trading"
@@ -21,7 +9,8 @@
       {
         "s": "BELEX:AGIN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -45,25 +34,29 @@
       {
         "s": "BELEX:AGRP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:AGRX",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:AGSA",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:AIKB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -79,14 +72,9 @@
         ]
       },
       {
-        "s": "BELEX:AKDM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:AKLE",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -94,12 +82,19 @@
       {
         "s": "BELEX:AKZM",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:ALBS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ALTN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -107,7 +102,7 @@
       {
         "s": "BELEX:AMSO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -119,6 +114,7 @@
       {
         "s": "BELEX:APJP",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -132,18 +128,21 @@
       {
         "s": "BELEX:AQUA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ATGR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:ATHN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -151,6 +150,7 @@
       {
         "s": "BELEX:ATKR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -158,13 +158,15 @@
       {
         "s": "BELEX:ATLJM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ATRB",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -176,25 +178,29 @@
       {
         "s": "BELEX:AUTP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:AUTT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:AVJD",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:AVLP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -206,19 +212,21 @@
       {
         "s": "BELEX:BAGB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BAJI",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:BASB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -230,13 +238,13 @@
       {
         "s": "BELEX:BCKA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BCNB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -248,18 +256,19 @@
       {
         "s": "BELEX:BDPR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BDSU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BEBE",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -267,13 +276,15 @@
       {
         "s": "BELEX:BENT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BEOZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -291,18 +302,22 @@
       {
         "s": "BELEX:BHSL",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:BLAG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BLCN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -310,19 +325,21 @@
       {
         "s": "BELEX:BLCR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BNBR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:BNDS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -334,12 +351,15 @@
       {
         "s": "BELEX:BOIN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:BPNP",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -347,6 +367,7 @@
       {
         "s": "BELEX:BPRZ",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -354,7 +375,7 @@
       {
         "s": "BELEX:BRAT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -366,6 +387,7 @@
       {
         "s": "BELEX:BRCK",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -373,18 +395,21 @@
       {
         "s": "BELEX:BRCS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:BRKC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:BRVN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -392,7 +417,8 @@
       {
         "s": "BELEX:BTSO",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -404,19 +430,20 @@
       {
         "s": "BELEX:BUJA",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:BZDN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:CCNB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -428,13 +455,17 @@
       {
         "s": "BELEX:CCNBPF",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:CERC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -446,6 +477,7 @@
       {
         "s": "BELEX:CETK",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -453,7 +485,9 @@
       {
         "s": "BELEX:CGLT",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -465,6 +499,7 @@
       {
         "s": "BELEX:CIKR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -490,13 +525,13 @@
       {
         "s": "BELEX:CNTA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:COKA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -508,7 +543,7 @@
       {
         "s": "BELEX:COOP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -520,13 +555,15 @@
       {
         "s": "BELEX:CRIS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:CRSG",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -538,7 +575,9 @@
       {
         "s": "BELEX:CSNS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -550,12 +589,14 @@
       {
         "s": "BELEX:CZPV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:DBOS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -563,12 +604,15 @@
       {
         "s": "BELEX:DEDI",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:DIBB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -576,6 +620,7 @@
       {
         "s": "BELEX:DINN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -586,26 +631,23 @@
         ]
       },
       {
-        "s": "BELEX:DINNPB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:DINNPP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:DINR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:DIOR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -613,6 +655,7 @@
       {
         "s": "BELEX:DIVR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -620,13 +663,15 @@
       {
         "s": "BELEX:DJKC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:DJMN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -644,24 +689,21 @@
       {
         "s": "BELEX:DJTR",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:DMNR",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:DNAP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:DNGA",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -669,7 +711,9 @@
       {
         "s": "BELEX:DNGR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -687,24 +731,27 @@
       {
         "s": "BELEX:DUGAM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:DUGAPB",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:DVLJ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:DVZR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -712,6 +759,7 @@
       {
         "s": "BELEX:EFRG",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -719,12 +767,15 @@
       {
         "s": "BELEX:EIAS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:EIBB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -732,6 +783,7 @@
       {
         "s": "BELEX:EISV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -739,7 +791,9 @@
       {
         "s": "BELEX:ELAN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -751,12 +805,13 @@
       {
         "s": "BELEX:ELKK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ELKR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -769,25 +824,28 @@
       {
         "s": "BELEX:ELPO",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:ELVPR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ENGR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ENOP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -799,6 +857,7 @@
       {
         "s": "BELEX:EPRM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -806,7 +865,7 @@
       {
         "s": "BELEX:EROZ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -831,18 +890,22 @@
       {
         "s": "BELEX:FADP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:FAMKR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:FATX",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -850,6 +913,7 @@
       {
         "s": "BELEX:FBCM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -857,12 +921,13 @@
       {
         "s": "BELEX:FERK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:FERM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -870,6 +935,7 @@
       {
         "s": "BELEX:FHMS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -883,6 +949,7 @@
       {
         "s": "BELEX:FLUT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -890,13 +957,15 @@
       {
         "s": "BELEX:FOCA",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:FRMC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -908,13 +977,13 @@
       {
         "s": "BELEX:FSMA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GEOM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -926,30 +995,32 @@
       {
         "s": "BELEX:GFSO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GLBG",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GLBMS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GLFS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GLOSK2",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -957,24 +1028,21 @@
       {
         "s": "BELEX:GLOSK5",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:GLPD",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:GMON",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GOCT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -982,6 +1050,7 @@
       {
         "s": "BELEX:GPKS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -989,6 +1058,7 @@
       {
         "s": "BELEX:GPSJ",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -996,6 +1066,7 @@
       {
         "s": "BELEX:GRAV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1009,12 +1080,13 @@
       {
         "s": "BELEX:GRDB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:GRDI",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1034,6 +1106,7 @@
       {
         "s": "BELEX:GROT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1047,7 +1120,7 @@
       {
         "s": "BELEX:GRZA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1065,6 +1138,7 @@
       {
         "s": "BELEX:GZPD",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1077,7 +1151,7 @@
       {
         "s": "BELEX:HDGR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1089,18 +1163,21 @@
       {
         "s": "BELEX:HERC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:HGLB",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:HIDG",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1108,6 +1185,7 @@
       {
         "s": "BELEX:HIVR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1119,44 +1197,43 @@
         ]
       },
       {
-        "s": "BELEX:HMBG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:HMLJ",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:HPNS",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:HTBL",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:IBAA",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:IBAR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:IGVG",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1164,13 +1241,15 @@
       {
         "s": "BELEX:IKRB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:IMBZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1188,13 +1267,14 @@
       {
         "s": "BELEX:IMRT",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:INBB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1206,8 +1286,15 @@
       {
         "s": "BELEX:INCL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "BELEX:INEU",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1219,12 +1306,13 @@
       {
         "s": "BELEX:INIM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:INLO",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1232,7 +1320,9 @@
       {
         "s": "BELEX:INLS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1244,6 +1334,7 @@
       {
         "s": "BELEX:INMTPB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1251,12 +1342,14 @@
       {
         "s": "BELEX:INNV",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:INSA",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1264,36 +1357,41 @@
       {
         "s": "BELEX:INTS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:INUZN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:INXB",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:INXD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:INXR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:INXV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1308,6 +1406,7 @@
       {
         "s": "BELEX:IRCN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1315,13 +1414,9 @@
       {
         "s": "BELEX:IRMV",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:IRTL",
-        "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1339,6 +1434,7 @@
       {
         "s": "BELEX:IZLC",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1351,7 +1447,7 @@
       {
         "s": "BELEX:JDAR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1363,6 +1459,7 @@
       {
         "s": "BELEX:JDVL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1376,6 +1473,7 @@
       {
         "s": "BELEX:JGHM",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1394,42 +1492,41 @@
       {
         "s": "BELEX:JIBG",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:JLEK",
         "f": [
+          "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:JMBN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
         "s": "BELEX:JMSE",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:JPUG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:JSNC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:JSNV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1437,6 +1534,7 @@
       {
         "s": "BELEX:JUFM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1444,13 +1542,14 @@
       {
         "s": "BELEX:JUFZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:JUGD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1462,7 +1561,7 @@
       {
         "s": "BELEX:KCRV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1474,25 +1573,28 @@
       {
         "s": "BELEX:KDNC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:KIML",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:KLNG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:KLZP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1504,7 +1606,7 @@
       {
         "s": "BELEX:KOLT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1516,6 +1618,7 @@
       {
         "s": "BELEX:KPNK",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1529,6 +1632,7 @@
       {
         "s": "BELEX:KRPL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1542,30 +1646,36 @@
       {
         "s": "BELEX:KSMM",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:KSMRM",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:KSNC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:KSTL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:KSVB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1573,6 +1683,7 @@
       {
         "s": "BELEX:KVIM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1592,19 +1703,23 @@
       {
         "s": "BELEX:LIND",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:LKLG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:LMNG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1628,6 +1743,7 @@
       {
         "s": "BELEX:LPNS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1647,13 +1763,13 @@
       {
         "s": "BELEX:MBIT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:MBLS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1665,7 +1781,8 @@
       {
         "s": "BELEX:MDFR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -1677,6 +1794,7 @@
       {
         "s": "BELEX:METC",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1684,6 +1802,7 @@
       {
         "s": "BELEX:METL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1691,6 +1810,7 @@
       {
         "s": "BELEX:MGAL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1704,6 +1824,7 @@
       {
         "s": "BELEX:MINF",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1711,24 +1832,27 @@
       {
         "s": "BELEX:MING",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:MINK",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:MIRC",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:MITR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1736,18 +1860,23 @@
       {
         "s": "BELEX:MJVC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:MKVC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:MLAL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1761,18 +1890,22 @@
       {
         "s": "BELEX:MLDP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:MLIN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:MLVP",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1780,20 +1913,9 @@
       {
         "s": "BELEX:MMEL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
-        ]
-      },
-      {
-        "s": "BELEX:MNEI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:MNHL",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1805,6 +1927,7 @@
       {
         "s": "BELEX:MNRS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1812,6 +1935,7 @@
       {
         "s": "BELEX:MPRO",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1825,23 +1949,18 @@
       {
         "s": "BELEX:MRZB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:MSPK",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:MTKS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:MTLC",
         "f": [
           "no longer trading"
         ]
@@ -1849,7 +1968,9 @@
       {
         "s": "BELEX:MTPL",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -1861,18 +1982,20 @@
       {
         "s": "BELEX:MTTR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NAMA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NAPS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1886,6 +2009,7 @@
       {
         "s": "BELEX:NDPD",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1893,6 +2017,7 @@
       {
         "s": "BELEX:NEDN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1900,18 +2025,19 @@
       {
         "s": "BELEX:NEKS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NEOP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NETW",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1923,26 +2049,23 @@
         ]
       },
       {
-        "s": "BELEX:NIIS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:NIPZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:NKTS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NOLT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1950,12 +2073,15 @@
       {
         "s": "BELEX:NOVT",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:NPPI",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1963,7 +2089,7 @@
       {
         "s": "BELEX:NPRA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1975,12 +2101,15 @@
       {
         "s": "BELEX:NRSG",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:NRTV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -1988,24 +2117,26 @@
       {
         "s": "BELEX:NSOD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NSSD",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NSSJ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:NTOM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2013,12 +2144,14 @@
       {
         "s": "BELEX:NVST",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:OBNO",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2032,6 +2165,7 @@
       {
         "s": "BELEX:ODZS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2039,13 +2173,17 @@
       {
         "s": "BELEX:ODZV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:OKOV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2057,7 +2195,9 @@
       {
         "s": "BELEX:ONOL",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2069,7 +2209,9 @@
       {
         "s": "BELEX:OSNV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2087,7 +2229,9 @@
       {
         "s": "BELEX:PARH",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2099,12 +2243,15 @@
       {
         "s": "BELEX:PBKI",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:PBLJ",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2112,6 +2259,7 @@
       {
         "s": "BELEX:PBMT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2119,13 +2267,15 @@
       {
         "s": "BELEX:PBZR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:PDBC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2135,14 +2285,9 @@
         ]
       },
       {
-        "s": "BELEX:PDCL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:PDVS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2156,6 +2301,7 @@
       {
         "s": "BELEX:PFKT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2163,19 +2309,26 @@
       {
         "s": "BELEX:PIKV",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:PKMJ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PKPT",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:PKRP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2187,7 +2340,7 @@
       {
         "s": "BELEX:PLNM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2199,7 +2352,9 @@
       {
         "s": "BELEX:PLST",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2217,18 +2372,19 @@
       {
         "s": "BELEX:PLTNN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PMLI",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PMLT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2236,13 +2392,15 @@
       {
         "s": "BELEX:PMNI",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:PNKZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -2254,6 +2412,7 @@
       {
         "s": "BELEX:POPI",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2267,12 +2426,13 @@
       {
         "s": "BELEX:PPLA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PPPO",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2280,6 +2440,7 @@
       {
         "s": "BELEX:PPTA",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2287,19 +2448,27 @@
       {
         "s": "BELEX:PPVA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PRGM",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
       },
       {
+        "s": "BELEX:PRGS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:PRIV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2307,7 +2476,7 @@
       {
         "s": "BELEX:PRLA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2319,7 +2488,7 @@
       {
         "s": "BELEX:PROD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2331,6 +2500,7 @@
       {
         "s": "BELEX:PRSB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2344,25 +2514,27 @@
       {
         "s": "BELEX:PSOB",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:PSSS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PSSU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:PTLK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2374,6 +2546,7 @@
       {
         "s": "BELEX:PTNN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2381,6 +2554,7 @@
       {
         "s": "BELEX:PTOK",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2412,12 +2586,13 @@
       {
         "s": "BELEX:RADL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:RAPD",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2425,7 +2600,7 @@
       {
         "s": "BELEX:RBGD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2437,13 +2612,13 @@
       {
         "s": "BELEX:RDKV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:RDNK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2455,12 +2630,13 @@
       {
         "s": "BELEX:RDVB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:RFNF",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2468,6 +2644,7 @@
       {
         "s": "BELEX:RGBG",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2475,7 +2652,7 @@
       {
         "s": "BELEX:RGPV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2487,6 +2664,7 @@
       {
         "s": "BELEX:RKSV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2494,6 +2672,7 @@
       {
         "s": "BELEX:RLSL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2501,24 +2680,30 @@
       {
         "s": "BELEX:RMBG",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:RMTR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:RNRD",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:RPID",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2538,31 +2723,26 @@
       {
         "s": "BELEX:RUBN",
         "f": [
+          "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:RUDO",
-        "f": [
-          "empty symbol"
         ]
       },
       {
         "s": "BELEX:RUMA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:RVNC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:RVNJ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2580,18 +2760,19 @@
       {
         "s": "BELEX:SAOD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SATR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SAVA",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2599,6 +2780,7 @@
       {
         "s": "BELEX:SAVR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2606,18 +2788,22 @@
       {
         "s": "BELEX:SBAC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:SBMB",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:SBNT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2625,25 +2811,28 @@
       {
         "s": "BELEX:SBRB",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:SCEN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SEVB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SFTO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2655,6 +2844,7 @@
       {
         "s": "BELEX:SGNL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2674,24 +2864,28 @@
       {
         "s": "BELEX:SIGMA",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "BELEX:SJKS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SJLB",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:SJPT",
-        "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SKLC",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2717,12 +2911,14 @@
       {
         "s": "BELEX:SLBG",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:SLBZ",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2730,18 +2926,19 @@
       {
         "s": "BELEX:SLDS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SLGA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SLGU",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2749,25 +2946,15 @@
       {
         "s": "BELEX:SLJU",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:SLMH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:SLNP",
-        "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:SLPP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2779,6 +2966,7 @@
       {
         "s": "BELEX:SLTL",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2786,7 +2974,9 @@
       {
         "s": "BELEX:SLVA",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2798,6 +2988,7 @@
       {
         "s": "BELEX:SMBR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2805,6 +2996,7 @@
       {
         "s": "BELEX:SMIN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2812,7 +3004,7 @@
       {
         "s": "BELEX:SMPO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2824,13 +3016,15 @@
       {
         "s": "BELEX:SMRK",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:SNPR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2842,36 +3036,37 @@
       {
         "s": "BELEX:SPLA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SPNS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SPRFS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SPRU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SRPU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SRTU",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2879,19 +3074,24 @@
       {
         "s": "BELEX:STIG",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:STIS",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:STLE",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -2903,18 +3103,19 @@
       {
         "s": "BELEX:STOC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:STOTN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:STRG",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2933,32 +3134,22 @@
         ]
       },
       {
-        "s": "BELEX:STTM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:STUP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SVRL",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:SVRME",
-        "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SVRT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2972,12 +3163,13 @@
       {
         "s": "BELEX:SVTS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:SWIS",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -2985,20 +3177,15 @@
       {
         "s": "BELEX:TATR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:TBKN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
-        ]
-      },
-      {
-        "s": "BELEX:TGAS",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3016,13 +3203,13 @@
       {
         "s": "BELEX:THNK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:THNRZ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3040,7 +3227,7 @@
       {
         "s": "BELEX:THSM",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3052,12 +3239,14 @@
       {
         "s": "BELEX:TKFS",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:TKLE",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3066,12 +3255,6 @@
         "s": "BELEX:TKSM",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:TLKB",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3089,7 +3272,9 @@
       {
         "s": "BELEX:TMKZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -3101,7 +3286,8 @@
       {
         "s": "BELEX:TMSZ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -3113,18 +3299,21 @@
       {
         "s": "BELEX:TPLU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:TRAY",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:TRGC",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3138,18 +3327,21 @@
       {
         "s": "BELEX:TRLT",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:TRPK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:TRTB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3157,6 +3349,7 @@
       {
         "s": "BELEX:TRTN",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3164,6 +3357,7 @@
       {
         "s": "BELEX:TRVM",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3176,6 +3370,7 @@
       {
         "s": "BELEX:TRVZ",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3183,18 +3378,23 @@
       {
         "s": "BELEX:TSAM",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:TVLE",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:TZSU",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3202,7 +3402,9 @@
       {
         "s": "BELEX:UGPR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -3214,7 +3416,7 @@
       {
         "s": "BELEX:UKNP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3226,24 +3428,28 @@
       {
         "s": "BELEX:UMTN",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:UNELB",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:UNFZ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:UNIP",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3257,18 +3463,20 @@
       {
         "s": "BELEX:UNVK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:URBSM",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:USBT",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3276,38 +3484,55 @@
       {
         "s": "BELEX:UTPR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:UTSI",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:VAPK",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BELEX:VAPKPB",
-        "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
       },
       {
+        "s": "BELEX:VAPKPB",
+        "f": [
+          "equal bars",
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "BELEX:VBSE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:VDAV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:VDPC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:VDSP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -3319,19 +3544,20 @@
       {
         "s": "BELEX:VIKD",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:VINK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:VINZ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3343,7 +3569,7 @@
       {
         "s": "BELEX:VJSO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3355,6 +3581,7 @@
       {
         "s": "BELEX:VJSR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3368,12 +3595,14 @@
       {
         "s": "BELEX:VOSP",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:VPBP",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3381,7 +3610,7 @@
       {
         "s": "BELEX:VPDU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3409,26 +3638,38 @@
         ]
       },
       {
+        "s": "BELEX:VSSA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:VSTP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:VTKV",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:VTRS",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:VTSK",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3440,50 +3681,50 @@
         ]
       },
       {
-        "s": "BELEX:VZAS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BELEX:VZEN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:WKSL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:YUCM",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:YUMC",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:ZDAR",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZGOP",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZIDB",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3491,30 +3732,28 @@
       {
         "s": "BELEX:ZIMP",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:ZISR",
-        "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZLGB",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZLMR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZLSTU",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3522,13 +3761,13 @@
       {
         "s": "BELEX:ZLSU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZLTL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3540,6 +3779,7 @@
       {
         "s": "BELEX:ZLTR",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3547,24 +3787,29 @@
       {
         "s": "BELEX:ZMAJ",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading",
+          "price null"
         ]
       },
       {
         "s": "BELEX:ZMSD",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZPBG",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZPNI",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3572,18 +3817,19 @@
       {
         "s": "BELEX:ZSAP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZTPK",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "BELEX:ZTZA",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3591,6 +3837,7 @@
       {
         "s": "BELEX:ZVAV",
         "f": [
+          "equal bars",
           "no longer trading",
           "price null"
         ]
@@ -3604,7 +3851,7 @@
       {
         "s": "BELEX:ZZSV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       }
     ]

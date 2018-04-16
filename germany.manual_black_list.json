@@ -7,6 +7,12 @@
       ]
     },
     {
+      "s": "SWB:NOEJ",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "XETR:GWD",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",

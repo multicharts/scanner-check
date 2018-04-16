@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "TASE:ISOP.L",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "TASE:MDPR",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
@@ -14,6 +20,12 @@
     },
     {
       "s": "TASE:NFTA",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "TASE:NXGN-M",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]

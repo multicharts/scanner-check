@@ -1,6 +1,186 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:ADXBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:AEETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:AIONBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:ARNETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:BRDBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:BRDETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:BTSBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:CMTETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:DASHETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:DLTBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:LSKBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:MTHETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:NEBLBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:NEOUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:OAXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:OAXETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:ONTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:POABNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:POEBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:POEETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:QLCBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:REQBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:REQETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:RLCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:SNMETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:WABIBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:WAVESETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:WTCBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:XRPBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:YOYOETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:AGIBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -25,6 +205,12 @@
         "s": "BITFINEX:AGIETHSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:AGIUSD",
+        "f": [
           "empty symbol"
         ]
       },
@@ -223,6 +409,12 @@
         ]
       },
       {
+        "s": "BITFINEX:BCHETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:BCHETHLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -237,7 +429,8 @@
       {
         "s": "BITFINEX:BCHUSDLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -327,7 +520,8 @@
       {
         "s": "BITFINEX:BTCUSDLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -339,7 +533,8 @@
       {
         "s": "BITFINEX:BTGBTCLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -511,6 +706,12 @@
         ]
       },
       {
+        "s": "BITFINEX:EDOBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:EDOBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -537,13 +738,15 @@
       {
         "s": "BITFINEX:EDOUSDLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
         "s": "BITFINEX:EDOUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -601,6 +804,12 @@
         ]
       },
       {
+        "s": "BITFINEX:EOSETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:EOSETHLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -615,7 +824,8 @@
       {
         "s": "BITFINEX:EOSEURLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -633,7 +843,8 @@
       {
         "s": "BITFINEX:EOSGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -657,7 +868,8 @@
       {
         "s": "BITFINEX:EOSUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -669,7 +881,8 @@
       {
         "s": "BITFINEX:ETCBTCSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -721,6 +934,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ETHJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ETHJPYLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -765,19 +984,27 @@
       {
         "s": "BITFINEX:ETPETHSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
         "s": "BITFINEX:ETPUSDLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
         "s": "BITFINEX:ETPUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:FUNBTC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -909,7 +1136,8 @@
       {
         "s": "BITFINEX:IOTBTCLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -928,6 +1156,12 @@
         "s": "BITFINEX:IOTETHSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:IOTEUR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1059,6 +1293,12 @@
         ]
       },
       {
+        "s": "BITFINEX:MNAETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:MNAETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1069,6 +1309,12 @@
         "s": "BITFINEX:MNAETHSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:MNAUSD",
+        "f": [
           "empty symbol"
         ]
       },
@@ -1125,6 +1371,12 @@
         "s": "BITFINEX:MTNUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:NEOBTC",
+        "f": [
           "empty symbol"
         ]
       },
@@ -1186,6 +1438,12 @@
         "s": "BITFINEX:NEOJPYSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:NEOUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1251,7 +1509,8 @@
       {
         "s": "BITFINEX:OMGBTCSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -1267,9 +1526,16 @@
         ]
       },
       {
+        "s": "BITFINEX:OMGUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:OMGUSDLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -1289,6 +1555,12 @@
         "s": "BITFINEX:QSHBTCSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:QSHETH",
+        "f": [
           "empty symbol"
         ]
       },
@@ -1573,6 +1845,12 @@
         ]
       },
       {
+        "s": "BITFINEX:RRTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:RRTBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1615,13 +1893,20 @@
       {
         "s": "BITFINEX:SANETHLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
         "s": "BITFINEX:SANETHSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:SANUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1633,7 +1918,8 @@
       {
         "s": "BITFINEX:SANUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -1675,6 +1961,12 @@
         "s": "BITFINEX:SNGUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:SNTBTC",
+        "f": [
           "empty symbol"
         ]
       },
@@ -1763,6 +2055,12 @@
         ]
       },
       {
+        "s": "BITFINEX:TNBBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:TNBBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1777,6 +2075,12 @@
         ]
       },
       {
+        "s": "BITFINEX:TNBETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:TNBETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1787,6 +2091,12 @@
         "s": "BITFINEX:TNBETHSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:TNBUSD",
+        "f": [
           "empty symbol"
         ]
       },
@@ -1909,7 +2219,8 @@
       {
         "s": "BITFINEX:XMRUSDSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -1979,6 +2290,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ZECBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ZECBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -1987,7 +2304,14 @@
       {
         "s": "BITFINEX:ZECBTCSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:ZECUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2045,7 +2369,199 @@
         ]
       },
       {
+        "s": "BITFLYER:BTCJPY1W",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITHUMB:ETCKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITSTAMP:ETHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ADAETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ADTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ADXETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ADXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:AURBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:AURUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BATUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BCCETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BLKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BLOCKBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BNTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BRKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BRXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:BTGBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:CLAMUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CPCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:DASHETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:DCTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:DMDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:DOGEUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:DOPEBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EBSTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EDGBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EFLBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EGCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ETHBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EXPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:FLOUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:GAMBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:GAMUSD",
         "f": [
           "empty symbol"
         ]
@@ -2057,7 +2573,169 @@
         ]
       },
       {
+        "s": "BITTREX:GNTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:GRSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:KMDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:LBCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:LGDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:LTCUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MEMEUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MUEBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:NEOBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:NXTUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:PAYETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:PDCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:POLYBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:PTOYETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:RCNETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:SEQBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:SNTETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:SWTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:TUSDETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:UPETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:VIABTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:VRCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:VTRBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:WAVESETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:WINGSBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XEMBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XLMBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XLMETH",
         "f": [
           "empty symbol"
         ]
@@ -2069,6 +2747,42 @@
         ]
       },
       {
+        "s": "CEXIO:BCHBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CEXIO:BCHEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CEXIO:BCHGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:LTCEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINFLOOR:BTCGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:ETHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GOCIO:BTCRUR",
         "f": [
           "no longer trading"
@@ -2077,13 +2791,97 @@
       {
         "s": "GOCIO:LTCBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "GOCIO:LTCRUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:BCHETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:BCHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:DNTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:DSHBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:XEMUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:XMRBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KORBIT:BCHKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KORBIT:BTGKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KORBIT:XRPKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETCEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:GNOUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:REPXBT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KRAKEN:XBTGBP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2119,6 +2917,7 @@
       {
         "s": "OKCOIN:BTCUSD2W",
         "f": [
+          "empty symbol",
           "skip forward"
         ]
       },
@@ -2126,6 +2925,12 @@
         "s": "OKCOIN:BTCUSD3M",
         "f": [
           "skip forward"
+        ]
+      },
+      {
+        "s": "OKCOIN:ETCUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2167,6 +2972,7 @@
       {
         "s": "OKCOIN:ETHUSD3M",
         "f": [
+          "empty symbol",
           "skip forward"
         ]
       },
@@ -2179,6 +2985,7 @@
       {
         "s": "OKCOIN:LTCUSD1W",
         "f": [
+          "empty symbol",
           "skip forward"
         ]
       },
@@ -2195,6 +3002,72 @@
         ]
       },
       {
+        "s": "POLONIEX:BCNBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:BELABTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:DASHBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:DCRBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETCETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETCUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:ETHBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:GNOETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:HUCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:LTCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:LTCUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:NAUTUSD",
         "f": [
           "empty symbol"
@@ -2207,7 +3080,121 @@
         ]
       },
       {
+        "s": "POLONIEX:NXTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:OMGETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:OMNIBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:REPBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:SJCXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:VIABTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:VRCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:XCPBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:XRPUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:XVCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:ZECBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "THEROCKTRADING:BTCXRP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "THEROCKTRADING:PPCEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "THEROCKTRADING:ZECBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "THEROCKTRADING:ZECEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "WEX:BCHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "WEX:BTCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "WEX:EURRUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "WEX:LTCRUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "WEX:RURETRUR",
         "f": [
           "empty symbol"
         ]

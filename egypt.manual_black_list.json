@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "EGX:EGS30031C016",
+      "f": [
+        "change|1M >= MONTHLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "EGX:EGS305I1C011",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"

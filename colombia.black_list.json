@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BVC:AGROCHAL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BVC:COLTEJER",
         "f": [
           "equal bars"
@@ -10,12 +16,6 @@
         "s": "BVC:DHCELSIA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVC:EPSA",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -32,6 +32,12 @@
         ]
       },
       {
+        "s": "BVC:PFCARPAK",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BVC:PFVILLAS",
         "f": [
           "equal bars"
@@ -39,6 +45,12 @@
       },
       {
         "s": "BVC:POPULAR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BVC:PROTECCION",
         "f": [
           "equal bars"
         ]

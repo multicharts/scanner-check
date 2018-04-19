@@ -15,12 +15,6 @@
       ]
     },
     {
-      "s": "NASDAQ:MOR",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "NASDAQ:NEBU",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -58,12 +52,6 @@
     },
     {
       "s": "OTC:PGCG",
-      "f": [
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "OTC:SVSA",
       "f": [
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BAA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:CNHX",
         "f": [
           "no longer trading"
@@ -14,30 +8,6 @@
       },
       {
         "s": "AMEX:CRVP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DBES",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DDJP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DEFA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DEMS",
         "f": [
           "no longer trading"
         ]
@@ -80,12 +50,6 @@
       },
       {
         "s": "AMEX:FLMI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:FLQS",
         "f": [
           "no longer trading"
         ]
@@ -171,25 +135,7 @@
       {
         "s": "AMEX:MYCC",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:OSIZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PBSM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PBTP",
-        "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -385,6 +331,12 @@
         ]
       },
       {
+        "s": "NASDAQ:LEVL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:LEXEB",
         "f": [
           "no longer trading"
@@ -412,6 +364,12 @@
         "s": "NASDAQ:MOGLC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:MOR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -523,6 +481,12 @@
         ]
       },
       {
+        "s": "NYSE:FCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:GJO",
         "f": [
           "no longer trading"
@@ -538,6 +502,12 @@
         "s": "NYSE:MTB/P",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:PVTL",
+        "f": [
+          "empty symbol"
         ]
       },
       {

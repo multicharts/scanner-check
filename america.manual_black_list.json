@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "AMEX:IG",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "AMEX:PULS",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",

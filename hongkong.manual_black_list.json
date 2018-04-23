@@ -13,6 +13,14 @@
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
+    },
+    {
+      "s": "HKEX:8151",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1M >= MONTHLY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
     }
   ]
 }

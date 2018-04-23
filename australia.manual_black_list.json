@@ -5,13 +5,6 @@
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
-    },
-    {
-      "s": "ASX:JMS",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
     }
   ]
 }

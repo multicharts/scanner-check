@@ -1,18 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "TSXV:BUF",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "TSXV:PBX",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    }
-  ]
+  "black_list": []
 }

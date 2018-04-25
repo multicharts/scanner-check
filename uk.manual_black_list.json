@@ -21,12 +21,6 @@
       ]
     },
     {
-      "s": "LSE:REDX",
-      "f": [
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
       "s": "LSE:SG35",
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"

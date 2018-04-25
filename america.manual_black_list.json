@@ -17,6 +17,12 @@
       ]
     },
     {
+      "s": "NASDAQ:CHEK",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "NASDAQ:FLNT",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT",

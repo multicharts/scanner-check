@@ -35,12 +35,6 @@
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
-    },
-    {
-      "s": "TASE:VTLC-M",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
     }
   ]
 }

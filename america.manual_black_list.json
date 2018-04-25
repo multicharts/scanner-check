@@ -15,6 +15,12 @@
       ]
     },
     {
+      "s": "NASDAQ:CHEK",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "NASDAQ:NRC",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -32,12 +38,6 @@
       "s": "OTC:PGCG",
       "f": [
         "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "OTC:TEUCF",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }
   ]

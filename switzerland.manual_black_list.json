@@ -1,13 +1,12 @@
 {
   "black_list": [
     {
-      "s": "SIX:SHA",
+      "s": "SIX:UBSGE",
       "f": [
-        "pre_change >= DAILY_CHANGE_LIMIT",
-        "pre_change|15 >= INTRADAY_CHANGE_LIMIT",
-        "pre_change|1W >= WEEKLY_CHANGE_LIMIT",
-        "pre_change|240 >= INTRADAY_CHANGE_LIMIT",
-        "pre_change|60 >= INTRADAY_CHANGE_LIMIT"
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1M >= MONTHLY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }
   ]

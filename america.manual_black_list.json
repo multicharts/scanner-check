@@ -42,6 +42,12 @@
       "f": [
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
+    },
+    {
+      "s": "OTC:STTH",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
     }
   ]
 }

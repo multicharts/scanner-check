@@ -5,6 +5,12 @@
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
+    },
+    {
+      "s": "ASX:SYS",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT"
+      ]
     }
   ]
 }

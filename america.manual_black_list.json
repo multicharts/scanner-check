@@ -24,17 +24,17 @@
       ]
     },
     {
+      "s": "NASDAQ:GNPX",
+      "f": [
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "NASDAQ:NRC",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|1M >= MONTHLY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "NYSE:SMAR",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     },
     {

@@ -1,16 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "EURONEXT:MLSRP",
-      "f": [
-        "change >= DAILY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "EURONEXT:PID",
-      "f": [
-        "change|1M >= MONTHLY_CHANGE_LIMIT"
-      ]
-    }
-  ]
+  "black_list": []
 }

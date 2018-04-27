@@ -32,6 +32,12 @@
       ]
     },
     {
+      "s": "NYSE:SMAR",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:IGSC",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"

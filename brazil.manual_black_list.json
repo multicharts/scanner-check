@@ -1,3 +1,10 @@
 {
-  "black_list": []
+  "black_list": [
+    {
+      "s": "BMFBOVESPA:CGAS11",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    }
+  ]
 }

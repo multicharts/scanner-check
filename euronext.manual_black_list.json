@@ -7,6 +7,12 @@
       ]
     },
     {
+      "s": "EURONEXT:MLPRX",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "EURONEXT:MLV4S",
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"

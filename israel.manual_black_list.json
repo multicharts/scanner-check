@@ -11,12 +11,6 @@
       "f": [
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
-    },
-    {
-      "s": "TASE:ULTR-M",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
     }
   ]
 }

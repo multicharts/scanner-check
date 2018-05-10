@@ -1,6 +1,12 @@
 {
   "black_list": [
     {
+      "s": "HKEX:311",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "HKEX:4336",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",

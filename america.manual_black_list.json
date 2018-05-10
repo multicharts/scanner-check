@@ -10,6 +10,12 @@
       ]
     },
     {
+      "s": "NYSE:MDR",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "OTC:DCTHD",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -21,14 +27,6 @@
       "s": "OTC:FGCO",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
-        "change|240 >= INTRADAY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "OTC:HHER",
-      "f": [
-        "change|15 >= INTRADAY_CHANGE_LIMIT",
         "change|240 >= INTRADAY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]

@@ -21,12 +21,6 @@
         "change|1M >= MONTHLY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
-    },
-    {
-      "s": "LSE:XLM",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
     }
   ]
 }

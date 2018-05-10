@@ -61,12 +61,6 @@
         "change|1W >= WEEKLY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
-    },
-    {
-      "s": "TSXV:VCV",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
     }
   ]
 }

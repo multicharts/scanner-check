@@ -1,7 +1,7 @@
 {
   "black_list": [
     {
-      "s": "TSXV:BDG",
+      "s": "TSX:IMV",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|60 >= INTRADAY_CHANGE_LIMIT"
@@ -9,6 +9,14 @@
     },
     {
       "s": "TSXV:EGA",
+      "f": [
+        "change >= DAILY_CHANGE_LIMIT",
+        "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "TSXV:KMC.H",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT",
@@ -51,6 +59,12 @@
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
         "change|1W >= WEEKLY_CHANGE_LIMIT",
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
+      "s": "TSXV:VCV",
+      "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }

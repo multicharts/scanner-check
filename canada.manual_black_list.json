@@ -16,11 +16,10 @@
       ]
     },
     {
-      "s": "TSXV:KMC.H",
+      "s": "TSXV:JIM.H",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
-        "change|1W >= WEEKLY_CHANGE_LIMIT",
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
+        "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
     },
     {

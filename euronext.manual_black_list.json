@@ -1,13 +1,7 @@
 {
   "black_list": [
     {
-      "s": "EURONEXT:EMD",
-      "f": [
-        "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "EURONEXT:MLV4S",
+      "s": "EURONEXT:MLEAS",
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]

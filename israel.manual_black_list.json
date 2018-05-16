@@ -25,15 +25,15 @@
       ]
     },
     {
-      "s": "TASE:NXGN-M",
+      "s": "TASE:TOPS",
       "f": [
         "change|1M >= MONTHLY_CHANGE_LIMIT"
       ]
     },
     {
-      "s": "TASE:TOPS",
+      "s": "TASE:ULTR-M",
       "f": [
-        "change|1M >= MONTHLY_CHANGE_LIMIT"
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
       ]
     }
   ]

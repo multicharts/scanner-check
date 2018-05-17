@@ -8,6 +8,12 @@
       ]
     },
     {
+      "s": "LSE:KOOV",
+      "f": [
+        "change|60 >= INTRADAY_CHANGE_LIMIT"
+      ]
+    },
+    {
       "s": "LSE:LLD2",
       "f": [
         "change >= DAILY_CHANGE_LIMIT",
@@ -26,12 +32,6 @@
       "s": "LSE:TMO",
       "f": [
         "change|60 >= INTRADAY_CHANGE_LIMIT"
-      ]
-    },
-    {
-      "s": "LSE:WEB",
-      "f": [
-        "change|1W >= WEEKLY_CHANGE_LIMIT"
       ]
     },
     {

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:AUDMGA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FX_IDC:BBDUSD",
         "f": [
           "equal bars"
@@ -19,21 +13,9 @@
         ]
       },
       {
-        "s": "FX_IDC:CADMGA",
+        "s": "FX_IDC:EURSTD",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FX_IDC:CHFMGA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMGA",
-        "f": [
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
@@ -49,12 +31,6 @@
         ]
       },
       {
-        "s": "FX_IDC:GBPMGA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FX_IDC:GBPSHP",
         "f": [
           "equal bars"
@@ -67,19 +43,19 @@
         ]
       },
       {
-        "s": "FX_IDC:JPYMGA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FX_IDC:MGAUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FX_IDC:PABUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBBD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBMD",
         "f": [
           "equal bars"
         ]
@@ -91,15 +67,15 @@
         ]
       },
       {
-        "s": "FX_IDC:USDKPW",
+        "s": "FX_IDC:USDIQD",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:USDMGA",
+        "s": "FX_IDC:USDKPW",
         "f": [
-          "no longer trading"
+          "equal bars"
         ]
       },
       {

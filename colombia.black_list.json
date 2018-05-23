@@ -1,15 +1,21 @@
 {
     "black_list": [
       {
-        "s": "BVC:DHCELSIA",
+        "s": "BVC:AGROCHAL",
         "f": [
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
-        "s": "BVC:EPSA",
+        "s": "BVC:COLTEJER",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "BVC:DHCELSIA",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -44,6 +50,12 @@
       },
       {
         "s": "BVC:SDPFGRUARG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BVC:TGLSC",
         "f": [
           "equal bars"
         ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FWB:BKS3",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "SWB:DAL",
         "f": [
           "equal bars"
@@ -14,6 +20,12 @@
       },
       {
         "s": "XETR:3W9K",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:A4Y",
         "f": [
           "no longer trading"
         ]

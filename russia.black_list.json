@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "MOEX:BISV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:CHGZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:DIOD",
         "f": [
           "test symbol"
@@ -9,13 +21,21 @@
       {
         "s": "MOEX:GAZC",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:GAZS",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:GTPR",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -25,10 +45,40 @@
         ]
       },
       {
+        "s": "MOEX:HIMC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:IDVP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:KGKC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:KGKCP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:KMTZ",
         "f": [
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "MOEX:KRKO",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -46,7 +96,8 @@
       {
         "s": "MOEX:KZMS",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -56,21 +107,35 @@
         ]
       },
       {
+        "s": "MOEX:MERF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:MNFD",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "MOEX:MORI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:NPOF",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:RDRB",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -84,6 +149,24 @@
         "f": [
           "no longer trading",
           "price null"
+        ]
+      },
+      {
+        "s": "MOEX:TGKO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:UCSS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:VRSB",
+        "f": [
+          "no longer trading"
         ]
       }
     ]

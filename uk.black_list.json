@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "LSE:2OIS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:32ID",
         "f": [
           "no longer trading"
@@ -124,12 +118,6 @@
         "s": "LSE:39IS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:3LEU",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -531,12 +519,6 @@
         ]
       },
       {
-        "s": "LSE:87IP",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSE:87QR",
         "f": [
           "empty symbol"
@@ -615,12 +597,6 @@
         ]
       },
       {
-        "s": "LSE:AAAP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:AADV",
         "f": [
           "equal bars"
@@ -695,7 +671,8 @@
       {
         "s": "LSE:ALD",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "price null"
         ]
       },
       {
@@ -913,18 +890,6 @@
         ]
       },
       {
-        "s": "LSE:CAPC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBE3",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:CBR1",
         "f": [
           "no longer trading"
@@ -1008,12 +973,6 @@
         "s": "LSE:CLLN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:CNCT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1247,12 +1206,6 @@
         ]
       },
       {
-        "s": "LSE:EPRE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:ESCA",
         "f": [
           "empty symbol"
@@ -1274,12 +1227,6 @@
         "s": "LSE:EUMC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:EUSC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1491,6 +1438,12 @@
         "s": "LSE:HID",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:HMEX",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1764,24 +1717,6 @@
         ]
       },
       {
-        "s": "LSE:KOOV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:LBOW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCAU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:LCG",
         "f": [
           "no longer trading"
@@ -2004,12 +1939,6 @@
         ]
       },
       {
-        "s": "LSE:MXJP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:MYT",
         "f": [
           "no longer trading"
@@ -2022,19 +1951,7 @@
         ]
       },
       {
-        "s": "LSE:NASD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:NBS",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:NCA",
         "f": [
           "equal bars"
         ]
@@ -2205,12 +2122,6 @@
         "s": "LSE:OCV4",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:ODX",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2556,12 +2467,6 @@
         ]
       },
       {
-        "s": "LSE:PXS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:REAA",
         "f": [
           "empty symbol"
@@ -2601,6 +2506,12 @@
       },
       {
         "s": "LSE:RPG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:RUQR",
         "f": [
           "empty symbol"
         ]
@@ -2654,12 +2565,6 @@
         ]
       },
       {
-        "s": "LSE:SDEU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:SDM",
         "f": [
           "no longer trading"
@@ -2705,6 +2610,12 @@
         "s": "LSE:SESP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:SEU3",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2944,12 +2855,6 @@
         ]
       },
       {
-        "s": "LSE:TRCS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:TRE",
         "f": [
           "no longer trading"
@@ -2975,19 +2880,7 @@
         ]
       },
       {
-        "s": "LSE:TYRU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:UBLA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC55",
         "f": [
           "empty symbol"
         ]
@@ -3122,12 +3015,6 @@
         "s": "LSE:XPL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:XUEN",
-        "f": [
-          "empty symbol"
         ]
       },
       {

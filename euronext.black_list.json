@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "EURONEXT:2CRSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:ABEO",
         "f": [
           "test symbol"
@@ -502,12 +508,6 @@
         "s": "EURONEXT:BLUE",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:BLUNV",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1208,12 +1208,6 @@
       },
       {
         "s": "EURONEXT:FNAN8",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:FNGT",
         "f": [
           "empty symbol"
         ]
@@ -2451,6 +2445,12 @@
       },
       {
         "s": "EURONEXT:NKN8",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NNED",
         "f": [
           "empty symbol"
         ]

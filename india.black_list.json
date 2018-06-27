@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BSE:7SEASL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:7TEC",
         "f": [
           "no longer trading"
@@ -85,7 +79,19 @@
         ]
       },
       {
+        "s": "BSE:ABSLRIF6RD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:ABSLRIF7DD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:ABSLRIF7DG",
         "f": [
           "equal bars"
         ]
@@ -219,6 +225,7 @@
       {
         "s": "BSE:ALEMBICBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -642,6 +649,12 @@
         ]
       },
       {
+        "s": "BSE:AXISAHGPG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:AXISCBD1D",
         "f": [
           "equal bars"
@@ -678,7 +691,19 @@
         ]
       },
       {
+        "s": "BSE:AXISE1DPD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:AXISE2D1D",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:AXISE2DGG",
         "f": [
           "equal bars"
         ]
@@ -728,6 +753,7 @@
       {
         "s": "BSE:BALAJHOTEL",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -766,6 +792,12 @@
         "s": "BSE:BAROELE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:BAZELINTER",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -964,6 +996,7 @@
       {
         "s": "BSE:BOROSILBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1183,6 +1216,18 @@
         ]
       },
       {
+        "s": "BSE:BSLRIFS2RN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:BSLRIFS3DD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:BSLRIFS3DG",
         "f": [
           "equal bars"
@@ -1201,6 +1246,12 @@
         ]
       },
       {
+        "s": "BSE:BSLRIFS4DD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:BSLRIFS4DG",
         "f": [
           "equal bars"
@@ -1214,6 +1265,18 @@
       },
       {
         "s": "BSE:BSLRIFS4RG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:BUDGEBUDGE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:CA10R",
         "f": [
           "equal bars"
         ]
@@ -1394,6 +1457,12 @@
         ]
       },
       {
+        "s": "BSE:CLASELE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:CLASSIC",
         "f": [
           "no longer trading"
@@ -1563,6 +1632,12 @@
         ]
       },
       {
+        "s": "BSE:DACEFDG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:DAICHIBBPH",
         "f": [
           "equal bars",
@@ -1647,6 +1722,7 @@
       {
         "s": "BSE:DETRIND",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1780,6 +1856,7 @@
       {
         "s": "BSE:DYNMICR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2064,6 +2141,12 @@
         ]
       },
       {
+        "s": "BSE:FRANKLININD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:FRONTFN",
         "f": [
           "equal bars",
@@ -2311,6 +2394,7 @@
       {
         "s": "BSE:GOLDIMBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2374,6 +2458,7 @@
       {
         "s": "BSE:GRFLDCO",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2675,6 +2760,7 @@
       {
         "s": "BSE:HINDC",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2733,6 +2819,12 @@
         "s": "BSE:HOVBBPH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:HRBFLOR",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -2795,7 +2887,13 @@
       {
         "s": "BSE:IBREALEST",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BSE:IBRIGST",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -2856,18 +2954,21 @@
       {
         "s": "BSE:IDFCEOS3DD",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BSE:IDFCEOS3RD",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BSE:IDINFO",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2966,6 +3067,7 @@
       {
         "s": "BSE:INDUNISS",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3168,6 +3270,12 @@
         ]
       },
       {
+        "s": "BSE:IPRU2755",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU2767",
         "f": [
           "equal bars"
@@ -3288,6 +3396,12 @@
         ]
       },
       {
+        "s": "BSE:IPRU3035",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU8565",
         "f": [
           "equal bars",
@@ -3297,18 +3411,21 @@
       {
         "s": "BSE:IPRU8601",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BSE:IPRU8628",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
       {
         "s": "BSE:IPRU8687",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3329,6 +3446,7 @@
       {
         "s": "BSE:IPRU8730",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3339,8 +3457,15 @@
         ]
       },
       {
+        "s": "BSE:IPRU8793",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU8800",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3363,10 +3488,22 @@
         ]
       },
       {
+        "s": "BSE:IPRU8842",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU8872",
         "f": [
           "equal bars",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:IPRU8895",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -3377,6 +3514,12 @@
       },
       {
         "s": "BSE:IPRU8917",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU8923",
         "f": [
           "equal bars"
         ]
@@ -3394,13 +3537,31 @@
         ]
       },
       {
+        "s": "BSE:IPRU8938",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU8957",
         "f": [
           "equal bars"
         ]
       },
       {
+        "s": "BSE:IPRU8958",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU8968",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU8969",
         "f": [
           "equal bars"
         ]
@@ -3466,6 +3627,12 @@
         ]
       },
       {
+        "s": "BSE:IPRU9171",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU9172",
         "f": [
           "equal bars"
@@ -3497,6 +3664,24 @@
       },
       {
         "s": "BSE:IPRU9205",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9215",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9220",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9221",
         "f": [
           "equal bars"
         ]
@@ -3660,6 +3845,12 @@
         ]
       },
       {
+        "s": "BSE:JSLINDL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:JSPLBBPH",
         "f": [
           "no longer trading"
@@ -3762,6 +3953,7 @@
       {
         "s": "BSE:KAPPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3834,6 +4026,7 @@
       {
         "s": "BSE:KENGI",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3897,6 +4090,7 @@
       {
         "s": "BSE:KNIWE",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3987,6 +4181,12 @@
       },
       {
         "s": "BSE:KTKIND4RD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:KTKIND5DD",
         "f": [
           "equal bars"
         ]
@@ -4275,6 +4475,12 @@
       },
       {
         "s": "BSE:MANRAJH",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:MANVIJAY",
         "f": [
           "equal bars"
         ]
@@ -4950,6 +5156,12 @@
         ]
       },
       {
+        "s": "BSE:ORACLECR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:ORBITCORP",
         "f": [
           "no longer trading"
@@ -5317,6 +5529,7 @@
       {
         "s": "BSE:PROVOGUBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -5553,6 +5766,7 @@
       {
         "s": "BSE:RCBFIIADD",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -5628,6 +5842,12 @@
         ]
       },
       {
+        "s": "BSE:RCBFIIIAX",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:RCBFIIIAZ",
         "f": [
           "equal bars"
@@ -5640,7 +5860,19 @@
         ]
       },
       {
+        "s": "BSE:RCBFIVADD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:RCBFIVADG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:RCBFIVBCD",
         "f": [
           "equal bars"
         ]
@@ -5707,6 +5939,12 @@
       },
       {
         "s": "BSE:RCLEDPLBDG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:RCLENDIIAG",
         "f": [
           "equal bars"
         ]
@@ -5929,6 +6167,7 @@
       {
         "s": "BSE:RSLTEXTIL",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -6058,6 +6297,7 @@
       {
         "s": "BSE:SANHP",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -6245,6 +6485,12 @@
         ]
       },
       {
+        "s": "BSE:SHAHCON",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:SHAKTIPR",
         "f": [
           "no longer trading"
@@ -6368,6 +6614,12 @@
         "s": "BSE:SHREEJAL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:SHREEPAC",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -7313,6 +7565,7 @@
       {
         "s": "BSE:UNIIN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -7798,6 +8051,7 @@
       {
         "s": "BSE:ZENTECHBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -7926,6 +8180,12 @@
         ]
       },
       {
+        "s": "BSE:ZSVTRADI",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:ZWARDENC",
         "f": [
           "no longer trading"
@@ -7959,7 +8219,7 @@
       {
         "s": "NSE:ASIL",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -8019,7 +8279,7 @@
       {
         "s": "NSE:FARMAXIND",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -8097,7 +8357,7 @@
       {
         "s": "NSE:NOESISIND",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -8121,7 +8381,7 @@
       {
         "s": "NSE:RASOYPR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {

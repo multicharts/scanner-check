@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BSE:7SEAS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:7TEC",
         "f": [
           "no longer trading"
@@ -1502,6 +1508,12 @@
         ]
       },
       {
+        "s": "BSE:DRHABEEB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:DRREDDYBBPH",
         "f": [
           "empty symbol"
@@ -2666,13 +2678,15 @@
       {
         "s": "BSE:IPRU2639",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BSE:IPRU2640",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -2921,13 +2935,15 @@
       {
         "s": "BSE:IPRU8841",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "BSE:IPRU8842",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -4616,6 +4632,12 @@
         "s": "BSE:PUSHPIN",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:QUASAR",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6894,6 +6916,12 @@
         ]
       },
       {
+        "s": "NSE:GREENFIRE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NSE:INDINFR",
         "f": [
           "no longer trading"
@@ -6925,12 +6953,6 @@
       },
       {
         "s": "NSE:KAWIRES",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NSE:KHAITANELE",
         "f": [
           "no longer trading"
         ]

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BRGL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:CHEP",
         "f": [
           "no longer trading"
@@ -62,12 +56,6 @@
       },
       {
         "s": "AMEX:HQBD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:HSRT",
         "f": [
           "no longer trading"
         ]
@@ -139,12 +127,6 @@
         ]
       },
       {
-        "s": "AMEX:KALL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:LVUS",
         "f": [
           "no longer trading"
@@ -152,12 +134,6 @@
       },
       {
         "s": "AMEX:MMIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:OMFS",
         "f": [
           "no longer trading"
         ]
@@ -187,129 +163,9 @@
         ]
       },
       {
-        "s": "AMEX:SFIG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:SIZ",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "CBOT:BO1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:FV1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:TU1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:UD1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZB1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZC1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZE1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZK1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZM1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZN1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZO1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZQ1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZR1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZS1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT:ZW1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT_MINI:XK1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT_MINI:XN1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT_MINI:XW1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CBOT_MINI:YM1!",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -319,175 +175,19 @@
         ]
       },
       {
-        "s": "CME:B61!",
+        "s": "CME:DLH2020",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "CME:BTC1!",
+        "s": "CME:DLK2020",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:D61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:DL1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:E41!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:E51!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:E61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:GF1!",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "CME:HE1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:I91!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:IF1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:J61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:L61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:LE1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:LS1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:M61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:N61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:NY1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:QT1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:S61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:SK1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:SP1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:T61!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:UP1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:WP1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:E71!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:ES1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:EW1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:J71!",
         "f": [
           "empty symbol"
         ]
@@ -499,21 +199,9 @@
         ]
       },
       {
-        "s": "CME_MINI:MF1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:MG1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CME_MINI:NM1!",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -526,30 +214,6 @@
         "s": "CME_MINI:NMZ2018",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "CME_MINI:RL1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:WM1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:WN1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COMEX:AEP1!",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -625,12 +289,6 @@
         ]
       },
       {
-        "s": "COMEX:AUP1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COMEX:AUPF2023",
         "f": [
           "empty symbol"
@@ -667,45 +325,69 @@
         ]
       },
       {
-        "s": "COMEX:HG1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COMEX:LD1!",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "COMEX:ZA1!",
+        "s": "COMEX:LDF2019",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "COMEX_MINI:GR1!",
+        "s": "COMEX:LDG2019",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "COMEX_MINI:QC1!",
+        "s": "COMEX:LDH2019",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "COMEX_MINI:QI1!",
+        "s": "COMEX:LDJ2019",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "COMEX_MINI:QO1!",
+        "s": "COMEX:LDK2019",
         "f": [
-          "empty symbol"
+          "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LDQ2018",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LDU2018",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LDV2018",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LDX2018",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LDZ2018",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -860,12 +542,6 @@
         ]
       },
       {
-        "s": "NASDAQ:PTVCA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:RLM",
         "f": [
           "empty symbol"
@@ -890,12 +566,6 @@
         ]
       },
       {
-        "s": "NASDAQ:SOLO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:SONO",
         "f": [
           "empty symbol"
@@ -914,21 +584,9 @@
         ]
       },
       {
-        "s": "NYMEX:CJ1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYMEX:CJN2018",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYMEX:IAC1!",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1028,12 +686,6 @@
         ]
       },
       {
-        "s": "NYMEX:ITI1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYMEX:ITIF2021",
         "f": [
           "empty symbol"
@@ -1101,12 +753,6 @@
       },
       {
         "s": "NYMEX:ITIZ2021",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYMEX:JMJ1!",
         "f": [
           "empty symbol"
         ]
@@ -1574,33 +1220,15 @@
         ]
       },
       {
-        "s": "NYMEX:KA1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYMEX:KAN2018",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NYMEX:KT1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYMEX:KTN2018",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYMEX:RB1!",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1916,25 +1544,7 @@
         ]
       },
       {
-        "s": "NYMEX_MINI:QG1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYMEX_MINI:QM1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYMEX_MINI:QU1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYMEX_MINI:QX1!",
         "f": [
           "empty symbol"
         ]
@@ -1964,6 +1574,12 @@
         ]
       },
       {
+        "s": "NYSE:CVI/I",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:CWK",
         "f": [
           "empty symbol"
@@ -1983,6 +1599,12 @@
       },
       {
         "s": "NYSE:IPSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NFC.U",
         "f": [
           "empty symbol"
         ]
@@ -2330,18 +1952,6 @@
         ]
       },
       {
-        "s": "OTC:IGAMF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:IGGHY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:IMPZY",
         "f": [
           "no longer trading"
@@ -2606,12 +2216,6 @@
         ]
       },
       {
-        "s": "OTC:TAKD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:TDXP",
         "f": [
           "no longer trading"
@@ -2709,12 +2313,6 @@
       },
       {
         "s": "OTC:WECFY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:WELPP",
         "f": [
           "no longer trading"
         ]

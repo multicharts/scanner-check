@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "GPW:AHL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GPW:ATM",
         "f": [
           "test symbol"
@@ -45,12 +51,14 @@
       {
         "s": "GPW:BPHFIZBI5",
         "f": [
+          "equal bars",
           "test symbol"
         ]
       },
       {
         "s": "GPW:BPHFIZBI6",
         "f": [
+          "equal bars",
           "test symbol"
         ]
       },
@@ -94,24 +102,6 @@
         "s": "GPW:DGA",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "GPW:DNP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:DOM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:DPL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -243,6 +233,7 @@
       {
         "s": "GPW:LMBSFIZ",
         "f": [
+          "equal bars",
           "test symbol"
         ]
       },
@@ -271,46 +262,9 @@
         ]
       },
       {
-        "s": "GPW:MAB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:MAK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:MBK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:MBR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:MBW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "GPW:MCI",
         "f": [
-          "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "GPW:MDG",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -358,7 +312,6 @@
       {
         "s": "GPW:OPERA3GR",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
@@ -516,24 +469,6 @@
         "s": "GPW:TXM",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "GPW:UNI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:UNT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GPW:URS",
-        "f": [
-          "empty symbol"
         ]
       },
       {

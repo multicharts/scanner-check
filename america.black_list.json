@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BBAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:BBCA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:CHEP",
         "f": [
           "no longer trading"
@@ -13,13 +25,7 @@
         ]
       },
       {
-        "s": "AMEX:FGDY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:FIEF",
+        "s": "AMEX:DRSK",
         "f": [
           "empty symbol"
         ]
@@ -127,6 +133,12 @@
         ]
       },
       {
+        "s": "AMEX:PJUL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:SBM",
         "f": [
           "no longer trading"
@@ -136,6 +148,12 @@
         "s": "AMEX:SIZ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:UJUL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -691,6 +709,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPF2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:AUPF2023",
         "f": [
           "empty symbol"
@@ -703,13 +727,31 @@
         ]
       },
       {
+        "s": "COMEX:AUPG2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:AUPG2023",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "COMEX:AUPH2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:AUPH2023",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPJ2022",
         "f": [
           "empty symbol"
         ]
@@ -727,7 +769,19 @@
         ]
       },
       {
+        "s": "COMEX:AUPK2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:AUPK2023",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPM2022",
         "f": [
           "empty symbol"
         ]
@@ -739,9 +793,39 @@
         ]
       },
       {
+        "s": "COMEX:AUPN2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPQ2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPU2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:AUPV2021",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:AUPV2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPX2022",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -913,6 +997,12 @@
         ]
       },
       {
+        "s": "NASDAQ:GLAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:GRBIC",
         "f": [
           "no longer trading"
@@ -952,6 +1042,12 @@
         "s": "NASDAQ:JSYNU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:MESA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1012,6 +1108,12 @@
         "s": "NASDAQ:VBFC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:VCNX",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1693,7 +1795,25 @@
         ]
       },
       {
+        "s": "NYMEX:TIC1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICF2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICF2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICG2019",
         "f": [
           "empty symbol"
         ]
@@ -1705,7 +1825,19 @@
         ]
       },
       {
+        "s": "NYMEX:TICH2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICH2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICJ2019",
         "f": [
           "empty symbol"
         ]
@@ -1717,7 +1849,19 @@
         ]
       },
       {
+        "s": "NYMEX:TICK2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICK2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICM2019",
         "f": [
           "empty symbol"
         ]
@@ -1729,7 +1873,25 @@
         ]
       },
       {
+        "s": "NYMEX:TICN2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICN2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICQ2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICQ2019",
         "f": [
           "empty symbol"
         ]
@@ -1741,7 +1903,31 @@
         ]
       },
       {
+        "s": "NYMEX:TICU2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICU2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICU2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICV2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICV2019",
         "f": [
           "empty symbol"
         ]
@@ -1753,7 +1939,31 @@
         ]
       },
       {
+        "s": "NYMEX:TICX2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICX2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYMEX:TICX2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICZ2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:TICZ2019",
         "f": [
           "empty symbol"
         ]
@@ -2095,7 +2305,7 @@
         ]
       },
       {
-        "s": "NYSE:TWX",
+        "s": "NYSE:TBC",
         "f": [
           "empty symbol"
         ]
@@ -2143,12 +2353,6 @@
         ]
       },
       {
-        "s": "OTC:AEYE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:AFGR",
         "f": [
           "no longer trading"
@@ -2164,12 +2368,6 @@
         "s": "OTC:ALTD",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ALYE",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2462,12 +2660,6 @@
       },
       {
         "s": "OTC:HHHEF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:HWGG",
         "f": [
           "no longer trading"
         ]

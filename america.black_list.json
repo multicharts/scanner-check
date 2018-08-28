@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AUSF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:BUYN",
         "f": [
           "no longer trading"
@@ -555,6 +561,18 @@
       },
       {
         "s": "NASDAQ:BNGO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BPRAP",
         "f": [
           "empty symbol"
         ]
@@ -1803,38 +1821,13 @@
         ]
       },
       {
-        "s": "NYSE:BGCA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:CGG",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "NYSE:COTV",
-        "f": [
-          "empty symbol",
-          "test symbol"
-        ]
-      },
-      {
         "s": "NYSE:FCI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:GGP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:GGP/PA",
         "f": [
           "empty symbol"
         ]
@@ -2363,6 +2356,12 @@
       },
       {
         "s": "OTC:MOST",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MRNTF",
         "f": [
           "no longer trading"
         ]

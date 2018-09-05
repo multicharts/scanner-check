@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "JSE:ACS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "JSE:AEY",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "JSE:AND",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -20,6 +32,12 @@
       },
       {
         "s": "JSE:AOVP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "JSE:APH",
         "f": [
           "equal bars"
         ]
@@ -43,7 +61,19 @@
         ]
       },
       {
+        "s": "JSE:CAC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "JSE:CULP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "JSE:CVW",
         "f": [
           "equal bars"
         ]
@@ -254,6 +284,12 @@
         ]
       },
       {
+        "s": "JSE:FDP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "JSE:FSE",
         "f": [
           "no longer trading"
@@ -263,6 +299,12 @@
         "s": "JSE:GBI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "JSE:HET",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -314,6 +356,18 @@
         ]
       },
       {
+        "s": "JSE:INPPR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "JSE:KDV",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "JSE:LBHP",
         "f": [
           "equal bars"
@@ -341,6 +395,18 @@
         "s": "JSE:MRI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "JSE:NFP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "JSE:NPKP",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -425,30 +491,6 @@
         "s": "JSE:WEA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "JSE:ZA074",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "JSE:ZA076",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "JSE:ZA077",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "JSE:ZA079",
-        "f": [
-          "equal bars"
         ]
       }
     ]

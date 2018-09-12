@@ -223,13 +223,43 @@
         ]
       },
       {
-        "s": "CME:DLH2020",
+        "s": "CBOT:FV1!",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "CME:DLK2020",
+        "s": "CBOT:TU1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZK1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZN1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZO1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZQ1!",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CME:DLH2020",
         "f": [
           "equal bars"
         ]
@@ -309,7 +339,6 @@
       {
         "s": "CME_MINI:NM1!",
         "f": [
-          "equal bars",
           "no longer trading"
         ]
       },
@@ -350,33 +379,15 @@
         ]
       },
       {
-        "s": "COMEX:AEPK2019",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "COMEX:AEPK2020",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "COMEX:AEPM2019",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "COMEX:AEPM2020",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "COMEX:AEPN2019",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -392,12 +403,6 @@
         ]
       },
       {
-        "s": "COMEX:AEPU2019",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "COMEX:AEPU2020",
         "f": [
           "empty symbol"
@@ -410,21 +415,9 @@
         ]
       },
       {
-        "s": "COMEX:AEPX2019",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "COMEX:AEPX2020",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "COMEX:AEPZ2019",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -609,12 +602,6 @@
       },
       {
         "s": "COMEX:LDJ2019",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "COMEX:LDK2019",
         "f": [
           "equal bars"
         ]

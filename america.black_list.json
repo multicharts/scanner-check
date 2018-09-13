@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BOUT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:CNHX",
         "f": [
           "no longer trading"
@@ -130,6 +136,12 @@
         "s": "AMEX:IPOS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JMBS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -649,6 +661,12 @@
         ]
       },
       {
+        "s": "NASDAQ:EDNT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:EHR",
         "f": [
           "empty symbol"
@@ -682,6 +700,12 @@
         "s": "NASDAQ:FOANC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:FTDRV",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -757,7 +781,7 @@
         ]
       },
       {
-        "s": "NASDAQ:KONE",
+        "s": "NASDAQ:LKCO",
         "f": [
           "empty symbol"
         ]
@@ -832,12 +856,6 @@
         "s": "NASDAQ:STLRU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:XSPL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1990,13 +2008,6 @@
         "s": "NYSE:VRIO",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:XL",
-        "f": [
-          "empty symbol",
-          "test symbol"
         ]
       },
       {

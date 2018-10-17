@@ -1,9 +1,15 @@
 {
     "black_list": [
       {
-        "s": "SWB:NN3",
+        "s": "FWB:AFH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:NN3",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -51,7 +57,6 @@
       {
         "s": "XETR:SIEN",
         "f": [
-          "equal bars",
           "no longer trading"
         ]
       },

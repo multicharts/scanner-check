@@ -620,9 +620,21 @@
         ]
       },
       {
+        "s": "SET:BTNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BTNC.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:BTNC.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2810,9 +2822,21 @@
         ]
       },
       {
+        "s": "SET:RAM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:RAM.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:RAM.R",
+        "f": [
           "no longer trading"
         ]
       },
@@ -4361,7 +4385,19 @@
         ]
       },
       {
+        "s": "SET:VARO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:VARO.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:VARO.R",
         "f": [
           "no longer trading"
         ]

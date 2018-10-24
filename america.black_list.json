@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:DSTL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:EASG",
         "f": [
           "empty symbol"
@@ -428,6 +434,24 @@
         ]
       },
       {
+        "s": "NASDAQ:AMTB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AMTBB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BFC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:BHAC",
         "f": [
           "no longer trading"
@@ -542,12 +566,6 @@
         ]
       },
       {
-        "s": "NASDAQ:IVTY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:JSYNU",
         "f": [
           "no longer trading"
@@ -569,18 +587,6 @@
         "s": "NASDAQ:LTRPB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:MBNAA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:MBNAB",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -653,12 +659,6 @@
         "s": "NASDAQ:SCACU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:SHLD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1736,12 +1736,6 @@
         ]
       },
       {
-        "s": "NYSE:BCS/PD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:EIC",
         "f": [
           "empty symbol"
@@ -1847,12 +1841,6 @@
         "s": "OTC:AFGR",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ALLM",
-        "f": [
-          "empty symbol"
         ]
       },
       {

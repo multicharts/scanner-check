@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BRGL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:DDJP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:EASG",
         "f": [
           "empty symbol"
@@ -26,12 +14,6 @@
       },
       {
         "s": "AMEX:FLEH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
         ]
@@ -121,18 +103,6 @@
         ]
       },
       {
-        "s": "AMEX:OSIZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:OVOL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:PHYL",
         "f": [
           "no longer trading"
@@ -158,12 +128,6 @@
       },
       {
         "s": "AMEX:TAGS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:TFLT",
         "f": [
           "no longer trading"
         ]
@@ -232,18 +196,6 @@
         "s": "CME:E5Z2019",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "CME_MINI:ES1!",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME_MINI:ESZ2018",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1871,6 +1823,12 @@
         "s": "NYSE:NAV/PD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:NFC.U",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "FWB:LIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FWB:LINU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:1Q7",
         "f": [
           "no longer trading"
@@ -83,12 +95,6 @@
         "f": [
           "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:SPG",
-        "f": [
-          "empty symbol"
         ]
       },
       {

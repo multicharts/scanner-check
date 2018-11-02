@@ -1088,9 +1088,21 @@
         ]
       },
       {
+        "s": "SET:DTCI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:DTCI.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:DTCI.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1652,6 +1664,12 @@
         ]
       },
       {
+        "s": "SET:JASIF.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:JCK.F",
         "f": [
           "no longer trading"
@@ -2199,6 +2217,12 @@
       },
       {
         "s": "SET:MM.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:MNRF",
         "f": [
           "no longer trading"
         ]

@@ -852,6 +852,7 @@
       {
         "s": "NASDAQ:NMRK",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -2087,12 +2088,14 @@
       {
         "s": "NYSE:UAL",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
       {
         "s": "NYSE:VLY",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -2137,6 +2140,7 @@
       {
         "s": "NYSE:XON",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -2148,6 +2152,12 @@
       },
       {
         "s": "NYSE:YQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ZOES",
         "f": [
           "empty symbol"
         ]
@@ -2660,6 +2670,12 @@
         "s": "OTC:NQMLF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:NUVPF",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -3,19 +3,19 @@
       {
         "s": "AMEX:ALN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "AMEX:BTX/W",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "AMEX:FIEU",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -39,7 +39,7 @@
       {
         "s": "AMEX:GST",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -145,12 +145,6 @@
         ]
       },
       {
-        "s": "AMEX:TAXF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:UTC",
         "f": [
           "empty symbol"
@@ -160,6 +154,18 @@
         "s": "AMEX:VSL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "CME:A6X2018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CME:B6X2018",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1782,7 +1788,7 @@
       {
         "s": "NYSE:C/PC",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -1850,7 +1856,7 @@
       {
         "s": "NYSE:MP/PD",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -1876,6 +1882,12 @@
         "s": "NYSE:NDRO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:NFC.U",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1935,7 +1947,7 @@
       {
         "s": "NYSE:VLY/PA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1947,14 +1959,14 @@
       {
         "s": "NYSE:VR/PA",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
       {
         "s": "NYSE:VR/PB",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -2038,18 +2050,6 @@
       },
       {
         "s": "OTC:ATXG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:AVCRF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:AVMR",
         "f": [
           "no longer trading"
         ]
@@ -2259,12 +2259,6 @@
         ]
       },
       {
-        "s": "OTC:GGXXF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:GLIBB",
         "f": [
           "no longer trading"
@@ -2427,12 +2421,6 @@
         ]
       },
       {
-        "s": "OTC:MDEX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:MDIT",
         "f": [
           "no longer trading"
@@ -2536,12 +2524,6 @@
       },
       {
         "s": "OTC:PTIX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:PTRS",
         "f": [
           "no longer trading"
         ]
@@ -2776,12 +2758,6 @@
       },
       {
         "s": "OTC:WAYS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:WELPM",
         "f": [
           "no longer trading"
         ]

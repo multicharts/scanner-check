@@ -1088,9 +1088,21 @@
         ]
       },
       {
+        "s": "SET:DTCI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:DTCI.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:DTCI.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1220,9 +1232,21 @@
         ]
       },
       {
+        "s": "SET:F\u0026D",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:F\u0026D.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:F\u0026D.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2895,7 +2919,19 @@
         ]
       },
       {
+        "s": "SET:ROH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:ROH.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:ROH.R",
         "f": [
           "no longer trading"
         ]
@@ -3592,19 +3628,7 @@
         ]
       },
       {
-        "s": "SET:TBSP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:TBSP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:TBSP.R",
         "f": [
           "no longer trading"
         ]
@@ -4205,6 +4229,12 @@
       },
       {
         "s": "SET:TTW.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TU-PF",
         "f": [
           "no longer trading"
         ]

@@ -1377,7 +1377,8 @@
       {
         "s": "BITFINEX:EOSGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -1564,6 +1565,40 @@
         "s": "BITFINEX:ETPUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTEURLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTEURSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTUSDLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -3641,6 +3676,20 @@
         ]
       },
       {
+        "s": "BITFINEX:USTUSDLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:USTUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:UTKBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4536,12 +4585,6 @@
       },
       {
         "s": "GOCIO:LTCRUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ITBIT:BTCSGD",
         "f": [
           "no longer trading"
         ]

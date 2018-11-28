@@ -1,7 +1,25 @@
 {
     "black_list": [
       {
+        "s": "FWB:NNS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FWB:SPG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SWB:GPT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SWB:NNS",
         "f": [
           "empty symbol"
         ]
@@ -58,6 +76,12 @@
         "s": "XETR:NGLD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:NNS",
+        "f": [
+          "empty symbol"
         ]
       },
       {

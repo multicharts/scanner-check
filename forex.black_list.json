@@ -1,9 +1,1503 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:DJFUSD",
+        "s": "FX_IDC:AEDJPY",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDKWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDMAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDNOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDQAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDTRY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AEDZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ALLUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ANGUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ARSEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ARSGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ARSJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDANG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDAWG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDBAM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDBHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDBMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDBSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDBZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDCLP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDCRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDCZK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDDOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDEGP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDFJD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDGTQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDHNL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDHRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDHUF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDIDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDILS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDJOD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDKYD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDMGA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDPHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDPYG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDSAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDSCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDTJS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDTND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDXCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:AUDXPF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BAMRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BBDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BDTCAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BDTGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BDTHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BGNCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BGNGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BGNRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDQAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BHDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BMDGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BNDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BOBBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BOBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLBOB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLCLP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLCOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLDKK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLIDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLILS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLMYR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLNOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BRLUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BSDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BTNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:BWPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADALL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADANG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADAWG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBBD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBIF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBOB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADBWP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADCUP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADDJF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADERN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADETB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADFJD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADGEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADGHS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADGMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADGYD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADHTG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADHUF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADIDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADILS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADIRR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKMF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKYD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADKZT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADLAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADLKR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADLRD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADMRU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADMWK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADMXN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADMZN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADNAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADNGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADNIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADNOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADNPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADPHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADPKR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADPYG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADQAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSBD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSDG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSOS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSYP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTJS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADUGX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADXCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFAED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFALL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFANG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBWP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBYN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFBZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCLP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFCZK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFDOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFDZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFEGP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFERN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFFJD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFGHS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFGIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFGNF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFILS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFIQD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKHR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKMF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFKZT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFLAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFLSL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMGA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMRO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMVR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFMWK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFNGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFNIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFPAB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFPEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFPGK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFQAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFRON",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFRWF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSLL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSOS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSYP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFSZL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFTJS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFTND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFTTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFTZS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFUYU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFUZS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFWST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFXAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFXOF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CHFZMW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CLPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CNYUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:COPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CUPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CVEUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:CZKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:DKKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:DOPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ERNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ETBUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -25,27 +1519,873 @@
         ]
       },
       {
+        "s": "FX_IDC:GHSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:HKDMOP",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:USDBBD",
+        "s": "FX_IDC:HNLUSD",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:USDBMD",
+        "s": "FX_IDC:HTGUSD",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:IDRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ILSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JMDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:JPYUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KESUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KMFUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KRWUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KWDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:KYDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:LBPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MADUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MMKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MOPUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MROUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MRUUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MWKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MXNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MYRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:MZNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:NADUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:NOKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:NPRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:OMRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PABUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PENUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PKRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PLNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:PLNZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:QARJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:QARUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RONUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RSDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RSDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBDKK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBMYR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBPLN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:RUBZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SARAED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SARCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SAREUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SARGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SARSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SCRGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKAED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKANG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKCAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKCNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKCZK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKILS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKISK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKKPW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKPKR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SEKZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDBDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDIDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDMXN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDOMR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDTRY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SGDZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SOSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:STDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SZLGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:SZLUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBCAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBNOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBTND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TNDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYCZK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYDKK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYPLN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TRYZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TTDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDCAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDCNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDIDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDKRW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDNZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TWDZAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:TZSGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:UAHGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:UGXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDAED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDALL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDAMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDAOA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDAWG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBAM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBOB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDBZD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDCLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDCNY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "FX_IDC:USDCUP",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDEUR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -73,9 +2413,357 @@
         ]
       },
       {
+        "s": "FX_IDC:USDRON",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDRSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDRWF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSBD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSDG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:USDSLL",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSRD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSTN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSZL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTJS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDTZS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDUZS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDVUV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDXCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDZMW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:UYUGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:UYUUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDAED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDMYR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VNDTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:VUVUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:XAFUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:XOFGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARBWP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARCNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARDKK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARHKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARINR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARLKR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARNOK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARPHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARRUB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARSCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARSEK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARSGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARSZL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZARTWD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWCAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWCHF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWJPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FX_IDC:ZMWUSD",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

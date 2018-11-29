@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BCS:AGUAS_B",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:AKOA_CL",
         "f": [
           "empty symbol"
@@ -13,26 +19,19 @@
         ]
       },
       {
-        "s": "BCS:AMGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:ANASAC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:ANDACOR",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "BCS:ANTARCHILE",
+        "s": "BCS:AQUACHILE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:AVP",
         "f": [
           "empty symbol"
         ]
@@ -40,23 +39,11 @@
       {
         "s": "BCS:BA",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:BIIB",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "BCS:BINT_OSA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CAMANCHACA",
         "f": [
           "empty symbol"
         ]
@@ -68,15 +55,9 @@
         ]
       },
       {
-        "s": "BCS:CAP",
+        "s": "BCS:CASABLANCA",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:CAROZZI",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -92,7 +73,13 @@
         ]
       },
       {
-        "s": "BCS:CLUBUNION",
+        "s": "BCS:CGE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:CLUBCAMPO",
         "f": [
           "empty symbol"
         ]
@@ -122,13 +109,13 @@
         ]
       },
       {
-        "s": "BCS:COLOSO",
+        "s": "BCS:COUNTRY_P",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "BCS:CTISA",
+        "s": "BCS:CTC",
         "f": [
           "empty symbol"
         ]
@@ -146,13 +133,7 @@
         ]
       },
       {
-        "s": "BCS:ENAEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:ENELDXCH",
+        "s": "BCS:ECL",
         "f": [
           "empty symbol"
         ]
@@ -164,9 +145,9 @@
         ]
       },
       {
-        "s": "BCS:ENTEL",
+        "s": "BCS:ESPANOLA",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -212,7 +193,7 @@
         ]
       },
       {
-        "s": "BCS:GE",
+        "s": "BCS:FOSFOROS",
         "f": [
           "empty symbol"
         ]
@@ -230,13 +211,13 @@
         ]
       },
       {
-        "s": "BCS:GRZCL",
+        "s": "BCS:GOOG",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:HABITAT",
+        "s": "BCS:GRZCL",
         "f": [
           "empty symbol"
         ]
@@ -248,13 +229,19 @@
         ]
       },
       {
+        "s": "BCS:HD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCS:HF",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:HIPICO",
+        "s": "BCS:HIPERMARC",
         "f": [
           "empty symbol"
         ]
@@ -262,29 +249,17 @@
       {
         "s": "BCS:HIPODROMOB",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "BCS:IAM",
+        "s": "BCS:IACSA",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "BCS:ILC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:INFODEMA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:INGEVEC",
+        "s": "BCS:INTEROCEAN",
         "f": [
           "empty symbol"
         ]
@@ -296,7 +271,7 @@
         ]
       },
       {
-        "s": "BCS:INVERMAR",
+        "s": "BCS:INVEXANS",
         "f": [
           "empty symbol"
         ]
@@ -310,19 +285,7 @@
       {
         "s": "BCS:IPAL",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:IQUIQUE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:ISANPA",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -332,15 +295,9 @@
         ]
       },
       {
-        "s": "BCS:JNJ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:LAPOLA_OSA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -357,6 +314,12 @@
       },
       {
         "s": "BCS:LIPIGAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:LITORAL",
         "f": [
           "empty symbol"
         ]
@@ -386,13 +349,13 @@
         ]
       },
       {
-        "s": "BCS:MARINSA",
+        "s": "BCS:MINERA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:MELON",
+        "s": "BCS:MMM",
         "f": [
           "empty symbol"
         ]
@@ -422,13 +385,7 @@
         ]
       },
       {
-        "s": "BCS:NITRATOS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:NKE",
+        "s": "BCS:NEM",
         "f": [
           "empty symbol"
         ]
@@ -446,19 +403,19 @@
         ]
       },
       {
-        "s": "BCS:OXIQUIM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BCS:PAZ",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:POTASIOS_A",
+        "s": "BCS:PEHUENCHE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:PG",
         "f": [
           "empty symbol"
         ]
@@ -470,31 +427,25 @@
         ]
       },
       {
+        "s": "BCS:PUNTILLA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCS:PUYEHUE",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:SALFACORP",
+        "s": "BCS:SIEMEL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:SCHWAGER",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:SECURITY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:SM_CHILE_B",
+        "s": "BCS:SK",
         "f": [
           "empty symbol"
         ]
@@ -518,7 +469,13 @@
         ]
       },
       {
-        "s": "BCS:TRICAHUE",
+        "s": "BCS:TGT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:TRV",
         "f": [
           "empty symbol"
         ]
@@ -530,13 +487,37 @@
         ]
       },
       {
+        "s": "BCS:UNION_GOLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:V",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:VALORES",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BCS:VCMAC1",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BCS:VZ",
+        "s": "BCS:VENTANAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:WATTS",
         "f": [
           "empty symbol"
         ]
@@ -549,12 +530,6 @@
       },
       {
         "s": "BCS:YUGOSLAVA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BCS:ZOFRI",
         "f": [
           "empty symbol"
         ]

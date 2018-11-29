@@ -1,7 +1,7 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:ACCB",
+        "s": "EURONEXT:ACKB",
         "f": [
           "empty symbol"
         ]
@@ -14,12 +14,6 @@
       },
       {
         "s": "EURONEXT:ACKZ8",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:AGS",
         "f": [
           "empty symbol"
         ]
@@ -45,11 +39,11 @@
       {
         "s": "EURONEXT:ALPBS",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:ASC",
+        "s": "EURONEXT:ARGX",
         "f": [
           "empty symbol"
         ]
@@ -57,11 +51,36 @@
       {
         "s": "EURONEXT:ASIT",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "EURONEXT:BELR",
+        "s": "EURONEXT:BAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BCART",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BEAB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BEFB",
         "f": [
           "empty symbol"
         ]
@@ -69,13 +88,13 @@
       {
         "s": "EURONEXT:BELU",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:BOEI",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -98,19 +117,7 @@
         ]
       },
       {
-        "s": "EURONEXT:BREB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:CAMB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:CAND",
         "f": [
           "empty symbol"
         ]
@@ -119,12 +126,6 @@
         "s": "EURONEXT:CHTEX",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:CIS",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -146,6 +147,12 @@
         ]
       },
       {
+        "s": "EURONEXT:COLR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:COLX8",
         "f": [
           "empty symbol"
@@ -158,25 +165,31 @@
         ]
       },
       {
-        "s": "EURONEXT:CYAD",
+        "s": "EURONEXT:COMB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:DECB",
+        "s": "EURONEXT:CPINV",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:DIEG",
+        "s": "EURONEXT:DEXB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:DISL",
+        "s": "EURONEXT:DTEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ELI",
         "f": [
           "empty symbol"
         ]
@@ -196,7 +209,7 @@
       {
         "s": "EURONEXT:EMD",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -206,19 +219,19 @@
         ]
       },
       {
-        "s": "EURONEXT:EURN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:EVS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:EXM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:EZBG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:FAGR",
         "f": [
           "empty symbol"
         ]
@@ -236,12 +249,6 @@
         ]
       },
       {
-        "s": "EURONEXT:GBLB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:GBLX8",
         "f": [
           "empty symbol"
@@ -256,17 +263,11 @@
       {
         "s": "EURONEXT:GEN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "EURONEXT:GREEN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:IBAB",
+        "s": "EURONEXT:HOMI",
         "f": [
           "empty symbol"
         ]
@@ -284,9 +285,15 @@
         ]
       },
       {
-        "s": "EURONEXT:IMMOP",
+        "s": "EURONEXT:IMMO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IMMOP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -314,7 +321,13 @@
         ]
       },
       {
-        "s": "EURONEXT:MDXH",
+        "s": "EURONEXT:KIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:LOTB",
         "f": [
           "empty symbol"
         ]
@@ -326,14 +339,9 @@
         ]
       },
       {
-        "s": "EURONEXT:MEURV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:MIKO",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -344,9 +352,15 @@
         ]
       },
       {
-        "s": "EURONEXT:MOP",
+        "s": "EURONEXT:MONT",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:MOP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -356,13 +370,13 @@
         ]
       },
       {
-        "s": "EURONEXT:MROIL",
+        "s": "EURONEXT:MOUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:MSF",
+        "s": "EURONEXT:MROIL",
         "f": [
           "empty symbol"
         ]
@@ -370,38 +384,32 @@
       {
         "s": "EURONEXT:NEU",
         "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:NEWT",
+        "f": [
           "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:NR21",
         "f": [
-          "no longer trading",
+          "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:NYR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:OCPET",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:OIM",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:ONTEX",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -419,13 +427,19 @@
       {
         "s": "EURONEXT:PEP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:PHAR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:PIC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -453,19 +467,25 @@
         ]
       },
       {
+        "s": "EURONEXT:QFG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:QRF",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "EURONEXT:ROU",
+        "s": "EURONEXT:REI",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:RTL",
+        "s": "EURONEXT:RET",
         "f": [
           "empty symbol"
         ]
@@ -483,25 +503,19 @@
         ]
       },
       {
-        "s": "EURONEXT:SHUR",
+        "s": "EURONEXT:SIA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:SIOE",
+        "s": "EURONEXT:SIP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:SOF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:SOLV",
+        "s": "EURONEXT:SOFT",
         "f": [
           "empty symbol"
         ]
@@ -519,6 +533,12 @@
         ]
       },
       {
+        "s": "EURONEXT:SPA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:STTL",
         "f": [
           "no longer trading"
@@ -527,7 +547,7 @@
       {
         "s": "EURONEXT:SUCR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -537,7 +557,19 @@
         ]
       },
       {
+        "s": "EURONEXT:TESB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:TET",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:TEXF",
         "f": [
           "empty symbol"
         ]
@@ -546,18 +578,6 @@
         "s": "EURONEXT:TINC",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:TIT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:TNET",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -597,12 +617,6 @@
         ]
       },
       {
-        "s": "EURONEXT:UMI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:UNPA",
         "f": [
           "no longer trading"
@@ -633,6 +647,12 @@
         ]
       },
       {
+        "s": "EURONEXT:WEHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:WOLE",
         "f": [
           "empty symbol"
@@ -641,6 +661,7 @@
       {
         "s": "EURONEXT:XIOR",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -648,12 +669,6 @@
         "s": "EURONEXT:ZEN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:ZENT",
-        "f": [
-          "empty symbol"
         ]
       }
     ]

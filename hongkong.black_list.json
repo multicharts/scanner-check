@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "HKEX:1005",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HKEX:1015",
         "f": [
           "empty symbol"
@@ -40,12 +34,6 @@
         "s": "HKEX:1021",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:1027",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -385,12 +373,6 @@
         ]
       },
       {
-        "s": "HKEX:3313",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HKEX:3335",
         "f": [
           "no longer trading"
@@ -585,6 +567,7 @@
       {
         "s": "HKEX:625",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -640,12 +623,6 @@
         "s": "HKEX:692",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:696",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -724,12 +701,6 @@
         "s": "HKEX:8129",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:8130",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -898,12 +869,6 @@
         "s": "HKEX:940",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:956",
-        "f": [
-          "empty symbol"
         ]
       },
       {

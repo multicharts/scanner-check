@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "KRX:033830",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "KRX:065150",
         "f": [
           "equal bars"
@@ -20,6 +14,12 @@
       },
       {
         "s": "KRX:084180",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "KRX:101680",
         "f": [
           "equal bars"
         ]

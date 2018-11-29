@@ -1,9 +1,981 @@
 {
     "black_list": [
       {
+        "s": "BIST:ACSEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ADANA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ADBGR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AFYON",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AGHOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AKCNS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AKGUV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AKSUE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ALARK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ALBRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ALGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ALKA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ALYAG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ARCLK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ARMDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ASUZU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ATAGY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ATLAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BIST:ATPET",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BIST:ATSYH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AVGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AVTUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AYCES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AYES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:AYGAZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BAGFS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BALAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BANVT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BERA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BIMAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BIZIM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BMEKS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BNTAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BOLUC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BOYP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BRISA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BRSAN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BUCIM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:BURVA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:CCOLA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:CMENT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:COSMO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:CRFSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:CUSAN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DAGHL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DENGE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DGGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DGKLB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DIRIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DOKTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DZGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EDIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EGCYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EGEEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EGPRO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EGSER",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EREGL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ERSU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ETILR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:EUHOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:FENER",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:FLAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:FONET",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:FORMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:FROTO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:GARAN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:GLBMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:GOLTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:GOODY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:GRNYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:HALKS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:HDFGS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:HURGZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:IHLAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:INFO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:INTEM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ISBIR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ISBTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ISGSY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ISGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ISMEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:IZFAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:IZMDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KATMR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KCHOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KFEIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KLNMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KNFRT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KONYA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KOZAA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KRONT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KRSTL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KSTUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:KUYAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:LKMNH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:LOGO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:LUKSK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MAKTK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MARTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MAVI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MERIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:METUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MMCAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MNDRS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MPARK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MRDIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MRSHL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:MTRYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:NIBAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:NTHOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:NUGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OLMIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ORMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OSMEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OSTIM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OTKAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OYLUM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:OZKGY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PAGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PEGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PETKM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PGSUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PKART",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PNSUT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:POLHO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:PRZMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:RALYH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:RODRG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:RTALB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:RYGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:RYSAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SANEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SANFM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SARKY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SAYAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SEKUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SEYKM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SILVR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SISE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SKBNK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SNKRN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:SNPAM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TAVHL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TBORG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TDGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TKFEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TKNSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TMPOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TRCAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TSGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TTRAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:TUCLK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:UFUK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:ULUSE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:USAK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:VERTU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:VKFYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:YAPRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:YGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:YKBNK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:YKGYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:YONGA",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

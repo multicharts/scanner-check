@@ -1,25 +1,31 @@
 {
     "black_list": [
       {
-        "s": "SIX:A1G",
+        "s": "SIX:AAPL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:ADBE",
+        "s": "SIX:ABBN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:AIY",
+        "s": "SIX:ABIT",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:AMGN",
+        "s": "SIX:AFX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ALO",
         "f": [
           "empty symbol"
         ]
@@ -27,23 +33,36 @@
       {
         "s": "SIX:AMS",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "SIX:AMZN",
+        "s": "SIX:AMZN.USD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:ARTW",
+        "s": "SIX:AOX",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:ARYN",
+        "s": "SIX:ASCN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:ASML",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:AU",
         "f": [
           "empty symbol"
         ]
@@ -55,19 +74,13 @@
         ]
       },
       {
-        "s": "SIX:BAER",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:BAP",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "SIX:BAX",
+        "s": "SIX:BAS",
         "f": [
           "empty symbol"
         ]
@@ -79,37 +92,25 @@
         ]
       },
       {
-        "s": "SIX:BDT",
+        "s": "SIX:BC8",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:BEAN",
+        "s": "SIX:BKW",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:BEI",
+        "s": "SIX:BLK",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:BELL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:BIO3",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:BLIN",
+        "s": "SIX:BLS",
         "f": [
           "empty symbol"
         ]
@@ -127,18 +128,6 @@
         ]
       },
       {
-        "s": "SIX:BNR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:BOBNN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:BP",
         "f": [
           "test symbol"
@@ -151,37 +140,13 @@
         ]
       },
       {
-        "s": "SIX:BSLN",
+        "s": "SIX:BVZN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:BTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:BYW6",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:CALN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:CCO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:CELG.USD",
+        "s": "SIX:CAT",
         "f": [
           "empty symbol"
         ]
@@ -193,49 +158,55 @@
         ]
       },
       {
-        "s": "SIX:CHAM",
+        "s": "SIX:COM",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:CMBN",
+        "s": "SIX:COMPG",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:CNC",
+        "s": "SIX:COP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:COK",
+        "s": "SIX:CWC",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:COTN",
+        "s": "SIX:DAI.EUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:DAN",
+        "s": "SIX:DAL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:DESN",
+        "s": "SIX:DB1",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:DRW3",
+        "s": "SIX:DIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:DIS",
         "f": [
           "empty symbol"
         ]
@@ -255,8 +226,13 @@
       {
         "s": "SIX:EDF",
         "f": [
-          "empty symbol",
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:EI",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -272,43 +248,13 @@
         ]
       },
       {
-        "s": "SIX:EOAN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ESRX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:EVK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:EVN",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "SIX:FCX.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:FME",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:FORNE",
+        "s": "SIX:FSLR",
         "f": [
           "empty symbol"
         ]
@@ -320,158 +266,19 @@
         ]
       },
       {
-        "s": "SIX:GLW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:GLX",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:GM.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:GMI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:GMM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:GOLI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:GS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HBH3",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HEID",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HELN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HIAG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HUBN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:HYQ",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "SIX:IBM",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "SIX:IBM.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:IMPN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ING",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:INRN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:INTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:JPM.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:JUNGH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:KARN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:KLIN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:KO.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:KRN",
+        "s": "SIX:KOMN",
         "f": [
           "empty symbol"
         ]
@@ -489,24 +296,6 @@
         ]
       },
       {
-        "s": "SIX:LLY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:LMN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:LXS.EUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:MAN",
         "f": [
           "test symbol"
@@ -519,75 +308,9 @@
         ]
       },
       {
-        "s": "SIX:MED",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MIKN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:MLP",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "SIX:MMB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MOLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MOZN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:MT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:NESN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:NESNE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:NKE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:NKE.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:NOEJ",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -597,63 +320,9 @@
         ]
       },
       {
-        "s": "SIX:NOVNEE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:OMV",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "SIX:PFV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:PG.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:PM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:PNHO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:POST",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:PSEC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:PWTN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:QCOM.USD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -663,73 +332,31 @@
         ]
       },
       {
-        "s": "SIX:RAP.EUR",
+        "s": "SIX:RHK",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:RBI",
+        "s": "SIX:RNO",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:RBS",
+        "s": "SIX:ROL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:RDSA",
+        "s": "SIX:RWE",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:RIB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:RIEN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:RIGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:RLF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:RO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ROG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:RY",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "SIX:S92",
+        "s": "SIX:SAF",
         "f": [
           "empty symbol"
         ]
@@ -737,24 +364,11 @@
       {
         "s": "SIX:SAP",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
       {
         "s": "SIX:SBM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:SBUX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:SDF",
         "f": [
           "empty symbol"
         ]
@@ -766,121 +380,67 @@
         ]
       },
       {
-        "s": "SIX:SIN",
+        "s": "SIX:SIKA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SMHN",
+        "s": "SIX:SKB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SNAP",
+        "s": "SIX:SLB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SOONE",
+        "s": "SIX:SNAP.USD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SPR",
+        "s": "SIX:SOW",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SPSN",
+        "s": "SIX:SUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SQN",
+        "s": "SIX:SW1",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SRT3",
+        "s": "SIX:TK.EUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:STL",
+        "s": "SIX:TSC",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SUN",
+        "s": "SIX:TTK",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:SWEDA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:SY1",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:TAMN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:TELIA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:UAA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:UBI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:UHR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:UIS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:UNIPE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:VAHN",
+        "s": "SIX:UHRNE",
         "f": [
           "empty symbol"
         ]
@@ -892,25 +452,19 @@
         ]
       },
       {
-        "s": "SIX:VALN",
+        "s": "SIX:VAO",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:VER",
+        "s": "SIX:VIV",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "SIX:VIE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:VRX",
+        "s": "SIX:VRTX",
         "f": [
           "empty symbol"
         ]
@@ -922,55 +476,13 @@
         ]
       },
       {
-        "s": "SIX:WDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:WFC.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:WIE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:XOM.USD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SIX:YELP",
         "f": [
           "test symbol"
         ]
       },
       {
-        "s": "SIX:ZBH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ZG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ZIL2",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SIX:ZURN",
+        "s": "SIX:ZNGA",
         "f": [
           "empty symbol"
         ]

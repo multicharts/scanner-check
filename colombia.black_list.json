@@ -1,57 +1,437 @@
 {
     "black_list": [
       {
+        "s": "BVC:AGROCHAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:AMZN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BBVACOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BCOLOMBIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BIOMAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:BOGOTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CARACOLTV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CEMARGOS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CLH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CNEC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BVC:COLOMBINA",
         "f": [
+          "empty symbol",
           "test symbol"
+        ]
+      },
+      {
+        "s": "BVC:COLTEJER",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CONCONCRET",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:COOMEVAEPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CORFERIAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:CVX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:DESCAUCANO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "BVC:DHCELSIA",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "BVC:GASNATURAL",
+        "s": "BVC:ECOPETROL",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:EEB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:ELECTULUA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:EMPAQUES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:ENKA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:ETB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:EXITO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:FABRICATO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:FGNTOLIMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:GASORIENTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:GE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:GOOGL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:GRUBOLIVAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:INESA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:INTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:INVENSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:ISA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:JPM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:MARLY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:MAYAGUEZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:MCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:MINEROS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:MSFT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:NUTRESA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:OCCIDENTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:ORBIS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PAZRIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFAVAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFAVH",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "BVC:PFBBVACOL",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "BVC:POPULAR",
+        "s": "BVC:PFBCOLOM",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFCORFICOL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFDAVVNDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFGRUPOARG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFGRUPSURA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFVILLA051",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFVILLAS00",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFVILLASCA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:PROMIGAS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "BVC:PROTECCION",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "BVC:SDPFGRUARG",
+        "s": "BVC:RIOPAILA",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:SDEPSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:T",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:TERPEL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "BVC:TGLSC",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
         "s": "BVC:TITAN",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:VALINDUSTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:VALSIMESA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:VILLAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:WMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVC:XOM",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

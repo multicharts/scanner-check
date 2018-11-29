@@ -1,9 +1,27 @@
 {
     "black_list": [
       {
+        "s": "BMV:A",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BMV:AMX/AA",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMV:ARISTOS/A",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BMV:CBOE",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -61,9 +79,21 @@
         ]
       },
       {
+        "s": "BMV:REN/N",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BMV:RH",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "BMV:TRMB",
+        "f": [
+          "equal bars"
         ]
       },
       {

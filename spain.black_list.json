@@ -1,33 +1,549 @@
 {
     "black_list": [
       {
-        "s": "BME:CAM",
+        "s": "BME:ABG",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "BME:YALB",
+        "s": "BME:ADX",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "BME:YEUR",
+        "s": "BME:AGIL",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "BME:YTAN",
+        "s": "BME:AI",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "BME:YTAR",
+        "s": "BME:ALB",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ALC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ALM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ALNT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ALQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ANA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:BKIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:BKT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CABK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CLE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CLEO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CLR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CMM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:COL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:COM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:CRB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:EAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:EBI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ECG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ECR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:EDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ENC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ENO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:FACE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:GIGA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:GRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:IKM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ISUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:LBK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:LGT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:LOG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:LRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:MAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:MAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:MCM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:MEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:NTH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:NYE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:PAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:PQR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:PRM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:PVA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:REE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:REP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:RIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:RJF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:SAB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:SCYR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:SGRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:SNC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:SPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TL5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TLGO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TPZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TR1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TRG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:TUB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:VIS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:VOC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:VOZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XBRK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XBRPO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XCMIG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XEKT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XPBR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:XVALO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YAST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YATO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YAZR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YDOM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YENT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YGGC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YINM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YMRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YPMR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YPR2",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YPSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YQPQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YSPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YTST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YURE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YURO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YZBL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:YZPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:ZOT",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

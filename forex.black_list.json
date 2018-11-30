@@ -1,1765 +1,175 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:CLFGBP",
+        "s": "FX_IDC:EURSTD",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CLFJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CLPGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNHCNY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNHHKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNHIDR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNHJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNHTWD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYCAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYCNH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYHKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYKHR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYLAK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYMYR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYNZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYPHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYPLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYRSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CNYSGD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:COPJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKAUD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKDKK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKPLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKRSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:CZKSEK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DJFGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKBAM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKBRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKCAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKCHF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKIDR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKINR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKKPW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKNZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKOMR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKPKR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKPLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKSEK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DKKTHB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DOPGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:DZDGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EGPCHF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EGPGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EGPJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EGPPKR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:ETBGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURAED",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURAFN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURALL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURARS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURAUD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURAWG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURAZN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBIF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBOB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBTN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURBYN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCHF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCLF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCLP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCNH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCNY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCRC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURCVE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURDJF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURDKK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURDOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURDZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EUREGP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURERN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURETB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURFJD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURGIP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURGTQ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURGYD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURHKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURHNL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURHTG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURHUF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURIDR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURILS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURINR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURIRR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURISK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURJOD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKGS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKMF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKPW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURKZT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURLRD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURLSL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURLYD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMDL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMGA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMNT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMRU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMWK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMXN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURMYR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURNAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURNGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURNIO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURNPR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURNZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EUROMR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURPAB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURPHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURPKR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURPLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURPYG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURQAR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURRSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURRUB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSAR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSCR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSDG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSEK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSLL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSRD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURSTN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURTOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURTRY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURTTD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURUGX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURUYU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURUZS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURVND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURVUV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURXOF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURYER",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:EURZMW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:FJDHKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPAED",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPALL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPAMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPAOA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPARS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPAUD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPAWG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBAM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBBD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBHD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBIF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBOB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPBZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCDF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCHF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCLF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCNH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPCVE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPDKK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPDOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPDZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPEGP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPETB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPFJD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPGHS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPGMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPGNF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPGYD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPHKD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPHNL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPHRK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPHTG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPHUF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPILS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPIRR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPISK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPJMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPJOD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPJPY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPKGS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPKMF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPKPW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPKYD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPLAK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPLBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPLKR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPLRD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPLSL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMDL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMGA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMMK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMVR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMWK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMXN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMYR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPMZN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNAD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNIO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNOK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNPR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPNZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPEN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPGK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPKR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPPYG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPQAR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPRON",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPRUB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPRWF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSBD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSCR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSDG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSLL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSOS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSTD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSTN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSVC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPSZL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTHB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTJS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTMT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTRY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTTD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPTWD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPUGX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPUYU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPUZS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPVND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPVUV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPXAF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPXCD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPXOF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPXPF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPZAR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GBPZMW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GHSEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GHSNGN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:GMDGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:HKDBRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:HKDCNH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:HKDCNY",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:HKDDKK",
+        "s": "FX_IDC:ILSGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDIDR",
+        "s": "FX_IDC:IRRJPY",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDILS",
+        "s": "FX_IDC:JPYAMD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDJPY",
+        "s": "FX_IDC:JPYAOA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDKRW",
+        "s": "FX_IDC:JPYAZN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDMOP",
+        "s": "FX_IDC:JPYBGN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDMXN",
+        "s": "FX_IDC:JPYMNT",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDNZD",
+        "s": "FX_IDC:JPYPAB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDOMR",
+        "s": "FX_IDC:JPYPEN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDPKR",
+        "s": "FX_IDC:JPYRUB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDPLN",
+        "s": "FX_IDC:JPYSRD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDSGD",
+        "s": "FX_IDC:JPYTMT",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDTHB",
+        "s": "FX_IDC:KESGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HKDTWD",
+        "s": "FX_IDC:LKRSEK",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HRKEUR",
+        "s": "FX_IDC:MYREUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HRKGBP",
+        "s": "FX_IDC:MYRKRW",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HRKRSD",
+        "s": "FX_IDC:NOKPLN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFBAM",
+        "s": "FX_IDC:NZDIDR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFCHF",
+        "s": "FX_IDC:NZDTRY",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFCZK",
+        "s": "FX_IDC:PABGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFDKK",
+        "s": "FX_IDC:PHPAUD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFEUR",
+        "s": "FX_IDC:PHPGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFGBP",
+        "s": "FX_IDC:PHPKRW",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFJPY",
+        "s": "FX_IDC:PKRGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:HUFRSD",
+        "s": "FX_IDC:PLNGBP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:IDRGBP",
+        "s": "FX_IDC:PLNTHB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:IDRJPY",
+        "s": "FX_IDC:RONJPY",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:IDRKRW",
+        "s": "FX_IDC:RONSEK",
         "f": [
           "empty symbol"
         ]
@@ -1777,109 +187,19 @@
         ]
       },
       {
-        "s": "FX_IDC:USDCNH",
+        "s": "FX_IDC:USDKYD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:USDCOP",
+        "s": "FX_IDC:USDLSL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "FX_IDC:USDDJF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDDOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDDZD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDERN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDFKP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGEL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGHS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGIP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGMD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGTQ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDGYD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDHNL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDHTG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDHUF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDIDR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDILS",
+        "s": "FX_IDC:USDMMK",
         "f": [
           "empty symbol"
         ]

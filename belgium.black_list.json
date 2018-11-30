@@ -1,7 +1,13 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:ABO",
+        "s": "EURONEXT:ABI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ACKB",
         "f": [
           "empty symbol"
         ]
@@ -19,7 +25,19 @@
         ]
       },
       {
+        "s": "EURONEXT:AED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:AGFB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:AGS",
         "f": [
           "empty symbol"
         ]
@@ -49,7 +67,13 @@
         ]
       },
       {
-        "s": "EURONEXT:ASC",
+        "s": "EURONEXT:ANT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ARGX",
         "f": [
           "empty symbol"
         ]
@@ -57,18 +81,11 @@
       {
         "s": "EURONEXT:ASIT",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
       {
         "s": "EURONEXT:ATEB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:BALTA",
         "f": [
           "empty symbol"
         ]
@@ -80,19 +97,31 @@
         ]
       },
       {
+        "s": "EURONEXT:BCART",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BEAB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:BEKB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:BELR",
+        "s": "EURONEXT:BELU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "EURONEXT:BELU",
+        "s": "EURONEXT:BNB",
         "f": [
           "empty symbol"
         ]
@@ -129,13 +158,13 @@
         ]
       },
       {
-        "s": "EURONEXT:BREB",
+        "s": "EURONEXT:CAND",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:CAND",
+        "s": "EURONEXT:CENER",
         "f": [
           "empty symbol"
         ]
@@ -149,11 +178,17 @@
       {
         "s": "EURONEXT:CHTEX",
         "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:CIS",
+        "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:COBH",
+        "s": "EURONEXT:COFB",
         "f": [
           "empty symbol"
         ]
@@ -161,7 +196,7 @@
       {
         "s": "EURONEXT:COFP1",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -172,12 +207,6 @@
       },
       {
         "s": "EURONEXT:COFZ8",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:COLR",
         "f": [
           "empty symbol"
         ]
@@ -195,13 +224,19 @@
         ]
       },
       {
-        "s": "EURONEXT:CPINV",
+        "s": "EURONEXT:COMB",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:DEXB",
+        "s": "EURONEXT:CONN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DECB",
         "f": [
           "empty symbol"
         ]
@@ -213,7 +248,25 @@
         ]
       },
       {
+        "s": "EURONEXT:DIEG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:DISL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ECONB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ELI",
         "f": [
           "empty symbol"
         ]
@@ -233,12 +286,19 @@
       {
         "s": "EURONEXT:EMD",
         "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:ENGB",
+        "f": [
           "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:ENI",
         "f": [
+          "empty symbol",
           "test symbol"
         ]
       },
@@ -250,18 +310,6 @@
       },
       {
         "s": "EURONEXT:EURN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:EXM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:EZBG",
         "f": [
           "empty symbol"
         ]
@@ -279,15 +327,15 @@
         ]
       },
       {
-        "s": "EURONEXT:FOOTL",
+        "s": "EURONEXT:FLUX",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:GBLB",
+        "s": "EURONEXT:FOOTL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -305,7 +353,7 @@
       {
         "s": "EURONEXT:GEN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -321,6 +369,24 @@
         ]
       },
       {
+        "s": "EURONEXT:GREEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HAMO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HOMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:IBAB",
         "f": [
           "empty symbol"
@@ -329,19 +395,37 @@
       {
         "s": "EURONEXT:IBMA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:ICE",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IEP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IMMO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:IMMOP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:IMMOU",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -364,12 +448,6 @@
         ]
       },
       {
-        "s": "EURONEXT:KBCA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:KBCX8",
         "f": [
           "empty symbol"
@@ -388,6 +466,12 @@
         ]
       },
       {
+        "s": "EURONEXT:LEAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:LOTB",
         "f": [
           "empty symbol"
@@ -400,7 +484,7 @@
         ]
       },
       {
-        "s": "EURONEXT:MCC",
+        "s": "EURONEXT:MDXH",
         "f": [
           "empty symbol"
         ]
@@ -408,7 +492,7 @@
       {
         "s": "EURONEXT:MEDV",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -420,14 +504,7 @@
       {
         "s": "EURONEXT:MIKO",
         "f": [
-          "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:MITRA",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -445,17 +522,11 @@
       {
         "s": "EURONEXT:MOPF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:MROIL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:MSF",
         "f": [
           "empty symbol"
         ]
@@ -480,7 +551,7 @@
         ]
       },
       {
-        "s": "EURONEXT:OBEL",
+        "s": "EURONEXT:NYR",
         "f": [
           "empty symbol"
         ]
@@ -498,7 +569,13 @@
         ]
       },
       {
-        "s": "EURONEXT:OXUR",
+        "s": "EURONEXT:ONTEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:OPTI",
         "f": [
           "empty symbol"
         ]
@@ -516,21 +593,39 @@
         ]
       },
       {
-        "s": "EURONEXT:PEP",
+        "s": "EURONEXT:PAY",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:PCBB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:PEP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:PHAR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:PNSB",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:PROX",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -559,6 +654,12 @@
         ]
       },
       {
+        "s": "EURONEXT:REI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:RES",
         "f": [
           "empty symbol"
@@ -571,13 +672,13 @@
         ]
       },
       {
-        "s": "EURONEXT:RTL",
+        "s": "EURONEXT:ROU",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:SAB",
+        "s": "EURONEXT:SANTA",
         "f": [
           "empty symbol"
         ]
@@ -589,13 +690,37 @@
         ]
       },
       {
-        "s": "EURONEXT:SIP",
+        "s": "EURONEXT:SHUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:SOF",
+        "s": "EURONEXT:SIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SIOE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SMAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SOLB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SOLV",
         "f": [
           "empty symbol"
         ]
@@ -613,27 +738,21 @@
         ]
       },
       {
-        "s": "EURONEXT:SPA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:STTL",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:SUCR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:TEAM",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -645,7 +764,7 @@
       {
         "s": "EURONEXT:TET",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -655,7 +774,13 @@
         ]
       },
       {
-        "s": "EURONEXT:TIT",
+        "s": "EURONEXT:TISN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TNET",
         "f": [
           "empty symbol"
         ]
@@ -668,6 +793,12 @@
       },
       {
         "s": "EURONEXT:TNEZ8",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TUB",
         "f": [
           "empty symbol"
         ]
@@ -691,13 +822,25 @@
         ]
       },
       {
+        "s": "EURONEXT:UMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:UNI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:UNPA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:VALOR",
+        "s": "EURONEXT:VAN",
         "f": [
           "empty symbol"
         ]
@@ -717,12 +860,11 @@
       {
         "s": "EURONEXT:VGP",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
       {
-        "s": "EURONEXT:VWA",
+        "s": "EURONEXT:VIO",
         "f": [
           "empty symbol"
         ]
@@ -741,6 +883,12 @@
         ]
       },
       {
+        "s": "EURONEXT:WEB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:WEHB",
         "f": [
           "empty symbol"
@@ -755,7 +903,7 @@
       {
         "s": "EURONEXT:ZEN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       }
     ]

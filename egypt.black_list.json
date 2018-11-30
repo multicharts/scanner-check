@@ -1,45 +1,561 @@
 {
     "black_list": [
       {
-        "s": "EGX:BQDC",
+        "s": "EGX:ABUK",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:CCAPP",
+        "s": "EGX:ACAMD",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:NCIN",
+        "s": "EGX:ADPC",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:NCIS",
+        "s": "EGX:AFDI",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:RIVA",
+        "s": "EGX:AFMC",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:RMTV",
+        "s": "EGX:AITG",
         "f": [
-          "equal bars"
+          "empty symbol"
         ]
       },
       {
-        "s": "EGX:SLTD",
+        "s": "EGX:AIVC",
         "f": [
-          "equal bars"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ALCN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ALEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:AMIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ARCC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ARPI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ASHC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ATQA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:AXPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:BINV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:BIOC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:BTFH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:CCAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:CCRS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:CERA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:CIRA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:CPCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:DAPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:DSCW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EASB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EBSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EDBM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EFID",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EGCH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EGSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EHDR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EITP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EIUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EKHO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EMFD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EOSB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:EPCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ESRS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GETO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GMCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GOCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GRCA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GTHE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:GTWL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:HELI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:INFI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:IRAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ISMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:KZPC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MAAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MCQE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MEGM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MENA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MFPC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MICH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MISR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MNHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MOED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MOIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MOSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MPCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MPRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:MTIE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:NCGC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:NCMP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:NEDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:NHPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:OCDI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:OIH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ORAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ORHD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:PACH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:PHDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:PHTV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:RAKT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:RUBX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SAIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SAUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SBAG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SCEM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SEIGA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SKPC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SMCS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SMFR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SPIN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SRWA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SUGR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:SVCE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:TMGH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:TORA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:TRTO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:UPMS",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

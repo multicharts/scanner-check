@@ -1,7 +1,13 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:AD",
+        "s": "EURONEXT:ACCEL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ACOMO",
         "f": [
           "empty symbol"
         ]
@@ -10,12 +16,6 @@
         "s": "EURONEXT:ADYEN",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:AGN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -51,7 +51,6 @@
       {
         "s": "EURONEXT:ALFEN",
         "f": [
-          "empty symbol",
           "test symbol"
         ]
       },
@@ -74,12 +73,6 @@
         ]
       },
       {
-        "s": "EURONEXT:ASML",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:ASMX8",
         "f": [
           "empty symbol"
@@ -92,25 +85,13 @@
         ]
       },
       {
-        "s": "EURONEXT:AVTX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:BAMA",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "EURONEXT:BRNL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:CCEP",
+        "s": "EURONEXT:BOLS",
         "f": [
           "empty symbol"
         ]
@@ -122,7 +103,13 @@
         ]
       },
       {
-        "s": "EURONEXT:DSC1",
+        "s": "EURONEXT:DGB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DSM",
         "f": [
           "empty symbol"
         ]
@@ -140,12 +127,6 @@
         ]
       },
       {
-        "s": "EURONEXT:GLPG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:GTOX8",
         "f": [
           "empty symbol"
@@ -158,7 +139,7 @@
         ]
       },
       {
-        "s": "EURONEXT:HEIO",
+        "s": "EURONEXT:HDG",
         "f": [
           "empty symbol"
         ]
@@ -176,12 +157,6 @@
         ]
       },
       {
-        "s": "EURONEXT:HYDRA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:IEX",
         "f": [
           "no longer trading"
@@ -190,31 +165,14 @@
       {
         "s": "EURONEXT:IMCD",
         "f": [
+          "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:INGA",
-        "f": [
-          "empty symbol"
         ]
       },
       {
         "s": "EURONEXT:INPHI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:INTER",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:KENDR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -242,18 +200,6 @@
         ]
       },
       {
-        "s": "EURONEXT:PHARM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:PHIA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:PHIX8",
         "f": [
           "empty symbol"
@@ -273,12 +219,6 @@
       },
       {
         "s": "EURONEXT:PNLZ8",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:PORF",
         "f": [
           "empty symbol"
         ]
@@ -326,24 +266,6 @@
         ]
       },
       {
-        "s": "EURONEXT:ROOD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:TIE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:TKWY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:UNAX8",
         "f": [
           "empty symbol"
@@ -371,18 +293,6 @@
         "s": "EURONEXT:VEON",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:VLK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:WES",
-        "f": [
-          "empty symbol"
         ]
       },
       {

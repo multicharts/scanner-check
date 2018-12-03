@@ -117,6 +117,7 @@
       {
         "s": "BSE:ADVMULT",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -161,7 +162,7 @@
       {
         "s": "BSE:AIPCL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -179,6 +180,7 @@
       {
         "s": "BSE:ALCARGOBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -248,12 +250,6 @@
         "s": "BSE:AMBIT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:AMSONS",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -350,7 +346,7 @@
       {
         "s": "BSE:ARMAN",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -586,18 +582,6 @@
         ]
       },
       {
-        "s": "BSE:BANARBEADS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BSE:BANSTEA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:BARODARY",
         "f": [
           "no longer trading"
@@ -789,6 +773,7 @@
       {
         "s": "BSE:BSLFEFS2RN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -802,6 +787,7 @@
       {
         "s": "BSE:BSLFEFS3DN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -826,6 +812,7 @@
       {
         "s": "BSE:BSLFEFS4DN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -887,6 +874,7 @@
       {
         "s": "BSE:BSLFEFS6RN",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -981,12 +969,6 @@
         ]
       },
       {
-        "s": "BSE:CA10R",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:CA50R",
         "f": [
           "equal bars"
@@ -1073,6 +1055,12 @@
         ]
       },
       {
+        "s": "BSE:CHEMIESYNT",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:CHIPLUN",
         "f": [
           "equal bars",
@@ -1106,6 +1094,7 @@
       {
         "s": "BSE:CLARIND",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1130,6 +1119,7 @@
       {
         "s": "BSE:CNSDSECBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1265,6 +1255,7 @@
       {
         "s": "BSE:DATARSW_B",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1316,6 +1307,12 @@
         "s": "BSE:DEVIKA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:DEVITRD",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -1423,6 +1420,7 @@
       {
         "s": "BSE:ECLERXBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -1582,12 +1580,6 @@
         "s": "BSE:FDCLTDBBPH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:FELDVR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1779,12 +1771,6 @@
         "s": "BSE:GITNJLIBBPH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:GLITTEKG",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1984,6 +1970,12 @@
         ]
       },
       {
+        "s": "BSE:HEOF1100DD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:HEOF1100DG",
         "f": [
           "equal bars"
@@ -2052,12 +2044,6 @@
         ]
       },
       {
-        "s": "BSE:HFIL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:HHOF1140DD",
         "f": [
           "equal bars"
@@ -2095,12 +2081,6 @@
         ]
       },
       {
-        "s": "BSE:HINDSYNTEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:HINDUST",
         "f": [
           "no longer trading"
@@ -2109,6 +2089,7 @@
       {
         "s": "BSE:HINPHOT",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2252,6 +2233,7 @@
       {
         "s": "BSE:IDINFO",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -2343,7 +2325,7 @@
       {
         "s": "BSE:INSTAF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2812,7 +2794,19 @@
         ]
       },
       {
+        "s": "BSE:IPRU9099",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU9135",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9189",
         "f": [
           "equal bars"
         ]
@@ -2824,7 +2818,19 @@
         ]
       },
       {
+        "s": "BSE:IPRU9193",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU9194",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9205",
         "f": [
           "equal bars"
         ]
@@ -2836,7 +2842,19 @@
         ]
       },
       {
+        "s": "BSE:IPRU9297",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:IPRU9298",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:IPRU9345",
         "f": [
           "equal bars"
         ]
@@ -2851,12 +2869,6 @@
         "s": "BSE:ISGECBBPH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:ISLCONSUL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2875,6 +2887,12 @@
         "s": "BSE:JAYAMEL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:JAYATMA",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -2957,12 +2975,6 @@
         ]
       },
       {
-        "s": "BSE:JVLAGRO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:JYOTHI",
         "f": [
           "no longer trading"
@@ -3032,7 +3044,7 @@
       {
         "s": "BSE:KAPPH",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3111,6 +3123,7 @@
       {
         "s": "BSE:KLBRENGBBPH",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3158,6 +3171,12 @@
       },
       {
         "s": "BSE:KRRAIL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BSE:KTKIND4DD",
         "f": [
           "equal bars"
         ]
@@ -3213,12 +3232,6 @@
         ]
       },
       {
-        "s": "BSE:KUSHAL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:LAKHANI",
         "f": [
           "no longer trading"
@@ -3227,7 +3240,7 @@
       {
         "s": "BSE:LAKSHVILALR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3330,6 +3343,12 @@
         "s": "BSE:MACKINN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:MADHAVIPL",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -3578,6 +3597,7 @@
       {
         "s": "BSE:MNYRPLA_B",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3621,12 +3641,6 @@
         "s": "BSE:MONETBBPH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:MONNETISPA",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3984,7 +3998,7 @@
       {
         "s": "BSE:PBGLOBAL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4027,6 +4041,7 @@
       {
         "s": "BSE:PETPLST",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -4119,6 +4134,12 @@
         ]
       },
       {
+        "s": "BSE:PULSRIN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:QUASAR",
         "f": [
           "no longer trading"
@@ -4200,6 +4221,7 @@
       {
         "s": "BSE:RANJITSE",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -4669,7 +4691,7 @@
       {
         "s": "BSE:SAFFRON",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4705,7 +4727,7 @@
       {
         "s": "BSE:SAKA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4819,12 +4841,6 @@
         ]
       },
       {
-        "s": "BSE:SCBL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:SCINDIA",
         "f": [
           "equal bars",
@@ -4835,12 +4851,6 @@
         "s": "BSE:SCL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:SCTL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -5006,13 +5016,8 @@
       {
         "s": "BSE:SHRENTI",
         "f": [
+          "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:SHRIBCL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -5187,7 +5192,7 @@
       {
         "s": "BSE:SPISYS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -5307,6 +5312,7 @@
       {
         "s": "BSE:SUBHLTR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -5494,6 +5500,7 @@
       {
         "s": "BSE:TEEM",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -5562,12 +5569,6 @@
         "s": "BSE:TIRUFIN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:TITANBIO",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -5676,7 +5677,7 @@
       {
         "s": "BSE:TURBO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -5719,13 +5720,8 @@
       {
         "s": "BSE:UFMINDL",
         "f": [
+          "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:UNIDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6052,6 +6048,7 @@
       {
         "s": "BSE:ZBHILENG",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -6059,12 +6056,6 @@
         "s": "BSE:ZEEENTBBPH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:ZEEL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6141,6 +6132,12 @@
         ]
       },
       {
+        "s": "BSE:ZNEWSAGA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BSE:ZNILKENG",
         "f": [
           "no longer trading"
@@ -6173,6 +6170,7 @@
       {
         "s": "BSE:ZSANCHTR",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -6186,6 +6184,12 @@
         "s": "BSE:ZSIYARPO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:ZSVTRADI",
+        "f": [
+          "equal bars"
         ]
       },
       {

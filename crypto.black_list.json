@@ -7,48 +7,6 @@
         ]
       },
       {
-        "s": "BINANCE:BNBUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:BTCUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:EOSUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:ETHUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:USDCUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:XLMUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:XRPUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -242,6 +200,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:ATMBTC",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1196,12 +1160,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:DTAETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2545,7 +2503,8 @@
       {
         "s": "BITFINEX:NEOGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -2570,6 +2529,12 @@
         "s": "BITFINEX:NEOUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:NIOETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3183,12 +3148,6 @@
         ]
       },
       {
-        "s": "BITFINEX:REQETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:REQETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3362,6 +3321,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:SEEETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4688,12 +4653,6 @@
       },
       {
         "s": "BITTREX:OMNIUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:SOLVEBTC",
         "f": [
           "empty symbol"
         ]

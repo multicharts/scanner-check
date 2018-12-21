@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BELEX:AGBC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:AGEX",
         "f": [
           "no longer trading"
@@ -41,24 +47,6 @@
         "s": "BELEX:AGSA",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:AIKB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:AIKBPB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:AIKBPC",
-        "f": [
           "no longer trading"
         ]
       },
@@ -148,18 +136,6 @@
       },
       {
         "s": "BELEX:AUTP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:AUTT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:AVEN",
         "f": [
           "no longer trading"
         ]
@@ -692,6 +668,12 @@
         ]
       },
       {
+        "s": "BELEX:ENOP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:EPRM",
         "f": [
           "no longer trading"
@@ -761,6 +743,7 @@
       {
         "s": "BELEX:FINT",
         "f": [
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -845,6 +828,12 @@
         ]
       },
       {
+        "s": "BELEX:GMON",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:GOCT",
         "f": [
           "equal bars",
@@ -866,12 +855,6 @@
       },
       {
         "s": "BELEX:GRAV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:GRDB",
         "f": [
           "no longer trading"
         ]
@@ -990,6 +973,12 @@
       },
       {
         "s": "BELEX:IGVG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:IKRB",
         "f": [
           "no longer trading"
         ]
@@ -1748,12 +1737,6 @@
         ]
       },
       {
-        "s": "BELEX:NSSJ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BELEX:NVST",
         "f": [
           "no longer trading"
@@ -2004,6 +1987,12 @@
         ]
       },
       {
+        "s": "BELEX:PPVA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BELEX:PRGM",
         "f": [
           "equal bars",
@@ -2054,13 +2043,13 @@
         ]
       },
       {
-        "s": "BELEX:PSSS",
+        "s": "BELEX:PSOB",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BELEX:PSSU",
+        "s": "BELEX:PSSS",
         "f": [
           "no longer trading"
         ]
@@ -2096,19 +2085,7 @@
         ]
       },
       {
-        "s": "BELEX:PUNS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BELEX:PUPO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BELEX:PUUE",
         "f": [
           "no longer trading"
         ]
@@ -3001,6 +2978,12 @@
         "s": "BELEX:VTSK",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BELEX:VZAS",
+        "f": [
           "no longer trading"
         ]
       },

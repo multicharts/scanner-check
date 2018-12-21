@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BMV:AMBA/N",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BMV:AMX/AA",
         "f": [
           "empty symbol"
@@ -61,6 +55,12 @@
         ]
       },
       {
+        "s": "BMV:COO",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BMV:FCFE/18-2",
         "f": [
           "empty symbol"
@@ -68,12 +68,6 @@
       },
       {
         "s": "BMV:FIBRAUP/18",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "BMV:FNOVA/17",
         "f": [
           "equal bars"
         ]
@@ -158,12 +152,6 @@
       },
       {
         "s": "BMV:MAERSKB/N",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "BMV:NUVA",
         "f": [
           "equal bars"
         ]

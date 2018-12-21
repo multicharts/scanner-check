@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "KRX:019590",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "KRX:038340",
         "f": [
           "equal bars"
@@ -43,6 +37,12 @@
         ]
       },
       {
+        "s": "KRX:073010",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "KRX:080530",
         "f": [
           "equal bars"
@@ -67,6 +67,12 @@
         ]
       },
       {
+        "s": "KRX:120780",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "KRX:122800",
         "f": [
           "equal bars"
@@ -85,12 +91,6 @@
         ]
       },
       {
-        "s": "KRX:208850",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "KRX:224760",
         "f": [
           "no longer trading"
@@ -103,9 +103,21 @@
         ]
       },
       {
+        "s": "KRX:233250",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "KRX:236030",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KRX:239340",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -136,6 +148,12 @@
         "s": "KRX:278990",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KRX:308700",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

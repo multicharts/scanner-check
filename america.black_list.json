@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:ARVR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:CNHX",
         "f": [
           "no longer trading"
@@ -441,6 +435,12 @@
       },
       {
         "s": "NASDAQ:ALZH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AMCI",
         "f": [
           "empty symbol"
         ]
@@ -1743,6 +1743,12 @@
       },
       {
         "s": "NYSE:AVI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DELL/I",
         "f": [
           "empty symbol"
         ]

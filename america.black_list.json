@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BSCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:BSJI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:CNHX",
         "f": [
           "no longer trading"
@@ -524,6 +536,12 @@
         ]
       },
       {
+        "s": "NASDAQ:ESG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:EVFTC",
         "f": [
           "no longer trading"
@@ -706,13 +724,13 @@
       {
         "s": "NASDAQ:STLR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:STLRU",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1742,7 +1760,7 @@
         ]
       },
       {
-        "s": "NYSE:DELL/I",
+        "s": "NYSE:DVMT",
         "f": [
           "empty symbol"
         ]

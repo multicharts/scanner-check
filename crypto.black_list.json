@@ -7,30 +7,6 @@
         ]
       },
       {
-        "s": "BINANCE:WAVESPAX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:WAVESTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:WAVESUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:WAVESUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -419,6 +395,12 @@
         ]
       },
       {
+        "s": "BITFINEX:BBNETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:BBNETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -697,6 +679,12 @@
         ]
       },
       {
+        "s": "BITFINEX:CBTETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:CBTETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -719,66 +707,6 @@
       },
       {
         "s": "BITFINEX:CBTUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIBTCLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIBTCSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIETHLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIETHSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CFIUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -2773,12 +2701,6 @@
         ]
       },
       {
-        "s": "BITFINEX:PASETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:PASETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2789,12 +2711,6 @@
         "s": "BITFINEX:PASETHSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:PASUSD",
-        "f": [
           "empty symbol"
         ]
       },
@@ -3853,6 +3769,12 @@
         ]
       },
       {
+        "s": "BITFINEX:UTKETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:UTKETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4015,6 +3937,34 @@
       },
       {
         "s": "BITFINEX:VLDUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:VSYBTCLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:VSYBTCSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:VSYUSDLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:VSYUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -4503,6 +4453,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ZCNBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:ZCNBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4781,6 +4737,12 @@
         ]
       },
       {
+        "s": "GEMINI:GUSDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GOCIO:BTCRUR",
         "f": [
           "no longer trading"
@@ -4820,6 +4782,210 @@
         "s": "HITBTC:VERIUSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HUOBI:18CBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:BCXBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:BKBTBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:BUTBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:CNNBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:COVABTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:DATBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:DATXBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:DBCBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:DTABTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:EDUBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:EGCCBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:FTIBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:GETBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:GVEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:HITBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:IICBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:KANBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:LXTBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:MEXBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:MTBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:MUSKBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:PCBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:PNTBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:RTEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:SHEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:SSPBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:SWFTCBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:TRIOBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:UCBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:UUUBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:XMXBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:YEEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HUOBI:ZJLTBTC",
+        "f": [
+          "price null"
         ]
       },
       {

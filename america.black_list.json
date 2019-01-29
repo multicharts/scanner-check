@@ -1,84 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BUYN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:CNHX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:FLMI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:HTAB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:IHYD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:IIGD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:IIGV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:IMFD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:IMFI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:JPED",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:LQDI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PACA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PQLC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CBOT:ZRF2019",
         "f": [
           "no longer trading"
@@ -86,6 +8,12 @@
       },
       {
         "s": "CBOT_MINI:XKF2019",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CME:D6F2019",
         "f": [
           "no longer trading"
         ]
@@ -391,12 +319,6 @@
         ]
       },
       {
-        "s": "COMEX_MINI:QI1!",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "COMEX_MINI:QIF2019",
         "f": [
           "no longer trading"
@@ -429,19 +351,25 @@
       {
         "s": "NASDAQ:BVNSC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:CGVIC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:CIVEC",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CRUSC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -465,31 +393,37 @@
       {
         "s": "NASDAQ:EVFTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:EVGBC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:EVLMC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:EVSTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:FOANC",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:GRBIC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -501,7 +435,7 @@
       {
         "s": "NASDAQ:HFGIC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -519,13 +453,19 @@
       {
         "s": "NASDAQ:IVENC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:IVFGC",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVFVC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -544,6 +484,12 @@
         "s": "NASDAQ:KELYB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:MOGLC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -567,7 +513,7 @@
       {
         "s": "NASDAQ:RPIBC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -579,7 +525,7 @@
       {
         "s": "NASDAQ:XM",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1561,9 +1507,33 @@
         ]
       },
       {
+        "s": "NYSE:BIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CAI/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:HL/PB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:IPOA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:IPOA.U",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1580,6 +1550,12 @@
         ]
       },
       {
+        "s": "NYSE:NFC.U",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:RH",
         "f": [
           "test symbol"
@@ -1589,6 +1565,12 @@
         "s": "NYSE:TAP.A",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:USB/PP",
+        "f": [
+          "empty symbol"
         ]
       },
       {

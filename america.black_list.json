@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AWTM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CBOT:ZRF2019",
         "f": [
           "no longer trading"
@@ -343,12 +349,6 @@
         ]
       },
       {
-        "s": "NASDAQ:BOJA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:BRACU",
         "f": [
           "no longer trading"
@@ -478,13 +478,6 @@
         "s": "NASDAQ:IVFVC",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:JPGB",
-        "f": [
-          "empty symbol",
-          "test symbol"
         ]
       },
       {
@@ -1533,12 +1526,6 @@
       },
       {
         "s": "NYSE:CAI/PB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:CVRR",
         "f": [
           "empty symbol"
         ]

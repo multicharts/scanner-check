@@ -1,7 +1,19 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ABX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:AWTM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:JCPB",
         "f": [
           "empty symbol"
         ]
@@ -13,7 +25,13 @@
         ]
       },
       {
-        "s": "AMEX:VSL",
+        "s": "AMEX:PX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:XBUY",
         "f": [
           "empty symbol"
         ]
@@ -368,6 +386,12 @@
       },
       {
         "s": "NASDAQ:BVNSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CFFA",
         "f": [
           "empty symbol"
         ]
@@ -1538,6 +1562,12 @@
       },
       {
         "s": "NYSE:CAI/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CFG/PD",
         "f": [
           "empty symbol"
         ]

@@ -1,7 +1,7 @@
 {
     "black_list": [
       {
-        "s": "AMEX:ABX",
+        "s": "AMEX:ARKF",
         "f": [
           "empty symbol"
         ]
@@ -43,33 +43,9 @@
         ]
       },
       {
-        "s": "AMEX:KS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PQSG",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:VRX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:VSL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -433,6 +409,12 @@
         ]
       },
       {
+        "s": "NASDAQ:CVETV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:DDOC",
         "f": [
           "empty symbol"
@@ -440,12 +422,6 @@
       },
       {
         "s": "NASDAQ:EHR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:ESIO",
         "f": [
           "empty symbol"
         ]
@@ -463,6 +439,12 @@
         ]
       },
       {
+        "s": "NASDAQ:HSICV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:HUNTU",
         "f": [
           "no longer trading"
@@ -476,6 +458,12 @@
       },
       {
         "s": "NASDAQ:IBEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:INMB",
         "f": [
           "empty symbol"
         ]
@@ -1838,12 +1826,6 @@
         ]
       },
       {
-        "s": "NYSE:EGL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:HL/PB",
         "f": [
           "no longer trading"
@@ -1868,33 +1850,9 @@
         ]
       },
       {
-        "s": "NYSE:P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:RH",
         "f": [
           "test symbol"
-        ]
-      },
-      {
-        "s": "NYSE:SEND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:VVC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:WRD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2198,7 +2156,7 @@
         ]
       },
       {
-        "s": "OTC:FUSZ",
+        "s": "OTC:FUSZD",
         "f": [
           "empty symbol"
         ]
@@ -2330,12 +2288,6 @@
         ]
       },
       {
-        "s": "OTC:KNBIF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:LBCMF",
         "f": [
           "no longer trading"
@@ -2432,9 +2384,9 @@
         ]
       },
       {
-        "s": "OTC:NSUPD",
+        "s": "OTC:NSUPF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {

@@ -4767,7 +4767,7 @@
       {
         "s": "GOCIO:BTCRUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -4779,7 +4779,7 @@
       {
         "s": "GOCIO:LTCRUR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4975,6 +4975,12 @@
         ]
       },
       {
+        "s": "HUOBI:RTEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "HUOBI:SHEBTC",
         "f": [
           "price null"
@@ -5029,9 +5035,21 @@
         ]
       },
       {
+        "s": "ITBIT:BTCEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ITBIT:BTCSGD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ITBIT:BTCUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

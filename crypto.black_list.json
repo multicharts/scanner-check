@@ -175,6 +175,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ANTETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:ANTETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -200,12 +206,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:ATMBTC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -262,6 +262,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:AUCETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -805,12 +811,6 @@
         ]
       },
       {
-        "s": "BITFINEX:CTXBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:CTXBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1129,6 +1129,12 @@
         ]
       },
       {
+        "s": "BITFINEX:DTHBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:DTHBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1333,8 +1339,7 @@
       {
         "s": "BITFINEX:EOSJPYSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "no longer trading"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -3011,12 +3016,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RCNETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4774,49 +4773,49 @@
       {
         "s": "GOCIO:BTCRUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "GOCIO:LTCBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "GOCIO:LTCRUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GOCIO:LTCUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "HITBTC:MGOBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HITBTC:MGOUSD",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HITBTC:VERIBTC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "HITBTC:VERIUSD",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HUOBI:18CBTC",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -5056,7 +5055,7 @@
       {
         "s": "ITBIT:BTCUSD",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {

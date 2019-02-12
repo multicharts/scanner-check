@@ -1,3 +1,688 @@
 {
-    "black_list": null
+    "black_list": [
+      {
+        "s": "ASX:XJO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BCBA:IMV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BME:IBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BSE:SENSEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FTSEMYX:FBMKLCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MIL:FTSEMIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:AU200AUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:HK33HKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SUGARUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:OMXC25",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXTSE:OMXTGI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SIX:SMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SP:SPX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TSX:TSX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:AU01Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:AU02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:AU03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:AU05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:AU10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:BE03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:BE05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:BE15Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:BE20",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA01Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA03M",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA03Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA06M",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA06MY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CA30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CAC40",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CN02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:CN15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DE02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DE02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DK03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DK05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DK05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DK10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DK10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:DXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ES03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ES05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ES20Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ES30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:EUBUND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:EXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR20Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR50",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FR50Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:FTMIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GB02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GB02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GB10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GB25",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GB50",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GR10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:GR25",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:HK05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:HK15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:HSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID01Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ID20Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IE03Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IE15Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IN02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IN05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IN05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IN10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:IT10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JP30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:JXY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:KR30",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY03Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY05Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY15Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:MY30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NI225",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NL03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NL05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NL15Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NZ05",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:NZ10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:OSX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:PL02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:PT02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SE02",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SE02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SE10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SG02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SG15",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SG30Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SSMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:STI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:SX5E",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TH10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TR01",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TR03",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TR10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:TW02Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US01",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US01Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US03Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:US10Y",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TVC:ZA03",
+        "f": [
+          "empty symbol"
+        ]
+      }
+    ]
   }

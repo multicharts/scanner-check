@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BMV:ACA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BMV:AMX/AA",
         "f": [
           "empty symbol"
@@ -31,12 +37,6 @@
         ]
       },
       {
-        "s": "BMV:BMI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BMV:CBOE",
         "f": [
           "equal bars"
@@ -55,39 +55,9 @@
         ]
       },
       {
-        "s": "BMV:COSTAIN/N",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:CWCO/N",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:CWT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BMV:ECL",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "BMV:ERII",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:FBHS",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -97,33 +67,9 @@
         ]
       },
       {
-        "s": "BMV:FELE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:FERG/N",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BMV:FIBRAUP/18",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "BMV:FLOW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BMV:FLS",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -224,6 +170,12 @@
       },
       {
         "s": "BMV:MUX",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BMV:PAMP/N",
         "f": [
           "equal bars"
         ]

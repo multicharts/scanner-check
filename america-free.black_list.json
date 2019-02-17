@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:FFR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -409,12 +403,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CYAN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:DDOC",
         "f": [
           "empty symbol"
@@ -596,6 +584,12 @@
       },
       {
         "s": "NASDAQ:RPIBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TEDU",
         "f": [
           "empty symbol"
         ]
@@ -1903,6 +1897,12 @@
         ]
       },
       {
+        "s": "NYSE:DIAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:FGP",
         "f": [
           "empty symbol"
@@ -1921,6 +1921,18 @@
         ]
       },
       {
+        "s": "NYSE:GRUB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:HIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:IPOA",
         "f": [
           "empty symbol"
@@ -1934,6 +1946,12 @@
       },
       {
         "s": "NYSE:IPSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:JEF",
         "f": [
           "empty symbol"
         ]
@@ -2167,12 +2185,6 @@
         ]
       },
       {
-        "s": "OTC:FNNZF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:FOSI",
         "f": [
           "no longer trading"
@@ -2386,12 +2398,6 @@
         "s": "OTC:MHGUP",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:MITJF",
-        "f": [
-          "empty symbol"
         ]
       },
       {

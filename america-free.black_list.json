@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:FFR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -554,12 +560,6 @@
       },
       {
         "s": "NASDAQ:MOGLC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:NYMTP",
         "f": [
           "empty symbol"
         ]
@@ -1981,6 +1981,12 @@
         ]
       },
       {
+        "s": "OTC:AERO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:ALTPF",
         "f": [
           "no longer trading"
@@ -2158,6 +2164,12 @@
         "s": "OTC:FNAM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FNNZF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2374,6 +2386,12 @@
         "s": "OTC:MHGUP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MITJF",
+        "f": [
+          "empty symbol"
         ]
       },
       {

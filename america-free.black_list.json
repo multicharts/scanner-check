@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:FGD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -367,12 +373,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CBLI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:CBUS",
         "f": [
           "empty symbol"
@@ -404,12 +404,6 @@
       },
       {
         "s": "NASDAQ:CRUSC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:CTSO",
         "f": [
           "empty symbol"
         ]
@@ -458,12 +452,6 @@
       },
       {
         "s": "NASDAQ:EVSTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:FMBI",
         "f": [
           "empty symbol"
         ]
@@ -1904,12 +1892,6 @@
       },
       {
         "s": "NYMEX:UXZ2023",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:APTS",
         "f": [
           "empty symbol"
         ]

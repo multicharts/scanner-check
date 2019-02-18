@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:FGD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -385,6 +379,18 @@
         ]
       },
       {
+        "s": "NASDAQ:CHKE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CIGI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CIVBP",
         "f": [
           "no longer trading"
@@ -417,7 +423,7 @@
       {
         "s": "NASDAQ:DGICB",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -464,6 +470,12 @@
       },
       {
         "s": "NASDAQ:GRBIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:HDS",
         "f": [
           "empty symbol"
         ]
@@ -535,13 +547,13 @@
         ]
       },
       {
-        "s": "NASDAQ:LMST",
+        "s": "NASDAQ:LMRKO",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:MBWM",
+        "s": "NASDAQ:LMST",
         "f": [
           "empty symbol"
         ]
@@ -589,7 +601,7 @@
         ]
       },
       {
-        "s": "NASDAQ:PUB",
+        "s": "NASDAQ:RNLC",
         "f": [
           "empty symbol"
         ]
@@ -601,15 +613,15 @@
         ]
       },
       {
-        "s": "NASDAQ:TDACU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:TOTAU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:VRSK",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1903,7 +1915,19 @@
         ]
       },
       {
+        "s": "NYSE:BRO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:CAI/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DOOR",
         "f": [
           "empty symbol"
         ]
@@ -2038,6 +2062,12 @@
         "s": "OTC:CHNUF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:CLSK",
+        "f": [
+          "empty symbol"
         ]
       },
       {

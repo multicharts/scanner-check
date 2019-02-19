@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:DBEM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -19,6 +25,18 @@
         ]
       },
       {
+        "s": "AMEX:IHYV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:JPED",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:OSIZ",
         "f": [
           "no longer trading"
@@ -28,6 +46,12 @@
         "s": "AMEX:PQSG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:VCF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -55,7 +79,7 @@
         ]
       },
       {
-        "s": "CBOT:ZON2021",
+        "s": "CBOT:ZN1!",
         "f": [
           "empty symbol"
         ]
@@ -373,7 +397,7 @@
         ]
       },
       {
-        "s": "NASDAQ:AIRG",
+        "s": "NASDAQ:ARGX",
         "f": [
           "empty symbol"
         ]
@@ -439,6 +463,12 @@
         ]
       },
       {
+        "s": "NASDAQ:DAVE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:DDOC",
         "f": [
           "empty symbol"
@@ -487,12 +517,6 @@
         ]
       },
       {
-        "s": "NASDAQ:FCCY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:FKO",
         "f": [
           "no longer trading"
@@ -500,6 +524,12 @@
       },
       {
         "s": "NASDAQ:FOANC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FOLD",
         "f": [
           "empty symbol"
         ]
@@ -539,12 +569,6 @@
         "f": [
           "empty symbol",
           "test symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:IRDM",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -608,6 +632,12 @@
         ]
       },
       {
+        "s": "NASDAQ:MCRB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:MMDMU",
         "f": [
           "no longer trading"
@@ -615,12 +645,6 @@
       },
       {
         "s": "NASDAQ:MOGLC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:MTBCP",
         "f": [
           "empty symbol"
         ]
@@ -674,6 +698,12 @@
         ]
       },
       {
+        "s": "NASDAQ:SMTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:SOHOL",
         "f": [
           "empty symbol",
@@ -696,12 +726,6 @@
         "s": "NASDAQ:TOTAU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:TRST",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2071,6 +2095,12 @@
         "s": "NYSE:RH",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "NYSE:STN",
+        "f": [
+          "empty symbol"
         ]
       },
       {

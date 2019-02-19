@@ -1,19 +1,55 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AGGP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:ARKW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:DJD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:DRV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:DZK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:EQWS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:FDVV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "AMEX:FLQL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:FLSA",
+        "s": "AMEX:FLMI",
         "f": [
           "empty symbol"
         ]
@@ -31,6 +67,54 @@
         ]
       },
       {
+        "s": "AMEX:IAGG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:JHEM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:JPEM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:JPLS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:MICR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:MNI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:MOC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:MUNI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:OSIZ",
         "f": [
           "no longer trading"
@@ -40,6 +124,18 @@
         "s": "AMEX:PQSG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:UUU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:VBND",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -67,13 +163,43 @@
         ]
       },
       {
-        "s": "CBOT:ZMK2020",
+        "s": "CBOT:ZCN2019",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "CBOT_MINI:XNZ2020",
+        "s": "CBOT:ZKJ2021",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZKK2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZKM2021",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZKN2021",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZMV2019",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT_MINI:XNH2019",
         "f": [
           "empty symbol"
         ]
@@ -148,6 +274,12 @@
         "s": "CME:I9X2022",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "CME:NYZ2020",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -385,19 +517,73 @@
         ]
       },
       {
+        "s": "NASDAQ:AAXN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ABP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:ACER",
+        "s": "NASDAQ:ACOR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:AKCA",
+        "s": "NASDAQ:ADRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ADXS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AMCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AMTB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ANIK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:APPS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ARYA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ATEC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AVDR",
         "f": [
           "empty symbol"
         ]
@@ -409,7 +595,31 @@
         ]
       },
       {
+        "s": "NASDAQ:BELFA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BELFB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:BFL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BIS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BKEPP",
         "f": [
           "empty symbol"
         ]
@@ -421,7 +631,31 @@
         ]
       },
       {
+        "s": "NASDAQ:CAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CBUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CELH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CEMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CFFI",
         "f": [
           "empty symbol"
         ]
@@ -433,7 +667,31 @@
         ]
       },
       {
+        "s": "NASDAQ:CHKP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CHMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CHUY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CIVEC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CLRB",
         "f": [
           "empty symbol"
         ]
@@ -445,13 +703,43 @@
         ]
       },
       {
-        "s": "NASDAQ:CNET",
+        "s": "NASDAQ:CRUSC",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:CRUSC",
+        "s": "NASDAQ:CSCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CSGS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CSML",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CYAN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:DCOM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:DDBI",
         "f": [
           "empty symbol"
         ]
@@ -475,7 +763,49 @@
         ]
       },
       {
+        "s": "NASDAQ:DJCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:DNLI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:DWAS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:EBAY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:EHR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:EMB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ESEA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ESQ",
         "f": [
           "empty symbol"
         ]
@@ -499,13 +829,43 @@
         ]
       },
       {
+        "s": "NASDAQ:EVLV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:EVOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:EVSTC",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:EXTR",
+        "s": "NASDAQ:FBNC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FBZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FIXX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FJP",
         "f": [
           "empty symbol"
         ]
@@ -513,11 +873,35 @@
       {
         "s": "NASDAQ:FKO",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FMB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:FOANC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FOX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FSLR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FUV",
         "f": [
           "empty symbol"
         ]
@@ -529,13 +913,25 @@
         ]
       },
       {
+        "s": "NASDAQ:GRTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:GSUM",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:HBANN",
+        "s": "NASDAQ:GTXI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:GWRS",
         "f": [
           "empty symbol"
         ]
@@ -547,13 +943,37 @@
         ]
       },
       {
-        "s": "NASDAQ:HNRG",
+        "s": "NASDAQ:HOFT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:HUNTU",
         "f": [
           "empty symbol"
         ]
       },
       {
         "s": "NASDAQ:IBEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBOC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ICCC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IIJI",
         "f": [
           "empty symbol"
         ]
@@ -572,6 +992,18 @@
         ]
       },
       {
+        "s": "NASDAQ:IONS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ISCA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ISDS",
         "f": [
           "no longer trading"
@@ -580,7 +1012,7 @@
       {
         "s": "NASDAQ:ISDX",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -602,6 +1034,18 @@
         ]
       },
       {
+        "s": "NASDAQ:JAKK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:JSML",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:JSYN",
         "f": [
           "no longer trading"
@@ -611,6 +1055,30 @@
         "s": "NASDAQ:JSYNU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:LAWS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:LFACU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:LHCG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:LILA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -626,13 +1094,43 @@
         ]
       },
       {
+        "s": "NASDAQ:LSTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:LSXMB",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "NASDAQ:MBSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:MBTF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:MCFT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:MELI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:MLNT",
         "f": [
           "empty symbol"
         ]
@@ -644,7 +1142,25 @@
         ]
       },
       {
+        "s": "NASDAQ:MNKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:MOGLC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:MVIS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:MYND",
         "f": [
           "empty symbol"
         ]
@@ -656,13 +1172,115 @@
         ]
       },
       {
+        "s": "NASDAQ:NBTB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NEOG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NMRD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NSIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NSTG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NUVA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NVUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NWS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NXEOU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NYMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:NYMX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OBNK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:OKDCC",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NASDAQ:PCTY",
+        "s": "NASDAQ:OMEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OSMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OSTK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OTTR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OXLCO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:OZK",
         "f": [
           "empty symbol"
         ]
@@ -674,9 +1292,33 @@
         ]
       },
       {
+        "s": "NASDAQ:PI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:PICO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:PLUG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:PMOM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:PNQI",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -698,6 +1340,36 @@
         ]
       },
       {
+        "s": "NASDAQ:QIWI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RCMT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RILYL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RIVE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RNLC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ROSEU",
         "f": [
           "no longer trading"
@@ -705,6 +1377,42 @@
       },
       {
         "s": "NASDAQ:RPIBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RTRX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RYAAY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SAFM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SCHL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SLP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SMBK",
         "f": [
           "empty symbol"
         ]
@@ -723,7 +1431,61 @@
         ]
       },
       {
-        "s": "NASDAQ:SUSB",
+        "s": "NASDAQ:SQBG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SRCE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SWIR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TAIT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TBIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TCBK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TISA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TITN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TMUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TORC",
         "f": [
           "empty symbol"
         ]
@@ -735,13 +1497,79 @@
         ]
       },
       {
+        "s": "NASDAQ:TRIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TRMK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TUES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:TYPE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:UNTY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:URGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:USAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:USCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:VTUS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NASDAQ:WBA",
+        "s": "NASDAQ:WAFD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:WING",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:WVFC",
         "f": [
           "empty symbol"
         ]
@@ -757,6 +1585,24 @@
         "f": [
           "empty symbol",
           "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ZBRA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ZEUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:ZNGA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2032,7 +2878,25 @@
         ]
       },
       {
-        "s": "NYSE:ATGE",
+        "s": "NYSE:AB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ABB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ABG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:BBT/PG",
         "f": [
           "empty symbol"
         ]
@@ -2044,13 +2908,25 @@
         ]
       },
       {
+        "s": "NYSE:BFK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:BIT",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NYSE:BMA",
+        "s": "NYSE:C",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CAE",
         "f": [
           "empty symbol"
         ]
@@ -2062,7 +2938,91 @@
         ]
       },
       {
-        "s": "NYSE:FAF",
+        "s": "NYSE:CBZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CCK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CCS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CLNY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CLNY/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CLNY/PJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CWEN.A",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DQ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:DX/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ECOM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:EMO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:EMR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:EXP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:FEO",
         "f": [
           "empty symbol"
         ]
@@ -2074,7 +3034,19 @@
         ]
       },
       {
-        "s": "NYSE:GATX",
+        "s": "NYSE:FTV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GAB/PG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GEL",
         "f": [
           "empty symbol"
         ]
@@ -2086,13 +3058,37 @@
         ]
       },
       {
-        "s": "NYSE:HP",
+        "s": "NYSE:GHL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NYSE:HSY",
+        "s": "NYSE:GLOP/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GOOS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GSAH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GYB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:INSI",
         "f": [
           "empty symbol"
         ]
@@ -2116,6 +3112,30 @@
         ]
       },
       {
+        "s": "NYSE:IVR/PA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:JAG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:JMPB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:JOE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:MTB/PC",
         "f": [
           "no longer trading"
@@ -2134,13 +3154,61 @@
         ]
       },
       {
-        "s": "NYSE:STAR/PG",
+        "s": "NYSE:SAN",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NYSE:TG",
+        "s": "NYSE:SHOP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:SITC/PK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:SMTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:STE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:STZ.B",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:TNP/PF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:TREX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:TTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:UBP/PH",
         "f": [
           "empty symbol"
         ]
@@ -2152,7 +3220,19 @@
         ]
       },
       {
-        "s": "NYSE:USX",
+        "s": "NYSE:VSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:WF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:ZYME",
         "f": [
           "empty symbol"
         ]
@@ -2263,6 +3343,12 @@
         "s": "OTC:CTXXF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:CYBXF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2506,6 +3592,12 @@
         ]
       },
       {
+        "s": "OTC:LBUY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:LOGQ",
         "f": [
           "no longer trading"
@@ -2538,7 +3630,7 @@
       {
         "s": "OTC:MCCX",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -2692,6 +3784,12 @@
         ]
       },
       {
+        "s": "OTC:RGSE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:RTGGF",
         "f": [
           "empty symbol"
@@ -2749,12 +3847,6 @@
         "s": "OTC:STWRY",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:SURG",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2869,6 +3961,12 @@
         "s": "OTC:YEWB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ZIVO",
+        "f": [
+          "empty symbol"
         ]
       },
       {

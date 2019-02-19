@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:DBKO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -367,6 +373,12 @@
         ]
       },
       {
+        "s": "NASDAQ:BASI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:BCACU",
         "f": [
           "no longer trading"
@@ -397,12 +409,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CHUY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:CIVBP",
         "f": [
           "no longer trading"
@@ -422,12 +428,6 @@
       },
       {
         "s": "NASDAQ:CRUSC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:CSSE",
         "f": [
           "empty symbol"
         ]
@@ -596,12 +596,6 @@
         ]
       },
       {
-        "s": "NASDAQ:PAVM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:PETZC",
         "f": [
           "no longer trading"
@@ -621,6 +615,18 @@
       },
       {
         "s": "NASDAQ:RPIBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RRR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:SLP",
         "f": [
           "empty symbol"
         ]
@@ -648,6 +654,12 @@
         "s": "NASDAQ:VTUS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:XERS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1954,6 +1966,18 @@
         ]
       },
       {
+        "s": "NYSE:EL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:EPC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:FGP",
         "f": [
           "empty symbol"
@@ -2002,13 +2026,13 @@
         ]
       },
       {
-        "s": "NYSE:USB/PP",
+        "s": "NYSE:TPZ",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NYSE:WM",
+        "s": "NYSE:USB/PP",
         "f": [
           "empty symbol"
         ]
@@ -2479,6 +2503,12 @@
         "s": "OTC:NHYKF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:NIDB",
+        "f": [
+          "empty symbol"
         ]
       },
       {

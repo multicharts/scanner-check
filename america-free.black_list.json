@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AGGP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:FLIA",
         "f": [
           "no longer trading"
@@ -367,7 +373,7 @@
         ]
       },
       {
-        "s": "NASDAQ:ABTX",
+        "s": "NASDAQ:ARRY",
         "f": [
           "empty symbol"
         ]
@@ -391,13 +397,31 @@
         ]
       },
       {
+        "s": "NASDAQ:CARA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CBUS",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "NASDAQ:CFMS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CGVIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CHUY",
         "f": [
           "empty symbol"
         ]
@@ -422,6 +446,12 @@
       },
       {
         "s": "NASDAQ:CRUSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:DDBI",
         "f": [
           "empty symbol"
         ]
@@ -475,6 +505,12 @@
         ]
       },
       {
+        "s": "NASDAQ:EZPW",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:FKO",
         "f": [
           "no longer trading"
@@ -482,6 +518,12 @@
       },
       {
         "s": "NASDAQ:FOANC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:GFN",
         "f": [
           "empty symbol"
         ]
@@ -500,12 +542,6 @@
       },
       {
         "s": "NASDAQ:HFGIC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:HYAC",
         "f": [
           "empty symbol"
         ]
@@ -645,15 +681,21 @@
         ]
       },
       {
-        "s": "NASDAQ:TUSA",
+        "s": "NASDAQ:VEACU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:VRNA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:VEACU",
+        "s": "NASDAQ:VRTU",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -2020,6 +2062,24 @@
         ]
       },
       {
+        "s": "NYSE:STAG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:STAR/PD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:SXI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:USB/PP",
         "f": [
           "empty symbol"
@@ -2569,12 +2629,6 @@
         "s": "OTC:PVNC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:QPAG",
-        "f": [
-          "empty symbol"
         ]
       },
       {

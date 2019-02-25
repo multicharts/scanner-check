@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:EVJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:GGO/PA",
         "f": [
           "no longer trading"
@@ -1909,6 +1915,12 @@
         ]
       },
       {
+        "s": "NYSE:MSF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:MTB/P",
         "f": [
           "no longer trading"
@@ -1918,6 +1930,12 @@
         "s": "NYSE:MTB/PC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:PSA/PY",
+        "f": [
+          "empty symbol"
         ]
       },
       {

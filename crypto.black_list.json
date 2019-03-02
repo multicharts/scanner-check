@@ -773,6 +773,12 @@
         ]
       },
       {
+        "s": "BITFINEX:CNDETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:CNDETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2496,7 +2502,8 @@
       {
         "s": "BITFINEX:NEOGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4804,19 +4811,25 @@
       {
         "s": "GOCIO:BTCRUR",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "GOCIO:LTCBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "GOCIO:LTCRUR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "GOCIO:LTCUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

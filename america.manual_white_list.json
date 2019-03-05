@@ -18,6 +18,13 @@
                 "Perf.3M >= THREE_MONTH_CHANGE_LIMIT",
                 "change|1W >= WEEKLY_CHANGE_LIMIT"
             ]
+        },
+        {
+            "s": "NASDAQ:AAPL1",
+            "f": [
+                "Perf.3M >= THREE_MONTH_CHANGE_LIMIT",
+                "change|1W >= WEEKLY_CHANGE_LIMIT"
+            ]
         }
     ]
 }

@@ -1,16 +1,23 @@
 {
-  "black_list": [
-    {
-      "s": "NASDAQ:BLNK",
-      "f": [
-         "change|1W >= WEEKLY_CHANGE_LIMIT"
-       ]
-    },
-    {
-      "s": "NASDAQ:NAKD",
-      "f": [
-         "change|1W >= WEEKLY_CHANGE_LIMIT"
-       ]
-    }
-  ]
+    "black_list": [
+        {
+            "s": "NASDAQ:BLNK",
+            "f": [
+                "change|1W >= WEEKLY_CHANGE_LIMIT"
+            ]
+        },
+        {
+            "s": "NASDAQ:NAKD",
+            "f": [
+                "change|1W >= WEEKLY_CHANGE_LIMIT"
+            ]
+        },
+        {
+            "s": "NASDAQ:AAPL",
+            "f": [
+                "Perf.3M >= THREE_MONTH_CHANGE_LIMIT",
+                "change|1W >= WEEKLY_CHANGE_LIMIT"
+            ]
+        }
+    ]
 }

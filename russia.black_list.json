@@ -1,39 +1,21 @@
 {
     "black_list": [
       {
-        "s": "MOEX:AFKS",
+        "s": "MOEX:AVAZ",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:BSPB",
+        "s": "MOEX:AVAZP",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:CHMK",
+        "s": "MOEX:BISV",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:CLSBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:CNTL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:CNTLP",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -43,45 +25,27 @@
         ]
       },
       {
-        "s": "MOEX:ELTZ",
+        "s": "MOEX:GAZC",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:ENRU",
+        "s": "MOEX:GAZS",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:FXIT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:FXUS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:GAZAP",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "MOEX:GAZT",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "MOEX:GTPR",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -91,15 +55,15 @@
         ]
       },
       {
-        "s": "MOEX:HALS",
+        "s": "MOEX:HIMC",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:HIMCP",
+        "s": "MOEX:IDVP",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -110,13 +74,13 @@
         ]
       },
       {
-        "s": "MOEX:KSGR",
+        "s": "MOEX:KRKO",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:KUBE",
+        "s": "MOEX:KSGR",
         "f": [
           "empty symbol"
         ]
@@ -134,15 +98,9 @@
         ]
       },
       {
-        "s": "MOEX:LNZLP",
+        "s": "MOEX:MERF",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:MAGE",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -152,33 +110,9 @@
         ]
       },
       {
-        "s": "MOEX:MOEX",
+        "s": "MOEX:MORI",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:MOEX10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:MOEXOG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:NNSB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:NNSBP",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -188,93 +122,22 @@
         ]
       },
       {
-        "s": "MOEX:PMSBP",
+        "s": "MOEX:RDRB",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:POLY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:PRMB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:QIWI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:ROSB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:ROST",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:RTKMP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:RTSB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:RTSCH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:RTSMM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:RVI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:SAREP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:SELGP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:SIBN",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
         "s": "MOEX:TANLP",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "price null"
+        ]
+      },
+      {
+        "s": "MOEX:TGKO",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -284,27 +147,15 @@
         ]
       },
       {
-        "s": "MOEX:TTLK",
+        "s": "MOEX:UTSY",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
-        "s": "MOEX:TUCH",
+        "s": "MOEX:VTRS",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:UNKL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:VTBR",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       }
     ]

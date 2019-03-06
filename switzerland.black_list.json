@@ -1,13 +1,43 @@
 {
     "black_list": [
       {
+        "s": "SIX:ADJ",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:AIG.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:AMGN.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:AMS",
         "f": [
           "test symbol"
         ]
       },
       {
+        "s": "SIX:AXP.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:BAP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:BAX",
         "f": [
           "equal bars"
         ]
@@ -22,6 +52,54 @@
         "s": "SIX:BPOST",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:BYW6",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:CAS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:CNC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:COMPG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:CWC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:DB1.EUR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:DEZ",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:DIC",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -61,7 +139,25 @@
         ]
       },
       {
+        "s": "SIX:GIL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:GLX",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:HAB",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:HHFA",
         "f": [
           "equal bars"
         ]
@@ -70,6 +166,24 @@
         "s": "SIX:IBM",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:INH",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:INTC.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:KRN",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -82,6 +196,18 @@
         "s": "SIX:MLP",
         "f": [
           "test symbol"
+        ]
+      },
+      {
+        "s": "SIX:MS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:NCM",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -103,7 +229,49 @@
         ]
       },
       {
+        "s": "SIX:ORCL.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:P1Z",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:PFV",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:POM",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:PYPL.USD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:RAA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:RHK",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:RKET",
         "f": [
           "equal bars"
         ]
@@ -121,6 +289,30 @@
         ]
       },
       {
+        "s": "SIX:SAX",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:SBS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:SDF.EUR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:SFQ",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:SGSNE",
         "f": [
           "no longer trading"
@@ -133,7 +325,37 @@
         ]
       },
       {
+        "s": "SIX:TLX",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:TRIP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:TTK",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:UBSGE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:UPS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SIX:UTX.USD",
         "f": [
           "equal bars"
         ]
@@ -145,14 +367,27 @@
         ]
       },
       {
+        "s": "SIX:VOS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:VW",
         "f": [
           "test symbol"
         ]
       },
       {
+        "s": "SIX:WPL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SIX:YELP",
         "f": [
+          "equal bars",
           "test symbol"
         ]
       }

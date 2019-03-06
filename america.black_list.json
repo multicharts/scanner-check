@@ -101,7 +101,7 @@
       {
         "s": "AMEX:BCS/PD",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -124,6 +124,12 @@
         "f": [
           "no longer trading",
           "test symbol"
+        ]
+      },
+      {
+        "s": "AMEX:BRGL",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -211,20 +217,7 @@
         ]
       },
       {
-        "s": "AMEX:CRAK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:CVG",
-        "f": [
-          "no longer trading",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:CVRR",
         "f": [
           "no longer trading",
           "test symbol"
@@ -253,13 +246,6 @@
       },
       {
         "s": "AMEX:DM",
-        "f": [
-          "no longer trading",
-          "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:DNB",
         "f": [
           "no longer trading",
           "test symbol"
@@ -343,18 +329,6 @@
         ]
       },
       {
-        "s": "AMEX:FPE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:GBF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:GEK.CL",
         "f": [
           "no longer trading",
@@ -423,9 +397,9 @@
         ]
       },
       {
-        "s": "AMEX:IBMJ",
+        "s": "AMEX:HTAB",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -468,12 +442,6 @@
         "f": [
           "no longer trading",
           "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:LGOV",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -587,21 +555,9 @@
         ]
       },
       {
-        "s": "AMEX:PPLT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PQIN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:RAAX",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -633,18 +589,6 @@
         ]
       },
       {
-        "s": "AMEX:SDI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:SDY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:SEP",
         "f": [
           "no longer trading",
@@ -659,27 +603,9 @@
         ]
       },
       {
-        "s": "AMEX:SLV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:SPHD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:SPTS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:STO",
         "f": [
-          "empty symbol",
+          "no longer trading",
           "test symbol"
         ]
       },
@@ -695,12 +621,6 @@
         "f": [
           "no longer trading",
           "test symbol"
-        ]
-      },
-      {
-        "s": "AMEX:UFAB",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -724,13 +644,6 @@
         ]
       },
       {
-        "s": "AMEX:VVC",
-        "f": [
-          "no longer trading",
-          "test symbol"
-        ]
-      },
-      {
         "s": "AMEX:WFC/PJ",
         "f": [
           "no longer trading",
@@ -745,9 +658,9 @@
         ]
       },
       {
-        "s": "CBOT:ZKH2022",
+        "s": "CME:DLN2020",
         "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -811,6 +724,12 @@
         ]
       },
       {
+        "s": "CME:I9K2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "CME:I9X2021",
         "f": [
           "equal bars"
@@ -818,6 +737,12 @@
       },
       {
         "s": "CME:I9X2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "CME:I9X2023",
         "f": [
           "equal bars"
         ]
@@ -832,6 +757,12 @@
         "s": "COMEX:AEPZ2021",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPF2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -853,6 +784,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPG2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPG2022",
         "f": [
           "empty symbol"
@@ -871,6 +808,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPH2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPH2022",
         "f": [
           "empty symbol"
@@ -880,6 +823,12 @@
         "s": "COMEX:AUPH2023",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPJ2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -895,6 +844,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPK2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPK2022",
         "f": [
           "empty symbol"
@@ -904,6 +859,12 @@
         "s": "COMEX:AUPK2023",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPM2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -919,6 +880,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPN2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPN2022",
         "f": [
           "empty symbol"
@@ -928,6 +895,12 @@
         "s": "COMEX:AUPN2023",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPQ2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -943,6 +916,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPU2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPU2022",
         "f": [
           "empty symbol"
@@ -952,6 +931,12 @@
         "s": "COMEX:AUPU2023",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPV2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -967,6 +952,12 @@
         ]
       },
       {
+        "s": "COMEX:AUPX2021",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:AUPX2022",
         "f": [
           "empty symbol"
@@ -976,6 +967,12 @@
         "s": "COMEX:AUPX2023",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:AUPZ2021",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -1057,9 +1054,10 @@
         ]
       },
       {
-        "s": "NASDAQ:AERI",
+        "s": "NASDAQ:AHGP",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1069,51 +1067,15 @@
         ]
       },
       {
-        "s": "NASDAQ:AMCX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:APVO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:AQXP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:AREX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:AYTU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:BFL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NASDAQ:BLIN",
+        "s": "NASDAQ:BRACU",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:BRKS",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1123,19 +1085,21 @@
         ]
       },
       {
+        "s": "NASDAQ:BWINB",
+        "f": [
+          "no longer trading",
+          "test symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CAFD",
+        "f": [
+          "no longer trading",
+          "test symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CBUS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:CCRN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:CEY",
         "f": [
           "empty symbol"
         ]
@@ -1171,18 +1135,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CSQ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:DBX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:DDOC",
         "f": [
           "empty symbol"
@@ -1190,12 +1142,6 @@
       },
       {
         "s": "NASDAQ:EHR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:ESTR",
         "f": [
           "empty symbol"
         ]
@@ -1219,51 +1165,51 @@
         ]
       },
       {
-        "s": "NASDAQ:FDEF",
+        "s": "NASDAQ:EVSTC",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "NASDAQ:FORM",
+        "s": "NASDAQ:FBNK",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:GBCI",
+        "s": "NASDAQ:FFKT",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:GBDC",
+        "s": "NASDAQ:FINL",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:GPAQU",
+        "s": "NASDAQ:FTRPR",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:GRVY",
+        "s": "NASDAQ:GBNK",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:GSUM",
+        "s": "NASDAQ:GNBC",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:HAYN",
-        "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1274,18 +1220,6 @@
       },
       {
         "s": "NASDAQ:IBEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:INSG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:IPGP",
         "f": [
           "empty symbol"
         ]
@@ -1321,12 +1255,6 @@
         ]
       },
       {
-        "s": "NASDAQ:JBHT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:JSYN",
         "f": [
           "no longer trading"
@@ -1339,39 +1267,9 @@
         ]
       },
       {
-        "s": "NASDAQ:JYNT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:KELYB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:LENS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:LEXEB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:LQDA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:LWAY",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1381,27 +1279,24 @@
         ]
       },
       {
-        "s": "NASDAQ:MOGLC",
+        "s": "NASDAQ:MPCT",
         "f": [
-          "no longer trading"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:NCOM",
+        "s": "NASDAQ:MTGE",
         "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
-        "s": "NASDAQ:NEBU",
+        "s": "NASDAQ:MTGEP",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:NWLI",
-        "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1411,49 +1306,7 @@
         ]
       },
       {
-        "s": "NASDAQ:ORPN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:PKOH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:PRTHU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:PTLA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:QDEL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:ROIC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:ROST",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:RPIBC",
         "f": [
           "no longer trading"
         ]
@@ -1465,9 +1318,23 @@
         ]
       },
       {
+        "s": "NASDAQ:SBRAP",
+        "f": [
+          "no longer trading",
+          "test symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:SENEB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:SHPG",
+        "f": [
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1483,45 +1350,23 @@
         ]
       },
       {
-        "s": "NASDAQ:TTNP",
+        "s": "NASDAQ:UCBA",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:TZAC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:USLB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:VIRC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:VNOM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:VTHR",
-        "f": [
-          "empty symbol"
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
         "s": "NASDAQ:VTUS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:WSCI",
+        "f": [
+          "no longer trading",
+          "test symbol"
         ]
       },
       {
@@ -1538,6 +1383,12 @@
       },
       {
         "s": "NYMEX:CJH2019",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYMEX:CLH2019",
         "f": [
           "no longer trading"
         ]
@@ -2311,6 +2162,18 @@
         ]
       },
       {
+        "s": "NYMEX:KT1!",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYMEX:KTH2019",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYMEX:TIC1!",
         "f": [
           "no longer trading"
@@ -2803,15 +2666,9 @@
         ]
       },
       {
-        "s": "NYMEX_MINI:QGV2020",
+        "s": "NYMEX_MINI:QGF2024",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ACH",
-        "f": [
-          "empty symbol"
+          "equal bars"
         ]
       },
       {
@@ -2821,127 +2678,7 @@
         ]
       },
       {
-        "s": "NYSE:ASH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ASPN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ASX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:CRY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:EIX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:EOG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ETO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:EVR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:FMC/I",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:FPH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:GKOS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:GS/PA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:H",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:HRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:HUN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:INGR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:IPI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:IPSC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:JCI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:MPA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:MRK",
         "f": [
           "empty symbol"
         ]
@@ -2965,25 +2702,7 @@
         ]
       },
       {
-        "s": "NYSE:PE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:PEI/PB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:RA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:RENN",
+        "s": "NYSE:NFC.U",
         "f": [
           "empty symbol"
         ]
@@ -2995,37 +2714,7 @@
         ]
       },
       {
-        "s": "NYSE:RNR/PC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:RS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:TAP.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:ZNH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:ABNAF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:ABVC",
         "f": [
           "no longer trading"
         ]
@@ -3049,12 +2738,6 @@
         ]
       },
       {
-        "s": "OTC:AKBTY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:AKOM",
         "f": [
           "no longer trading"
@@ -3073,13 +2756,13 @@
         ]
       },
       {
-        "s": "OTC:AMTY",
+        "s": "OTC:ANPCY",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OTC:ANPCY",
+        "s": "OTC:ARTNB",
         "f": [
           "no longer trading"
         ]
@@ -3092,12 +2775,6 @@
       },
       {
         "s": "OTC:ASCMB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ASFT",
         "f": [
           "no longer trading"
         ]
@@ -3121,12 +2798,6 @@
         ]
       },
       {
-        "s": "OTC:BOXS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:CAMZF",
         "f": [
           "no longer trading"
@@ -3141,13 +2812,7 @@
       {
         "s": "OTC:CHGH",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:CLDB",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3164,12 +2829,6 @@
       },
       {
         "s": "OTC:CNIGP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:COSO",
         "f": [
           "no longer trading"
         ]
@@ -3205,9 +2864,9 @@
         ]
       },
       {
-        "s": "OTC:DMKBB",
+        "s": "OTC:DGJI",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3241,31 +2900,7 @@
         ]
       },
       {
-        "s": "OTC:EQUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:EWCLF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:EXEO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:EZCL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FCIC",
         "f": [
           "no longer trading"
         ]
@@ -3289,7 +2924,7 @@
         ]
       },
       {
-        "s": "OTC:FFTTF",
+        "s": "OTC:FGNV",
         "f": [
           "no longer trading"
         ]
@@ -3302,18 +2937,6 @@
       },
       {
         "s": "OTC:FNAM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FNMAO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:FNNGF",
         "f": [
           "no longer trading"
         ]
@@ -3333,19 +2956,13 @@
       {
         "s": "OTC:FRTG",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "OTC:FSNT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FTMR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3361,25 +2978,19 @@
         ]
       },
       {
-        "s": "OTC:GFNL",
+        "s": "OTC:GRLVF",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OTC:GPVRF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:GRLVF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:GRRBP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:GTVI",
         "f": [
           "no longer trading"
         ]
@@ -3391,45 +3002,15 @@
         ]
       },
       {
-        "s": "OTC:GXXM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:HCCC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:HLAN",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:HMTXF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:HOILF",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "OTC:HQDA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:HSSHF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3466,12 +3047,6 @@
         "s": "OTC:IMGL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:IMII",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3529,9 +3104,9 @@
         ]
       },
       {
-        "s": "OTC:LIVC",
+        "s": "OTC:LBSI",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3595,6 +3170,12 @@
         ]
       },
       {
+        "s": "OTC:NTOX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:NUZE",
         "f": [
           "no longer trading"
@@ -3602,12 +3183,6 @@
       },
       {
         "s": "OTC:NVMMP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ORONF",
         "f": [
           "no longer trading"
         ]
@@ -3691,12 +3266,6 @@
         ]
       },
       {
-        "s": "OTC:SNAVF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:SOCGM",
         "f": [
           "no longer trading"
@@ -3712,12 +3281,6 @@
         "s": "OTC:STCB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:STMGF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3757,6 +3320,12 @@
         ]
       },
       {
+        "s": "OTC:TIMGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:TKGBF",
         "f": [
           "no longer trading"
@@ -3769,24 +3338,6 @@
         ]
       },
       {
-        "s": "OTC:TWRFF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:UBNC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:UCBB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:ULTXF",
         "f": [
           "no longer trading"
@@ -3794,12 +3345,6 @@
       },
       {
         "s": "OTC:VCOR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:VEII",
         "f": [
           "no longer trading"
         ]
@@ -3844,12 +3389,6 @@
         "s": "OTC:YEWB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:YNVYF",
-        "f": [
-          "empty symbol"
         ]
       },
       {

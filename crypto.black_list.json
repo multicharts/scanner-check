@@ -247,12 +247,6 @@
         ]
       },
       {
-        "s": "BITFINEX:ATMETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:ATMETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -428,6 +422,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:BBNETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -671,6 +671,26 @@
         ]
       },
       {
+        "s": "BITFINEX:BTCUST",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:BTCUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:BTCUSTSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:BTGBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -737,12 +757,6 @@
         ]
       },
       {
-        "s": "BITFINEX:CBTETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:CBTETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -782,12 +796,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CNDETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -847,6 +855,12 @@
         ]
       },
       {
+        "s": "BITFINEX:CSXETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:CSXETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -858,12 +872,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CSXUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1548,6 +1556,20 @@
         "s": "BITFINEX:ETHUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:ETHUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:ETHUSTSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -2246,12 +2268,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:MITETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -3512,12 +3528,6 @@
         ]
       },
       {
-        "s": "BITFINEX:SNGETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:SNGETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4570,6 +4580,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ZCNBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:ZCNBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4581,12 +4597,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:ZCNETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {

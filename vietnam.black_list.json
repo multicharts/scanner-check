@@ -1,9 +1,807 @@
 {
     "black_list": [
       {
-        "s": "HOSE:LGC",
+        "s": "HOSE:AAA",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:ACL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:ADS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:AGM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:AGR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:ANV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:ASP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BCG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BHN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BTT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:BWE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:C32",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CCI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CEE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CIG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CII",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CMX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CSM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CTG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:CTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:D2D",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DAG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DHC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DIG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DPG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DPM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DPR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DTL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DXG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:DXV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:EIB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:EMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:EVE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:FDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:FIR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:FMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:FTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:GEX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:GMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:GSP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HAH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HAX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HID",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HLG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HMC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HTL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HU1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:HU3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:IDI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:ITD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KDH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KHP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:KPF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:L10",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:LGL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:LHG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:MBB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:MCG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NAV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NCT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NNC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:NVL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PET",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PGI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PHC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PJT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PLP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PMG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PNJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PPC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PVD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:PXI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:RIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:S4A",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SAM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SC5",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SCS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SFC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SGN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SHA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SHI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SRF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:STK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:SVC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TCR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TEG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TGG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:THG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TIE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TLG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TMP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TMS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TNA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TNT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TPB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TTF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:TYA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:UDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:UIC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VAF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VDP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VFG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VNG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VPH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VRC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VRE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VSC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VSI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VTB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:VTO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HOSE:YBM",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

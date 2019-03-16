@@ -91,18 +91,6 @@
         ]
       },
       {
-        "s": "AMEX:BBSA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:BBUS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:BCS/PD",
         "f": [
           "empty symbol"
@@ -116,12 +104,6 @@
       },
       {
         "s": "AMEX:BGCA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:BIOX",
         "f": [
           "empty symbol"
         ]
@@ -176,12 +158,6 @@
       },
       {
         "s": "AMEX:CFC/PB.CL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:CHAC",
         "f": [
           "empty symbol"
         ]
@@ -391,12 +367,6 @@
         ]
       },
       {
-        "s": "AMEX:JHCS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:KED",
         "f": [
           "empty symbol"
@@ -427,19 +397,7 @@
         ]
       },
       {
-        "s": "AMEX:LGOV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:LHO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:LSLT",
         "f": [
           "empty symbol"
         ]
@@ -565,27 +523,9 @@
         ]
       },
       {
-        "s": "AMEX:PQSG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PQSV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:RBS/PS",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:RBUS",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -628,12 +568,6 @@
         "s": "AMEX:SOV/PC",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:SPMV",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -685,12 +619,6 @@
         ]
       },
       {
-        "s": "AMEX:VSL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:WFC/PJ",
         "f": [
           "empty symbol"
@@ -706,6 +634,24 @@
         "s": "AMEX:XOXO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZE1!",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "CBOT:ZEH2019",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "CBOT:ZEM2019",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -1268,18 +1214,6 @@
       },
       {
         "s": "NASDAQ:FOANC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:FOXAV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:FOXBV",
         "f": [
           "empty symbol"
         ]
@@ -2677,18 +2611,6 @@
         ]
       },
       {
-        "s": "NYSE:AI/PC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:AIG/PA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:BIT",
         "f": [
           "empty symbol"
@@ -2731,27 +2653,21 @@
         ]
       },
       {
+        "s": "NYSE:NFC.U",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:NMK/PB",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NYSE:PSA/PH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:REN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:TRNE.U",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2991,7 +2907,7 @@
       {
         "s": "OTC:FLCX",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3232,6 +3148,12 @@
         "s": "OTC:OCNSF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:OPCO",
+        "f": [
+          "empty symbol"
         ]
       },
       {

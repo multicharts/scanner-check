@@ -1,7 +1,7 @@
 {
     "black_list": [
       {
-        "s": "SIX:ADJ",
+        "s": "SIX:AIG",
         "f": [
           "equal bars"
         ]
@@ -10,12 +10,6 @@
         "s": "SIX:AIG.USD",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "SIX:ALC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -272,12 +266,6 @@
       },
       {
         "s": "SIX:VT9",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "SIX:VZ.USD",
         "f": [
           "equal bars"
         ]

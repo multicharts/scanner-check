@@ -555,12 +555,6 @@
         ]
       },
       {
-        "s": "BITFINEX:BOXETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:BOXETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -862,6 +856,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:CSXETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2013,7 +2013,8 @@
       {
         "s": "BITFINEX:IOTGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4860,6 +4861,12 @@
         "s": "HITBTC:TIVUSDT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HUOBI:NEWHT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

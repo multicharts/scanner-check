@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:APPCBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:APPCUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BINANCE:BCCUSD",
         "f": [
           "empty symbol"
@@ -4931,6 +4919,12 @@
       },
       {
         "s": "BITTREX:XMGUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:EOSBTC",
         "f": [
           "empty symbol"
         ]

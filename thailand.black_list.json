@@ -956,7 +956,19 @@
         ]
       },
       {
+        "s": "SET:CSR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:CSR.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:CSR.R",
         "f": [
           "no longer trading"
         ]
@@ -1778,9 +1790,21 @@
         ]
       },
       {
+        "s": "SET:KDH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:KDH.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:KDH.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2426,7 +2450,19 @@
         ]
       },
       {
+        "s": "SET:OHTL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:OHTL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:OHTL.R",
         "f": [
           "no longer trading"
         ]
@@ -2439,6 +2475,12 @@
       },
       {
         "s": "SET:ORI.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:OSP.F",
         "f": [
           "no longer trading"
         ]

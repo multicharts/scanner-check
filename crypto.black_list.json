@@ -1475,7 +1475,8 @@
       {
         "s": "BITFINEX:EOSGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -5037,12 +5038,6 @@
         ]
       },
       {
-        "s": "BITTREX:BWXBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:BYCUSD",
         "f": [
           "empty symbol"
@@ -5148,12 +5143,6 @@
         "s": "GOCIO:LTCRUR",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:HANDETH",
-        "f": [
-          "price null"
         ]
       },
       {

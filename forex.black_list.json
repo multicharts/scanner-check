@@ -1,13 +1,13 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:AWGUSD",
+        "s": "FX_IDC:ANGUSD",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:BSDUSD",
+        "s": "FX_IDC:AWGUSD",
         "f": [
           "equal bars"
         ]
@@ -97,12 +97,6 @@
         ]
       },
       {
-        "s": "FX_IDC:GNFUSD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "FX_IDC:HKDMOP",
         "f": [
           "equal bars"
@@ -139,6 +133,12 @@
         ]
       },
       {
+        "s": "FX_IDC:USDANG",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:USDAWG",
         "f": [
           "equal bars"
@@ -158,12 +158,6 @@
       },
       {
         "s": "FX_IDC:USDBMD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDBSD",
         "f": [
           "equal bars"
         ]
@@ -206,12 +200,6 @@
       },
       {
         "s": "FX_IDC:USDKYD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDMVR",
         "f": [
           "equal bars"
         ]

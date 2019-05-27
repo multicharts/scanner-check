@@ -207,6 +207,7 @@
       {
         "s": "SET:ASP.F",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -403,9 +404,21 @@
         ]
       },
       {
+        "s": "SET:BTNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BTNC.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:BTNC.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1903,9 +1916,9 @@
         ]
       },
       {
-        "s": "SET:RATCH.F",
+        "s": "SET:RAM.F",
         "f": [
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
@@ -1945,9 +1958,21 @@
         ]
       },
       {
+        "s": "SET:ROCK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:ROCK.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:ROCK.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2083,6 +2108,12 @@
         ]
       },
       {
+        "s": "SET:SEAOIL.F",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "SET:SFP",
         "f": [
           "no longer trading"
@@ -2164,6 +2195,12 @@
         "s": "SET:SNC.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SNP.F",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -2354,6 +2391,12 @@
       },
       {
         "s": "SET:TC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TCAP.F",
         "f": [
           "no longer trading"
         ]
@@ -2557,9 +2600,21 @@
         ]
       },
       {
+        "s": "SET:TOPP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TOPP.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:TOPP.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2758,6 +2813,12 @@
         "s": "SET:UKEM.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:UMI.F",
+        "f": [
+          "equal bars"
         ]
       },
       {

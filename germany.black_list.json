@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FWB:CSN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FWB:DWNN",
         "f": [
           "equal bars"
@@ -13,6 +19,12 @@
         ]
       },
       {
+        "s": "FWB:MRS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:SPG",
         "f": [
           "empty symbol"
@@ -20,6 +32,24 @@
       },
       {
         "s": "SWB:1GI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:CLF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:EMC1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:KYM1",
         "f": [
           "no longer trading"
         ]

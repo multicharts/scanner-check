@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:ADATUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BINANCE:ONEBNB",
         "f": [
           "empty symbol"
@@ -2402,8 +2396,7 @@
       {
         "s": "BITFINEX:LEOUSDLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {

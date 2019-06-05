@@ -1,13 +1,13 @@
 {
     "black_list": [
       {
-        "s": "MOEX:BISV",
+        "s": "MOEX:GAZC",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "MOEX:GAZC",
+        "s": "MOEX:GAZS",
         "f": [
           "equal bars"
         ]
@@ -22,12 +22,6 @@
         "s": "MOEX:GTSS",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:HIMC",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -56,6 +50,12 @@
         ]
       },
       {
+        "s": "MOEX:KRKO",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MOEX:KSGR",
         "f": [
           "empty symbol"
@@ -68,6 +68,12 @@
         ]
       },
       {
+        "s": "MOEX:KZMS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MOEX:MERF",
         "f": [
           "equal bars"
@@ -77,12 +83,6 @@
         "s": "MOEX:MNFD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:MORI",
-        "f": [
-          "equal bars"
         ]
       },
       {

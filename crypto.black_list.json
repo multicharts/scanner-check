@@ -225,12 +225,6 @@
         ]
       },
       {
-        "s": "BITFINEX:ATMBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:ATMBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1711,12 +1705,6 @@
         ]
       },
       {
-        "s": "BITFINEX:EUTEUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:EUTEURLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3086,6 +3074,12 @@
         "s": "BITFINEX:OKBBTCSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:OKBETH",
+        "f": [
           "empty symbol"
         ]
       },
@@ -5511,12 +5505,6 @@
         "s": "HITBTC:EURSEOSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:HANDETH",
-        "f": [
-          "price null"
         ]
       },
       {

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:USDSBUSDS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:USDSBUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -5582,6 +5594,12 @@
       },
       {
         "s": "HITBTC:DCNBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:KINBTC",
         "f": [
           "price null"
         ]

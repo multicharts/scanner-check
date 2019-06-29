@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:ASTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:ZECUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -5628,6 +5616,24 @@
         "s": "COINFLOOR:BTCUSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:DCNBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:HANDETH",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:VOCOBTC",
+        "f": [
+          "price null"
         ]
       },
       {

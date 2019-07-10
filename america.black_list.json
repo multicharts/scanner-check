@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ACIO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:AET",
         "f": [
           "no longer trading"
@@ -1792,6 +1798,12 @@
         "s": "OTC:MXMTY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:NEPHD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

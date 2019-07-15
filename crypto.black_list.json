@@ -5645,11 +5645,17 @@
       {
         "s": "COINFLOOR:BTCUSD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "HITBTC:DCNBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:HANDETH",
         "f": [
           "price null"
         ]

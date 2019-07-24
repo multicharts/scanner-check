@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BSE:1STCUS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BSE:4THGEN",
         "f": [
           "no longer trading"
@@ -8296,7 +8290,8 @@
       {
         "s": "BSE:PANAMABBPH",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {

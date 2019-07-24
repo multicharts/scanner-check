@@ -1893,7 +1893,7 @@
       {
         "s": "NASDAQ:SBOT",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -2803,6 +2803,12 @@
         ]
       },
       {
+        "s": "NYMEX_MINI:QGK2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "NYSE:AMBR",
         "f": [
           "no longer trading"
@@ -3272,12 +3278,6 @@
       },
       {
         "s": "OTC:NUMD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:OSBK",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "MOEX:CLSB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:CLSBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:GAZC",
         "f": [
           "equal bars"

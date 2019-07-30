@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "JSE:ACS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "JSE:AEY",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "JSE:AFEP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -385,6 +397,12 @@
         ]
       },
       {
+        "s": "JSE:GTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "JSE:HET",
         "f": [
           "no longer trading"
@@ -472,12 +490,6 @@
         "s": "JSE:MED",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "JSE:MND",
-        "f": [
-          "empty symbol"
         ]
       },
       {

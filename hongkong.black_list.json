@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "HKEX:1005",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HKEX:1015",
         "f": [
           "empty symbol"
@@ -43,19 +37,13 @@
         ]
       },
       {
+        "s": "HKEX:1047",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1048",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:105",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:1100",
         "f": [
           "no longer trading"
         ]
@@ -68,6 +56,12 @@
       },
       {
         "s": "HKEX:1139",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:1146",
         "f": [
           "no longer trading"
         ]
@@ -121,13 +115,13 @@
         ]
       },
       {
-        "s": "HKEX:1236",
+        "s": "HKEX:1235",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HKEX:1241",
+        "s": "HKEX:1236",
         "f": [
           "no longer trading"
         ]
@@ -175,7 +169,19 @@
         ]
       },
       {
+        "s": "HKEX:1396",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1462",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:1492",
         "f": [
           "no longer trading"
         ]
@@ -194,6 +200,12 @@
         ]
       },
       {
+        "s": "HKEX:1570",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1575",
         "f": [
           "no longer trading"
@@ -207,12 +219,6 @@
       },
       {
         "s": "HKEX:1619",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:1626",
         "f": [
           "no longer trading"
         ]
@@ -275,6 +281,12 @@
       },
       {
         "s": "HKEX:198",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:1983",
         "f": [
           "no longer trading"
         ]
@@ -361,6 +373,12 @@
         ]
       },
       {
+        "s": "HKEX:266",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:2662",
         "f": [
           "no longer trading"
@@ -440,18 +458,6 @@
         ]
       },
       {
-        "s": "HKEX:3626",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:3639",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HKEX:364",
         "f": [
           "no longer trading"
@@ -477,12 +483,6 @@
       },
       {
         "s": "HKEX:3886",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:3903",
         "f": [
           "no longer trading"
         ]
@@ -568,13 +568,13 @@
       {
         "s": "HKEX:4604",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HKEX:4605",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -592,7 +592,7 @@
       {
         "s": "HKEX:4608",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -604,31 +604,31 @@
       {
         "s": "HKEX:4610",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HKEX:4611",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HKEX:4612",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HKEX:4613",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HKEX:4614",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -675,19 +675,7 @@
         ]
       },
       {
-        "s": "HKEX:529",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HKEX:555",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:577",
         "f": [
           "no longer trading"
         ]
@@ -702,12 +690,6 @@
         "s": "HKEX:591",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:608",
-        "f": [
           "no longer trading"
         ]
       },
@@ -774,12 +756,6 @@
         ]
       },
       {
-        "s": "HKEX:725",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HKEX:73",
         "f": [
           "no longer trading"
@@ -804,13 +780,31 @@
         ]
       },
       {
+        "s": "HKEX:765",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:770",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "HKEX:79",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:8011",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:8031",
         "f": [
           "no longer trading"
         ]
@@ -840,7 +834,7 @@
         ]
       },
       {
-        "s": "HKEX:8115",
+        "s": "HKEX:810",
         "f": [
           "no longer trading"
         ]
@@ -858,7 +852,25 @@
         ]
       },
       {
+        "s": "HKEX:8133",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:8135",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:8165",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:8171",
         "f": [
           "no longer trading"
         ]
@@ -930,12 +942,6 @@
         ]
       },
       {
-        "s": "HKEX:8262",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HKEX:8273",
         "f": [
           "no longer trading"
@@ -966,6 +972,12 @@
         ]
       },
       {
+        "s": "HKEX:8316",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:8317",
         "f": [
           "no longer trading"
@@ -973,18 +985,6 @@
       },
       {
         "s": "HKEX:8353",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:8412",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:8442",
         "f": [
           "no longer trading"
         ]

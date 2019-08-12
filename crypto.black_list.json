@@ -5863,11 +5863,17 @@
       {
         "s": "COINFLOOR:BTCUSD",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "HITBTC:BITSBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:DCNBTC",
         "f": [
           "price null"
         ]

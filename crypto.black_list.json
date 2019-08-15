@@ -239,6 +239,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ANTETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:ANTETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -644,12 +650,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:BNTBTC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1262,12 +1262,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:DRNETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2152,12 +2146,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:GTXUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4405,6 +4393,12 @@
         ]
       },
       {
+        "s": "BITFINEX:TKNETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:TKNETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -5219,8 +5213,7 @@
       {
         "s": "BITFINEX:XLMBTCLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5378,15 +5371,13 @@
       {
         "s": "BITFINEX:XTZBTCLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
         "s": "BITFINEX:XTZBTCSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5398,8 +5389,7 @@
       {
         "s": "BITFINEX:XTZUSDSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5866,6 +5856,12 @@
       },
       {
         "s": "BITTREX:XWCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:ALGOUSD",
         "f": [
           "empty symbol"
         ]

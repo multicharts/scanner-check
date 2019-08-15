@@ -619,9 +619,21 @@
         ]
       },
       {
+        "s": "SET:BTNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BTNC.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:BTNC.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -721,7 +733,19 @@
         ]
       },
       {
+        "s": "SET:CHARAN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:CHARAN.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:CHARAN.R",
         "f": [
           "no longer trading"
         ]
@@ -2695,6 +2719,12 @@
         ]
       },
       {
+        "s": "SET:PR9.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:PRAKIT.F",
         "f": [
           "no longer trading"
@@ -3159,19 +3189,7 @@
         ]
       },
       {
-        "s": "SET:SFP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:SFP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:SFP.R",
         "f": [
           "no longer trading"
         ]

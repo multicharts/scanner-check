@@ -197,6 +197,26 @@
         ]
       },
       {
+        "s": "BITFINEX:AMPBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:AMPBTCLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:AMPBTCSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:AMPUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1359,6 +1379,12 @@
         ]
       },
       {
+        "s": "BITFINEX:DTHBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:DTHBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1395,6 +1421,34 @@
       },
       {
         "s": "BITFINEX:DTHUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSDLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -1843,12 +1897,6 @@
         ]
       },
       {
-        "s": "BITFINEX:EUTUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:EUTUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2188,6 +2236,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:HOTETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4469,6 +4523,12 @@
         ]
       },
       {
+        "s": "BITFINEX:TRIETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:TRIETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -5288,8 +5348,7 @@
       {
         "s": "BITFINEX:XLMUSDSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5856,12 +5915,6 @@
       },
       {
         "s": "BITTREX:XWCUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:ALGOUSD",
         "f": [
           "empty symbol"
         ]

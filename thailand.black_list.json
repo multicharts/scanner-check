@@ -3534,7 +3534,7 @@
       {
         "s": "SET:SUPEREIF.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4331,7 +4331,19 @@
         ]
       },
       {
+        "s": "SET:VARO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:VARO.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:VARO.R",
         "f": [
           "no longer trading"
         ]

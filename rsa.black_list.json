@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "JSE:ACE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "JSE:ACS",
         "f": [
           "empty symbol"
@@ -74,6 +80,12 @@
       },
       {
         "s": "JSE:BUC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "JSE:CAC",
         "f": [
           "empty symbol"
         ]
@@ -409,6 +421,12 @@
         ]
       },
       {
+        "s": "JSE:HUL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "JSE:HWA",
         "f": [
           "no longer trading"
@@ -424,12 +442,6 @@
         "s": "JSE:IBRP4",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "JSE:ILE",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -614,6 +626,12 @@
       },
       {
         "s": "JSE:VIS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "JSE:VUN",
         "f": [
           "no longer trading"
         ]

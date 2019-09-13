@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:AEDUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:AWGUSD",
         "f": [
           "equal bars"
@@ -103,12 +109,6 @@
         ]
       },
       {
-        "s": "FX_IDC:MGAUSD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "FX_IDC:MNTUSD",
         "f": [
           "equal bars"
@@ -187,9 +187,9 @@
         ]
       },
       {
-        "s": "FX_IDC:USDOMR",
+        "s": "FX_IDC:USDNGN",
         "f": [
-          "equal bars"
+          "no longer trading"
         ]
       },
       {

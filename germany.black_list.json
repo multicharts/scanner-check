@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "FWB:1UD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "FWB:EMH",
         "f": [
           "empty symbol"
@@ -157,12 +151,6 @@
         ]
       },
       {
-        "s": "XETR:1UD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "XETR:2U3",
         "f": [
           "no longer trading"
@@ -200,6 +188,12 @@
       },
       {
         "s": "XETR:CVS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:EMH1",
         "f": [
           "no longer trading"
         ]
@@ -283,6 +277,12 @@
         ]
       },
       {
+        "s": "XETR:SHL1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "XETR:SPG",
         "f": [
           "empty symbol"
@@ -304,6 +304,12 @@
         "s": "XETR:TMV",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:TQIR",
+        "f": [
+          "no longer trading"
         ]
       },
       {

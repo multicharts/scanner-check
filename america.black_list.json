@@ -1,6 +1,30 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AVDE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:AVDV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:AVUS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:AVUV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:ERSX",
         "f": [
           "no longer trading"
@@ -34,6 +58,12 @@
         "s": "AMEX:MSUS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:NUHY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1681,6 +1711,12 @@
         ]
       },
       {
+        "s": "OTC:OHGID",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:PDDPF",
         "f": [
           "no longer trading"
@@ -1807,6 +1843,12 @@
         ]
       },
       {
+        "s": "OTC:SSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:STCB",
         "f": [
           "no longer trading"
@@ -1844,6 +1886,12 @@
       },
       {
         "s": "OTC:TRCK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TSCHY",
         "f": [
           "no longer trading"
         ]

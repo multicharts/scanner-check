@@ -1,27 +1,44 @@
 {
     "black_list": [
       {
+        "s": "MOEX:BISV",
+        "f": [
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:GAZC",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:GAZS",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:GAZT",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:GTSS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:HIMC",
+        "f": [
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -33,7 +50,8 @@
       {
         "s": "MOEX:KRKO",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -51,25 +69,43 @@
       {
         "s": "MOEX:KZMS",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:MERF",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:MFON",
+        "f": [
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "MOEX:MORI",
+        "f": [
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:NPOF",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "MOEX:RDRB",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -85,9 +121,16 @@
         ]
       },
       {
+        "s": "MOEX:URKA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MOEX:VZRZ",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
         ]
       }
     ]

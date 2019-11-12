@@ -321,6 +321,12 @@
         ]
       },
       {
+        "s": "BITFINEX:ATMBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:ATMBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1727,12 +1733,6 @@
         ]
       },
       {
-        "s": "BITFINEX:ESSBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:ESSBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2668,6 +2668,12 @@
         ]
       },
       {
+        "s": "BITFINEX:LEOEOS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:LEOEOSLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2848,12 +2854,6 @@
         ]
       },
       {
-        "s": "BITFINEX:LYMETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:LYMETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2893,6 +2893,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:MANUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4254,7 +4260,8 @@
       {
         "s": "BITFINEX:SANETHSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -6004,6 +6011,18 @@
         ]
       },
       {
+        "s": "BITTREX:FLDCBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:FTMBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:GLCBTC",
         "f": [
           "no longer trading"
@@ -6040,6 +6059,18 @@
         ]
       },
       {
+        "s": "BITTREX:MKRBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:MKRETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:MLNUSD",
         "f": [
           "empty symbol"
@@ -6052,6 +6083,12 @@
         ]
       },
       {
+        "s": "BITTREX:NCASHBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:NEOSUSD",
         "f": [
           "empty symbol"
@@ -6061,6 +6098,18 @@
         "s": "BITTREX:OCNUSD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:OGOBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:OGOUSDT",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6088,6 +6137,12 @@
         ]
       },
       {
+        "s": "BITTREX:SERVBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:SHIFTBTC",
         "f": [
           "no longer trading"
@@ -6097,6 +6152,12 @@
         "s": "BITTREX:SLRUSD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:SNXBTC",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6139,6 +6200,12 @@
         "s": "BITTREX:TXUSD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:UPBTC",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6196,37 +6263,19 @@
         ]
       },
       {
+        "s": "HITBTC:CUTEEOS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HITBTC:DADIUSDT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:FDZUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MGEOS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:NTKUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:NUTEOS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:POA20DAI",
         "f": [
           "no longer trading"
         ]
@@ -6383,6 +6432,24 @@
       },
       {
         "s": "POLONIEX:STEEMUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:TRXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:TRXUSDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:TRXUSDT",
         "f": [
           "empty symbol"
         ]

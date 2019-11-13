@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "HKEX:1001",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1019",
         "f": [
           "no longer trading"
@@ -118,6 +124,12 @@
         "s": "HKEX:155",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:1577",
+        "f": [
           "no longer trading"
         ]
       },
@@ -344,6 +356,12 @@
       },
       {
         "s": "HKEX:2906",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:2955",
         "f": [
           "no longer trading"
         ]
@@ -618,12 +636,6 @@
       },
       {
         "s": "HKEX:648",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:651",
         "f": [
           "no longer trading"
         ]

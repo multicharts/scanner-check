@@ -223,12 +223,6 @@
         ]
       },
       {
-        "s": "BMV:BBT",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BMV:BBVADOL/F",
         "f": [
           "no longer trading"
@@ -1062,8 +1056,7 @@
       {
         "s": "BMV:IT",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
@@ -1440,6 +1433,12 @@
       },
       {
         "s": "BMV:ON",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "BMV:ORAN/N",
         "f": [
           "equal bars"
         ]

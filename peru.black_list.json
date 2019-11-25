@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BVL:AAL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BVL:ADCOMEC1",
         "f": [
           "empty symbol"
@@ -182,6 +176,12 @@
       },
       {
         "s": "BVL:BROCALC1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:BROCALI1",
         "f": [
           "no longer trading"
         ]
@@ -535,6 +535,12 @@
         ]
       },
       {
+        "s": "BVL:FCX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BVL:FIBCCAP",
         "f": [
           "empty symbol"
@@ -662,6 +668,12 @@
       },
       {
         "s": "BVL:HIDROSI1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:HYG",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "EGX:AMPI",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "EGX:ASHC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "EGX:CTSB",
         "f": [
           "equal bars"
@@ -10,6 +22,12 @@
         "s": "EGX:EGS36041C019",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EGX:FERC",
+        "f": [
+          "equal bars"
         ]
       },
       {

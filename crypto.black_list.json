@@ -557,6 +557,12 @@
         ]
       },
       {
+        "s": "BITFINEX:BBNETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:BBNETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1047,12 +1053,6 @@
         ]
       },
       {
-        "s": "BITFINEX:CNHCNHT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:CNHCNHTLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1190,6 +1190,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DADUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1347,6 +1353,12 @@
         ]
       },
       {
+        "s": "BITFINEX:DRNETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:DRNETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1480,12 +1492,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:DTXUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1921,6 +1927,12 @@
         "s": "BITFINEX:ETPUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUSETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2376,6 +2388,12 @@
         ]
       },
       {
+        "s": "BITFINEX:IMPETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:IMPETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2730,6 +2748,12 @@
         ]
       },
       {
+        "s": "BITFINEX:LOOETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:LOOETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2852,6 +2876,12 @@
         ]
       },
       {
+        "s": "BITFINEX:LYMETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:LYMETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2956,6 +2986,12 @@
         ]
       },
       {
+        "s": "BITFINEX:MITETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:MITETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3051,6 +3087,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:MLNUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3300,7 +3342,8 @@
       {
         "s": "BITFINEX:NEOJPYSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -3417,6 +3460,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:OKBUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4282,6 +4331,12 @@
         ]
       },
       {
+        "s": "BITFINEX:SEEETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:SEEETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4882,12 +4937,6 @@
         ]
       },
       {
-        "s": "BITFINEX:USKETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:USKETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4899,12 +4948,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:USKUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5231,6 +5274,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:WBTUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6044,6 +6093,48 @@
         ]
       },
       {
+        "s": "BYBIT:EOSUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CEXIO:ZECBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CEXIO:ZECEUR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CEXIO:ZECUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:BANCABTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:BITSBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:BITSETH",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "HITBTC:BOXEURS",
         "f": [
           "no longer trading"
@@ -6062,12 +6153,6 @@
         ]
       },
       {
-        "s": "HITBTC:CVCOINUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:DWSUSDT",
         "f": [
           "no longer trading"
@@ -6080,13 +6165,37 @@
         ]
       },
       {
+        "s": "HITBTC:KINBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:LEOUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:LIFEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "HITBTC:MGEOS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:OMGBCH",
+        "s": "HITBTC:NANJBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:NEOEURS",
         "f": [
           "no longer trading"
         ]
@@ -6098,9 +6207,9 @@
         ]
       },
       {
-        "s": "HITBTC:SPFETH",
+        "s": "HITBTC:SCCBTC",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
@@ -6110,15 +6219,15 @@
         ]
       },
       {
-        "s": "HITBTC:UUUETH",
+        "s": "HITBTC:VOCOBTC",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
-        "s": "HITBTC:WBTCETH",
+        "s": "HITBTC:VOCOETH",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
@@ -6131,6 +6240,12 @@
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KRAKEN:ETHUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:AEDQAR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:ANGUSD",
         "f": [
           "equal bars"
@@ -53,12 +59,6 @@
         "f": [
           "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FX_IDC:ERNUSD",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -135,12 +135,6 @@
       },
       {
         "s": "FX_IDC:GBPSHP",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:GNFUSD",
         "f": [
           "equal bars"
         ]

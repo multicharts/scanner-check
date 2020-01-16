@@ -1618,12 +1618,6 @@
         ]
       },
       {
-        "s": "LSIN:ASCD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSIN:BMED",
         "f": [
           "no longer trading"
@@ -1631,6 +1625,12 @@
       },
       {
         "s": "LSIN:CGVD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:CVH",
         "f": [
           "equal bars"
         ]
@@ -1648,6 +1648,12 @@
         ]
       },
       {
+        "s": "LSIN:GCLA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSIN:GET",
         "f": [
           "no longer trading"
@@ -1662,6 +1668,7 @@
       {
         "s": "LSIN:IGSS",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },

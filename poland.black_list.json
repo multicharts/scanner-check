@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "GPW:ASB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GPW:ASM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GPW:BIO",
         "f": [
           "empty symbol"
@@ -19,13 +31,13 @@
         ]
       },
       {
-        "s": "GPW:IDA",
+        "s": "GPW:ETL",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "GPW:ITM",
+        "s": "GPW:IDA",
         "f": [
           "empty symbol"
         ]
@@ -50,6 +62,12 @@
       },
       {
         "s": "GPW:RBC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GPW:SEN",
         "f": [
           "empty symbol"
         ]

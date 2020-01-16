@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:CWEB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:DIVC",
         "f": [
           "no longer trading"
@@ -10,6 +16,12 @@
         "s": "AMEX:PQIN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:RAFE",
+        "f": [
+          "empty symbol"
         ]
       },
       {

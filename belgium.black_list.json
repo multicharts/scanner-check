@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "EURONEXT:ABI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:ALEVA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:CENER",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -100,6 +112,12 @@
         "s": "EURONEXT:PNSB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:QFG",
+        "f": [
+          "empty symbol"
         ]
       },
       {

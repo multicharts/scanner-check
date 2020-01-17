@@ -1,7 +1,7 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:ABI",
+        "s": "EURONEXT:ACPH",
         "f": [
           "empty symbol"
         ]
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "s": "EURONEXT:CENER",
+        "s": "EURONEXT:BEFB",
         "f": [
           "empty symbol"
         ]
@@ -22,6 +22,12 @@
         "s": "EURONEXT:CHTEX",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:COMB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -43,6 +49,12 @@
         ]
       },
       {
+        "s": "EURONEXT:EON",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:FLEX",
         "f": [
           "no longer trading"
@@ -51,7 +63,7 @@
       {
         "s": "EURONEXT:FOOTL",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -91,12 +103,6 @@
         ]
       },
       {
-        "s": "EURONEXT:NEU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:OCPET",
         "f": [
           "no longer trading"
@@ -115,15 +121,15 @@
         ]
       },
       {
-        "s": "EURONEXT:QFG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:REI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:SANTA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -136,6 +142,18 @@
         "s": "EURONEXT:TET",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:TNET",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:UCB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -160,6 +178,12 @@
         "s": "EURONEXT:VWAP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:XIOR",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

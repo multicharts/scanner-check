@@ -1907,7 +1907,8 @@
       {
         "s": "BITFINEX:ETPETHSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4866,6 +4867,12 @@
         ]
       },
       {
+        "s": "BITFINEX:USKEOS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:USKEOSLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -6096,6 +6103,18 @@
         ]
       },
       {
+        "s": "HITBTC:DADIUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:GNXETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HITBTC:JNTETH",
         "f": [
           "no longer trading"
@@ -6132,6 +6151,12 @@
         ]
       },
       {
+        "s": "HITBTC:MLNETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HITBTC:NTKUSDT",
         "f": [
           "no longer trading"
@@ -6151,6 +6176,12 @@
       },
       {
         "s": "HITBTC:POA20DAI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:POA20ETH",
         "f": [
           "no longer trading"
         ]

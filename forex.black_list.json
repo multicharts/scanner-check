@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:ANGUSD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "FX_IDC:BBDUSD",
         "f": [
           "equal bars"
@@ -14,6 +8,18 @@
       },
       {
         "s": "FX_IDC:BMDUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:BZDUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:CUPUSD",
         "f": [
           "equal bars"
         ]
@@ -49,13 +55,13 @@
         ]
       },
       {
-        "s": "FX_IDC:EURXAF",
+        "s": "FX_IDC:EURSTN",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:EURXOF",
+        "s": "FX_IDC:EURXAF",
         "f": [
           "equal bars"
         ]
@@ -91,7 +97,19 @@
         ]
       },
       {
+        "s": "FX_IDC:HKDMOP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:IQDUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:KYDUSD",
         "f": [
           "equal bars"
         ]
@@ -127,13 +145,13 @@
         ]
       },
       {
-        "s": "FX_IDC:USDANG",
+        "s": "FX_IDC:USDAZN",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:USDAZN",
+        "s": "FX_IDC:USDBBD",
         "f": [
           "equal bars"
         ]
@@ -146,12 +164,6 @@
       },
       {
         "s": "FX_IDC:USDBZD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDCUP",
         "f": [
           "equal bars"
         ]

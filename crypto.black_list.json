@@ -393,6 +393,12 @@
         ]
       },
       {
+        "s": "BITFINEX:AUCBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:AUCBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -404,6 +410,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:AUCETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1509,12 +1521,6 @@
         ]
       },
       {
-        "s": "BITFINEX:DTXUST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:DTXUSTLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1707,7 +1713,8 @@
       {
         "s": "BITFINEX:EOSGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -2542,7 +2549,8 @@
       {
         "s": "BITFINEX:IOTGBPSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -3451,12 +3459,6 @@
         ]
       },
       {
-        "s": "BITFINEX:OKBUST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:OKBUSTLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3645,12 +3647,6 @@
         ]
       },
       {
-        "s": "BITFINEX:PAIUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:PAIUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3760,6 +3756,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:POAETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4606,6 +4608,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:TKNUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6145,6 +6153,12 @@
         ]
       },
       {
+        "s": "FTX:BSVDOOMUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FTX:TOMODOOMUSD",
         "f": [
           "no longer trading"
@@ -6163,12 +6177,6 @@
         ]
       },
       {
-        "s": "HITBTC:AMMETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:AVTETH",
         "f": [
           "no longer trading"
@@ -6181,19 +6189,13 @@
         ]
       },
       {
-        "s": "HITBTC:DADIUSDT",
+        "s": "HITBTC:CVCOINETH",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "HITBTC:DRTUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:GNXETH",
         "f": [
           "no longer trading"
         ]
@@ -6223,12 +6225,6 @@
         ]
       },
       {
-        "s": "HITBTC:MYBETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:NTKUSDT",
         "f": [
           "no longer trading"
@@ -6242,18 +6238,6 @@
       },
       {
         "s": "HITBTC:PHXETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:PKTETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:POA20ETH",
         "f": [
           "no longer trading"
         ]

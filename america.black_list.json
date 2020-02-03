@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BFEB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
@@ -31,6 +37,12 @@
         ]
       },
       {
+        "s": "AMEX:PFEB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:PHGE.U",
         "f": [
           "no longer trading"
@@ -40,6 +52,12 @@
         "s": "AMEX:RIDV",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:UFEB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2263,6 +2281,18 @@
         ]
       },
       {
+        "s": "NYSE:CBO/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:FHI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:IPV.U",
         "f": [
           "empty symbol"
@@ -2290,6 +2320,12 @@
         "s": "NYSE:NMK/PC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:WTRG",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2654,6 +2690,12 @@
       },
       {
         "s": "OTC:PEMSF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:PFHO",
         "f": [
           "no longer trading"
         ]

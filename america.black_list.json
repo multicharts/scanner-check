@@ -1,9 +1,27 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ESNG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:FLYT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:MARB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -22,6 +40,12 @@
         "s": "AMEX:PHGE.U",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:QMJ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -577,6 +601,12 @@
         ]
       },
       {
+        "s": "NASDAQ:CCAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:CCIH",
         "f": [
           "no longer trading"
@@ -586,6 +616,12 @@
         "s": "NASDAQ:CFFAU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:CIIC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -602,12 +638,6 @@
       },
       {
         "s": "NASDAQ:CMTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:CNTF",
         "f": [
           "no longer trading"
         ]
@@ -644,6 +674,12 @@
       },
       {
         "s": "NASDAQ:DEST",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:DFBHU",
         "f": [
           "no longer trading"
         ]
@@ -748,6 +784,12 @@
         "s": "NASDAQ:EVSTC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:FLRZ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1117,6 +1159,12 @@
         ]
       },
       {
+        "s": "NASDAQ:MTECW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:MTGE",
         "f": [
           "no longer trading"
@@ -1411,6 +1459,12 @@
         ]
       },
       {
+        "s": "NASDAQ:SOHOK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:SONC",
         "f": [
           "no longer trading"
@@ -1580,12 +1634,6 @@
       },
       {
         "s": "NASDAQ:XGTI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:XGTIW",
         "f": [
           "no longer trading"
         ]
@@ -2258,6 +2306,12 @@
       },
       {
         "s": "NYSE:BIO.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:CBO/PA",
         "f": [
           "no longer trading"
         ]

@@ -439,6 +439,12 @@
         ]
       },
       {
+        "s": "SET:BAM.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BANPU.F",
         "f": [
           "no longer trading"
@@ -1616,12 +1622,6 @@
       },
       {
         "s": "SET:IRCP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:IRPC.F",
         "f": [
           "no longer trading"
         ]
@@ -4240,9 +4240,21 @@
         ]
       },
       {
+        "s": "SET:TTI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TTI.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:TTI.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {

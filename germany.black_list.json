@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "FWB:1T2",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FWB:ADLU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FWB:ALVB",
         "f": [
           "no longer trading"
@@ -127,6 +139,12 @@
         ]
       },
       {
+        "s": "SWB:GNBN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SWB:HLG",
         "f": [
           "no longer trading"
@@ -199,6 +217,12 @@
         ]
       },
       {
+        "s": "SWB:TE8N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SWB:UHR",
         "f": [
           "no longer trading"
@@ -206,6 +230,18 @@
       },
       {
         "s": "SWB:UHRN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:VTLN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:ZFIN",
         "f": [
           "no longer trading"
         ]
@@ -223,7 +259,25 @@
         ]
       },
       {
-        "s": "XETR:A254V2",
+        "s": "XETR:A0EPUH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:A25410",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:A254W7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:ADLU",
         "f": [
           "empty symbol"
         ]
@@ -283,12 +337,6 @@
         ]
       },
       {
-        "s": "XETR:EVTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "XETR:FMEN",
         "f": [
           "no longer trading"
@@ -307,6 +355,18 @@
         ]
       },
       {
+        "s": "XETR:IEBJXRZ27",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:IEBJXRZJ4",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:L60",
         "f": [
           "no longer trading"
@@ -316,6 +376,12 @@
         "s": "XETR:MTXC",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:MZP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -331,7 +397,7 @@
         ]
       },
       {
-        "s": "XETR:SEN",
+        "s": "XETR:SHL1",
         "f": [
           "no longer trading"
         ]
@@ -361,13 +427,13 @@
         ]
       },
       {
-        "s": "XETR:TQIR",
+        "s": "XETR:US72352L106",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "XETR:US72352L106",
+        "s": "XETR:WAH",
         "f": [
           "empty symbol"
         ]

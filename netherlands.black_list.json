@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "EURONEXT:500X",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:AGNF0",
         "f": [
           "empty symbol"
@@ -55,6 +61,12 @@
         ]
       },
       {
+        "s": "EURONEXT:GOVT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:GSPX",
         "f": [
           "no longer trading"
@@ -67,7 +79,7 @@
         ]
       },
       {
-        "s": "EURONEXT:IGLE",
+        "s": "EURONEXT:HUNDP",
         "f": [
           "no longer trading"
         ]

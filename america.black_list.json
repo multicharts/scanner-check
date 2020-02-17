@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:DIVC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:ECA",
         "f": [
           "no longer trading"
@@ -13,7 +19,19 @@
         ]
       },
       {
+        "s": "AMEX:GGO/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:GLU/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JJE",
         "f": [
           "no longer trading"
         ]
@@ -26,6 +44,12 @@
       },
       {
         "s": "AMEX:PQIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:RIDV",
         "f": [
           "no longer trading"
         ]
@@ -50,6 +74,12 @@
       },
       {
         "s": "CBOT:EHZ2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CBOT:ZQG2023",
         "f": [
           "empty symbol"
         ]
@@ -187,6 +217,12 @@
         ]
       },
       {
+        "s": "CME:BTCQ2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CME:DCU2021",
         "f": [
           "equal bars"
@@ -196,6 +232,12 @@
         "s": "CME:DCV2021",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "CME:LEQ2021",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -218,6 +260,12 @@
       },
       {
         "s": "CME:WDCG2025",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "CME:WDCG2026",
         "f": [
           "empty symbol"
         ]
@@ -269,6 +317,18 @@
         ]
       },
       {
+        "s": "COMEX:GCK2020",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX:HGG2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COMEX:LED1!",
         "f": [
           "equal bars"
@@ -278,6 +338,12 @@
         "s": "COMEX:LEDG2020",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LEDG2021",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -326,6 +392,24 @@
         "s": "COMEX:LEDV2020",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:SIF2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX_MINI:QCG2022",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COMEX_MINI:QIF2022",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1367,6 +1451,12 @@
         ]
       },
       {
+        "s": "NASDAQ:TIBRU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:TNTR",
         "f": [
           "no longer trading"
@@ -2303,6 +2393,12 @@
         ]
       },
       {
+        "s": "OTC:ATIXF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ATXG",
         "f": [
           "no longer trading"
@@ -2417,6 +2513,12 @@
         ]
       },
       {
+        "s": "OTC:CWPE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:DMKBB",
         "f": [
           "no longer trading"
@@ -2442,6 +2544,12 @@
       },
       {
         "s": "OTC:ELRE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:EOSS",
         "f": [
           "no longer trading"
         ]
@@ -2501,6 +2609,12 @@
         ]
       },
       {
+        "s": "OTC:GOCOF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:GWSN",
         "f": [
           "no longer trading"
@@ -2531,6 +2645,12 @@
         ]
       },
       {
+        "s": "OTC:IDXAF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:IESFY",
         "f": [
           "no longer trading"
@@ -2544,6 +2664,12 @@
       },
       {
         "s": "OTC:IWBB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:JPOTF",
         "f": [
           "no longer trading"
         ]
@@ -2675,6 +2801,18 @@
         ]
       },
       {
+        "s": "OTC:PMCCF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:PNNRF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:PTIX",
         "f": [
           "no longer trading"
@@ -2711,7 +2849,19 @@
         ]
       },
       {
+        "s": "OTC:REKRP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:REZZF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:RGDCF",
         "f": [
           "no longer trading"
         ]
@@ -2844,6 +2994,12 @@
       },
       {
         "s": "OTC:XRTXF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:XXMMF",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BATL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:DIVC",
         "f": [
           "no longer trading"
@@ -28,6 +34,12 @@
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:HCRB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2544,6 +2556,12 @@
       },
       {
         "s": "OTC:FWONB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:GGISF",
         "f": [
           "no longer trading"
         ]

@@ -1237,9 +1237,21 @@
         ]
       },
       {
+        "s": "SET:F\u0026D",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:F\u0026D.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:F\u0026D.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2047,19 +2059,7 @@
         ]
       },
       {
-        "s": "SET:MANRIN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:MANRIN.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:MANRIN.R",
         "f": [
           "no longer trading"
         ]
@@ -2150,12 +2150,6 @@
       },
       {
         "s": "SET:MILL.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:MIPF",
         "f": [
           "no longer trading"
         ]
@@ -2551,7 +2545,19 @@
         ]
       },
       {
+        "s": "SET:PE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:PE.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:PE.R",
         "f": [
           "no longer trading"
         ]

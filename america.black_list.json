@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BUYZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
@@ -8,6 +14,18 @@
       },
       {
         "s": "AMEX:HDIV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:HELX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:IQM",
         "f": [
           "empty symbol"
         ]

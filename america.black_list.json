@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ECOZ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:LRNZ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -290,12 +302,6 @@
         "s": "COMEX:LEDX2020",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "NASDAQ:ABIL",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -722,6 +728,60 @@
         "s": "NASDAQ:HUNTW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IBTJ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2178,6 +2238,12 @@
       },
       {
         "s": "NYMEX_MINI:QGG2020",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:CBO/PA",
         "f": [
           "no longer trading"
         ]

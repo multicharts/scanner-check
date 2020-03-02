@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BMAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:ECOZ",
         "f": [
           "empty symbol"
@@ -22,6 +28,18 @@
         "s": "AMEX:LTS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:PMAR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:UMAR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2165,27 +2183,9 @@
         ]
       },
       {
-        "s": "NYSE:CBO/PA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:CBPX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NYSE:CRCM",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:GDI/I",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2195,15 +2195,15 @@
         ]
       },
       {
-        "s": "NYSE:IR/I",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:MTEST",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:TT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

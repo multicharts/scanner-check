@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "TVC:BE10Y",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "TVC:BR01",
         "f": [
           "no longer trading"
@@ -61,6 +67,12 @@
         ]
       },
       {
+        "s": "TVC:GB02Y",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "TVC:GB15Y",
         "f": [
           "price null"
@@ -112,6 +124,12 @@
         "s": "TVC:TR02Y",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TVC:US10Y",
+        "f": [
+          "price null"
         ]
       }
     ]

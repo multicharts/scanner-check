@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:GTOBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -708,7 +714,8 @@
       {
         "s": "BITFINEX:BSVBTCSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -1280,6 +1287,12 @@
         "s": "BITFINEX:DATUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DGBBTC",
+        "f": [
           "empty symbol"
         ]
       },
@@ -4252,6 +4265,12 @@
         ]
       },
       {
+        "s": "BITFINEX:SANBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:SANBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -4972,6 +4991,12 @@
         "s": "BITFINEX:USTCNHTSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:USTUSD",
+        "f": [
           "empty symbol"
         ]
       },
@@ -6064,6 +6089,12 @@
         ]
       },
       {
+        "s": "BITTREX:ETHUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -6247,6 +6278,12 @@
         "s": "OKCOIN:LTCUSD3M",
         "f": [
           "skip forward"
+        ]
+      },
+      {
+        "s": "POLONIEX:BCHSVUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

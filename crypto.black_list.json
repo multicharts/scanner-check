@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:COTIBNB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -5381,12 +5375,6 @@
         "s": "BITFINEX:XAUTBTCSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:XAUTF0USTF0",
-        "f": [
-          "empty symbol"
         ]
       },
       {

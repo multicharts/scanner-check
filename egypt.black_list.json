@@ -1,9 +1,27 @@
 {
     "black_list": [
       {
+        "s": "EGX:AMIA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EGX:ANFI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EGX:CTSB",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "EGX:DIFC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -16,6 +34,12 @@
         "s": "EGX:EGS36041C019",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EGX:GIHD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

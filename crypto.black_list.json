@@ -1992,7 +1992,8 @@
       {
         "s": "BITFINEX:ETPETHSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -5109,6 +5110,12 @@
         "s": "BITFINEX:USKEOSSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:USKETH",
+        "f": [
           "empty symbol"
         ]
       },

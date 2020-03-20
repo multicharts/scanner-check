@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:HBARUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -6159,13 +6165,49 @@
         ]
       },
       {
+        "s": "BITTREX:BCHUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CKBUSD",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "BITTREX:CVTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CVTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EOSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:GNOETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:GOBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:HBARBTC",
         "f": [
           "empty symbol"
         ]

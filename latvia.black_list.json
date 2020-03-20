@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "OMXRSE:BTE1R",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OMXRSE:FRGTE",
         "f": [
           "empty symbol"
@@ -13,9 +19,21 @@
         ]
       },
       {
+        "s": "OMXRSE:RRR1R",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OMXRSE:SMA1R",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXRSE:VSS1R",
+        "f": [
+          "empty symbol"
         ]
       }
     ]

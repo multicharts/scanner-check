@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:HBARUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -647,6 +641,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:BNTETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2332,6 +2332,12 @@
         ]
       },
       {
+        "s": "BITFINEX:GTXUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:GTXUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3407,6 +3413,12 @@
         ]
       },
       {
+        "s": "BITFINEX:NIOETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:NIOETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3846,6 +3858,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:POAETH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -6165,114 +6183,6 @@
         ]
       },
       {
-        "s": "BITTREX:ABYSSUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:BCHUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:CKBUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:CVTBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:CVTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:EOSUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GNOETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GOBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:HBARBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:IOCUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:MOFUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:SBDUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPEURBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPEURUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPTBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPUSDBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPUSDUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -6357,7 +6267,19 @@
         ]
       },
       {
+        "s": "FTX:BTCMOVE0320",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FTX:BTCMOVE0321",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FTX:BTCMOVEWK0320",
         "f": [
           "empty symbol"
         ]
@@ -6372,18 +6294,6 @@
         "s": "GEMINI:ZECBCH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:ALGOUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:APMUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6405,27 +6315,9 @@
         ]
       },
       {
-        "s": "HITBTC:EMRXUSD",
+        "s": "HITBTC:LEOUSDT",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:ERDUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:IDRTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:OKBUSD",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -6435,15 +6327,9 @@
         ]
       },
       {
-        "s": "HITBTC:VITAEBTC",
+        "s": "HITBTC:PITCHETH",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:VITAEUSD",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -6552,12 +6438,6 @@
         "s": "OKCOIN:LTCUSD3M",
         "f": [
           "skip forward"
-        ]
-      },
-      {
-        "s": "POLONIEX:LINKUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {

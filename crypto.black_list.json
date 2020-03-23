@@ -524,12 +524,6 @@
         ]
       },
       {
-        "s": "BITFINEX:BNTETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:BNTETHLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2010,12 +2004,6 @@
         ]
       },
       {
-        "s": "BITFINEX:GTXUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:GTXUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2045,12 +2033,6 @@
       },
       {
         "s": "BITFINEX:HOTBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITFINEX:HOTETH",
         "f": [
           "no longer trading"
         ]
@@ -2880,8 +2862,7 @@
       {
         "s": "BITFINEX:NEOJPYSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "no longer trading"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -2894,12 +2875,6 @@
         "s": "BITFINEX:NEOUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:NIOETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -3232,12 +3207,6 @@
       },
       {
         "s": "BITFINEX:POABTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITFINEX:POAETH",
         "f": [
           "no longer trading"
         ]
@@ -3786,12 +3755,6 @@
         "s": "BITFINEX:SANUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:SEEBTC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5349,18 +5312,6 @@
         ]
       },
       {
-        "s": "BITTREX:HIVEBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:HIVEUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -5451,12 +5402,6 @@
         ]
       },
       {
-        "s": "GEMINI:ZECBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:ARNETH",
         "f": [
           "no longer trading"
@@ -5475,9 +5420,27 @@
         ]
       },
       {
-        "s": "HITBTC:LEOUSDT",
+        "s": "HITBTC:KINBTC",
         "f": [
-          "no longer trading"
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:KINUSD",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:LIFEBTC",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "HITBTC:LIFEUSD",
+        "f": [
+          "price null"
         ]
       },
       {

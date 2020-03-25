@@ -667,9 +667,21 @@
         ]
       },
       {
+        "s": "SET:BTNC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BTNC.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:BTNC.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1658,6 +1670,12 @@
       },
       {
         "s": "SET:JAS.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:JASIF.F",
         "f": [
           "no longer trading"
         ]

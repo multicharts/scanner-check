@@ -1,44 +1,37 @@
 {
     "black_list": [
       {
-        "s": "QSE:TC16",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "QSE:TC39",
+        "s": "QSE:IFSS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "QSE:TC43",
+        "s": "QSE:QMLS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
-        "s": "QSE:TC45",
+        "s": "QSE:QRES",
         "f": [
-          "equal bars",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "QSE:QSHS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "QSE:QTIS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "QSE:TC51",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "QSE:TC53",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "QSE:TC56",
         "f": [
           "no longer trading"
         ]
@@ -50,33 +43,9 @@
         ]
       },
       {
-        "s": "QSE:TC61",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "QSE:TC64",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "QSE:TC66",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "QSE:TC69",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "QSE:TC72",
-        "f": [
           "no longer trading"
         ]
       }

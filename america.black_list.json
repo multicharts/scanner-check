@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EEH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:PTEST.A",
         "f": [
           "empty symbol"
@@ -20,12 +14,6 @@
       },
       {
         "s": "AMEX:RODI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:SSW",
         "f": [
           "no longer trading"
         ]
@@ -746,6 +734,12 @@
         ]
       },
       {
+        "s": "NASDAQ:IMVTU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:IMXIW",
         "f": [
           "no longer trading"
@@ -1407,18 +1401,6 @@
       },
       {
         "s": "NASDAQ:YZCM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYMEX:PAM2021",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYMEX:PLM2020",
         "f": [
           "empty symbol"
         ]
@@ -2126,6 +2108,12 @@
         ]
       },
       {
+        "s": "NYSE:RFM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:ZAYO",
         "f": [
           "no longer trading"
@@ -2234,7 +2222,19 @@
         ]
       },
       {
+        "s": "OTC:CVRHF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:DBUB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:DLMV",
         "f": [
           "no longer trading"
         ]
@@ -2312,6 +2312,12 @@
         ]
       },
       {
+        "s": "OTC:INFT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ISRJF",
         "f": [
           "no longer trading"
@@ -2331,6 +2337,24 @@
       },
       {
         "s": "OTC:LEAI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:LMSQF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:LVCNF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MCCX",
         "f": [
           "no longer trading"
         ]
@@ -2379,6 +2403,12 @@
       },
       {
         "s": "OTC:NTOX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:NUZE",
         "f": [
           "no longer trading"
         ]
@@ -2451,6 +2481,12 @@
       },
       {
         "s": "OTC:STWRY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:STXMF",
         "f": [
           "no longer trading"
         ]

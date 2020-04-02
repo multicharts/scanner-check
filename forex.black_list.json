@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "FX_IDC:AEDUSD",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "FX_IDC:BBDUSD",
         "f": [
           "equal bars"
@@ -148,15 +142,15 @@
         ]
       },
       {
-        "s": "FX_IDC:SARSEK",
+        "s": "FX_IDC:QARAED",
         "f": [
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
-        "s": "FX_IDC:SLLUSD",
+        "s": "FX_IDC:SARSEK",
         "f": [
-          "equal bars"
+          "no longer trading"
         ]
       },
       {

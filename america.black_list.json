@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BBMC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
@@ -25,7 +19,7 @@
         ]
       },
       {
-        "s": "AMEX:SMDY",
+        "s": "AMEX:ULBR",
         "f": [
           "no longer trading"
         ]
@@ -164,18 +158,6 @@
       },
       {
         "s": "CME:BTCV2020",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:HEQ2021",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "CME:IBVZ2020",
         "f": [
           "empty symbol"
         ]
@@ -1022,6 +1004,12 @@
         ]
       },
       {
+        "s": "NASDAQ:PDEV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:PGLC",
         "f": [
           "no longer trading"
@@ -1043,6 +1031,12 @@
         "s": "NASDAQ:PLTX",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:PMOM",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1227,12 +1221,6 @@
       },
       {
         "s": "NASDAQ:TESO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:THCAU",
         "f": [
           "no longer trading"
         ]
@@ -2054,12 +2042,6 @@
         ]
       },
       {
-        "s": "NYSE:AVX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NYSE:CBO/PA",
         "f": [
           "no longer trading"
@@ -2067,12 +2049,6 @@
       },
       {
         "s": "NYSE:CCAC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:CTST",
         "f": [
           "no longer trading"
         ]
@@ -2133,6 +2109,18 @@
       },
       {
         "s": "OTC:ANPCY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ATMS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ATXG",
         "f": [
           "no longer trading"
         ]
@@ -2276,13 +2264,13 @@
         ]
       },
       {
-        "s": "OTC:EPGNY",
+        "s": "OTC:EPGNF",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OTC:EQUR",
+        "s": "OTC:EPGNY",
         "f": [
           "no longer trading"
         ]
@@ -2295,6 +2283,12 @@
       },
       {
         "s": "OTC:FCIC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FFMR",
         "f": [
           "no longer trading"
         ]
@@ -2348,12 +2342,6 @@
         ]
       },
       {
-        "s": "OTC:GWSN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:GZDIF",
         "f": [
           "no longer trading"
@@ -2367,12 +2355,6 @@
       },
       {
         "s": "OTC:HHHEF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:HOILF",
         "f": [
           "no longer trading"
         ]
@@ -2456,6 +2438,12 @@
         ]
       },
       {
+        "s": "OTC:MMND",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:MNBO",
         "f": [
           "no longer trading"
@@ -2511,12 +2499,6 @@
       },
       {
         "s": "OTC:ONDS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ORXOY",
         "f": [
           "no longer trading"
         ]
@@ -2630,12 +2612,6 @@
         ]
       },
       {
-        "s": "OTC:TATYF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:TIMCF",
         "f": [
           "no longer trading"
@@ -2703,6 +2679,12 @@
       },
       {
         "s": "OTC:VRDR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:VRSCF",
         "f": [
           "no longer trading"
         ]

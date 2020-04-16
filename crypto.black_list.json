@@ -99,8 +99,7 @@
       {
         "s": "BITFINEX:ALGUSTLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "no longer trading"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -453,7 +452,7 @@
       {
         "s": "BITFINEX:BTCBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1434,12 +1433,6 @@
         ]
       },
       {
-        "s": "BITFINEX:FSNUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:FSNUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2065,6 +2058,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:MANUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4482,6 +4481,12 @@
         ]
       },
       {
+        "s": "BITHUMB:THETAKRW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITHUMB:TMTGKRW",
         "f": [
           "no longer trading"
@@ -4608,6 +4613,30 @@
         ]
       },
       {
+        "s": "BITTREX:BRZBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:BRZUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XUCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XUCUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -4704,19 +4733,25 @@
         ]
       },
       {
-        "s": "HITBTC:ACTUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:ADXUSDT",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "HITBTC:AMMUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HITBTC:ELFUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:LOOMETH",
         "f": [
           "no longer trading"
         ]
@@ -4729,6 +4764,12 @@
       },
       {
         "s": "HITBTC:MGETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:NAVUSDT",
         "f": [
           "no longer trading"
         ]
@@ -4765,6 +4806,24 @@
       },
       {
         "s": "HITBTC:SMTETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:TELBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:TELETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:TVUSDT",
         "f": [
           "no longer trading"
         ]

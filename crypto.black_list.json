@@ -2642,12 +2642,6 @@
         ]
       },
       {
-        "s": "BITFINEX:POAUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:POAUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4606,6 +4600,12 @@
       },
       {
         "s": "FTX:BTCL3USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FTX:BTCMOVE0423",
         "f": [
           "empty symbol"
         ]

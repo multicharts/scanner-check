@@ -469,6 +469,12 @@
         ]
       },
       {
+        "s": "SET:BGRIM.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BGT.F",
         "f": [
           "no longer trading"
@@ -1129,19 +1135,7 @@
         ]
       },
       {
-        "s": "SET:EP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:EP.F",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SET:EP.R",
         "f": [
           "empty symbol"
         ]
@@ -1598,6 +1592,12 @@
       },
       {
         "s": "SET:J.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:JAS.F",
         "f": [
           "no longer trading"
         ]
@@ -2679,7 +2679,7 @@
       {
         "s": "SET:PRG.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2864,9 +2864,21 @@
         ]
       },
       {
+        "s": "SET:ROCK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:ROCK.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:ROCK.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3027,6 +3039,18 @@
       },
       {
         "s": "SET:SC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SCB.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SCB.P.R",
         "f": [
           "no longer trading"
         ]
@@ -3195,12 +3219,6 @@
       },
       {
         "s": "SET:SIS.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:SISB.F",
         "f": [
           "no longer trading"
         ]
@@ -4126,12 +4144,6 @@
       },
       {
         "s": "SET:TTW.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:TU.F",
         "f": [
           "no longer trading"
         ]

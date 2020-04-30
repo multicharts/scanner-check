@@ -99,7 +99,8 @@
       {
         "s": "BITFINEX:ALGUSTLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -456,12 +457,6 @@
         ]
       },
       {
-        "s": "BITFINEX:BTCCNHT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:BTCCNHTLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -611,12 +606,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CBTUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -771,12 +760,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:DADUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1418,6 +1401,12 @@
         ]
       },
       {
+        "s": "BITFINEX:FOAUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:FOAUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1838,12 +1827,6 @@
         ]
       },
       {
-        "s": "BITFINEX:KANUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:KANUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1966,6 +1949,12 @@
         ]
       },
       {
+        "s": "BITFINEX:LOOUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:LOOUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2057,12 +2046,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:MANUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2594,12 +2577,6 @@
         ]
       },
       {
-        "s": "BITFINEX:PAXUST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:PAXUSTLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2922,12 +2899,6 @@
         ]
       },
       {
-        "s": "BITFINEX:RTEUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:RTEUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2962,8 +2933,7 @@
       {
         "s": "BITFINEX:SANETHSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "no longer trading"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -4101,49 +4071,13 @@
         ]
       },
       {
-        "s": "BITHUMB:ANKRKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:APIXKRW",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BITHUMB:BASICKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITHUMB:BATKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:BCHKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:BHPKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:BOAKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:BSVKRW",
         "f": [
           "no longer trading"
         ]
@@ -4155,69 +4089,9 @@
         ]
       },
       {
-        "s": "BITHUMB:BZNTKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:CHRKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:CONKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:COSKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:CROKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:CTXCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:DACKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:DVPKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:ELKRW",
+        "s": "BITHUMB:EGGKRW",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITHUMB:EMKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:ENJKRW",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4233,25 +4107,7 @@
         ]
       },
       {
-        "s": "BITHUMB:FXKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:GXCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:HDACKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:HYCKRW",
         "f": [
           "no longer trading"
         ]
@@ -4275,30 +4131,6 @@
         ]
       },
       {
-        "s": "BITHUMB:ITCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:KNCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:LBAKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:LOOMKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:LRCKRW",
         "f": [
           "no longer trading"
@@ -4312,6 +4144,12 @@
       },
       {
         "s": "BITHUMB:MBLKRW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITHUMB:MIXKRW",
         "f": [
           "no longer trading"
         ]
@@ -4335,19 +4173,7 @@
         ]
       },
       {
-        "s": "BITHUMB:OMGKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:PCMKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:PLXKRW",
         "f": [
           "no longer trading"
         ]
@@ -4371,37 +4197,7 @@
         ]
       },
       {
-        "s": "BITHUMB:SOCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:THETAKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:TMTGKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:TRUEKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:TRVKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:TRXKRW",
         "f": [
           "no longer trading"
         ]
@@ -4413,13 +4209,7 @@
         ]
       },
       {
-        "s": "BITHUMB:VETKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:VSYSKRW",
+        "s": "BITHUMB:WAVESKRW",
         "f": [
           "no longer trading"
         ]
@@ -4437,37 +4227,19 @@
         ]
       },
       {
-        "s": "BITHUMB:WPXKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:WTCKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITHUMB:XLMKRW",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BITHUMB:XMRKRW",
+        "s": "BITHUMB:XPRKRW",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "BITHUMB:XRPKRW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITHUMB:XSRKRW",
         "f": [
           "no longer trading"
         ]
@@ -4492,6 +4264,18 @@
       },
       {
         "s": "BITTREX:BCHEUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:HDAOBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:HDAOUSD",
         "f": [
           "empty symbol"
         ]
@@ -4587,15 +4371,99 @@
         ]
       },
       {
+        "s": "FTX:BTCMOVE0422",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FTX:BTCMOVE0423",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "FTX:BTCMOVEWK0424",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FTX:BTCS3USD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "HITBTC:ADXUSDT",
+        "s": "GEMINI:BATBTC",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:BATETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:BATUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:DAIBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:DAIETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:DAIUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:LINKBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:LINKETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:LINKUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:OXTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:OXTETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "GEMINI:OXTUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -4605,19 +4473,25 @@
         ]
       },
       {
-        "s": "HITBTC:CUTEEOS",
+        "s": "HITBTC:APPCUSDT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:DASHEURS",
+        "s": "HITBTC:ARNETH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:ELFUSDT",
+        "s": "HITBTC:BCPTETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:DITETH",
         "f": [
           "no longer trading"
         ]
@@ -4629,19 +4503,7 @@
         ]
       },
       {
-        "s": "HITBTC:LOOMETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MESHUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MGEOS",
+        "s": "HITBTC:MESHETH",
         "f": [
           "no longer trading"
         ]
@@ -4653,13 +4515,31 @@
         ]
       },
       {
-        "s": "HITBTC:PADUSDT",
+        "s": "HITBTC:OAXUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:PHXUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:PITCHETH",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "HITBTC:POA20DAI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:POA20ETH",
         "f": [
           "no longer trading"
         ]
@@ -4677,19 +4557,7 @@
         ]
       },
       {
-        "s": "HITBTC:POWRETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:TELBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:TELETH",
+        "s": "HITBTC:POEETH",
         "f": [
           "no longer trading"
         ]
@@ -4701,15 +4569,9 @@
         ]
       },
       {
-        "s": "HITBTC:XMREURS",
+        "s": "HITBTC:WIKIUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:XPRETH",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4863,6 +4725,12 @@
         ]
       },
       {
+        "s": "OKCOIN:EURSUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OKCOIN:LTCUSD1W",
         "f": [
           "skip forward"
@@ -4878,6 +4746,18 @@
         "s": "OKCOIN:LTCUSD3M",
         "f": [
           "skip forward"
+        ]
+      },
+      {
+        "s": "OKCOIN:PAXUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OKCOIN:TUSDUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {

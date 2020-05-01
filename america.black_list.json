@@ -1,7 +1,25 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BMAY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:CLNY/PB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:GLCN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:GLIN",
         "f": [
           "empty symbol"
         ]
@@ -19,6 +37,12 @@
         ]
       },
       {
+        "s": "AMEX:INST",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:MLTI",
         "f": [
           "no longer trading"
@@ -28,6 +52,24 @@
         "s": "AMEX:OMN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:PMAY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:S",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:UMAY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -472,6 +514,12 @@
         "s": "NASDAQ:DFBHU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:DFPH",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2230,12 +2278,6 @@
         "s": "NYMEX_MINI:MBCZ2026",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:CBO/PA",
-        "f": [
-          "no longer trading"
         ]
       },
       {

@@ -1,6 +1,72 @@
 {
     "black_list": [
       {
+        "s": "OANDA:AU200AUD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:CORNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:DE30EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:HK33HKD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NATGASUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:NL25EUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SOYBNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:SUGARUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:US30USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:WHEATUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OANDA:XCUUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TVC:BR01",
         "f": [
           "no longer trading"
@@ -73,12 +139,6 @@
         ]
       },
       {
-        "s": "TVC:JP10Y",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "TVC:TR01",
         "f": [
           "no longer trading"
@@ -112,12 +172,6 @@
         "s": "TVC:TR05Y",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TVC:US10Y",
-        "f": [
-          "price null"
         ]
       }
     ]

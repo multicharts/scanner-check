@@ -99,7 +99,8 @@
       {
         "s": "BITFINEX:ALGUSTLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -620,6 +621,12 @@
         ]
       },
       {
+        "s": "BITFINEX:CBTUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITFINEX:CBTUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -977,6 +984,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1342,6 +1355,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTEUR",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3987,6 +4006,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:ZBTUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {

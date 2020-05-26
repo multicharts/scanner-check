@@ -1,42 +1,6 @@
 {
     "black_list": [
       {
-        "s": "ASX:XJO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BAHRAIN:BSEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BIST:XU100",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "IDX:COMPOSITE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:IMOEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NSENG:NSE30",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OANDA:AU200AUD",
         "f": [
           "empty symbol"
@@ -103,24 +67,6 @@
         ]
       },
       {
-        "s": "TVC:AEX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:AU02Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:BE03Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:BE10Y",
         "f": [
           "price null"
@@ -128,12 +74,6 @@
       },
       {
         "s": "TVC:BE15Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:BE30",
         "f": [
           "empty symbol"
         ]
@@ -147,7 +87,7 @@
       {
         "s": "TVC:BR01Y",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -165,7 +105,7 @@
       {
         "s": "TVC:BR05",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -187,192 +127,6 @@
         ]
       },
       {
-        "s": "TVC:CA05",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CA05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CA30",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CN01",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CN02",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CN05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:CN30",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE02",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE02Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE05",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DE30Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DK05",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DK05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DK10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DK10Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:DK20Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ES02Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ES05",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:EUBUND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR01",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR02",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR03Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR15",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR15Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR25",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:FR25Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:GB03",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:GB07",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:GB30",
         "f": [
           "no longer trading"
@@ -385,75 +139,9 @@
         ]
       },
       {
-        "s": "TVC:GOLDSILVER",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:GR15",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:GR20Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:GR25",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:HK10Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ID03Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ID15Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ID30Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IE03Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IE05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IE15Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:IN01",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -463,135 +151,9 @@
         ]
       },
       {
-        "s": "TVC:IN05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IN07Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IN20",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IN25",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:IN25Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:JP02Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:JP07",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:JP07Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:JP20",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:KOSPI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:KR01",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:KR03",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:KR30Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:MY15",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:MY20Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:MY30",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:NL02Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:NL03Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:NL20",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:NL30Y",
         "f": [
           "price null"
-        ]
-      },
-      {
-        "s": "TVC:NO05",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:NO10Y",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -601,39 +163,9 @@
         ]
       },
       {
-        "s": "TVC:PT07",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:RUA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:SE10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:SG15Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:SSMI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:TR01",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -667,73 +199,7 @@
         ]
       },
       {
-        "s": "TVC:TR10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:TW30Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TVC:UI10",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:UI10Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:UKX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:UTY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:VIX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:XAX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ZA05Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ZA10Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TVC:ZA15",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "XETR:DAX",
         "f": [
           "empty symbol"
         ]

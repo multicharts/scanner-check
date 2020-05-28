@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:AGN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:BID",
         "f": [
           "no longer trading"
@@ -16,6 +10,12 @@
         "s": "AMEX:CBS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:CFCV",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -38,6 +38,12 @@
       },
       {
         "s": "AMEX:MSG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:RTN",
         "f": [
           "no longer trading"
         ]
@@ -2224,6 +2230,12 @@
         "s": "NYSE:LHC.U",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:LOAK",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "OMXSTO:ABLI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -157,6 +151,18 @@
         ]
       },
       {
+        "s": "OMXSTO:MIDW_A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:NAVAO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:NODLO",
         "f": [
           "no longer trading"
@@ -178,6 +184,12 @@
         "s": "OMXSTO:NTSO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:NVP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -247,12 +259,6 @@
         ]
       },
       {
-        "s": "OMXSTO:SBLKO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:SHLFO",
         "f": [
           "no longer trading"
@@ -265,7 +271,7 @@
         ]
       },
       {
-        "s": "OMXSTO:TECHO",
+        "s": "OMXSTO:TREO",
         "f": [
           "no longer trading"
         ]
@@ -284,6 +290,12 @@
       },
       {
         "s": "OMXSTO:WILSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:ZALO",
         "f": [
           "no longer trading"
         ]

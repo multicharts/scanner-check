@@ -1,13 +1,13 @@
 {
     "black_list": [
       {
-        "s": "JSE:AFEP",
+        "s": "JSE:AHL",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "JSE:AHL",
+        "s": "JSE:AON",
         "f": [
           "no longer trading"
         ]
@@ -121,6 +121,12 @@
         ]
       },
       {
+        "s": "JSE:ECSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "JSE:ECSD1",
         "f": [
           "empty symbol"
@@ -206,6 +212,12 @@
       },
       {
         "s": "JSE:ECSE7",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "JSE:ECSG",
         "f": [
           "empty symbol"
         ]
@@ -493,12 +505,6 @@
         ]
       },
       {
-        "s": "JSE:OAS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "JSE:PHM",
         "f": [
           "no longer trading"
@@ -562,12 +568,6 @@
         "s": "JSE:UAT",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "JSE:UPL",
-        "f": [
-          "no longer trading"
         ]
       },
       {

@@ -421,6 +421,12 @@
         ]
       },
       {
+        "s": "SET:BAM.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BANPU.F",
         "f": [
           "no longer trading"
@@ -1546,9 +1552,21 @@
         ]
       },
       {
+        "s": "SET:INSURE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:INSURE.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:INSURE.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -3557,6 +3575,12 @@
       },
       {
         "s": "SET:TAKUNI.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TASCO.F",
         "f": [
           "no longer trading"
         ]

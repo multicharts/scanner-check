@@ -99,7 +99,8 @@
       {
         "s": "BITFINEX:ALGUSTLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -977,6 +978,12 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:DTXUSD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2851,12 +2858,6 @@
         ]
       },
       {
-        "s": "BITFINEX:RTEUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:RTEUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3991,48 +3992,6 @@
         ]
       },
       {
-        "s": "BITSTAMP:BCHGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:BTCGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:ETHGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:GBPEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:GBPUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:LTCGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:XRPGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:BKXBTC",
         "f": [
           "no longer trading"
@@ -4111,7 +4070,7 @@
         ]
       },
       {
-        "s": "HITBTC:CUTEEOS",
+        "s": "HITBTC:BTCBBTC",
         "f": [
           "no longer trading"
         ]
@@ -4130,6 +4089,12 @@
       },
       {
         "s": "HITBTC:PADUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:PITCHETH",
         "f": [
           "no longer trading"
         ]

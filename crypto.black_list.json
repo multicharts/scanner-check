@@ -1,6 +1,24 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:LRCBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:REPBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:REPUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4208,6 +4226,60 @@
         ]
       },
       {
+        "s": "HUOBI:BHDBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:BTCUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:EGCCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:EMUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:ENGETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:FTTUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:GXCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:LTCBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:NULSETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HUOBI:OSTETH",
         "f": [
           "no longer trading"
@@ -4241,6 +4313,12 @@
         "s": "HUOBI:TNTETH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HUOBI:UTKETH",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,13 +1,7 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:MCOETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:THETAUSD",
+        "s": "BINANCE:REQUSD",
         "f": [
           "empty symbol"
         ]
@@ -312,6 +306,12 @@
         "s": "BITFINEX:BABBTCSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:BABINR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2068,6 +2068,12 @@
         ]
       },
       {
+        "s": "BITFINEX:MANBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:MANUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2204,12 +2210,6 @@
         "s": "BITFINEX:MNAUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:MTNBTC",
-        "f": [
           "empty symbol"
         ]
       },
@@ -4080,7 +4080,37 @@
         ]
       },
       {
+        "s": "BITTREX:DNTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:EDRUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:NPXSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:SCETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XMRUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XZCUSD",
         "f": [
           "empty symbol"
         ]
@@ -4182,7 +4212,7 @@
         ]
       },
       {
-        "s": "HITBTC:FYPUSD",
+        "s": "HITBTC:ELECUSD",
         "f": [
           "empty symbol"
         ]
@@ -4218,7 +4248,7 @@
         ]
       },
       {
-        "s": "HITBTC:SIGUSD",
+        "s": "HITBTC:TKYUSD",
         "f": [
           "empty symbol"
         ]
@@ -4248,19 +4278,25 @@
         ]
       },
       {
+        "s": "HITBTC:XDNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HITBTC:XMREURS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HUOBI:ETCHUSD",
+        "s": "HUOBI:ETNETH",
         "f": [
-          "invalid symbol"
+          "empty symbol"
         ]
       },
       {
-        "s": "HUOBI:NANOBTC",
+        "s": "HUOBI:UCETH",
         "f": [
           "empty symbol"
         ]

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:REQUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -306,12 +300,6 @@
         "s": "BITFINEX:BABBTCSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:BABINR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2064,12 +2052,6 @@
         "s": "BITFINEX:LYMUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:MANBTC",
-        "f": [
           "empty symbol"
         ]
       },
@@ -4080,37 +4062,7 @@
         ]
       },
       {
-        "s": "BITTREX:DNTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:EDRUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:NPXSUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:SCETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:XMRUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:XZCUSD",
         "f": [
           "empty symbol"
         ]
@@ -4212,12 +4164,6 @@
         ]
       },
       {
-        "s": "HITBTC:ELECUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:MGETH",
         "f": [
           "no longer trading"
@@ -4248,12 +4194,6 @@
         ]
       },
       {
-        "s": "HITBTC:TKYUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:USGETH",
         "f": [
           "no longer trading"
@@ -4278,27 +4218,9 @@
         ]
       },
       {
-        "s": "HITBTC:XDNUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:XMREURS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HUOBI:ETNETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:UCETH",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4317,6 +4239,12 @@
         "s": "KUCOIN:RHOCETH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KUCOIN:SENSOUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

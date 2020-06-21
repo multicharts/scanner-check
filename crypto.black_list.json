@@ -1,19 +1,13 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:EVXUSD",
+        "s": "BINANCE:MCOETH",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BINANCE:MANAUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:XEMUSD",
+        "s": "BINANCE:THETAUSD",
         "f": [
           "empty symbol"
         ]
@@ -1426,12 +1420,6 @@
         ]
       },
       {
-        "s": "BITFINEX:FOABTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:FOAUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2216,6 +2204,12 @@
         "s": "BITFINEX:MNAUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:MTNBTC",
+        "f": [
           "empty symbol"
         ]
       },
@@ -4092,18 +4086,6 @@
         ]
       },
       {
-        "s": "BITTREX:XELUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:XSTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -4194,25 +4176,13 @@
         ]
       },
       {
-        "s": "HITBTC:BCDUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:BNKUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:CBCUSDT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:IDRTUSD",
+        "s": "HITBTC:FYPUSD",
         "f": [
           "empty symbol"
         ]
@@ -4248,7 +4218,7 @@
         ]
       },
       {
-        "s": "HITBTC:REMUSD",
+        "s": "HITBTC:SIGUSD",
         "f": [
           "empty symbol"
         ]
@@ -4284,19 +4254,13 @@
         ]
       },
       {
-        "s": "HUOBI:BCH03N2020",
+        "s": "HUOBI:ETCHUSD",
         "f": [
-          "empty symbol"
+          "invalid symbol"
         ]
       },
       {
-        "s": "HUOBI:FORHT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:HITUSDT",
+        "s": "HUOBI:NANOBTC",
         "f": [
           "empty symbol"
         ]
@@ -4305,12 +4269,6 @@
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "KUCOIN:DBCBTC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4347,12 +4305,6 @@
         "s": "POLONIEX:GRINBTC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:KNCUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {

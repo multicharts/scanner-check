@@ -441,7 +441,8 @@
       {
         "s": "BINANCE:NAVUSD",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "invalid symbol"
         ]
       },
       {
@@ -5142,6 +5143,12 @@
         ]
       },
       {
+        "s": "BITTREX:GTOUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:HBDUSD",
         "f": [
           "empty symbol"
@@ -5265,6 +5272,12 @@
         "s": "BITTREX:MERUSD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MOCUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -5622,6 +5635,12 @@
         ]
       },
       {
+        "s": "BITTREX:WINGSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:XHVUSD",
         "f": [
           "empty symbol"
@@ -5641,6 +5660,12 @@
       },
       {
         "s": "BITTREX:XSTUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:XTPUSD",
         "f": [
           "empty symbol"
         ]
@@ -5778,6 +5803,12 @@
         ]
       },
       {
+        "s": "HITBTC:DNTUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "HITBTC:EOSGUSD",
         "f": [
           "no longer trading"
@@ -5817,6 +5848,18 @@
         "s": "HITBTC:RCNETH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:SNGLSUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:SNTUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -5889,6 +5932,18 @@
         "s": "POLONIEX:GRINBTC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:KNCUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:LOOMUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

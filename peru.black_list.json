@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BVL:AAPL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BVL:ADBE",
         "f": [
           "empty symbol"
@@ -200,6 +206,12 @@
       },
       {
         "s": "BVL:CARDIFC1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BVL:CASAGRC1",
         "f": [
           "empty symbol"
         ]
@@ -643,12 +655,6 @@
         ]
       },
       {
-        "s": "BVL:FUTURAC1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BVL:GANSALC1",
         "f": [
           "empty symbol"
@@ -692,12 +698,6 @@
       },
       {
         "s": "BVL:HYG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:IBM",
         "f": [
           "no longer trading"
         ]
@@ -1262,12 +1262,6 @@
       },
       {
         "s": "BVL:UNITEXI1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:UUP",
         "f": [
           "no longer trading"
         ]

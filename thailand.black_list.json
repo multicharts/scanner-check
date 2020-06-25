@@ -1176,7 +1176,7 @@
       {
         "s": "SET:EPG.F",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -2315,6 +2315,12 @@
         ]
       },
       {
+        "s": "SET:NEX.R",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SET:NFC.F",
         "f": [
           "empty symbol"
@@ -3250,6 +3256,12 @@
       },
       {
         "s": "SET:SGF.Q1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:SGP",
         "f": [
           "empty symbol"
         ]

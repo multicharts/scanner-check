@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "EGX:ASHC",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "EGX:CTSB",
         "f": [
           "equal bars"
@@ -10,6 +16,12 @@
         "s": "EGX:GPPL",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "EGX:MILS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -34,6 +46,12 @@
         "s": "EGX:OCPH",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "EGX:PHAR",
+        "f": [
+          "empty symbol"
         ]
       },
       {

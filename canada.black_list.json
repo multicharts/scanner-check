@@ -1725,7 +1725,7 @@
       {
         "s": "NEO:CBG",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -3681,7 +3681,8 @@
       {
         "s": "NEO:GIGA",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "invalid symbol"
         ]
       },
       {
@@ -4251,8 +4252,7 @@
       {
         "s": "NEO:HSM",
         "f": [
-          "empty symbol",
-          "invalid symbol"
+          "empty symbol"
         ]
       },
       {
@@ -9484,7 +9484,8 @@
       {
         "s": "TSX:YCM",
         "f": [
-          "empty symbol"
+          "empty symbol",
+          "invalid symbol"
         ]
       },
       {
@@ -10001,6 +10002,12 @@
         "s": "TSXV:CVR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:CX",
+        "f": [
+          "empty symbol"
         ]
       },
       {

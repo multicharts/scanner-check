@@ -1851,8 +1851,7 @@
       {
         "s": "BMFBOVESPA:I1VZ34",
         "f": [
-          "invalid symbol",
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -3083,7 +3082,7 @@
       {
         "s": "BMFBOVESPA:S1IV34",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -3457,6 +3456,7 @@
       {
         "s": "BMFBOVESPA:TMCO34",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },

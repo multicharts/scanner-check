@@ -2312,7 +2312,8 @@
       {
         "s": "BITFINEX:NEOJPYSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4197,6 +4198,12 @@
       },
       {
         "s": "OKCOIN:BTCSGD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OKCOIN:EURSUSD",
         "f": [
           "no longer trading"
         ]

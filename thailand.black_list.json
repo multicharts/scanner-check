@@ -1446,7 +1446,7 @@
       {
         "s": "SET:GULF.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3218,9 +3218,21 @@
         ]
       },
       {
+        "s": "SET:SFP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:SFP.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SFP.R",
+        "f": [
           "no longer trading"
         ]
       },
@@ -3427,12 +3439,6 @@
         "s": "SET:SPCG.F",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:SPG.R",
-        "f": [
-          "empty symbol"
         ]
       },
       {

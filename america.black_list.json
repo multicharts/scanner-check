@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AMND",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:DFVS",
         "f": [
           "no longer trading"
@@ -14,6 +20,12 @@
       },
       {
         "s": "AMEX:GLU/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:GSIG",
         "f": [
           "no longer trading"
         ]
@@ -413,6 +425,12 @@
         "s": "NASDAQ:BHBK",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:BLCT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1268,6 +1286,12 @@
         ]
       },
       {
+        "s": "NASDAQ:TXAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:TZACU",
         "f": [
           "no longer trading"
@@ -1607,6 +1631,12 @@
         "s": "NYMEX:TICZ2022",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:CBO/PA",
+        "f": [
+          "no longer trading"
         ]
       },
       {

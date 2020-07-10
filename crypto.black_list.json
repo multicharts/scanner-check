@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:DOGEUSDTPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSD",
         "f": [
           "no longer trading"
@@ -4158,12 +4164,6 @@
       },
       {
         "s": "HITBTC:INKETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MESHUSDT",
         "f": [
           "no longer trading"
         ]

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FWB:BKHT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "FWB:BNRN",
         "f": [
           "no longer trading"
@@ -16,12 +22,6 @@
         "s": "FWB:ILMJ",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "FWB:M1H",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -86,12 +86,6 @@
       },
       {
         "s": "SWB:L60",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SWB:M1H",
         "f": [
           "no longer trading"
         ]

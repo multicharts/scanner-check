@@ -1612,9 +1612,21 @@
         ]
       },
       {
+        "s": "SET:KWC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:KWC.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:KWC.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2123,7 +2135,19 @@
         ]
       },
       {
+        "s": "SET:PACE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:PACE.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:PACE.R",
         "f": [
           "no longer trading"
         ]

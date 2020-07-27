@@ -103,7 +103,19 @@
         ]
       },
       {
+        "s": "SET:AFC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:AFC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:AFC.R",
         "f": [
           "no longer trading"
         ]
@@ -1346,6 +1358,12 @@
       },
       {
         "s": "SET:GLAND.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:GLOBAL.F",
         "f": [
           "no longer trading"
         ]
@@ -2826,6 +2844,12 @@
         "s": "SET:Q-CON.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:QH.F",
+        "f": [
           "no longer trading"
         ]
       },

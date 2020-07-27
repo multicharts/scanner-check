@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:ALO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:AZBA",
         "f": [
           "no longer trading"
@@ -464,12 +458,6 @@
       },
       {
         "s": "NASDAQ:COOL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:CVETV",
         "f": [
           "no longer trading"
         ]
@@ -1309,6 +1297,12 @@
         ]
       },
       {
+        "s": "NASDAQ:USLV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:UTEK",
         "f": [
           "no longer trading"
@@ -1450,6 +1444,12 @@
         "s": "NYSE:CBO/PA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:NREF/PA",
+        "f": [
+          "empty symbol"
         ]
       },
       {

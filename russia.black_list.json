@@ -1,13 +1,19 @@
 {
     "black_list": [
       {
+        "s": "MOEX:BISV",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MOEX:GAZC",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "MOEX:GAZS",
+        "s": "MOEX:GAZT",
         "f": [
           "equal bars"
         ]
@@ -46,12 +52,6 @@
         "s": "MOEX:KUNF",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:KZMS",
-        "f": [
-          "equal bars"
         ]
       },
       {

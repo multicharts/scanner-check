@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:CHIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:EQM",
         "f": [
           "no longer trading"
@@ -836,12 +842,6 @@
       },
       {
         "s": "NASDAQ:LION",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:LOAC",
         "f": [
           "no longer trading"
         ]

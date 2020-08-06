@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:AVAUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:FIOUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1081,12 +1069,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:DTXUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4131,24 +4113,6 @@
         ]
       },
       {
-        "s": "BITTREX:INSTARUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:SKMUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:SUTERUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -4185,12 +4149,6 @@
         ]
       },
       {
-        "s": "CEXIO:GUSDEUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CEXIO:ZECBTC",
         "f": [
           "no longer trading"
@@ -4221,12 +4179,6 @@
         ]
       },
       {
-        "s": "HITBTC:LEOUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:MGETH",
         "f": [
           "no longer trading"
@@ -4234,12 +4186,6 @@
       },
       {
         "s": "HITBTC:NUTEOS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:OMGBCH",
         "f": [
           "no longer trading"
         ]
@@ -4263,21 +4209,27 @@
         ]
       },
       {
-        "s": "HITBTC:WBTCETH",
+        "s": "HUOBI:ALGOPERP",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:KNCPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:ZRXPERP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "KRAKEN:ADAEUR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4314,18 +4266,6 @@
         "s": "OKCOIN:ETHSGD",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OKCOIN:EURSUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:SWAPUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {

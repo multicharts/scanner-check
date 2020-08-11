@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "AMEX:BUFF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:BUFR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:DUAL",
         "f": [
           "empty symbol"
@@ -1193,6 +1205,12 @@
         "s": "NASDAQ:SONC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:SQFT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

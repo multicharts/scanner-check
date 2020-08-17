@@ -199,13 +199,6 @@
         ]
       },
       {
-        "s": "CME:WDCX2023",
-        "f": [
-          "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
         "s": "COMEX:LED1!",
         "f": [
           "equal bars"
@@ -239,6 +232,12 @@
         "s": "COMEX:LEDQ2020",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "COMEX:LEDQ2021",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1379,6 +1378,18 @@
         "s": "NASDAQ:YZCM",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NYMEX:PAX2020",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYMEX:PLX2020",
+        "f": [
+          "no longer trading"
         ]
       },
       {

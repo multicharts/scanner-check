@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "LSE:100H",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:10NC",
         "f": [
           "no longer trading"
@@ -37,48 +31,6 @@
         ]
       },
       {
-        "s": "LSE:2AAP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2GOO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2GS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2MU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2MUE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2NFL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:2UKL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:32ID",
         "f": [
           "no longer trading"
@@ -87,7 +39,6 @@
       {
         "s": "LSE:32QX",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -112,7 +63,6 @@
       {
         "s": "LSE:37OC",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -126,7 +76,6 @@
       {
         "s": "LSE:37ZL",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -161,73 +110,7 @@
         ]
       },
       {
-        "s": "LSE:3EMS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3EUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3GIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3GOL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3GOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:3HCL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3LGO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3LNG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3LSI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3NGL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3NGS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3NVD",
         "f": [
           "invalid symbol"
         ]
@@ -239,33 +122,9 @@
         ]
       },
       {
-        "s": "LSE:3SIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:3SOI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:3SSI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3UKL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:3USL",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -313,28 +172,24 @@
       {
         "s": "LSE:44IO",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:46GM",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:46IE",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:47HA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -377,22 +232,19 @@
       {
         "s": "LSE:50XD",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:51FL",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:53GW",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -404,7 +256,6 @@
       {
         "s": "LSE:54UD",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -423,32 +274,12 @@
       {
         "s": "LSE:59OT",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:5ESG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:5HED",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:5UKL",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
         "s": "LSE:61HD",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -473,7 +304,6 @@
       {
         "s": "LSE:62UM",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -522,7 +352,6 @@
       {
         "s": "LSE:70HF",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -565,14 +394,12 @@
       {
         "s": "LSE:78GL",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:78QZ",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -585,7 +412,6 @@
       {
         "s": "LSE:80GM",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -616,8 +442,7 @@
       {
         "s": "LSE:87FZ",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -641,7 +466,6 @@
       {
         "s": "LSE:88EI",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -688,127 +512,13 @@
         ]
       },
       {
-        "s": "LSE:AA.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AADV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AAM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AAOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AASU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ABC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ACIA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:ACWD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ACWU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ADA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ADAM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ADM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ADT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ADT1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:AEJ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AEMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AERI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AEXK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AFM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AFN",
         "f": [
           "invalid symbol"
         ]
@@ -820,81 +530,9 @@
         ]
       },
       {
-        "s": "LSE:AFS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AGED",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:AGOL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:AGOU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AH50",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AHT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIBG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIFZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIGE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIGO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AIQ",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -904,79 +542,7 @@
         ]
       },
       {
-        "s": "LSE:AIRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AJG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AJIT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ALAG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ALBA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ALS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ALTN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ALUM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AMAT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:AMC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AMD2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AMDS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AML",
         "f": [
           "invalid symbol"
         ]
@@ -988,123 +554,9 @@
         ]
       },
       {
-        "s": "LSE:AMS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AMZE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ANCR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ANGS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ANIC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ANXU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AOF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:APGN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:APP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:APTD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AQSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARIX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ARO",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:ARR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARTL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ARW",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1114,43 +566,13 @@
         ]
       },
       {
-        "s": "LSE:ASC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ASCI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ASH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:ASHM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ASHR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ASIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ASIT",
         "f": [
           "invalid symbol"
         ]
@@ -1168,85 +590,13 @@
         ]
       },
       {
-        "s": "LSE:AT1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AT1D",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ATM",
         "f": [
           "invalid symbol"
         ]
       },
       {
-        "s": "LSE:ATQT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ATS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ATYM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AUCO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AUEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AUGM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AURA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:AV.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AV.A",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AV.B",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:AVCT",
         "f": [
           "invalid symbol"
         ]
@@ -1264,15 +614,8 @@
         ]
       },
       {
-        "s": "LSE:AZN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:B90",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1297,81 +640,13 @@
       {
         "s": "LSE:BA69",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BACK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BAF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BARC",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:BASK",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:BATS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BATT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBLL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBOX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BBSN",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1387,24 +662,6 @@
         ]
       },
       {
-        "s": "LSE:BCN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BCOM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BCPT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BD15",
         "f": [
           "no longer trading"
@@ -1414,18 +671,6 @@
         "s": "LSE:BD82",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:BEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BENE",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1448,85 +693,7 @@
         ]
       },
       {
-        "s": "LSE:BGEO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGFD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGHL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BGHS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BGUK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BHIB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BHIU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BHMG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BHMU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BHP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BIGT",
         "f": [
           "invalid symbol"
         ]
@@ -1539,39 +706,9 @@
         ]
       },
       {
-        "s": "LSE:BILN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BIOM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BION",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BIOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BKG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BKIC",
         "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -1587,61 +724,7 @@
         ]
       },
       {
-        "s": "LSE:BLOE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BLOK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BLTG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BLU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BLVN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BMK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BMN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BMPG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BMT",
         "f": [
           "invalid symbol"
         ]
@@ -1653,166 +736,9 @@
         ]
       },
       {
-        "s": "LSE:BNC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BNKR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BOCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BOD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BONH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BOO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BOOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BOTB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BP.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BP.B",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BPFU",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:BRBY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BREI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRFI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRNA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRNB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRND",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRNG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRNT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRT3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BRW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BTEC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BUT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BUYB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BVA",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1822,157 +748,7 @@
         ]
       },
       {
-        "s": "LSE:BWY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:BYG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BYOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:BZT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CACX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CAPC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CAPE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CAT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CB5",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBDP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBDX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBOX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CBSE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CCAU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CCPA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CCS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CDFF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CDIS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CE2D",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CE9U",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CECD",
         "f": [
           "invalid symbol"
         ]
@@ -1984,151 +760,13 @@
         ]
       },
       {
-        "s": "LSE:CEPS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CES1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CEUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CFYN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CGH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CGNR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CGO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CGT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CGVA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:CHAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CHAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CHF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CHIC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CHRG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CHRT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CIBR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CINE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CIR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CIT2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CITE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CJPU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CLCO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CLI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CLIM",
         "f": [
           "invalid symbol"
         ]
@@ -2140,61 +778,7 @@
         ]
       },
       {
-        "s": "LSE:CLSU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CLWD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMB1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMBG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMCL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMCU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CMCX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CMOD",
         "f": [
           "invalid symbol"
         ]
@@ -2206,163 +790,13 @@
         ]
       },
       {
-        "s": "LSE:CMXC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNAA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNDX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNUA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNX1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CNYA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COBR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CODO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COFF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:COMF",
         "f": [
           "invalid symbol"
         ]
       },
       {
-        "s": "LSE:COPA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COPL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CORN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CORU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:COST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CP9U",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CPC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CPP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CRC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CREO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CRH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CRM2",
         "f": [
           "invalid symbol"
         ]
@@ -2386,49 +820,7 @@
         ]
       },
       {
-        "s": "LSE:CRST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CRUD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CRW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CS1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CS51",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CSH2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CSP1",
         "f": [
           "invalid symbol"
         ]
@@ -2440,130 +832,15 @@
         ]
       },
       {
-        "s": "LSE:CSUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CSWU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CSX5",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CTEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CTEC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CTO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:CTYA",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CU2G",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CUK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CUS1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CUSS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CVSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CW8G",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CWEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CWFG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CWFU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CXAS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CYAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:CYS",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:D467",
         "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -2573,64 +850,15 @@
         ]
       },
       {
-        "s": "LSE:DAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:DAT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:DATA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DC.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:DCD",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DEL2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DELT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DEMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DES2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DEV",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -2648,13 +876,7 @@
       {
         "s": "LSE:DFIB",
         "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DFJ",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -2664,124 +886,15 @@
         ]
       },
       {
-        "s": "LSE:DGN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DGOC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DGRA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DGRP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DHSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DHSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DHYA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DIS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DJSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DKE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DLG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DLGI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DLN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DLTM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DNA2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DNA3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DNLM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:DO1D",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "LSE:DOCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:DP2F",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -2791,46 +904,15 @@
         ]
       },
       {
+        "s": "LSE:DP3H",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:DP3J",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DPYA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DRIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DS2P",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DVO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DWF",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -2841,144 +923,6 @@
       },
       {
         "s": "LSE:DXGE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:DXJZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ECEL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ECK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ECM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ECOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ECSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EDEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EDGH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EDL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EDVD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EEDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EEJD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EEXF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EFIM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EFIW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EGRG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ELCR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ELIX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ELTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMCP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMGU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMIS",
         "f": [
           "invalid symbol"
         ]
@@ -2996,49 +940,7 @@
         ]
       },
       {
-        "s": "LSE:EMLO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:EMQQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMRD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMRG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMUD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EMXC",
         "f": [
           "invalid symbol"
         ]
@@ -3046,54 +948,11 @@
       {
         "s": "LSE:ENDV",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:ENEF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EPIE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EPRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EQQU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EQT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ERGO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ERIS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ERNS",
         "f": [
           "invalid symbol"
         ]
@@ -3105,115 +964,13 @@
         ]
       },
       {
-        "s": "LSE:ES15",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESGG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESPO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESRU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ESYS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ETX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EU35",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:EU5L",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "LSE:EUA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EUCO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EUDV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:EUE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EUFM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EUMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EURL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EURO",
         "f": [
           "invalid symbol"
         ]
@@ -3225,19 +982,7 @@
         ]
       },
       {
-        "s": "LSE:EUXS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:EVRA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EWI",
         "f": [
           "invalid symbol"
         ]
@@ -3245,72 +990,11 @@
       {
         "s": "LSE:EXI",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:EXPN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:EYE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FAGR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FAIR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FB2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FBRT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FBS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FBTU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:FCBR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FDBK",
         "f": [
           "invalid symbol"
         ]
@@ -3334,85 +1018,7 @@
         ]
       },
       {
-        "s": "LSE:FEMU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FEQD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FERG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FEUI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FEUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FEXD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FFWD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FGLS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FGQD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FGQI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:FGQP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FGT",
         "f": [
           "invalid symbol"
         ]
@@ -3424,98 +1030,13 @@
         ]
       },
       {
-        "s": "LSE:FIH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:FIN",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:FJET",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FJPU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:FJV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FKE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FKU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLEQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLQA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FLX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FNCL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FOX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FOXT",
         "f": [
           "invalid symbol"
         ]
@@ -3527,212 +1048,19 @@
         ]
       },
       {
-        "s": "LSE:FRCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FRXE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FSKY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FSTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FSV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FTAD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FTEK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FUSD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FUSI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:FUSS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:FWT",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "LSE:G3E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GACB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GAGG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:GAIA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:GBJP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GBP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GBRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GBUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GDXJ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GEC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GEDM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:GEMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GENY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GETB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GFGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GFHG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GFM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GFRD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GFTU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GGOV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GGRA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GHH",
         "f": [
           "invalid symbol"
         ]
@@ -3744,61 +1072,7 @@
         ]
       },
       {
-        "s": "LSE:GIF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GILE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GILS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GIN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:GINC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GINV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLAD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLAG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLAU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLBL",
         "f": [
           "invalid symbol"
         ]
@@ -3810,159 +1084,15 @@
         ]
       },
       {
-        "s": "LSE:GLDV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GLTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GMP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:GMPP",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "LSE:GNC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOAT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOLB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOOE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GOOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GPSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GR1T",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GRA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GRIO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:GRIT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:GRL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GROW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GRP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GSEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GSPX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GTE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GV1A",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -3980,14 +1110,7 @@
       {
         "s": "LSE:GVMH",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:GVP",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -3997,115 +1120,7 @@
         ]
       },
       {
-        "s": "LSE:GYS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:H50E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HAP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HAS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HBRN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HCAD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HCAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HDEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HDEU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:HDIV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HEDK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HEDS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HEWA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HEWD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HFD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HFEL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HFG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HGM",
         "f": [
           "invalid symbol"
         ]
@@ -4119,26 +1134,7 @@
       {
         "s": "LSE:HHPG",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:HICL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HID",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HIGH",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -4148,76 +1144,9 @@
         ]
       },
       {
-        "s": "LSE:HKLD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:HKLJ",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HKOR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMAD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMAF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMCD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMED",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMEF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMEX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMJP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMLA",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -4227,56 +1156,13 @@
         ]
       },
       {
-        "s": "LSE:HMSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HMYR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:HNG",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:HOC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HOGS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HONY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HRI",
         "f": [
           "invalid symbol"
         ]
@@ -4288,67 +1174,7 @@
         ]
       },
       {
-        "s": "LSE:HRUD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSBA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:HSJP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSPD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSTG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSWO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HSX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HUKX",
         "f": [
           "invalid symbol"
         ]
@@ -4356,7 +1182,6 @@
       {
         "s": "LSE:HVTB",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -4373,223 +1198,13 @@
         ]
       },
       {
-        "s": "LSE:HWSL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HWWA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HYEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HYGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HYR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HYVE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:HZAD",
         "f": [
           "invalid symbol"
         ]
       },
       {
-        "s": "LSE:HZAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HZD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:HZM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IAUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IBCX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IBGL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IBM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IBST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IBTE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ICDU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ICGC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ICP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDBT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDBZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDJG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDKO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDOX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDTK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:IDTP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDTW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDUP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IDWP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEAC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEBC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEDY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEEU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEFQ",
         "f": [
           "invalid symbol"
         ]
@@ -4607,157 +1222,7 @@
         ]
       },
       {
-        "s": "LSE:IEML",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEQD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IEQU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:IES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IESU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IESZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGCB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGLA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGLH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGLO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGLS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGSU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGTM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IGV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IHC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:III",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IKA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IKOR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IMB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IMBA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IMBS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IME",
         "f": [
           "invalid symbol"
         ]
@@ -4769,111 +1234,9 @@
         ]
       },
       {
-        "s": "LSE:IMIB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IMM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:INCE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:INDV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ING",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:INMU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:INSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:INTO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:INV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:INVP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IOF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPEL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPOL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPRP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IPX",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -4883,211 +1246,7 @@
         ]
       },
       {
-        "s": "LSE:ISEQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ISFE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ISFR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ISP6",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ITEK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ITKY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ITM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ITRK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ITWN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUKD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUKP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUMS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUSF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUSZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUVF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IUVL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IVPB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IVPG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWDP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWFM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWFQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWFS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWSZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWVG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:IWVU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:IXI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:J13E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JAM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JARA",
         "f": [
           "invalid symbol"
         ]
@@ -5095,7 +1254,6 @@
       {
         "s": "LSE:JARB",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -5118,57 +1276,9 @@
         ]
       },
       {
-        "s": "LSE:JAY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JCGI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JD.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JDS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:JDSB",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:JGRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JGST",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -5178,97 +1288,7 @@
         ]
       },
       {
-        "s": "LSE:JHYP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JHYU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JIM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JLEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JLH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JLP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JMAB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:JMG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JMRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JNEO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPBM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPEH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPFM",
         "f": [
           "invalid symbol"
         ]
@@ -5280,105 +1300,9 @@
         ]
       },
       {
-        "s": "LSE:JPHU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPM2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPMF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPNY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:JPSS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:JPST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JPSU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JREB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JREE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JRUB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JUSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JUST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:JZCP",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -5388,157 +1312,13 @@
         ]
       },
       {
-        "s": "LSE:KAPE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:KDNC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:KKVL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:KOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:KRS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:KRWL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:KSK",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:L100",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:L6EW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LAGR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LAS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LBOW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LBUL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCCN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCJP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCOC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCRP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LCUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LEGR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LEK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LEMB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LESU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LEU3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LFI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LGAP",
         "f": [
           "invalid symbol"
         ]
@@ -5556,49 +1336,7 @@
         ]
       },
       {
-        "s": "LSE:LGEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LGGG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LGJP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LGRS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LGUG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LIO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LIV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LJP3",
         "f": [
           "invalid symbol"
         ]
@@ -5612,14 +1350,7 @@
       {
         "s": "LSE:LKOE",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:LKOH",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -5649,24 +1380,11 @@
       {
         "s": "LSE:LLD8",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:LLOY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LMMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LMP",
         "f": [
           "invalid symbol"
         ]
@@ -5684,70 +1402,15 @@
         ]
       },
       {
-        "s": "LSE:LOK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LOOK",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:LOWE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LOWV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LPA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LQDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LQQ3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LSPX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LSR",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:LTG",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -5757,135 +1420,15 @@
         ]
       },
       {
-        "s": "LSE:LTMU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:LTTG",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:LUD5",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LUK2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LUMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LUTR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LUXU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LWEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:LXUU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:M9SV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MACF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MAFL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MANO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MATD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MATW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:MAW",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:MBH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MBO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MCB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MCM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MDC",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -5904,8 +1447,7 @@
       {
         "s": "LSE:MDOJ",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -5923,54 +1465,11 @@
       {
         "s": "LSE:MENA",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MER",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MEUU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MFX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MGAM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MGGT",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:MIG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIG5",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIGO",
         "f": [
           "invalid symbol"
         ]
@@ -5982,135 +1481,9 @@
         ]
       },
       {
-        "s": "LSE:MIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:MILA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:MILL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIVO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MIX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MJH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MKS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MLPQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MLPS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MMH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MMX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MNKS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MNTN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MOAT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MOGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MOGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MPL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MPLF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MPLS",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6120,57 +1493,9 @@
         ]
       },
       {
-        "s": "LSE:MRO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:MSD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSDU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSED",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSEU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSF2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MSMN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MTE",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6188,62 +1513,7 @@
       {
         "s": "LSE:MTMY",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:MTPH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MTRO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MTU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MTVW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MTW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MU2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MUST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MUT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MVAU",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6253,103 +1523,7 @@
         ]
       },
       {
-        "s": "LSE:MVOL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MVR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MVUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:MXCL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MXCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MXUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MYI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:MYX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:N4US",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NAH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NAIT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NAK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NANO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NASD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NBDD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NBDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NBPS",
         "f": [
           "invalid symbol"
         ]
@@ -6357,44 +1531,12 @@
       {
         "s": "LSE:NCA2",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NCYF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NESF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NFL3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NG.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NICL",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:NLMA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -6411,107 +1553,15 @@
         ]
       },
       {
-        "s": "LSE:NOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NSCI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NSF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NSI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NTEA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NTLG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NTN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NTV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:NUOG",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:NVT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NWG",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
         "s": "LSE:NWOR",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:NWT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NXKU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NXR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:NXT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:O002",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6539,15 +1589,8 @@
         ]
       },
       {
-        "s": "LSE:OBD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OBOR",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -6582,27 +1625,9 @@
         ]
       },
       {
-        "s": "LSE:OCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ODX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OEUL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:OEX",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6613,12 +1638,6 @@
       },
       {
         "s": "LSE:OGLD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OGN",
         "f": [
           "invalid symbol"
         ]
@@ -6645,7 +1664,6 @@
       {
         "s": "LSE:OGY3",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -6656,24 +1674,6 @@
         ]
       },
       {
-        "s": "LSE:OGZU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OILU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OLY3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OLYB",
         "f": [
           "invalid symbol",
@@ -6681,67 +1681,7 @@
         ]
       },
       {
-        "s": "LSE:OMIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OMXS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ONC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OOA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OOUT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OPEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OPG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OPM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OPPP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ORCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ORCP",
         "f": [
           "invalid symbol"
         ]
@@ -6771,19 +1711,7 @@
         ]
       },
       {
-        "s": "LSE:OTB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OTT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OTV2",
         "f": [
           "invalid symbol"
         ]
@@ -6795,33 +1723,9 @@
         ]
       },
       {
-        "s": "LSE:OUFU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OVB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:OVZA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:OVZC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:OXA1",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6845,31 +1749,17 @@
       {
         "s": "LSE:OXCT",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSE:OXDA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:PAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PARI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PAT",
         "f": [
           "invalid symbol"
         ]
@@ -6881,57 +1771,9 @@
         ]
       },
       {
-        "s": "LSE:PCF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PDZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PEB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PEBB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PEMB",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:PEMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PEMV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PERE",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -6941,139 +1783,13 @@
         ]
       },
       {
-        "s": "LSE:PEYS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PFD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PFGA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:PFP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PGHZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PGR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHPP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHPT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PHTM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PIRI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PLAZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PLZA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PMLP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PMP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PNS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:POLY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:POS",
         "f": [
           "invalid symbol"
         ]
@@ -7085,69 +1801,9 @@
         ]
       },
       {
-        "s": "LSE:POW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PPG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PPHP",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:PPIX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PPS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PQVG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRFD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRFP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRGB",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7157,112 +1813,15 @@
         ]
       },
       {
-        "s": "LSE:PRIJ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRMU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PRUK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PSN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PSON",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PSRM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PTAL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PTD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:PU11",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PU12",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:PU13",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:PUIG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PUIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:PUTW",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7278,112 +1837,9 @@
         ]
       },
       {
-        "s": "LSE:PZC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:QFI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:QQQ3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:QUID",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RB.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBOD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBOT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RBTX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:RC2",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RCDO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RDI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RDSA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RDT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RDW",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -7399,63 +1855,9 @@
         ]
       },
       {
-        "s": "LSE:RGD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RGL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RICA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:RIFA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:RIO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RIOL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RIOU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RIUG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RIV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RKH",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7465,41 +1867,10 @@
         ]
       },
       {
-        "s": "LSE:RMDZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RMMC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RMP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RNK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ROC",
         "f": [
           "equal bars",
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:ROCK",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7509,31 +1880,7 @@
         ]
       },
       {
-        "s": "LSE:RPS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:RR.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RS2G",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RSAB",
         "f": [
           "invalid symbol"
         ]
@@ -7545,103 +1892,7 @@
         ]
       },
       {
-        "s": "LSE:RTN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:RTW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RTYS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RUSE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RUSL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RUSU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RUSV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:RWA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:S250",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:S32",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:S600",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAAA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAME",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAMZ",
         "f": [
           "invalid symbol"
         ]
@@ -7650,18 +1901,6 @@
         "s": "LSE:SAUA",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAVE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SAWD",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7677,34 +1916,9 @@
         ]
       },
       {
-        "s": "LSE:SBEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SBIA",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:SBIO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SBRY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SBUS",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7726,43 +1940,7 @@
         ]
       },
       {
-        "s": "LSE:SCF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SCGL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SCRF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SCRM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SDHY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SDIA",
         "f": [
           "invalid symbol"
         ]
@@ -7774,37 +1952,7 @@
         ]
       },
       {
-        "s": "LSE:SDL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SDP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SDR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SDUE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SDV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SDVP",
         "f": [
           "invalid symbol"
         ]
@@ -7822,25 +1970,7 @@
         ]
       },
       {
-        "s": "LSE:SECG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEDM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SEEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEFA",
         "f": [
           "invalid symbol"
         ]
@@ -7852,61 +1982,7 @@
         ]
       },
       {
-        "s": "LSE:SEMA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEMB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEMC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SEPL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SERE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SEY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SFOR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SG20",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SG21",
         "f": [
           "invalid symbol"
         ]
@@ -7914,8 +1990,7 @@
       {
         "s": "LSE:SG25",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -7933,8 +2008,7 @@
       {
         "s": "LSE:SG34",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -7970,20 +2044,13 @@
       {
         "s": "LSE:SG53",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSE:SG64",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:SG72",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -7994,73 +2061,7 @@
         ]
       },
       {
-        "s": "LSE:SG75",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SG87",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SG88",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SG89",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SG90",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SGBP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SGBS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SGIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SGVL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SGZ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SHB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SHLD",
         "f": [
           "invalid symbol"
         ]
@@ -8072,43 +2073,7 @@
         ]
       },
       {
-        "s": "LSE:SIGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SIME",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SIR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SJPA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SKG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SKYP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SLA",
         "f": [
           "invalid symbol"
         ]
@@ -8120,49 +2085,7 @@
         ]
       },
       {
-        "s": "LSE:SLS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SMBS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SMDS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SMP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SMRU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SMS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SMWH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SNFE",
         "f": [
           "invalid symbol"
         ]
@@ -8170,14 +2093,7 @@
       {
         "s": "LSE:SNG1",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:SNGA",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8187,85 +2103,13 @@
         ]
       },
       {
-        "s": "LSE:SNX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SOI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SOLG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SOLO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SONC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SOP",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:SOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SOU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SP5C",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPGP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SPI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPR",
         "f": [
           "invalid symbol"
         ]
@@ -8277,46 +2121,9 @@
         ]
       },
       {
-        "s": "LSE:SPXD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPXP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SPY4",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SRES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SRO",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:SRSA",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8326,31 +2133,7 @@
         ]
       },
       {
-        "s": "LSE:SSE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SSHY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SSIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SSTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SSXF",
         "f": [
           "invalid symbol"
         ]
@@ -8362,27 +2145,9 @@
         ]
       },
       {
-        "s": "LSE:STAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STCM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:STHP",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:STHY",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8392,91 +2157,7 @@
         ]
       },
       {
-        "s": "LSE:STP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STPU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STSE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STWT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:STYC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUAS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUGA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUJS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SUN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUOE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUOG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUP3",
         "f": [
           "invalid symbol"
         ]
@@ -8488,57 +2169,15 @@
         ]
       },
       {
-        "s": "LSE:SUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SUSW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SVCT",
         "f": [
           "equal bars"
         ]
       },
       {
-        "s": "LSE:SVM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:SWC",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSE:SWLD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SXLB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SXLC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SXLF",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8549,36 +2188,6 @@
       },
       {
         "s": "LSE:SXLP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SXLY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SYME",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:SYS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:T10G",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:T1AP",
         "f": [
           "invalid symbol"
         ]
@@ -8596,31 +2205,7 @@
         ]
       },
       {
-        "s": "LSE:TBCG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TCBT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TCEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TCGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TCM",
         "f": [
           "invalid symbol"
         ]
@@ -8638,25 +2223,7 @@
         ]
       },
       {
-        "s": "LSE:TECC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TED",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TELE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TENG",
         "f": [
           "invalid symbol"
         ]
@@ -8668,97 +2235,13 @@
         ]
       },
       {
-        "s": "LSE:TFW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TGBA",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "LSE:TGBG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TGBT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TGL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:THRU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TI5G",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TIDE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TIGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TIPG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TIPH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TLW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TMPL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TMT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TPHG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TPK",
         "f": [
           "invalid symbol"
         ]
@@ -8776,109 +2259,7 @@
         ]
       },
       {
-        "s": "LSE:TPOS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TPVE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TPX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRE3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRE7",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRET",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRS3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TRXS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TSGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TSL2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TTG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TURL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TW.",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:TWND",
         "f": [
           "invalid symbol"
         ]
@@ -8890,73 +2271,13 @@
         ]
       },
       {
-        "s": "LSE:TWT2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:TXH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:U127",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB01",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB02",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB0E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB0F",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB23",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB30",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB45",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:UB82",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UB89",
         "f": [
           "invalid symbol"
         ]
@@ -8968,121 +2289,7 @@
         ]
       },
       {
-        "s": "LSE:UBTL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UBXX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC07",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC13",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC14",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC64",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC79",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC84",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC85",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC87",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC89",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC93",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UC96",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:UC99",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UCAP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UCG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UD07",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UDG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UESD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UFLT",
         "f": [
           "invalid symbol"
         ]
@@ -9094,88 +2301,9 @@
         ]
       },
       {
-        "s": "LSE:UINC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UINE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UKCO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UKSR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UL3S",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:UOS",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:URGB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:URU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:US37",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USAG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USDV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USFP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USHF",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -9191,73 +2319,13 @@
         ]
       },
       {
-        "s": "LSE:USTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:USVL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:USY",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:UTIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UTIP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UTL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UTLF",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:UTLH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VAPX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:VCPA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VCT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VDCA",
         "f": [
           "invalid symbol"
         ]
@@ -9269,51 +2337,9 @@
         ]
       },
       {
-        "s": "LSE:VDTK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VDTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VECA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:VELA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:VEMA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VEMT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VEN2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VENC",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -9323,122 +2349,13 @@
         ]
       },
       {
-        "s": "LSE:VETA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VEUR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VEVE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VFEG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VFEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VHVG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VHYG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VHYL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VIN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:VITA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:VJPN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VJPU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VLE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VLG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:VLIQ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VLS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VLU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VMUK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VMVL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VNRG",
         "f": [
           "invalid symbol"
         ]
@@ -9450,176 +2367,13 @@
         ]
       },
       {
-        "s": "LSE:VRE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VRS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VSVS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VTU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUAA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUAG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUKE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUKG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VUTY",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:VX5E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WAND",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WATL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WCH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WCLD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WCOB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WCW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WDSC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WELL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:WGP",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:WHR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:WIGG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WIL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WING",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WINV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WLDL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WPHO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WQDS",
         "f": [
           "invalid symbol"
         ]
@@ -9637,109 +2391,7 @@
         ]
       },
       {
-        "s": "LSE:WSL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WSRI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WTAI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:WTAN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WTB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WTEC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WTID",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WUTI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:WWTU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:X7PP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XAUS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XCS2",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XCS6",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XCX6",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XD3E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XD5E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XD9U",
         "f": [
           "invalid symbol"
         ]
@@ -9751,37 +2403,7 @@
         ]
       },
       {
-        "s": "LSE:XDDX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDEB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDEV",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDEX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XDNU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDUK",
         "f": [
           "invalid symbol"
         ]
@@ -9793,73 +2415,7 @@
         ]
       },
       {
-        "s": "LSE:XDWG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDWH",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDWL",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XDWS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XDWU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XESC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XESE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XESJ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XEUM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XFFE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XG7U",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XGDD",
         "f": [
           "invalid symbol"
         ]
@@ -9871,49 +2427,7 @@
         ]
       },
       {
-        "s": "LSE:XGID",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XGIU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XGLE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XKSD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XLCS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XLES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XLFS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XLKQ",
         "f": [
           "invalid symbol"
         ]
@@ -9925,73 +2439,7 @@
         ]
       },
       {
-        "s": "LSE:XLVS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMAS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMBR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMEM",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XMID",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMJG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMMD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMRC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMRD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMUD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XMVU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XNID",
         "f": [
           "invalid symbol"
         ]
@@ -10003,15 +2451,8 @@
         ]
       },
       {
-        "s": "LSE:XPHI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XPL",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -10028,109 +2469,7 @@
         ]
       },
       {
-        "s": "LSE:XRES",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XRSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XRSS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XRSU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XS3R",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XS6R",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XS7R",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSCS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSDR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSFR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSG",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSGI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSKR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSNR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSSX",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSTC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XSTR",
         "f": [
           "invalid symbol"
         ]
@@ -10142,79 +2481,7 @@
         ]
       },
       {
-        "s": "LSE:XUEK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XUEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:XUHC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XUKS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XUSD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XVTD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:XZEU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YCA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YEW",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YGEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YNGN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YOU",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:YU.",
         "f": [
           "invalid symbol"
         ]
@@ -10226,34 +2493,9 @@
         ]
       },
       {
-        "s": "LSE:ZEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSE:ZHEH",
         "f": [
-          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:ZIN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ZINC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSE:ZYT",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -10284,7 +2526,6 @@
       {
         "s": "LSIN:ANAA",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -10295,15 +2536,8 @@
         ]
       },
       {
-        "s": "LSIN:AXB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:BMED",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -10321,12 +2555,6 @@
       },
       {
         "s": "LSIN:CFHS",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:CPIC",
         "f": [
           "invalid symbol"
         ]
@@ -10356,16 +2584,9 @@
         ]
       },
       {
-        "s": "LSIN:EFGD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:FEC",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -10388,28 +2609,10 @@
         ]
       },
       {
-        "s": "LSIN:HSBK",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:HYUP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:IGSS",
         "f": [
           "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSIN:KCEL",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -10431,18 +2634,6 @@
         ]
       },
       {
-        "s": "LSIN:MAVD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:MGNT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:MNHD",
         "f": [
           "empty symbol"
@@ -10455,39 +2646,9 @@
         ]
       },
       {
-        "s": "LSIN:MNOD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:MRSA",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSIN:NCSP",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:NLB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:NPSN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:NVTK",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -10500,12 +2661,6 @@
         "s": "LSIN:OGDC",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSIN:OKEY",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -10533,12 +2688,6 @@
         ]
       },
       {
-        "s": "LSIN:PLZB",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:POSD",
         "f": [
           "no longer trading"
@@ -10553,27 +2702,19 @@
       {
         "s": "LSIN:REA",
         "f": [
-          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:RSTI",
+        "f": [
+          "equal bars"
         ]
       },
       {
         "s": "LSIN:SAUD",
         "f": [
-          "equal bars",
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:SBER",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "LSIN:SGGD",
-        "f": [
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -10589,12 +2730,6 @@
         ]
       },
       {
-        "s": "LSIN:SVST",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "LSIN:TAT",
         "f": [
           "no longer trading"
@@ -10603,8 +2738,7 @@
       {
         "s": "LSIN:TEEG",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
@@ -10616,27 +2750,19 @@
       {
         "s": "LSIN:TOUR",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSIN:TPCL",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       },
       {
         "s": "LSIN:UBLS",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSIN:VTBR",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -10649,15 +2775,13 @@
       {
         "s": "LSIN:WML",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "LSIN:ZENB",
         "f": [
-          "equal bars",
-          "invalid symbol"
+          "equal bars"
         ]
       }
     ]

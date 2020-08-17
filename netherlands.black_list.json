@@ -1,15 +1,75 @@
 {
     "black_list": [
       {
+        "s": "EURONEXT:AGUG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ALFEN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ALX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ATC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:AWSR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:BEVER",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "EURONEXT:BFIT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BGHL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:BGHS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BRNL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:BTMA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CBU7",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -21,7 +81,116 @@
       {
         "s": "EURONEXT:CEMP",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:CITY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CLB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CMCOM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CRBN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CSPX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CSX5",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CT2B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CYBA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:CYBU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DHYE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DIA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DJMC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DSM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ECOM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ERND",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:EUEA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:EXXY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:FFARM",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -31,8 +200,15 @@
         ]
       },
       {
+        "s": "EURONEXT:FXGD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:GAGU",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -43,21 +219,184 @@
         ]
       },
       {
+        "s": "EURONEXT:HAL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HDG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HEIJM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HEIO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HKDE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HUNDP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:HYDRA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IAEX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IBGL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:ICHD",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "EURONEXT:ICOV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IDJG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IEAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IEGA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IEX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:IFFI",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:IFRB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IGLE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IJPA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IMAE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:INFR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "EURONEXT:INPHI",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IRCP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ISFA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ITKY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ITWN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IUES",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IUSP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:IWDE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:KPN",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -85,6 +424,78 @@
         ]
       },
       {
+        "s": "EURONEXT:LIGHT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:LQDA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:LVIDE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:LVO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:MORE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:MVEA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NAMU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NIBC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NRP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NTM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:PHIA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:PNL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:PPLA",
         "f": [
           "empty symbol"
@@ -103,9 +514,39 @@
         ]
       },
       {
+        "s": "EURONEXT:RDSA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SDIG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SGLU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:SGQU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:SIFG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SJPD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -121,20 +562,106 @@
         ]
       },
       {
+        "s": "EURONEXT:SUJD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SUOU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SWRD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SXLB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:SXLC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TDT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TEET",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TGET",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TIE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TKWY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TOM2",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TRET",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:U1FA",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "EURONEXT:U500",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:UBUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:UBUW",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:UCEU",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -145,8 +672,15 @@
         ]
       },
       {
+        "s": "EURONEXT:UE27",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:UE28",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -154,6 +688,12 @@
         "s": "EURONEXT:UE32",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:UE33",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -193,6 +733,24 @@
         ]
       },
       {
+        "s": "EURONEXT:UIM4",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:UIMA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:UIMP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:UIMY",
         "f": [
           "no longer trading"
@@ -205,9 +763,117 @@
         ]
       },
       {
+        "s": "EURONEXT:UKSR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VASTN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VECP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VEON",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VETY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VJPN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:VLIQ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:VLK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VMVL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VUCP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:VVAL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WCDS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WCOD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WENS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WFIN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WHCS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WRDU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WTEL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:WUTI",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "DFM:AAN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "DFM:AGLTY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "DFM:ALFIRDOUS",
         "f": [
           "equal bars"
@@ -13,6 +25,12 @@
         ]
       },
       {
+        "s": "DFM:ALRAMZ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "DFM:ASCANA",
         "f": [
           "equal bars"
@@ -21,13 +39,20 @@
       {
         "s": "DFM:ASNIC",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
         "s": "DFM:BHMUBASHER",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "DFM:DIC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -39,7 +64,8 @@
       {
         "s": "DFM:DSI",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -52,6 +78,18 @@
         "s": "DFM:EIBANK",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "DFM:EMAARMALLS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "DFM:EMIRATESNBD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -79,9 +117,16 @@
         ]
       },
       {
+        "s": "DFM:MASQ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "DFM:MAZAYA",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -99,7 +144,8 @@
       {
         "s": "DFM:NIH",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -109,9 +155,16 @@
         ]
       },
       {
+        "s": "DFM:SALAM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "DFM:UFC",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       }
     ]

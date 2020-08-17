@@ -1,9 +1,27 @@
 {
     "black_list": [
       {
+        "s": "SGX:1C0",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:1C5",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:1D1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:1D3",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -27,6 +45,7 @@
       {
         "s": "SGX:1H2",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -46,6 +65,12 @@
         "s": "SGX:40B",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:40D",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -79,14 +104,15 @@
         ]
       },
       {
-        "s": "SGX:41S",
+        "s": "SGX:41H",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "SGX:42D",
+        "s": "SGX:41S",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -103,14 +129,22 @@
         ]
       },
       {
+        "s": "SGX:43A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:43P",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "SGX:508",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -129,7 +163,32 @@
       {
         "s": "SGX:557",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:566",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:567",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:569",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:580",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -148,6 +207,12 @@
         "s": "SGX:5AB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:5AL",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -187,8 +252,15 @@
         ]
       },
       {
+        "s": "SGX:5DP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:5EK",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -223,15 +295,51 @@
         ]
       },
       {
+        "s": "SGX:5G9",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:5HT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:5HV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:5I1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:5IE",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "SGX:5IG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:5K5W",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:5LY",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -243,6 +351,7 @@
       {
         "s": "SGX:5MM",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -262,6 +371,12 @@
         "s": "SGX:5NF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:5OQ",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -319,6 +434,18 @@
         ]
       },
       {
+        "s": "SGX:5UF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:5UO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:5VC",
         "f": [
           "no longer trading"
@@ -331,9 +458,27 @@
         ]
       },
       {
+        "s": "SGX:5WH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:5WJ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:600",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:8YY",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -349,8 +494,15 @@
         ]
       },
       {
+        "s": "SGX:A52",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:A75",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -369,6 +521,7 @@
       {
         "s": "SGX:ADJ",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -385,9 +538,21 @@
         ]
       },
       {
+        "s": "SGX:AVV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:AWM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:AWZ",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -433,8 +598,21 @@
         ]
       },
       {
+        "s": "SGX:B26",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:B49",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:BAC",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -445,9 +623,21 @@
         ]
       },
       {
+        "s": "SGX:BCV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:BDN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:BEC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -475,6 +665,24 @@
         ]
       },
       {
+        "s": "SGX:BHD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:BJD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:BJL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:BJV",
         "f": [
           "no longer trading"
@@ -483,7 +691,14 @@
       {
         "s": "SGX:BKK",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:BKV",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -495,6 +710,7 @@
       {
         "s": "SGX:BLH",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -511,6 +727,12 @@
         ]
       },
       {
+        "s": "SGX:BNE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:BOU",
         "f": [
           "no longer trading"
@@ -518,12 +740,6 @@
       },
       {
         "s": "SGX:BQI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SGX:BQP",
         "f": [
           "no longer trading"
         ]
@@ -547,9 +763,27 @@
         ]
       },
       {
+        "s": "SGX:BTE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:BTM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:BTY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:BUOU",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -559,14 +793,33 @@
         ]
       },
       {
+        "s": "SGX:C06",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:C09",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:C50",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "SGX:C70",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:C71",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -574,6 +827,12 @@
         "s": "SGX:C92",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:CFA",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -604,6 +863,12 @@
         "s": "SGX:CQD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SGX:CRPU",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -649,9 +914,21 @@
         ]
       },
       {
+        "s": "SGX:ER0",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:FIUW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:FQ7",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -667,6 +944,12 @@
         ]
       },
       {
+        "s": "SGX:G11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:G1N",
         "f": [
           "no longer trading"
@@ -675,13 +958,38 @@
       {
         "s": "SGX:GRQ",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:H02",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:H19",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:H1N",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "SGX:H20",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:H30",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -709,9 +1017,22 @@
         ]
       },
       {
+        "s": "SGX:I11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:I26",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:I49",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -741,6 +1062,7 @@
       {
         "s": "SGX:IH2",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -765,6 +1087,7 @@
       {
         "s": "SGX:J0Q",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -789,13 +1112,26 @@
       {
         "s": "SGX:J18",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:J36",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "SGX:K6K",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:K6S",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -843,6 +1179,7 @@
       {
         "s": "SGX:L02",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -861,12 +1198,14 @@
       {
         "s": "SGX:LF1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "SGX:LF2",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -891,7 +1230,14 @@
       {
         "s": "SGX:LIW",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:LS9",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -901,9 +1247,21 @@
         ]
       },
       {
+        "s": "SGX:M01",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:M12",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SGX:M15",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -925,6 +1283,12 @@
         ]
       },
       {
+        "s": "SGX:MXNU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:N14",
         "f": [
           "no longer trading"
@@ -943,6 +1307,12 @@
         ]
       },
       {
+        "s": "SGX:N2IU",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:N33",
         "f": [
           "empty symbol"
@@ -952,6 +1322,18 @@
         "s": "SGX:N4E",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:NEX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:O08",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -967,9 +1349,21 @@
         ]
       },
       {
+        "s": "SGX:OMK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:P11",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:P74",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -979,9 +1373,22 @@
         ]
       },
       {
+        "s": "SGX:Q0F",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:QF6",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:QL3",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1005,12 +1412,20 @@
       {
         "s": "SGX:RC5",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:RDR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "SGX:RF1U",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1021,9 +1436,45 @@
         ]
       },
       {
+        "s": "SGX:RS1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:S19",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:S23",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:S2D",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:S58",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:S61",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "SGX:S7P",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1047,6 +1498,7 @@
       {
         "s": "SGX:T09",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1063,6 +1515,12 @@
         ]
       },
       {
+        "s": "SGX:T6I",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:T8V",
         "f": [
           "no longer trading"
@@ -1075,6 +1533,12 @@
         ]
       },
       {
+        "s": "SGX:U09",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SGX:UQ4",
         "f": [
           "no longer trading"
@@ -1084,6 +1548,12 @@
         "s": "SGX:WOYW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:WPC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

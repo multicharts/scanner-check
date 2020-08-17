@@ -1269,7 +1269,8 @@
       {
         "s": "BITFINEX:EOSGBPLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4199,6 +4200,12 @@
         ]
       },
       {
+        "s": "BITPANDAPRO:LINKEUR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BITTREX:1STBTC",
         "f": [
           "no longer trading"
@@ -4507,6 +4514,7 @@
       {
         "s": "GEMINI:DAIBTC",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -4514,6 +4522,18 @@
         "s": "GEMINI:DAIETH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:DASHBTC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:ELECETH",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -4532,6 +4552,12 @@
         "s": "HITBTC:POADAI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:SENTBTC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -4559,27 +4585,21 @@
         ]
       },
       {
-        "s": "HUOBI:TRBBTC",
+        "s": "HUOBI:MTLBTC",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:TRBETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:TRBUSDT",
-        "f": [
-          "empty symbol"
+          "invalid symbol"
         ]
       },
       {
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KRAKEN:ATOMEUR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -4622,6 +4642,12 @@
         "s": "POLONIEX:BCHABCUSD",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:BNTUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:AIONUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:AVAUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BINANCE:CDTUSD",
         "f": [
           "empty symbol"
@@ -25,7 +37,19 @@
         ]
       },
       {
+        "s": "BINANCE:REQUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BINANCE:STRATUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:XMRUSD",
         "f": [
           "invalid symbol"
         ]

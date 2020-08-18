@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:ADFI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:AOK",
         "f": [
           "invalid symbol"
@@ -190,6 +196,18 @@
         "s": "AMEX:TAAG",
         "f": [
           "invalid symbol"
+        ]
+      },
+      {
+        "s": "AMEX:TBJL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:TFJL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1168,6 +1186,12 @@
         "s": "NASDAQ:LENS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:LEVLP",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2159,6 +2183,12 @@
         "s": "NYSE:NSH.U",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:NYC",
+        "f": [
+          "no longer trading"
         ]
       },
       {

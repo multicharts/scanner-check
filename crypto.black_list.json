@@ -1,36 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:CVCETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:IOTAUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:SXPUSDTPERP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:TROYBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:ZENBNB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1854,12 +1824,6 @@
         ]
       },
       {
-        "s": "BITFINEX:IOTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:IOTUSDLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -3202,12 +3166,6 @@
         ]
       },
       {
-        "s": "BITFINEX:UDCBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:UDCUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3936,73 +3894,37 @@
         ]
       },
       {
-        "s": "BITHUMB:OGOKRW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:BTCPAX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:ANKRUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:BCHUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:BKXBTC",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "BITTREX:HBDBTC",
+        "s": "BITTREX:DOTBTC",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BITTREX:IRISBTC",
+        "s": "BITTREX:DOTETH",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BITTREX:MFABTC",
+        "s": "BITTREX:DOTEUR",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BITTREX:MFAUSD",
+        "s": "BITTREX:DOTUSD",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "BITTREX:MFAUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:NPXSUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:XSTUSD",
+        "s": "BITTREX:DOTUSDT",
         "f": [
           "empty symbol"
         ]
@@ -4011,18 +3933,6 @@
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BYBIT:BTCUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BYBIT:BTCUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4044,12 +3954,6 @@
         ]
       },
       {
-        "s": "COINBASE:NMREUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "GEMINI:DAIBTC",
         "f": [
           "no longer trading"
@@ -4068,24 +3972,6 @@
         ]
       },
       {
-        "s": "HITBTC:BDGBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:CVTBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:IHTUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:KIMBTC",
         "f": [
           "empty symbol"
@@ -4093,12 +3979,6 @@
       },
       {
         "s": "HITBTC:KIMUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:KNCBTC",
         "f": [
           "empty symbol"
         ]
@@ -4122,12 +4002,6 @@
         ]
       },
       {
-        "s": "HITBTC:ONTUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:WIKIUSDT",
         "f": [
           "no longer trading"
@@ -4135,12 +4009,6 @@
       },
       {
         "s": "HUOBI:ANTPERP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:BHDBTC",
         "f": [
           "empty symbol"
         ]
@@ -4215,6 +4083,18 @@
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KUCOIN:DOTBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "KUCOIN:DOTUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

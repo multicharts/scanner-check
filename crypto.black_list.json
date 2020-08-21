@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:BALUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3942,6 +3948,18 @@
         ]
       },
       {
+        "s": "HITBTC:CVCOINETH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:ETHTUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "HITBTC:KIMBTC",
         "f": [
           "empty symbol"
@@ -4017,6 +4035,18 @@
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "KUCOIN:LSKETH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "KUCOIN:OPQBTC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

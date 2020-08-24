@@ -1,6 +1,36 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:DOTUSDTPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:IDEXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:IDEXBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:IDEXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:LUNAUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4011,30 +4041,6 @@
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "MERCADO:CHZBRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MERCADO:PAXGBRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MERCADO:USDCBRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MERCADO:WBXBRL",
-        "f": [
-          "empty symbol"
         ]
       },
       {

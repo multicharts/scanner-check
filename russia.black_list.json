@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "MOEX:AMZN-RM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:BISV",
         "f": [
           "equal bars"

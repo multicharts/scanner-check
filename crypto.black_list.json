@@ -1,6 +1,36 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:RSRUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:TRBBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:TRBBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:TRBBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:TRBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",

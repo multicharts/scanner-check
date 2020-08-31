@@ -133,7 +133,8 @@
       {
         "s": "BITFINEX:ALGUSTSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -3963,6 +3964,12 @@
       },
       {
         "s": "HITBTC:PADUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:SBDUSDT",
         "f": [
           "no longer trading"
         ]

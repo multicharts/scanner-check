@@ -1,6 +1,36 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:EGLDBNB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:EGLDBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:EGLDBUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:EGLDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:EGLDUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3995,6 +4025,18 @@
         ]
       },
       {
+        "s": "BITTREX:KLAYBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:KLAYUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BTCYOU:BTCBRL",
         "f": [
           "no longer trading"
@@ -4118,6 +4160,24 @@
         "s": "OKCOIN:EURSUSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:TAITRX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:TAIUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:YFLUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:BZRXUSDTPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BINANCE:DIAUSDT",
         "f": [
           "empty symbol"
@@ -4052,12 +4058,6 @@
       },
       {
         "s": "HUOBI:AKROPERP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HUOBI:ANTPERP",
         "f": [
           "empty symbol"
         ]

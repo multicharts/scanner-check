@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:BZRXUSDTPERP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:SRMUSDTPERP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4045,12 +4033,6 @@
         ]
       },
       {
-        "s": "COINBASE:UMAUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "GEMINI:BTCDAI",
         "f": [
           "empty symbol"
@@ -4060,6 +4042,12 @@
         "s": "GEMINI:ETHDAI",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:BOXEURS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4075,7 +4063,13 @@
         ]
       },
       {
-        "s": "HUOBI:BTMPERP",
+        "s": "HUOBI:BATPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:COMPPERP",
         "f": [
           "empty symbol"
         ]
@@ -4099,13 +4093,13 @@
         ]
       },
       {
-        "s": "HUOBI:QTUMPERP",
+        "s": "HUOBI:RSRPERP",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "HUOBI:RSRPERP",
+        "s": "HUOBI:SNXPERP",
         "f": [
           "empty symbol"
         ]

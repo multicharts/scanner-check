@@ -1,24 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:UMABTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:UMAUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BINANCE:UMAUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4120,6 +4102,12 @@
       },
       {
         "s": "HUOBI:TRBPERP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HUOBI:UTKUSDT",
         "f": [
           "empty symbol"
         ]

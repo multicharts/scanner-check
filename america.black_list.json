@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:CCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:DFVS",
         "f": [
           "no longer trading"
@@ -10,6 +16,12 @@
         "s": "AMEX:GSB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:JPIB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -415,6 +427,12 @@
         ]
       },
       {
+        "s": "NASDAQ:ERES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:EVGBC",
         "f": [
           "no longer trading"
@@ -436,6 +454,12 @@
         "s": "NASDAQ:FLRZ",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FTSV",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -472,6 +496,12 @@
         "s": "NASDAQ:LOACU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:NMFCL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -541,15 +571,21 @@
         ]
       },
       {
+        "s": "NASDAQ:USLV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:YZCM",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "NYSE:CBO/PA",
+        "s": "NYSE:ACND",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {

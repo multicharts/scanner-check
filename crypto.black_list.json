@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:LTCDOWNUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4165,6 +4159,12 @@
       },
       {
         "s": "OKCOIN:YFIUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:DHTUSDT",
         "f": [
           "empty symbol"
         ]

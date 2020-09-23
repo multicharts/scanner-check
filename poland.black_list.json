@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "GPW:ALE1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "GPW:BPHFIZBI5",
         "f": [
           "equal bars"
@@ -214,6 +220,12 @@
         "s": "NEWCONNECT:GTK",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "NEWCONNECT:H4F",
+        "f": [
+          "empty symbol"
         ]
       },
       {

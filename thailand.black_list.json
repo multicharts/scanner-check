@@ -2539,6 +2539,7 @@
       {
         "s": "SET:PB.F",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -3975,12 +3976,6 @@
       },
       {
         "s": "SET:TISCO.Q",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:TITLE.F",
         "f": [
           "no longer trading"
         ]

@@ -616,12 +616,6 @@
         ]
       },
       {
-        "s": "SET:CCP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:CEN.F",
         "f": [
           "equal bars",
@@ -897,8 +891,7 @@
       {
         "s": "SET:DCON.F",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
@@ -4097,12 +4090,6 @@
       },
       {
         "s": "SET:URBNPF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:UREKA.F",
         "f": [
           "no longer trading"
         ]

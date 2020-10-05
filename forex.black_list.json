@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:ANGSRD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FX_IDC:ANGUSD",
         "f": [
           "equal bars"
@@ -32,6 +38,12 @@
       },
       {
         "s": "FX_IDC:CADKGS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FX_IDC:CADSRD",
         "f": [
           "no longer trading"
         ]
@@ -165,6 +177,12 @@
       },
       {
         "s": "FX_IDC:SVCUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:THBCHF",
         "f": [
           "equal bars"
         ]

@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:CCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:CLI.U",
         "f": [
           "empty symbol"
@@ -28,6 +22,12 @@
         "s": "AMEX:DSOC",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:GLDG",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -289,6 +289,12 @@
         ]
       },
       {
+        "s": "NASDAQ:COGT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:DWAT",
         "f": [
           "no longer trading"
@@ -370,6 +376,12 @@
         "s": "NASDAQ:KBLMU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:KDNY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -514,6 +526,12 @@
         "s": "NYSE:CBO/PA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:FMAC.U",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -724,6 +742,12 @@
         "s": "OTC:GLAE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HCCCD",
+        "f": [
+          "empty symbol"
         ]
       },
       {

@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AZBL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:CLI.U",
         "f": [
           "empty symbol"
@@ -19,7 +25,7 @@
         ]
       },
       {
-        "s": "AMEX:HMG",
+        "s": "AMEX:FUE",
         "f": [
           "no longer trading"
         ]
@@ -361,6 +367,12 @@
         ]
       },
       {
+        "s": "NASDAQ:LCYAU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:LFACU",
         "f": [
           "no longer trading"
@@ -481,6 +493,18 @@
         ]
       },
       {
+        "s": "NYSE:MFAC.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:MSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:NGA",
         "f": [
           "empty symbol"
@@ -595,6 +619,12 @@
         ]
       },
       {
+        "s": "OTC:CNSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:CNTRF",
         "f": [
           "no longer trading"
@@ -674,6 +704,12 @@
       },
       {
         "s": "OTC:FNSB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FREGP",
         "f": [
           "no longer trading"
         ]
@@ -841,6 +877,12 @@
         ]
       },
       {
+        "s": "OTC:SILXY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:SOCGM",
         "f": [
           "no longer trading"
@@ -896,6 +938,12 @@
       },
       {
         "s": "OTC:ULNV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:UNTN",
         "f": [
           "no longer trading"
         ]

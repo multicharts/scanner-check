@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "FX_IDC:AEDQAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:ANGUSD",
         "f": [
           "equal bars"
@@ -34,6 +40,12 @@
         "s": "FX_IDC:BGNRSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "FX_IDC:BIFUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -124,7 +136,8 @@
       {
         "s": "FX_IDC:EURCVE",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -188,6 +201,12 @@
         ]
       },
       {
+        "s": "FX_IDC:HKDMOP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:HKDUSD",
         "f": [
           "equal bars"
@@ -242,9 +261,21 @@
         ]
       },
       {
+        "s": "FX_IDC:PHPNZD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:PLNRSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "FX_IDC:PYGUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -348,6 +379,12 @@
         "s": "FX_IDC:USDKYD",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDMRU",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

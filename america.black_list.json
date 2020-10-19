@@ -7,15 +7,21 @@
         ]
       },
       {
-        "s": "AMEX:CRC",
+        "s": "AMEX:CTL",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "AMEX:CTL",
+        "s": "AMEX:DOCT",
         "f": [
-          "no longer trading"
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:FOCT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -49,12 +55,6 @@
         ]
       },
       {
-        "s": "AMEX:PRH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:PTEST.A",
         "f": [
           "empty symbol"
@@ -68,12 +68,6 @@
       },
       {
         "s": "AMEX:SHLL/W",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:THGA",
         "f": [
           "no longer trading"
         ]
@@ -463,6 +457,12 @@
         ]
       },
       {
+        "s": "NASDAQ:LANDO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:LCAP",
         "f": [
           "empty symbol"
@@ -494,6 +494,12 @@
       },
       {
         "s": "NASDAQ:OTRAU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:PAYA",
         "f": [
           "empty symbol"
         ]
@@ -583,7 +589,25 @@
         ]
       },
       {
+        "s": "NYSE:BUR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:IPOD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:IPOY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:IPOZ",
         "f": [
           "empty symbol"
         ]
@@ -712,6 +736,12 @@
         "s": "OTC:ELVG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ESKEF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -932,6 +962,12 @@
       },
       {
         "s": "OTC:QRON",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SEHCF",
         "f": [
           "no longer trading"
         ]

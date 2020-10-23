@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AGN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:CLI.U",
         "f": [
           "empty symbol"
@@ -31,6 +37,12 @@
         ]
       },
       {
+        "s": "AMEX:PIR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:PQLC",
         "f": [
           "no longer trading"
@@ -49,7 +61,25 @@
         ]
       },
       {
+        "s": "AMEX:PYX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:SHLL/W",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:TGE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "AMEX:UTX",
         "f": [
           "no longer trading"
         ]

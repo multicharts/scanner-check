@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:AXSUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BINANCE:HARDUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1873,12 +1885,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:GOTEUR",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -4215,6 +4221,24 @@
         ]
       },
       {
+        "s": "BITTREX:AKNBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:AKNUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:AKNUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CUSDBTC",
         "f": [
           "empty symbol"
@@ -4251,9 +4275,39 @@
         ]
       },
       {
+        "s": "HITBTC:ACDBCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:ACDBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:ARRRBCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HITBTC:BOXEURS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:CCEBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:CCEUSD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -4275,6 +4329,18 @@
         ]
       },
       {
+        "s": "HITBTC:FLEXBCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:GOCBCH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HITBTC:HGTETH",
         "f": [
           "no longer trading"
@@ -4282,6 +4348,24 @@
       },
       {
         "s": "HITBTC:NUTEOS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:RPZXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:RPZXUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:SPICEBTC",
         "f": [
           "no longer trading"
         ]

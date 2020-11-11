@@ -1095,9 +1095,21 @@
         ]
       },
       {
+        "s": "SET:DTCI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:DTCI.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:DTCI.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1598,6 +1610,12 @@
       },
       {
         "s": "SET:INSURE.R",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:INTUCH.F",
         "f": [
           "no longer trading"
         ]
@@ -2877,6 +2895,12 @@
         ]
       },
       {
+        "s": "SET:QH.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:QHHR.F",
         "f": [
           "no longer trading"
@@ -3785,9 +3809,21 @@
         ]
       },
       {
+        "s": "SET:TCOAT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TCOAT.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:TCOAT.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {

@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BIST:COSMO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BIST:DOBUR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BIST:ISATR",
         "f": [
           "no longer trading"
@@ -10,6 +22,12 @@
         "s": "BIST:MEMSA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BIST:MIPAZ",
+        "f": [
+          "empty symbol"
         ]
       },
       {

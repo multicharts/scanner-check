@@ -89,6 +89,12 @@
         ]
       },
       {
+        "s": "SET:AEC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:AF.F",
         "f": [
           "equal bars",
@@ -599,6 +605,12 @@
         ]
       },
       {
+        "s": "SET:BR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:BR.F",
         "f": [
           "no longer trading"
@@ -742,6 +754,7 @@
       {
         "s": "SET:CHG.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -799,6 +812,12 @@
         "s": "SET:CKP.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:CM",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1019,6 +1038,12 @@
         "s": "SET:DHOUSE.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:DHOUSE.R",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1331,6 +1356,12 @@
         ]
       },
       {
+        "s": "SET:GLOBAL.R",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:GLOCON.F",
         "f": [
           "no longer trading"
@@ -1436,7 +1467,14 @@
       {
         "s": "SET:HUMAN.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:HUMAN.R",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1509,6 +1547,7 @@
       {
         "s": "SET:IMH.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1611,6 +1650,7 @@
       {
         "s": "SET:JKN.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1889,6 +1929,12 @@
         ]
       },
       {
+        "s": "SET:LPH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:LPH.F",
         "f": [
           "no longer trading"
@@ -1921,6 +1967,7 @@
       {
         "s": "SET:M.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -2583,6 +2630,12 @@
         ]
       },
       {
+        "s": "SET:PPM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:PPM.F",
         "f": [
           "no longer trading"
@@ -2862,6 +2915,12 @@
         ]
       },
       {
+        "s": "SET:SAAM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:SAAM.F",
         "f": [
           "no longer trading"
@@ -3057,6 +3116,12 @@
         ]
       },
       {
+        "s": "SET:SFP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:SFP.F",
         "f": [
           "equal bars",
@@ -3225,6 +3290,12 @@
         "s": "SET:SMART.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SMIT",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -3401,6 +3472,12 @@
         ]
       },
       {
+        "s": "SET:STC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:STC.F",
         "f": [
           "no longer trading"
@@ -3507,6 +3584,12 @@
         "s": "SET:T.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TACC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -3888,6 +3971,7 @@
       {
         "s": "SET:TPBI.F",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -4283,6 +4367,12 @@
         "s": "SET:WAVE.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:WGE",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

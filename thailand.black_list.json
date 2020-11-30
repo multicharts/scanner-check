@@ -1319,7 +1319,19 @@
         ]
       },
       {
+        "s": "SET:GL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:GL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:GL.R",
         "f": [
           "no longer trading"
         ]
@@ -3045,9 +3057,21 @@
         ]
       },
       {
+        "s": "SET:SFP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:SFP.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SFP.R",
+        "f": [
           "no longer trading"
         ]
       },
@@ -4125,6 +4149,18 @@
       },
       {
         "s": "SET:UNIQ.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:UP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:UP.R",
         "f": [
           "no longer trading"
         ]

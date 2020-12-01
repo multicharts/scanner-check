@@ -9,7 +9,8 @@
       {
         "s": "FX_IDC:ANGUSD",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -20,6 +21,12 @@
       },
       {
         "s": "FX_IDC:BBDUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:BGNEUR",
         "f": [
           "equal bars"
         ]
@@ -261,6 +268,12 @@
         ]
       },
       {
+        "s": "FX_IDC:USDMNT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "FX_IDC:USDPAB",
         "f": [
           "equal bars"
@@ -276,6 +289,12 @@
         "s": "FX_IDC:USDSDG",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDSRD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

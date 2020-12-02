@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:ZILBIDR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ABSUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2844,18 +2838,6 @@
         "s": "BITFINEX:PAXUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:PLUBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:PLUUSD",
-        "f": [
           "empty symbol"
         ]
       },

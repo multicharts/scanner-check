@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "AMEX:AZBA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:AZBL",
         "f": [
           "no longer trading"
@@ -52,6 +58,12 @@
         "s": "AMEX:KMLM",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "AMEX:PHGE.U",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -439,6 +451,12 @@
         ]
       },
       {
+        "s": "NASDAQ:BSMU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:CHPMU",
         "f": [
           "no longer trading"
@@ -559,12 +577,6 @@
         ]
       },
       {
-        "s": "NASDAQ:NGAC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:PDEV",
         "f": [
           "no longer trading"
@@ -649,6 +661,12 @@
         ]
       },
       {
+        "s": "NYSE:MOG.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:MR",
         "f": [
           "no longer trading"
@@ -715,13 +733,13 @@
         ]
       },
       {
-        "s": "OTC:COMS",
+        "s": "OTC:CWPE",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OTC:CWPE",
+        "s": "OTC:DMKBA",
         "f": [
           "no longer trading"
         ]
@@ -746,6 +764,12 @@
       },
       {
         "s": "OTC:EWCLF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FCUV",
         "f": [
           "no longer trading"
         ]
@@ -794,6 +818,12 @@
       },
       {
         "s": "OTC:GJCU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:GLAE",
         "f": [
           "no longer trading"
         ]

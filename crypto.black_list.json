@@ -1,20 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BITFINEX:ABSUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:ABSUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ADABTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -50,20 +36,6 @@
         "s": "BITFINEX:ADAUSTSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:AGIUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:AGIUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
         ]
       },
       {
@@ -320,6 +292,34 @@
       },
       {
         "s": "BITFINEX:AVTUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:B21XUSDLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:B21XUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:B21XUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:B21XUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -796,20 +796,6 @@
         ]
       },
       {
-        "s": "BITFINEX:CNNUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:CNNUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:COMPUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1224,20 +1210,6 @@
         ]
       },
       {
-        "s": "BITFINEX:ELFUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:ELFUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ENJUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -1446,6 +1418,18 @@
         ]
       },
       {
+        "s": "BITFINEX:ETHF0BTCF0LONGS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:ETHF0BTCF0SHORTS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
         "s": "BITFINEX:ETHF0USTF0LONGS",
         "f": [
           "crypto skip longs shorts"
@@ -1602,6 +1586,20 @@
       },
       {
         "s": "BITFINEX:EUTUSDSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:EUTUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -2100,12 +2098,6 @@
         ]
       },
       {
-        "s": "BITFINEX:KANUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:KANUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2204,12 +2196,6 @@
         ]
       },
       {
-        "s": "BITFINEX:LEOEOS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:LEOEOSLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -2221,12 +2207,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:LEOETH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2994,20 +2974,6 @@
         ]
       },
       {
-        "s": "BITFINEX:RDNUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RDNUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:REPBTCLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3148,20 +3114,6 @@
         ]
       },
       {
-        "s": "BITFINEX:RTEUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RTEUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:SANBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -3196,20 +3148,6 @@
         "s": "BITFINEX:SANUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:SEEUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:SEEUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
         ]
       },
       {
@@ -3513,18 +3451,6 @@
         ]
       },
       {
-        "s": "BITFINEX:UOPBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:UOPUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:UOPUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3535,12 +3461,6 @@
         "s": "BITFINEX:UOPUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:UOPUST",
-        "f": [
           "empty symbol"
         ]
       },
@@ -3584,12 +3504,6 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:USKUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -3647,20 +3561,6 @@
         ]
       },
       {
-        "s": "BITFINEX:UTNUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:UTNUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:VEEUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -3697,20 +3597,6 @@
       },
       {
         "s": "BITFINEX:VETUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:VLDUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:VLDUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -4013,6 +3899,20 @@
         ]
       },
       {
+        "s": "BITFINEX:XMRUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:XMRUSTSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITFINEX:XRAUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4048,6 +3948,20 @@
         "s": "BITFINEX:XRPUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:XRPUSTLONGS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:XRPUSTSHORTS",
+        "f": [
+          "crypto skip longs shorts",
+          "empty symbol"
         ]
       },
       {
@@ -4245,30 +4159,6 @@
         ]
       },
       {
-        "s": "BITTREX:BANDEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GNCBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GNCUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GNCUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:LCSBTC",
         "f": [
           "empty symbol"
@@ -4365,24 +4255,6 @@
         ]
       },
       {
-        "s": "BITTREX:YFLBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:YFLETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:YFLEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:YFLUSD",
         "f": [
           "empty symbol"
@@ -4395,97 +4267,13 @@
         ]
       },
       {
-        "s": "COINBASE:AAVEBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:AAVEEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:AAVEGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:AAVEUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:BNTBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:BNTEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:BNTGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:BNTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:SNXBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:SNXEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:SNXGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:SNXUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "GEMINI:ZECBCH",
+        "s": "HITBTC:ACDBCH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:ACDBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:BOXEURS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:DDRDDRST",
+        "s": "HITBTC:DDRTDDRST",
         "f": [
           "no longer trading"
         ]
@@ -4503,13 +4291,19 @@
         ]
       },
       {
-        "s": "HITBTC:NUTEOS",
+        "s": "HITBTC:MTXETH",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "HITBTC:SAIBCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:USGETH",
         "f": [
           "no longer trading"
         ]
@@ -4527,15 +4321,9 @@
         ]
       },
       {
-        "s": "KUCOIN:PLTETH",
+        "s": "KRAKEN:ETH2SETH",
         "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "KUCOIN:PLTUSDT",
-        "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -4546,6 +4334,12 @@
       },
       {
         "s": "OKCOIN:ETHSGD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:SXPTRX",
         "f": [
           "no longer trading"
         ]

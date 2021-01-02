@@ -1183,7 +1183,8 @@
       {
         "s": "BITFINEX:EDOETHLONGS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4295,6 +4296,12 @@
       },
       {
         "s": "HITBTC:ACDBCH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:BSTBTC",
         "f": [
           "no longer trading"
         ]

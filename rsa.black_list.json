@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "JSE:ACS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "JSE:ACZ",
         "f": [
           "no longer trading"
@@ -63,6 +69,7 @@
       {
         "s": "JSE:BSR",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -91,6 +98,12 @@
         ]
       },
       {
+        "s": "JSE:CTOP50",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "JSE:CVW",
         "f": [
           "no longer trading"
@@ -112,6 +125,12 @@
         "s": "JSE:ERN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "JSE:ETO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -268,6 +287,12 @@
         "s": "JSE:NRL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "JSE:NVS",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

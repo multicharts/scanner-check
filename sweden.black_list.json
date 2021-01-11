@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "OMXSTO:ABB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -13,6 +19,12 @@
         ]
       },
       {
+        "s": "OMXSTO:AEGIR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:AFGO",
         "f": [
           "no longer trading"
@@ -22,6 +34,12 @@
         "s": "OMXSTO:AFKO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:AF_B",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -73,6 +91,12 @@
         ]
       },
       {
+        "s": "OMXSTO:ASPIRE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:ASTKO",
         "f": [
           "empty symbol"
@@ -85,6 +109,12 @@
         ]
       },
       {
+        "s": "OMXSTO:AVEN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:AWDRO",
         "f": [
           "no longer trading"
@@ -93,6 +123,7 @@
       {
         "s": "OMXSTO:AXAO",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -103,9 +134,33 @@
         ]
       },
       {
+        "s": "OMXSTO:AZA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:AZTO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:B2HO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BALD_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:BEIJ_B",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -115,15 +170,39 @@
         ]
       },
       {
+        "s": "OMXSTO:BERG_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:BGBIOO",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "OMXSTO:BIM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:BINV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:BMAO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BMAX",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -139,15 +218,57 @@
         ]
       },
       {
+        "s": "OMXSTO:CIBUS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:CLBIO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:CONF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:CONTXO",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "OMXSTO:COOR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:CORE_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:DOME",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:EAMO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:EGTX",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -163,6 +284,12 @@
         ]
       },
       {
+        "s": "OMXSTO:ELOS_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:EMGSO",
         "f": [
           "no longer trading"
@@ -175,9 +302,57 @@
         ]
       },
       {
+        "s": "OMXSTO:EPIS_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:EPI_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:ERIC_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:ETX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:EWRK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:FG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:FJORDO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:FNM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:GCOR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -193,9 +368,51 @@
         ]
       },
       {
+        "s": "OMXSTO:GPG_PREF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:GSFO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:GYLO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HDW_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HEBA_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HEIM_PREF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HEXO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HMS",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -205,9 +422,27 @@
         ]
       },
       {
+        "s": "OMXSTO:HUM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:HUSQ_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:HYARDO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:IMPC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -219,7 +454,14 @@
       {
         "s": "OMXSTO:INSRO",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:INVE_B",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -235,9 +477,27 @@
         ]
       },
       {
+        "s": "OMXSTO:K2A_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:KAMBI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:KCCO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:KIND_SDB",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -259,15 +519,34 @@
         ]
       },
       {
+        "s": "OMXSTO:LUG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:MGNO",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:MOWIO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "OMXSTO:MSEISO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:MSON_A",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -286,6 +565,12 @@
         "s": "OMXSTO:NAVAO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:NEWTON",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -375,13 +660,21 @@
       {
         "s": "OMXSTO:ODFBO",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "OMXSTO:ODFO",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:OEM_B",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -397,6 +690,12 @@
         ]
       },
       {
+        "s": "OMXSTO:ORKO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:OTECO",
         "f": [
           "empty symbol"
@@ -406,6 +705,18 @@
         "s": "OMXSTO:OTSO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:OXE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:PACT",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -469,6 +780,12 @@
         ]
       },
       {
+        "s": "OMXSTO:PROGEN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:PRSO",
         "f": [
           "no longer trading"
@@ -505,6 +822,12 @@
         ]
       },
       {
+        "s": "OMXSTO:S2M",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:SAGAO",
         "f": [
           "no longer trading"
@@ -520,6 +843,18 @@
         "s": "OMXSTO:SBANKO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SBB_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:SBOO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -547,9 +882,27 @@
         ]
       },
       {
+        "s": "OMXSTO:SECARE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:SFTR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:SHLFO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SINCH",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -559,9 +912,33 @@
         ]
       },
       {
+        "s": "OMXSTO:SIVE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:SKF_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:SNIO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SOBI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:SOFFO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -571,8 +948,15 @@
         ]
       },
       {
+        "s": "OMXSTO:SONE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:SSGO",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -589,15 +973,39 @@
         ]
       },
       {
+        "s": "OMXSTO:SVED_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:TECHO",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "OMXSTO:TEL2_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:TIETOO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:TIGO_SDB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:TREL_B",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -610,6 +1018,12 @@
         "s": "OMXSTO:ULTIO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:UPSALE",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -628,6 +1042,18 @@
         "s": "OMXSTO:VVLO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:WBGR_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:WIHL",
+        "f": [
+          "invalid symbol"
         ]
       },
       {

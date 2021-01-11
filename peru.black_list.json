@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BVL:AAPL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:ABX",
         "f": [
           "invalid symbol"
@@ -20,9 +26,14 @@
         ]
       },
       {
+        "s": "BVL:AENZAC1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:AGROKAC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -33,13 +44,13 @@
         ]
       },
       {
-        "s": "BVL:ALICORI1",
+        "s": "BVL:AIHC1",
         "f": [
           "invalid symbol"
         ]
       },
       {
-        "s": "BVL:ALT",
+        "s": "BVL:ALICORI1",
         "f": [
           "invalid symbol"
         ]
@@ -47,7 +58,6 @@
       {
         "s": "BVL:AMERFIC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -60,7 +70,6 @@
       {
         "s": "BVL:ANDAHUC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -110,12 +119,6 @@
         ]
       },
       {
-        "s": "BVL:AUSTRAC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:AVLASGC1",
         "f": [
           "empty symbol"
@@ -124,7 +127,6 @@
       {
         "s": "BVL:AXP",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -141,21 +143,16 @@
         ]
       },
       {
+        "s": "BVL:BAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:BACKUAC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:BACKUBC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "BVL:BACKUSI1",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -168,6 +165,12 @@
         "s": "BVL:BANFALC1",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BVL:BAP",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -185,12 +188,6 @@
       },
       {
         "s": "BVL:BBVA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "BVL:BBVAC1",
         "f": [
           "invalid symbol"
         ]
@@ -224,7 +221,6 @@
       {
         "s": "BVL:BMY",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -249,7 +245,6 @@
       {
         "s": "BVL:BPICHPC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -260,19 +255,13 @@
         ]
       },
       {
-        "s": "BVL:BROCALC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:BROCALI1",
         "f": [
           "invalid symbol"
         ]
       },
       {
-        "s": "BVL:BUENAVC1",
+        "s": "BVL:BSX",
         "f": [
           "invalid symbol"
         ]
@@ -285,15 +274,16 @@
         ]
       },
       {
-        "s": "BVL:BVLAC1",
+        "s": "BVL:BVLBC1",
         "f": [
-          "invalid symbol"
+          "invalid symbol",
+          "no longer trading"
         ]
       },
       {
-        "s": "BVL:BVLBC1",
+        "s": "BVL:BVN",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
@@ -309,12 +299,6 @@
         ]
       },
       {
-        "s": "BVL:CARTAVC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:CASAGRC1",
         "f": [
           "invalid symbol"
@@ -323,6 +307,7 @@
       {
         "s": "BVL:CASTROC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -357,14 +342,12 @@
       {
         "s": "BVL:CAYALTC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:CBU7",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -382,12 +365,6 @@
         ]
       },
       {
-        "s": "BVL:CHUCARC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:CIAREQI1",
         "f": [
           "empty symbol"
@@ -396,6 +373,7 @@
       {
         "s": "BVL:CINEPLC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -434,6 +412,7 @@
       {
         "s": "BVL:COCESUI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -452,19 +431,20 @@
       {
         "s": "BVL:COFIINC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:COLPERC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:COMPFC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -502,6 +482,7 @@
       {
         "s": "BVL:CPACASI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -514,7 +495,6 @@
       {
         "s": "BVL:CRECAPC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -533,13 +513,13 @@
       {
         "s": "BVL:CRETEXC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:CRETEXI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -568,7 +548,7 @@
         ]
       },
       {
-        "s": "BVL:CVS",
+        "s": "BVL:CVERDEC1",
         "f": [
           "invalid symbol"
         ]
@@ -576,6 +556,7 @@
       {
         "s": "BVL:DD",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -605,12 +586,6 @@
         ]
       },
       {
-        "s": "BVL:DNT",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:DOW",
         "f": [
           "invalid symbol",
@@ -626,6 +601,7 @@
       {
         "s": "BVL:DUST",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -682,19 +658,20 @@
       {
         "s": "BVL:EMCR",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:ENDISPC1",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
         "s": "BVL:ENFOSLC1",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:ENGEPEC1",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -738,6 +715,7 @@
       {
         "s": "BVL:EWG",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -756,13 +734,13 @@
       {
         "s": "BVL:EXSAC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:EXSAI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -782,6 +760,7 @@
       {
         "s": "BVL:FCONFIC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -793,7 +772,13 @@
         ]
       },
       {
-        "s": "BVL:FCX",
+        "s": "BVL:FDX",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVL:FERREYC1",
         "f": [
           "invalid symbol"
         ]
@@ -801,6 +786,7 @@
       {
         "s": "BVL:FIBCCAP",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -813,13 +799,8 @@
       {
         "s": "BVL:FICOCMP4",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:FICOCMP6",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -830,28 +811,28 @@
         ]
       },
       {
+        "s": "BVL:FICORPS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:FICORPS2",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:FICORPS3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "BVL:FICORPS4",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
         "s": "BVL:FILAMEI1",
         "f": [
-          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:FILXGLAH",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -883,6 +864,7 @@
       {
         "s": "BVL:FOSSALC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -914,7 +896,6 @@
       {
         "s": "BVL:FUTURAC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -957,6 +938,18 @@
         ]
       },
       {
+        "s": "BVL:GOOG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVL:GOOGL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:GRHOLDC1",
         "f": [
           "invalid symbol",
@@ -976,6 +969,12 @@
         ]
       },
       {
+        "s": "BVL:HBM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:HD",
         "f": [
           "no longer trading"
@@ -991,13 +990,8 @@
       {
         "s": "BVL:HERMESC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:HIDRA2C1",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1011,12 +1005,6 @@
         "f": [
           "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:IBM",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1035,6 +1023,7 @@
       {
         "s": "BVL:IEQSAI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1058,6 +1047,12 @@
         ]
       },
       {
+        "s": "BVL:IIDEI1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:INCRAIC1",
         "f": [
           "empty symbol"
@@ -1078,15 +1073,15 @@
         ]
       },
       {
-        "s": "BVL:INSURC1",
+        "s": "BVL:INRETC1",
         "f": [
-          "empty symbol"
+          "invalid symbol"
         ]
       },
       {
-        "s": "BVL:INTC",
+        "s": "BVL:INSURC1",
         "f": [
-          "invalid symbol"
+          "empty symbol"
         ]
       },
       {
@@ -1103,8 +1098,15 @@
         ]
       },
       {
+        "s": "BVL:INTERBC1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:INTLOTC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1130,7 +1132,6 @@
       {
         "s": "BVL:INVERTC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1161,7 +1162,6 @@
       {
         "s": "BVL:JNJ",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1181,12 +1181,6 @@
         "s": "BVL:KMB",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BVL:KO",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1221,15 +1215,16 @@
         ]
       },
       {
-        "s": "BVL:MA",
+        "s": "BVL:LUSURC1",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
-        "s": "BVL:MAPFREC1",
+        "s": "BVL:MA",
         "f": [
-          "invalid symbol"
+          "invalid symbol",
+          "no longer trading"
         ]
       },
       {
@@ -1253,7 +1248,6 @@
       {
         "s": "BVL:MEPSAI1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1267,14 +1261,20 @@
       {
         "s": "BVL:MICHEI1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:MINCORC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:MINCORI1",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1292,6 +1292,7 @@
       {
         "s": "BVL:MODIANI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1309,9 +1310,20 @@
         ]
       },
       {
+        "s": "BVL:MRK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVL:MRNA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:MS",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1341,6 +1353,12 @@
         ]
       },
       {
+        "s": "BVL:NEXAPEC1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:NEXAPEI1",
         "f": [
           "invalid symbol",
@@ -1363,7 +1381,14 @@
       {
         "s": "BVL:NORVIBC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:NVDA",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1406,7 +1431,6 @@
       {
         "s": "BVL:PERUBAI1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1425,6 +1449,7 @@
       {
         "s": "BVL:PHTBC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1438,6 +1463,18 @@
         "s": "BVL:PIURAI1",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:PODERC1",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVL:POMALCC1",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1474,7 +1511,6 @@
       {
         "s": "BVL:PROFUTC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1487,6 +1523,7 @@
       {
         "s": "BVL:PUCALAC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1528,15 +1565,8 @@
         ]
       },
       {
-        "s": "BVL:QUIMPAC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:QUIMPAI1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1555,18 +1585,18 @@
       {
         "s": "BVL:RECORDI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:REG",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
-        "s": "BVL:RELAPAC1",
+        "s": "BVL:RIMSEGC1",
         "f": [
           "invalid symbol"
         ]
@@ -1581,6 +1611,7 @@
       {
         "s": "BVL:SAGAC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1605,6 +1636,7 @@
       {
         "s": "BVL:SBUX",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1617,7 +1649,6 @@
       {
         "s": "BVL:SCOTIAC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1649,20 +1680,20 @@
       {
         "s": "BVL:SHPC1",
         "f": [
+          "invalid symbol",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:SIDERC1",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
         "s": "BVL:SINTUC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:SMT",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1674,13 +1705,19 @@
       {
         "s": "BVL:SNJACIC1",
         "f": [
-          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:SNJUANC1",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "BVL:SNJUANI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1693,24 +1730,31 @@
       {
         "s": "BVL:SPCCPI1",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:SPCCPI2",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:SWK",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BVL:T",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVL:TEF",
         "f": [
           "invalid symbol"
         ]
@@ -1734,14 +1778,28 @@
         ]
       },
       {
+        "s": "BVL:TGT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVL:TIP5",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:TK",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "BVL:TLT",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1783,12 +1841,6 @@
         ]
       },
       {
-        "s": "BVL:UNITEXC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:UNITEXI1",
         "f": [
           "invalid symbol",
@@ -1796,7 +1848,7 @@
         ]
       },
       {
-        "s": "BVL:UUP",
+        "s": "BVL:V",
         "f": [
           "invalid symbol"
         ]
@@ -1827,12 +1879,6 @@
         ]
       },
       {
-        "s": "BVL:VOLCABC1",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BVL:VZ",
         "f": [
           "invalid symbol",
@@ -1843,12 +1889,6 @@
         "s": "BVL:WMT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BVL:XLE",
-        "f": [
-          "invalid symbol"
         ]
       },
       {

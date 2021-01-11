@@ -1,9 +1,40 @@
 {
     "black_list": [
       {
+        "s": "BVC:AAPL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVC:AGROCHAL",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:BAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:BOGOTA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:CARACOLTV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:CLH",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -15,13 +46,15 @@
       {
         "s": "BVC:CONCIVILES",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
         "s": "BVC:COOMEVAEPS",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -39,7 +72,14 @@
       {
         "s": "BVC:DHCELSIA",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BVC:ELCONDOR",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -49,9 +89,21 @@
         ]
       },
       {
+        "s": "BVC:EXITO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVC:FGNTOLIMA",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "BVC:GE",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -67,9 +119,22 @@
         ]
       },
       {
+        "s": "BVC:MAYAGUEZ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:OCCIDENTE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVC:PFBBVACOL",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       },
       {
@@ -79,15 +144,46 @@
         ]
       },
       {
+        "s": "BVC:PFCEMARGOS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFGRUPSURA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:PFVILLAS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVC:PFVILLAS01",
         "f": [
           "equal bars"
         ]
       },
       {
+        "s": "BVC:RCNTELEVI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BVC:RIOPAILA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BVC:VALINDUSTR",
         "f": [
-          "equal bars"
+          "equal bars",
+          "invalid symbol"
         ]
       }
     ]

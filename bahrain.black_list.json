@@ -1,6 +1,24 @@
 {
     "black_list": [
       {
+        "s": "BAHRAIN:ABC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BAHRAIN:ARIG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BAHRAIN:AUB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BAHRAIN:BANADER",
         "f": [
           "no longer trading"
@@ -9,19 +27,34 @@
       {
         "s": "BAHRAIN:BASREC",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BAHRAIN:BBK",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "BAHRAIN:BFM",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BAHRAIN:BISB",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BAHRAIN:BKIC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -39,7 +72,14 @@
       {
         "s": "BAHRAIN:BNH",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BAHRAIN:CINECO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -51,6 +91,7 @@
       {
         "s": "BAHRAIN:ESTERAD",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -85,6 +126,24 @@
         ]
       },
       {
+        "s": "BAHRAIN:INOVEST",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BAHRAIN:INVCORP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BAHRAIN:ITHMR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BAHRAIN:KLJ.EQ.FUND",
         "f": [
           "empty symbol"
@@ -100,6 +159,12 @@
         "s": "BAHRAIN:MAKASEB.IF",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BAHRAIN:NBB",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -123,6 +188,7 @@
       {
         "s": "BAHRAIN:POLTRY",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -165,18 +231,21 @@
       {
         "s": "BAHRAIN:TAKAFUL",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BAHRAIN:TRAFCO",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
       {
         "s": "BAHRAIN:UGH",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -190,6 +259,12 @@
         "s": "BAHRAIN:UPI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BAHRAIN:ZAINBH",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

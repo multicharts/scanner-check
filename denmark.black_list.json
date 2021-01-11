@@ -1,15 +1,593 @@
 {
     "black_list": [
       {
+        "s": "OMXCOP:ACT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:AGF_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ALK_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ALMB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:AMBU_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:AOJ_P",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ASTGRP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ATLA_DKK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:BAVA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:BLVIS_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:BOLIGA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:BORD_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:CARL_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "OMXCOP:CBM",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXCOP:CBRAIN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:CEMAT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:CHEMM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:CHR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:COLO_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:COLUM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:CONFRZ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:DAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:DANT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:DATA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:DJS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:EAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:EGNETY",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ENALYZ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ERRIA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:FASTPC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:FED",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:FFARMS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:FLS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:FOM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:G4S",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GABR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GERHSP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GJ",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GMAB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GREENM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GYLD_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:GYLD_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:HARB_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:HART",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:HH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:HRC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:HYPE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:JUTBK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:JYSK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:KBHL",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:KLEE_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:KRE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:LEDIBOND",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:LOLB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:LUN",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:LUXOR_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MAERSK_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MATAS",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MDUNDO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MNBA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MONSO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:MTHH",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NDA_DK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NETC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NKT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NLFSK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NORDIC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NORTHM",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NOVO_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NTR_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:NZYM_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ODICO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ORPHA",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:ORSTED",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:PAAL_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:PENNEO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:PSNRDC_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SANI",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SAS_DKK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SCAPE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SCD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SIF",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SKAKO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SLXIT",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SOLAR_B",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SPNO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:STENO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:STG",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:SYDB",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:TIV",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:TOP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:TRMD_A",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:UIE",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:VIPRO",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "OMXCOP:VJBA",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
         "s": "OMXCOP:WATURU",
         "f": [
+          "invalid symbol",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXCOP:WMA",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]

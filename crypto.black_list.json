@@ -2593,7 +2593,8 @@
       {
         "s": "BITFINEX:NEOJPYSHORTS",
         "f": [
-          "crypto skip longs shorts"
+          "crypto skip longs shorts",
+          "no longer trading"
         ]
       },
       {
@@ -4163,6 +4164,12 @@
         ]
       },
       {
+        "s": "BITTREX:FNBBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:LCSBTC",
         "f": [
           "empty symbol"
@@ -4350,6 +4357,12 @@
       },
       {
         "s": "OKCOIN:ETHSGD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:COVERUSDT",
         "f": [
           "no longer trading"
         ]
